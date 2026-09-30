@@ -50,13 +50,17 @@ For each Maps place ↔ GrabFood merchant:
 
 ## 4. Where it breaks (full honesty list)
 
-- Review **counts**: SOLVED via Places API (`GetPlace`, `searchText`, `searchNearby`) —
-  262/401 (65%) obtained before per-day quota exhausted. Scripts: `enrich_places_api.py`,
+- Review **counts**: SOLVED via Google Places API (`GetPlace`, `searchText`, `searchNearby`)
+  — 262/401 (65%) obtained before per-day quota exhausted. Scripts: `enrich_places_api.py`,
   `enrich_nearby.py` (searchNearby quota is separate from GetPlace — used as fallback).
   Re-run after daily quota reset to reach ~413.
-- Review **dates (first/oldest)**: Places API `reviews` field needs the Enterprise SKU —
-  our key gets PERMISSION_DENIED. Limited-view payloads don't include them either.
-  Unblocked by: Enterprise/SKU-upgraded key, or residential-IP full browser session.
+- Review **dates (first/oldest)**: SOLVED for the 60 lowest-review-count places via
+  SerpApi `google_maps_reviews` engine (`sort_by=newestFirst`, paginate ≤5 pages;
+  last review of the last page = oldest). 57/60 yielded dates (they match the
+  "few reviews + old first review" target profile). Free-plan quota (250/month) was
+  exhausted exactly at target #60 — remaining places flagged in `data_notes`, not faked.
+  Script: `serpapi_oldest.py` (key via `SERPAPI_KEY` env var). Google Places API `reviews`
+  field was tried first but requires the Enterprise SKU (PERMISSION_DENIED on a standard key).
 - GrabFood API: 401 chain (above) + flaky proxy (~17% request failure rate).
 - Google Search fallback: CAPTCHA after moderate volume.
 - Field `data_notes` in the CSV marks exactly which cells are empty and why. **No value
