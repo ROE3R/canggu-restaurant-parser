@@ -50,9 +50,13 @@ For each Maps place ↔ GrabFood merchant:
 
 ## 4. Where it breaks (full honesty list)
 
-- Review **counts** and **oldest review dates**: unavailable in limited-view payloads;
-  `listugcposts` RPC returns 400 (bad pb) / 403 (session). Options to unblock: full
-  browser session with residential IP + consent cookies, or Google Places API (paid).
+- Review **counts**: SOLVED via Places API (`GetPlace`, `searchText`, `searchNearby`) —
+  262/401 (65%) obtained before per-day quota exhausted. Scripts: `enrich_places_api.py`,
+  `enrich_nearby.py` (searchNearby quota is separate from GetPlace — used as fallback).
+  Re-run after daily quota reset to reach ~413.
+- Review **dates (first/oldest)**: Places API `reviews` field needs the Enterprise SKU —
+  our key gets PERMISSION_DENIED. Limited-view payloads don't include them either.
+  Unblocked by: Enterprise/SKU-upgraded key, or residential-IP full browser session.
 - GrabFood API: 401 chain (above) + flaky proxy (~17% request failure rate).
 - Google Search fallback: CAPTCHA after moderate volume.
 - Field `data_notes` in the CSV marks exactly which cells are empty and why. **No value
