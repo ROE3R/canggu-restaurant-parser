@@ -21,7 +21,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "KHAO Canggu",
@@ -45,7 +45,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "SILK RESTAURANT Canggu",
@@ -54,7 +54,7 @@
     "rating_google": 4.9,
     "review_count_google": 469,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-30T05:12:01.601Z",
     "categories": "Restaurant",
     "address": "84WQ+Q5F, Jl. Subak Canggu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.653062499999999,
@@ -69,7 +69,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Alchemy Canggu",
@@ -93,7 +93,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Felice Canggu",
@@ -141,7 +141,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Beach Boy Canggu",
@@ -165,7 +165,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Paed Thai Restaurant Canggu by Wonderspace",
@@ -189,7 +189,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Ele Restaurant, Bar and Terrace",
@@ -213,7 +213,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Casa Tua Canggu",
@@ -237,7 +237,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Mularasa Canggu",
@@ -285,7 +285,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Twin Tide Eatery",
@@ -309,7 +309,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Ketela Eatery & Lifestyle",
@@ -333,7 +333,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Rice Republic Canggu",
@@ -357,7 +357,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "12 Kitchen and Wine / Restaurant & Wine bar Canggu",
@@ -381,7 +381,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Dolan Restaurant & Park",
@@ -405,7 +405,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "La Baracca",
@@ -429,7 +429,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Xich Lo Canggu",
@@ -453,7 +453,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Lulu Bistrot French Restaurant Cocktail Bar Canggu",
@@ -477,7 +477,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Papa Lee's Taiwan noodle & Dumplings | Batu Bolong Branch",
@@ -501,7 +501,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Zai cafe",
@@ -525,7 +525,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Bottega Italiana Batu Bolong",
@@ -549,7 +549,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Cocomo Canggu",
@@ -573,7 +573,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Dian Cafe",
@@ -606,7 +606,7 @@
     "rating_google": 4.6,
     "review_count_google": 396,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-22T06:57:52.661Z",
     "categories": "Singaporean restaurant",
     "address": "Jl. Pantai Batu Bolong No.9a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.640955,
@@ -621,7 +621,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Chow Chow Bali",
@@ -645,7 +645,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "TYGR SUSHI & RAMEN (CANGGU)",
@@ -669,7 +669,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Sa'Mesa Canggu",
@@ -693,7 +693,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Warung Local",
@@ -717,7 +717,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "The Avocado Factory",
@@ -741,7 +741,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Moana Fish Eatery",
@@ -765,7 +765,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "MIEL SPECIALTY COFFEE CANGGU | CO-WORKING",
@@ -789,7 +789,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Kawisari Coffee Farm Shop & Eatery Bali",
@@ -813,7 +813,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Milk & Madu Beach Road",
@@ -837,7 +837,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "OTIUM CAFE",
@@ -909,7 +909,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Black Eye Coffee - Batu Bolong, Canggu",
@@ -957,7 +957,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Tabo Cafe Canggu",
@@ -1005,7 +1005,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Monsieur Spoon Canggu",
@@ -1029,7 +1029,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Canggu BIM coffee & brunch",
@@ -1077,7 +1077,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "VIDA Healthy Organic Restaurant Canggu",
@@ -1101,7 +1101,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Mango Mango Canggu - Dessert & matcha cafe",
@@ -1221,7 +1221,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "MILU By Nook",
@@ -1245,7 +1245,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Vore Canggu",
@@ -1254,7 +1254,7 @@
     "rating_google": 4.9,
     "review_count_google": 474,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-30T15:17:43.738Z",
     "categories": "Bar & grill",
     "address": "Jl. Pantai Berawa No.34, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.6555609,
@@ -1269,7 +1269,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Sababa",
@@ -1293,7 +1293,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Berawa's Kitchen",
@@ -1317,7 +1317,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Kometosake Berawa",
@@ -1365,7 +1365,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Mata Berawa",
@@ -1413,7 +1413,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "LUSA Bistro",
@@ -1437,7 +1437,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Kenji Ramen & Izakaya Berawa",
@@ -1461,7 +1461,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Bottega Italiana Berawa",
@@ -1485,7 +1485,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Ulekan Berawa",
@@ -1509,7 +1509,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Riviera Bistro | Berawa",
@@ -1533,7 +1533,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "One Eyed Jack",
@@ -1557,7 +1557,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Neighbourhood Food",
@@ -1581,7 +1581,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Made's Warung Berawa",
@@ -1605,7 +1605,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Island Wok Berawa",
@@ -1629,7 +1629,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Revolver Canggu",
@@ -1653,7 +1653,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Archive Coffee • Parkcafe",
@@ -1701,7 +1701,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Copenhagen CAFE Berawa",
@@ -1725,7 +1725,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Wonder Coffee Berawa",
@@ -1821,7 +1821,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "NOURISH CAFE",
@@ -1845,7 +1845,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Hopper Coffee",
@@ -1854,7 +1854,7 @@
     "rating_google": 4.9,
     "review_count_google": 359,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-23T03:03:01.734Z",
     "categories": "Coffee shop",
     "address": "Jalan Pantai Berawa, Gang Batan Kepuh No.2, Tandeg, Canggu, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.646130699999999,
@@ -1869,7 +1869,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Bokashi Berawa",
@@ -1893,7 +1893,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Tabebuya Coffee",
@@ -1989,7 +1989,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Varuna Warung",
@@ -2013,7 +2013,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Warung Bu Mi",
@@ -2037,7 +2037,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Warung Sika",
@@ -2061,7 +2061,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Warung Jawa Bu Sri",
@@ -2109,7 +2109,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "RICE WARUNG YASA's",
@@ -2133,7 +2133,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "WARUNG LA BE'NE",
@@ -2142,7 +2142,7 @@
     "rating_google": 4.9,
     "review_count_google": 452,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-29T05:39:32.295Z",
     "categories": "Restaurant",
     "address": "Jl. Pantai Batu Bolong No.27, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.638437999999999,
@@ -2157,7 +2157,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Waroeng Sushi Canggu",
@@ -2205,7 +2205,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Warung Jawa Bu Eka",
@@ -2253,7 +2253,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Warung Sari Bunga Canggu",
@@ -2301,7 +2301,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Warteg 24 Hour",
@@ -2373,7 +2373,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Warung Ulhus",
@@ -2382,7 +2382,7 @@
     "rating_google": 5,
     "review_count_google": 399,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-19T07:27:10.955Z",
     "categories": "Restaurant",
     "address": "Jl. Raya Canggu No.165, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.6392962,
@@ -2397,7 +2397,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Times Beach Warung",
@@ -2421,7 +2421,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Fuji Sushi Canggu",
@@ -2445,7 +2445,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Little Tokyo Sushi Canggu",
@@ -2493,7 +2493,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Sky Fusion Sushi",
@@ -2526,7 +2526,7 @@
     "rating_google": 4.6,
     "review_count_google": 362,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-29T08:27:55.233Z",
     "categories": "Japanese restaurant; Asian fusion restaurant; Bar; Sushi restaurant",
     "address": "Jl. Tanah Barak No.19, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.649536,
@@ -2541,7 +2541,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Kenji Ramen & Izakaya Padang Linjong",
@@ -2565,7 +2565,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "IKI Izakaya by Margaret",
@@ -2613,7 +2613,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Pure Sushi Bali",
@@ -2685,7 +2685,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Billy Ho Japanese Restaurant",
@@ -2709,7 +2709,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Shichirin Japanese Restaurant Canggu by Wonderspace",
@@ -2733,7 +2733,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Mykaza Bali",
@@ -2781,7 +2781,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Konbu Sushi Bali",
@@ -2877,7 +2877,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Il Forno Pizzeria, Canggu ( Dine-in )",
@@ -2925,7 +2925,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Louie's New York Pizza Canggu | NYC Style Pizza Restaurant",
@@ -2934,7 +2934,7 @@
     "rating_google": 4.8,
     "review_count_google": 350,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-29T15:05:23.688Z",
     "categories": "Pizza restaurant; Pizza delivery; Pizza takeaway",
     "address": "Jl. Pantai Batu Bolong No.30b, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.6496631,
@@ -2949,7 +2949,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "L'Osteria Pizza e Cucina Canggu",
@@ -2973,7 +2973,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Dodo Pizza",
@@ -2997,7 +2997,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "CANGGU STREET PIZZA BATUBOLONG",
@@ -3045,7 +3045,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Vittorio pizza canggu",
@@ -3078,7 +3078,7 @@
     "rating_google": 4.9,
     "review_count_google": 413,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-29T13:57:31.020Z",
     "categories": "Pizza restaurant; Pizza delivery; Pizza takeaway",
     "address": "Jl. Raya Canggu No.12, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.6421419,
@@ -3093,7 +3093,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Tony's New York Pizza Canggu",
@@ -3117,7 +3117,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Cantina Bali Canggu",
@@ -3141,7 +3141,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Pizza Canggu",
@@ -3261,7 +3261,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Lasera Bakery",
@@ -3318,7 +3318,7 @@
     "rating_google": 4.8,
     "review_count_google": 359,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-30T11:54:21.127Z",
     "categories": "Bakery; Breakfast restaurant; Cake shop; Coffee shop; Wholesale bakery",
     "address": "Jl. Pantai Batu Mejan No.15A, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.6417932,
@@ -3333,7 +3333,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Bread Basket Bakery - Canggu Bali",
@@ -3342,7 +3342,7 @@
     "rating_google": 4.6,
     "review_count_google": 450,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-30T06:00:53.448Z",
     "categories": "Bakery",
     "address": "Jl. Tanah Barak No.8, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.6504997,
@@ -3357,7 +3357,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Oka's Bakery & Cafe | Gluten Free Birthday Cake & Bread Canggu",
@@ -3381,7 +3381,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Maha Matcha x Kudopan Bakes",
@@ -3477,7 +3477,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Copenhagen BAKERY Pererenan",
@@ -3486,7 +3486,7 @@
     "rating_google": 4.6,
     "review_count_google": 469,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-27T02:18:08.365Z",
     "categories": "Coffee shop",
     "address": "Jl. Raya Tiyingtutul No.6, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
     "latitude": -8.6341468,
@@ -3501,7 +3501,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "MUUSE Cheesecake & Bakery",
@@ -3510,7 +3510,7 @@
     "rating_google": 4.3,
     "review_count_google": 365,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-24T05:49:53.708Z",
     "categories": "Bakery; Dessert restaurant",
     "address": "Jl. Sempol Gg. Jl. Damai No.4, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
     "latitude": -8.6372375,
@@ -3525,7 +3525,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Milk and Honey Bakery",
@@ -3573,7 +3573,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Buongiorno by Sa'Mesa",
@@ -3645,7 +3645,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Batter Club",
@@ -3693,7 +3693,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "The Bench Sports Bar Canggu",
@@ -3717,7 +3717,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Canggu Sunset Club",
@@ -3765,7 +3765,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Old Man's",
@@ -3789,7 +3789,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "The Shady Pig",
@@ -3813,7 +3813,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "The Lawn Canggu Beach Club",
@@ -3837,7 +3837,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Manhattan Cocktail Bar & Kitchen",
@@ -3861,7 +3861,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Little Havana Bali - Shot Bar & Cocktails",
@@ -3885,7 +3885,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "XBR Canggu",
@@ -3933,7 +3933,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Tap Club Canggu",
@@ -4005,7 +4005,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Baliwood",
@@ -4053,7 +4053,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Alternative Beach",
@@ -4077,7 +4077,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Motel Mexicola | Canggu",
@@ -4101,7 +4101,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "SUGI.CANGGU",
@@ -4110,7 +4110,7 @@
     "rating_google": 4.9,
     "review_count_google": 470,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-28T09:36:50.119Z",
     "categories": "Coffee shop; Coffee store",
     "address": "banjar, Jl. Canggu Padang Linjong No.2a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.6405063,
@@ -4125,7 +4125,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Brunchy’s",
@@ -4173,7 +4173,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Rise & Shine Cafe Canggu",
@@ -4197,7 +4197,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Barboa Bali",
@@ -4221,7 +4221,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Wisteria Brunch Canggu",
@@ -4269,7 +4269,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Crate Cafe",
@@ -4293,7 +4293,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "PARS Cafe Bali | Coffee Shop | Breakfast | Cafe Canggu",
@@ -4341,7 +4341,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Copenhagen CAFE Canggu",
@@ -4365,7 +4365,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Lucky Plaza",
@@ -4413,7 +4413,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "WOODS PERERENAN",
@@ -4437,7 +4437,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Brunch Club Pererenan",
@@ -4461,7 +4461,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Day by Day Coffee & Eatery",
@@ -4494,7 +4494,7 @@
     "rating_google": 4.4,
     "review_count_google": 426,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-29T04:11:57.482Z",
     "categories": "Restaurant; Health food restaurant",
     "address": "Jl. Pantai Pererenan No.79, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80531",
     "latitude": -8.640536299999999,
@@ -4509,7 +4509,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Genius Bistro",
@@ -4518,7 +4518,7 @@
     "rating_google": 4.9,
     "review_count_google": 389,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-27T13:25:54.317Z",
     "categories": "Bistro",
     "address": "Jl. Sempol, Pererenan, Canggu, Kabupaten Badung, Bali 80351",
     "latitude": -8.6407904,
@@ -4533,7 +4533,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "WOHL CAFE",
@@ -4566,7 +4566,7 @@
     "rating_google": 4.7,
     "review_count_google": 419,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-27T12:51:29.112Z",
     "categories": "Italian restaurant; Bar; Cocktail bar; Pizza restaurant; Restaurant; Wine bar",
     "address": "Jl. Pantai Pererenan No.134, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
     "latitude": -8.647653799999999,
@@ -4581,7 +4581,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "K&A Grill",
@@ -4605,7 +4605,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "nüde cafe Pererenan",
@@ -4629,7 +4629,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Boheme Canggu",
@@ -4638,7 +4638,7 @@
     "rating_google": 4.6,
     "review_count_google": 347,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-16T09:49:35.786Z",
     "categories": "Restaurant",
     "address": "Jl. Pantai Pererenan No.159, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali",
     "latitude": -8.6502163,
@@ -4653,7 +4653,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Chinatown Express Pererenan",
@@ -4725,7 +4725,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "WEI TO GO Pererenan Dining Room",
@@ -4758,7 +4758,7 @@
     "rating_google": 4.7,
     "review_count_google": 431,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-27T05:57:09.714Z",
     "categories": "Restaurant",
     "address": "Jl. Pantai Pererenan No.92, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80361",
     "latitude": -8.6440231,
@@ -4773,7 +4773,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "OPTIMIST BALI",
@@ -4797,7 +4797,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Bull's Coffee Atelier",
@@ -4869,7 +4869,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Belle's All Day Cafe",
@@ -4974,7 +4974,7 @@
     "rating_google": 4.8,
     "review_count_google": 373,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-27T04:46:18.863Z",
     "categories": "Coffee shop",
     "address": "Jl. Sempol No.58, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
     "latitude": -8.636133599999999,
@@ -4989,7 +4989,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "TaTa Pererenan",
@@ -5109,7 +5109,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "CATong Laksa",
@@ -5277,7 +5277,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Fortuna Resto",
@@ -5286,7 +5286,7 @@
     "rating_google": 4.9,
     "review_count_google": 384,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-10T08:42:39.010Z",
     "categories": "Brunch restaurant; Restaurant; Western restaurant",
     "address": "Jl. Pantai Batu Mejan No.85, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.646996,
@@ -5301,7 +5301,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Ayam Tulang Lunak Warcar ( Canggu. Padonan )",
@@ -5397,7 +5397,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Warung Ganda Sari",
@@ -5430,7 +5430,7 @@
     "rating_google": 4.9,
     "review_count_google": 396,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-19T11:04:47.068Z",
     "categories": "Chinese restaurant",
     "address": "Jl. Raya Canggu No.100, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80361",
     "latitude": -8.6329886,
@@ -5445,7 +5445,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "BURN&BONE",
@@ -5757,7 +5757,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Cinta Pererenan",
@@ -5781,7 +5781,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Born To Be - Cafe",
@@ -5814,7 +5814,7 @@
     "rating_google": 4.7,
     "review_count_google": 369,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-20T12:34:57.005Z",
     "categories": "Indonesian restaurant",
     "address": "Jl. Canggu Padang Linjong No.80A, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.646697699999999,
@@ -5829,7 +5829,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "LowCal, Cheatery and Bar",
@@ -5853,7 +5853,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Feel Food Cafe",
@@ -5877,7 +5877,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Penny Lane",
@@ -5901,7 +5901,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Smoke Bali",
@@ -5925,7 +5925,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Nostimo Greek Grill Canggu",
@@ -5949,7 +5949,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "MASONRY. Restaurant Canggu",
@@ -5973,7 +5973,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "BARE Grill Restaurant",
@@ -6021,7 +6021,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "SIA - Grill & Seafood Bar",
@@ -6045,7 +6045,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Han Sang Korean BBQ & SUKI - Canggu,Bali",
@@ -6069,7 +6069,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "San Yook - Modern Korean BBQ",
@@ -6093,7 +6093,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Seoul BBQ",
@@ -6189,7 +6189,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "The Blaze Restaurant",
@@ -6222,7 +6222,7 @@
     "rating_google": 4.7,
     "review_count_google": 463,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-30T02:37:20.616Z",
     "categories": "Restaurant; Bar",
     "address": "meter west of pura segara, Jl. Nelayan Jl raya Nelayan Beach No.1 (20, Canggu, Kuta Utara, Badung Regency, Bali 80361",
     "latitude": -8.6612681,
@@ -6237,7 +6237,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Nico's Smokehouse",
@@ -6261,7 +6261,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "VEGEMATE BALI by RICE WARUNG",
@@ -6309,7 +6309,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Shady Shack",
@@ -6333,7 +6333,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "OMA JAMU VEGAN",
@@ -6342,7 +6342,7 @@
     "rating_google": 4.6,
     "review_count_google": 492,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-22T03:24:56.071Z",
     "categories": "Vegan restaurant; Coffee shop",
     "address": "945V+Q92, Canggu, Kuta Utara, Badung Regency, Bali 80351",
     "latitude": -8.6405998,
@@ -6357,7 +6357,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Kasto Italian Restaurant",
@@ -6381,7 +6381,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Seoul Soul Project",
@@ -6405,7 +6405,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Roots",
@@ -6429,7 +6429,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "KYND COMMUNITY CANGGU",
@@ -6453,7 +6453,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Alkaline Vegan Restaurant",
@@ -6477,7 +6477,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Plant Theory - The Vegan Restaurant",
@@ -6549,7 +6549,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "MUNAY CONCEPT STORE CANGGU",
@@ -6597,7 +6597,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Chef Ibu - Authentic Indonesian Comfort Food",
@@ -6630,7 +6630,7 @@
     "rating_google": 4.8,
     "review_count_google": 430,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-26T13:30:06.850Z",
     "categories": "Indonesian restaurant",
     "address": "Canggu Beach •, Jl. Pantai Batu Bolong, •, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali",
     "latitude": -8.6584337,
@@ -6645,7 +6645,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Pali",
@@ -6669,7 +6669,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "MR.LU CANGGU",
@@ -6702,7 +6702,7 @@
     "rating_google": 4.9,
     "review_count_google": 411,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-26T03:13:20.062Z",
     "categories": "Italian restaurant; Caterer; Restaurant",
     "address": "Jl. Canggu Padang Linjong No.55a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.6453487,
@@ -6717,7 +6717,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Numero Quattro Echo Beach",
@@ -6741,7 +6741,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Della Terra",
@@ -6813,7 +6813,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Fucina Pizzeria Cucina Italiana",
@@ -6837,7 +6837,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Anita's",
@@ -6861,7 +6861,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Margaret Bistro",
@@ -6885,7 +6885,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "De Morelos Mexicana",
@@ -6909,7 +6909,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Lola’s Cantina Mexicana - Canggu",
@@ -6933,7 +6933,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Lupine - Mexican Bistro",
@@ -6981,7 +6981,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Taco Casa",
@@ -7005,7 +7005,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Don Juan Mexican Restaurant and Bar - Pererenan",
@@ -7053,7 +7053,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Taco Madre",
@@ -7086,7 +7086,7 @@
     "rating_google": 4.7,
     "review_count_google": 433,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-04T13:55:42.894Z",
     "categories": "Mexican restaurant; Breakfast restaurant; Brunch restaurant; Burrito restaurant; Fast food restaurant; Lunch restaurant; Restaurant; Taco restaurant",
     "address": "Teratai The Promenade Shop, Jl. Kayu Tulang No.S15, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.6437396,
@@ -7101,7 +7101,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Jalapeno",
@@ -7125,7 +7125,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "De Morelos Mexicana - SESEH",
@@ -7173,7 +7173,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "VIVA BURRITOS&FISH TACOS FRESH MEXICAN FOOD",
@@ -7245,7 +7245,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Taco Kitchen Pererenan",
@@ -7293,7 +7293,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "TYM SEA FOOD CANGGU - Supplier and Restaurant",
@@ -7317,7 +7317,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Lazy Lobster Bali",
@@ -7365,7 +7365,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Bird's Nest Thai Kitchen Canggu ( เบริดเน็ตไทยคิตเช่น จางกู )",
@@ -7374,7 +7374,7 @@
     "rating_google": 4.8,
     "review_count_google": 414,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-30T22:38:07.476Z",
     "categories": "Restaurant",
     "address": "Jl. Sempol No.58, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
     "latitude": -8.6360686,
@@ -7389,7 +7389,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Gente Seafood Restaurant",
@@ -7413,7 +7413,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Chicken seafood gatzoe",
@@ -7461,7 +7461,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Miss Fish Bali",
@@ -7485,7 +7485,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Alpha Agro Indonesia - Premium Butchery & Steak Restaurant",
@@ -7557,7 +7557,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Entrecôte Brasserie Canggu",
@@ -7629,7 +7629,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Boy'N'Cow",
@@ -7653,7 +7653,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "The Butchers Club Steakhouse",
@@ -7677,7 +7677,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Uma Garden Bali",
@@ -7701,7 +7701,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Steak nelayan n Bali coffee",
@@ -7845,7 +7845,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Mustache Coffee Bali",
@@ -7902,7 +7902,7 @@
     "rating_google": 4.9,
     "review_count_google": 386,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-30T03:55:38.367Z",
     "categories": "Coffee shop",
     "address": "Jl. Nelayan No.1, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.6522556,
@@ -7917,7 +7917,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "HANAKA COFFEE CANGGU",
@@ -8046,7 +8046,7 @@
     "rating_google": 4.6,
     "review_count_google": 496,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-27T01:18:15.787Z",
     "categories": "Organic food store; Delivery service; Grocery delivery service; Health food store; Natural goods store; Vitamin & supplements store",
     "address": "Jl. Canggu Padang Linjong No.14a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.641886999999999,
@@ -8061,7 +8061,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Bali Tropical Juice Bar",
@@ -8277,7 +8277,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "nüde cafe Babakan",
@@ -8301,7 +8301,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "bandeja restaurant bali",
@@ -8349,7 +8349,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Fine by SATUSATUCOFFEE",
@@ -8373,7 +8373,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "KITCH Protein Smoothies Matcha Healthy Desserts",
@@ -8430,7 +8430,7 @@
     "rating_google": 4.8,
     "review_count_google": 362,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-15T09:39:54.424Z",
     "categories": "Restaurant",
     "address": "Jln Subak Uma Desa Dangin no, Jl. Raya Babakan Canggu No.1, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.6281711,
@@ -8445,7 +8445,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "MALICE CAFÉ",
@@ -8493,7 +8493,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "OPENHOUSE KITCHEN | BABAKAN",
@@ -8565,7 +8565,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Canggu Mango Sticky Rice",
@@ -8637,7 +8637,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "WASIA Thai & Vietnamese Restaurant Canggu",
@@ -8670,7 +8670,7 @@
     "rating_google": 4.6,
     "review_count_google": 390,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-30T09:37:02.589Z",
     "categories": "Thai restaurant",
     "address": "Jl. Pantai Pererenan No.16, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
     "latitude": -8.6336924,
@@ -8685,7 +8685,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Anaga Restaurant, Authentic Thai Cuisine",
@@ -8709,7 +8709,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Thaiphoon",
@@ -8742,7 +8742,7 @@
     "rating_google": 4.7,
     "review_count_google": 378,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-29T12:47:13.573Z",
     "categories": "Thai restaurant; Indonesian restaurant",
     "address": "Jl. Canggu Permai Gg. Nuri II, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.648928399999999,
@@ -8757,7 +8757,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Flavours of BAN",
@@ -8766,7 +8766,7 @@
     "rating_google": 4.8,
     "review_count_google": 395,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-28T01:28:06.673Z",
     "categories": "Thai restaurant",
     "address": "942X+459, Jl. Karang Suwung, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Tibubeneng, Kec. Kuta Utara, Bali, 80361",
     "latitude": -8.6498064,
@@ -8781,7 +8781,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Thai Kitchen by Madam Dall",
@@ -8853,7 +8853,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Mad Ronin Canggu",
@@ -8862,7 +8862,7 @@
     "rating_google": 4.4,
     "review_count_google": 422,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-29T13:30:44.418Z",
     "categories": "Ramen restaurant",
     "address": "Jl. Pantai Batu Bolong, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
     "latitude": -8.6433027,
@@ -8877,7 +8877,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Tema Doma",
@@ -8925,7 +8925,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Nana Sans Tandoori Indian Restaurant Canggu",
@@ -8934,7 +8934,7 @@
     "rating_google": 4.7,
     "review_count_google": 457,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-27T12:22:24.875Z",
     "categories": "Indian restaurant; Indian sizzler restaurant; Indian takeaway; Modern Indian restaurant",
     "address": "Jl. Raya Canggu, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.6413098,
@@ -8949,7 +8949,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Jashn – Indian Grill & Bar by Mumbai Spice",
@@ -8958,7 +8958,7 @@
     "rating_google": 4.4,
     "review_count_google": 361,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-30T14:33:56.910Z",
     "categories": "Indian restaurant; Halal restaurant; Non vegetarian restaurant; North Indian restaurant; Vegetarian restaurant",
     "address": "Jl. Raya Semat no. 8, Tibubeneng, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
     "latitude": -8.6565704,
@@ -8973,7 +8973,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "BALISTAN Indian Restaurant",
@@ -9069,7 +9069,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Indian Curry Centre (Canggu)",
@@ -9141,7 +9141,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Roti Canai Street Kitchen",
@@ -9165,7 +9165,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Monsoon Restaurant",
@@ -9189,7 +9189,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Red Gunpowder",
@@ -9213,7 +9213,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Jay India Bali",
@@ -9222,7 +9222,7 @@
     "rating_google": 4.4,
     "review_count_google": 487,
     "oldest_review_date": "",
-    "newest_review_date": "",
+    "newest_review_date": "2026-09-28T14:53:18.572Z",
     "categories": "Indian restaurant",
     "address": "Jl. Sahadewa I, Munggu, Kec. Mengwi, Kabupaten Badung, Bali 80351",
     "latitude": -8.6252081,
@@ -9237,7 +9237,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Chai Stop Bali",
@@ -9285,7 +9285,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Baliberry Açaí, Chocolate Crepes & Waffles in Canggu",
@@ -9357,7 +9357,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Protisserie - Protein Dessert",
@@ -9405,7 +9405,7 @@
     "gofood_url": "",
     "grabfood_url": "",
     "match_confidence": "",
-    "data_notes": "oldest_review unavailable (SerpApi quota; sort oldest unsupported)"
+    "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)"
   },
   {
     "name": "Chim chim cafe",

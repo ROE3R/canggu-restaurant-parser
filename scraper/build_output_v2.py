@@ -90,8 +90,9 @@ for p in resto:
         if "truncated" in st:
             notes.append("oldest_review approximate (pagination cut by SerpApi quota)")
     else:
-        oldest = newest = ""
-        notes.append("oldest_review unavailable (SerpApi quota; sort oldest unsupported)")
+        newest = rd.get("newest_review", "") or ""
+        oldest = ""
+        notes.append("oldest_review unavailable (no API quota; sort oldest unsupported)")
     rows.append({
         "name": p.get("name"),
         "google_maps_url": f"https://www.google.com/maps/place/?q=place_id:{p.get('pid')}",
