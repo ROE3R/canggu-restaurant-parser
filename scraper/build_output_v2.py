@@ -4,10 +4,12 @@ import json, csv, os, re
 
 SRC_ENRICHED = "/home/agentuser/.hermes/cache/scratch/places_enriched.json"
 REVIEW_DATES = "/home/agentuser/.hermes/cache/scratch/review_dates.json"
+WEB_CONTACTS = "/home/agentuser/.hermes/cache/scratch/website_contacts.json"
 OUTDIR = "/home/agentuser/canggu-restaurant-parser/output"
 
 places = json.load(open(SRC_ENRICHED))
 rdates = json.load(open(REVIEW_DATES)) if os.path.exists(REVIEW_DATES) else {}
+wcontacts = json.load(open(WEB_CONTACTS)) if os.path.exists(WEB_CONTACTS) else {}
 
 def is_restaurant(p):
     cats = " ".join(p.get("cats") or []).lower()
@@ -19,6 +21,39 @@ def is_restaurant(p):
     if any(b in name and "restaurant" not in name and "cafe" not in name for b in bad):
         return False
     return True
+
+def clean_phone(p):
+    """Extract a single clean phone from the raw Maps phone structure.
+    Structure: [display, [[variants]...], None, digits, None, [tel:, ...], ...]
+    Priority: phone_api (API-verified) > first string variant > digits-only entry.
+    """
+    if p.get("phone_api"):
+        return p["phone_api"]
+    ph = p.get("phone")
+    if isinstance(ph, str):
+        return ph
+    if not isinstance(ph, list):
+        return ""
+    # collect string candidates
+    def walk(x):
+        out = []
+        if isinstance(x, str):
+            out.append(x)
+        elif isinstance(x, list):
+            for i in x:
+                out.extend(walk(i))
+        return out
+    cands = [s for s in walk(ph)
+             if s and not s.startswith("tel:")
+             and not re.match(r'^[0-9a-f]{20,}$', s, re.I)
+             and re.search(r'\d{6,}', s.replace(" ", "").replace("-", ""))]
+    if not cands:
+        return ""
+    # prefer the formatted display number (has dashes/spaces or +62)
+    for s in cands:
+        if s.startswith("+62") or "-" in s:
+            return s
+    return cands[0]
 
 def extract_contacts(p):
     """Pull instagram + email from website field and any embedded strings."""
@@ -33,7 +68,15 @@ resto = [p for p in places if is_restaurant(p)]
 rows = []
 for p in resto:
     rd = rdates.get(p.get("pid"), {})
+    wc = wcontacts.get(p.get("pid"), {})
     ig, em = extract_contacts(p)
+    # merge website-derived contacts (lowercase-dedupe)
+    web_emails = wc.get("emails") or []
+    web_ig = [f"instagram.com/{h}" for h in (wc.get("instagram") or [])]
+    em_all = ";".join(dict.fromkeys([e for e in ([em] if em else []) + web_emails if e]))
+    ig_all = ";".join(dict.fromkeys([i for i in ([ig] if ig else []) + web_ig if i]))
+    fb = ";".join(f"facebook.com/{h}" for h in (wc.get("facebook") or []))
+    tt = ";".join(f"tiktok.com/@{h}" for h in (wc.get("tiktok") or []))
     rc = p.get("review_count")
     notes = []
     if rc is None:
@@ -56,10 +99,12 @@ for p in resto:
         "address": p.get("addr"),
         "latitude": p.get("lat"),
         "longitude": p.get("lng"),
-        "phone": p.get("phone") or p.get("phone_api") or "",
+        "phone": clean_phone(p),
         "website": p.get("website") or p.get("website_api") or "",
-        "instagram": ig,
-        "email": em,
+        "instagram": ig_all,
+        "email": em_all,
+        "facebook": fb,
+        "tiktok": tt,
         "gofood_url": "",  # skipped per agreement
         "grabfood_url": "",  # CloudFront blocks guest API from all proxy exit IPs tested
         "match_confidence": "",
