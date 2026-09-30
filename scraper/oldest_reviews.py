@@ -6,7 +6,7 @@ import json, os, re, sys, time
 from concurrent.futures import ThreadPoolExecutor
 from playwright.sync_api import sync_playwright
 
-PROXY = {"server": "http://proxy.hypeproxy.site:1012", "username": "user9", "password": os.environ.get("PX_PASS", "pWNm5MVEM70W")}
+PROXY = {"server": "http://proxy.hypeproxy.site:1012", "username": os.environ.get("PX_USER", "user9"), "password": os.environ.get("PX_PASS", "")}
 IN_FILE = "/home/agentuser/.hermes/cache/scratch/places_enriched.json"
 OUT_FILE = "/home/agentuser/.hermes/cache/scratch/review_dates.json"
 WORKERS = 5
