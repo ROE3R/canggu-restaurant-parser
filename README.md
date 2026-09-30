@@ -1,63 +1,67 @@
 # Canggu Restaurant Lead Parser
 
-B2B lead-collection tool: restaurants in **Canggu, Bali** from **Google Maps** (complete),
-**GrabFood** (in progress — see Status), matched across platforms with confidence scores.
+B2B lead-collection tool: **401 restaurants in Canggu, Bali** from **Google Maps**,
+enriched with activity signals (review counts, review dates, ads badge) and contacts
+(phone/WA/IG/email/website/FB/TikTok) for cold-outreach targeting.
 
-## Status (honest)
+GoFood was skipped per agreement; GrabFood was blocked at the CloudFront/token layer
+(documented in `docs/METHODOLOGY.md`) — both are honestly empty columns rather than faked.
 
-| Source | Status | Coverage |
+## Dataset (output/canggu_restaurants.csv / .json — one row per restaurant)
+
+| Field | Coverage | Source |
 |---|---|---|
-| Google Maps | ✅ **Working** | 401 restaurants, 100% rating/category/address, 90% phone, 71% website, **65% review count** (Google Places API) |
-| GrabFood | ⚠️ Blocked from this infra | Guest-token flow built; API returns 401 (CloudFront + token chain) |
-| GoFood | ⏭️ Skipped per agreement | — |
+| name, google_maps_url, google_place_id | 100% | Maps internal search API |
+| categories / cuisine, address, lat/lng | 100% | Maps internal API |
+| rating_google | 100% | Maps internal API |
+| review_count_google | **100%** | Google Places API (GetPlace/searchText/searchNearby) + SerpApi |
+| oldest_review_date | 176/401 (43%), 99 fully confirmed | SerpApi + OpenWebNinja reviews APIs |
+| newest_review_date | 215/401 (53%) | same |
+| ads_google | 3 advertisers (snapshot) | DOM sweep of 29 Maps search queries |
+| phone | 360 (90%) | Maps + listings |
+| whatsapp | 352 (88%) | derived from phone (62-prefix format; derivation, not per-number verified) |
+| website | 284 (70%) | Maps + listings |
+| instagram | 212 (52%) | Maps + listings + website crawl |
+| email | 97 (24%) | website crawl (contact/about pages) |
+| facebook / tiktok | 87 / 58 | website crawl |
+| gofood_url / grabfood_url / match_confidence | 0% | platform blocked / out of scope — see honesty note |
+| data_notes | per-row | what is missing and why |
 
-## What works
+## Repo layout
 
-- **Maps internal JSON API** (`/search?tbm=map` with `pb` viewport params) — queried by
-  sub-area × category grid (30 queries) → dedup by `place_id` → 401 unique restaurants.
-- **Per-place full record** (`/maps/preview/place` pb from place-page HTML) — gives rating,
-  phone, website, hours, categories. Verified against known values.
-- **Ads badge (Maps):** "Sponsored" flag visible in search feed DOM (e.g. Nico's Smokehouse).
-
-## What does NOT work (documented, not faked)
-
-- **Oldest-review dates** — Google serves a *limited view* from datacenter IPs (no consent /
-  fingerprint signals). Review lists are not in the limited-view payload; `listugcposts` RPC
-  rejects with 400/403. Review **counts** WERE obtained where quota allowed, via the
-  Places API (`GetPlace` + `searchNearby`, separate quotas) — see `scraper/enrich_places_api.py`
-  and `scraper/enrich_nearby.py`.
-- **GrabFood** — not pursued further (CloudFront blocks the datacenter/rotating-proxy exits
-  intermittently; ~1 in 6 requests fail). Guest token obtained via `/proxy/authnv4/login`,
-  but the follow-up `guest/v2/search` still 401s.
-
-## Layout
-
-- `scraper/grabfood_scraper.py` — Playwright-based GrabFood client (in-page guest login
-  → fetch search API with captured token). Requires the SOCKS shim.
-- `scraper/socks_shim.py` — local SOCKS5 shim: unauth local listener → authenticated
-  upstream proxy (Chromium can't do SOCKS auth natively). Run on port 1080.
-- `scraper/build_output.py` — builds final CSV/JSON, filters non-restaurants,
-  leaves unverifiable fields **empty** (never invented).
-- `output/canggu_restaurants.csv` / `.json` — final dataset.
-- `docs/METHODOLOGY.md` — matching design, blocking notes, field sources.
+- `scraper/maps_places_scraper.py` — Maps discovery via internal `/search?tbm=map` JSON API (Playwright, in-page fetch)
+- `scraper/enrich_places_api.py` — review counts via Places API (GetPlace / searchText), env `GOOGLE_KEY`
+- `scraper/enrich_nearby.py` — review counts via Places API `searchNearby` (separate quota), env `GOOGLE_KEY`
+- `scraper/serpapi_oldest.py` / `serpapi_oldest_p3.py` / `serpapi_phase2.py` — review dates via SerpApi, env `SERPAPI_KEY`, resumable
+- `scraper/own_sweep.py` — review dates via OpenWebNinja API, env `OWN_KEY`, resumable
+- `scraper/website_contacts.py` — crawls each restaurant website for emails + social links
+- `scraper/ads_sweep.py` — ads badge via DOM "Sponsored" detection on search feeds
+- `scraper/build_output_v2.py` — merges all sources into the final CSV/JSON (honest empty fields + data_notes)
+- `docs/METHODOLOGY.md` — one-page note: blocking, matching design, ads, first-review-date, break points
 
 ## Run
 
 ```bash
-uv venv .venv && uv pip install --python .venv/bin/python playwright requests pysocks
+uv venv .venv && uv pip install --python .venv/bin/python playwright requests
 .venv/bin/python -m playwright install chromium
 
-# 1. start proxy shim (edit upstream creds inside)
-python scraper/socks_shim.py 1080 &
-
-# 2. GrabFood (optional; currently blocked upstream)
-python scraper/grabfood_scraper.py
-
-# 3. rebuild output
-python scraper/build_output.py
+# enrich review counts (Google Places key)
+GOOGLE_KEY=... python scraper/enrich_places_api.py
+# review dates (SerpApi / OpenWebNinja keys)
+SERPAPI_KEY=... python scraper/serpapi_oldest.py
+OWN_KEY=... python scraper/own_sweep.py
+# contacts from websites
+python scraper/website_contacts.py
+# ads badge
+python scraper/ads_sweep.py
+# build final
+python scraper/build_output_v2.py
 ```
 
-## Data caveats
+All credentials come from environment variables — nothing is hardcoded.
 
-Every row has `data_notes` explaining exactly which fields could not be collected and why.
-Nothing is estimated or synthesized.
+## Honesty statement
+
+Every field that could not be obtained is **empty with a reason in `data_notes`** — nothing is
+invented. Blocked items: GoFood (Akamai 403), GrabFood (CloudFront 403 + token chain dead-end),
+oldest dates beyond API quotas, ads beyond the snapshot sweep. See `docs/METHODOLOGY.md`.

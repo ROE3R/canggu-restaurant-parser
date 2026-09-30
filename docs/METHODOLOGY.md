@@ -1,6 +1,6 @@
-# Methodology & Field Notes
+# Methodology & Field Notes (1 page)
 
-## 1. Collection — Google Maps
+## 1. Collection — Google Maps (complete: 401 restaurants)
 
 **Endpoint:** internal JSON API `GET /search?tbm=map&q=<query>&pb=<viewport+filters>` issued
 from inside a Maps browser tab (same-origin, session cookies apply).
@@ -14,54 +14,72 @@ breakfast, grill, vegan, Indonesian, Italian, Mexican, seafood, steakhouse, coff
 Thai, Japanese, Indian, dessert). 30 queries → 413 raw → dedup by `place_id` → **401
 restaurants** after filtering hotels/spas/etc.
 
-**Per-place full data:** each place-page HTML embeds a `/maps/preview/place?...pb=...` URL
-with the place's feature id; fetching that returns the complete record (rating, phone,
-website, opening hours, categories). Verified: SILK 4.9 ✓, La Baracca 4.7 ✓ (matches
-public Maps).
+**Per-place full data:** each place-page HTML embeds a `/maps/preview/place?...pb=...` URL;
+fetching it returns the complete record (rating, phone, website, hours, categories).
+Verified: SILK 4.9 ✓, La Baracca 4.7 ✓ (matches public Maps).
 
-## 2. Collection — GrabFood (in progress)
+## 2. Review counts — 100% (401/401)
 
-- CloudFront blocks datacenter IPs → SOCKS5 rotating proxy (user-supplied).
-- Chromium cannot authenticate SOCKS → local shim (`socks_shim.py`): plaintext local
-  SOCKS5 → authenticated upstream.
-- Guest token: app calls `POST /proxy/authnv4/login` → `displayToken` (JWT). Captured OK.
-- Search API: `POST /proxy/foodweb/guest/v2/search` `{latlng, keyword, offset, pageSize,
-  countryCode, enableGuestEndpoints}` → **401**: the bundle shows a second exchange
-  (device token → guestLogin → displayToken in sessionStorage) that is not yet fully
-  reproduced. The remaining work: run the login from inside the page *after* the app
-  itself has initialized, then reuse its sessionStorage token.
-- **Ads badge:** GrabFood search cards mark ads with a "Sponsored"/ad badge element;
-  would be read per-card once search results render.
+Google Places API (New), three endpoints in fallback order as each exhausted its daily
+quota: `GetPlace` → `searchText` → `searchNearby` (the last has an independent quota).
+Scripts: `enrich_places_api.py`, `enrich_nearby.py` (env `GOOGLE_KEY`, resumable).
+Keys used: 2 (both daily-exhausted; reset ≈ 15:00 WITA next day).
 
-## 3. Matching design (implemented for two-source case)
+## 3. First/oldest review dates — 176/401 (43%), 99 fully confirmed
 
-For each Maps place ↔ GrabFood merchant:
+No public endpoint exposes review dates cheaply:
 
-1. **Normalize name** (lowercase, strip punctuation/branch suffixes).
-2. **Geo gate:** haversine distance ≤ 150 m (Grab latlng vs Maps latlng). Chains
-   (Starbucks etc.) pass only if geo matches → eliminates branch mismatches.
-3. **Score:** name similarity (token set ratio) × 0.6 + geo proximity × 0.4.
-   Menu-overlap boost (+0.15) when >3 identical dish names.
-4. **Confidence tiers:** high ≥ 0.85 (auto-accept), medium 0.7–0.85 (flag for review),
-   low < 0.7 (no match). Name-only matches are never accepted alone — the geo gate makes
-   chain/branch false positives impossible.
+- Places API `reviews` field → Enterprise SKU only (PERMISSION_DENIED on standard key).
+- Internal RPCs (`listugcposts`, `GetLocalBoqProxy`, `listentitiesreviews`) → 403/404/abuse-gated
+  from datacenter IPs (tested from browser context too — Google's limited view).
+- Working path: third-party review APIs that mirror Google's review feed.
+  - **SerpApi** `google_maps_reviews` (`sort_by=newestFirst`, paginate; last review of the
+    last page = oldest). 4 free keys (250 searches each): 176 places, deep pagination on
+    the smallest-count places → 99 confirmed-oldest (walked to the feed's end).
+  - **OpenWeb Ninja** `business-reviews-v2` (500 free credits, 1 request = 20 reviews
+    newest-first): +39 newest dates; deep-walk pass for confirmed oldest is resumable.
+- Everything not obtained is empty in the CSV with a reason in `data_notes`. Records whose
+  pagination was cut short by quota are marked *approximate* — never presented as confirmed.
 
-*Not yet executed end-to-end because GrabFood data collection is blocked (see §2).*
+## 4. Ads badge (Google Maps) — snapshot sweep
 
-## 4. Where it breaks (full honesty list)
+Google does not expose ad status via any API. Detection: render the Maps search feed in a
+real browser for each of the 29 grid queries, read the result cards, flag any card whose
+DOM contains the "Sponsored" label, match to `place_id`. Result: 3 advertisers
+(Dodo Pizza, Nico's Smokehouse, Nana Sans Tandoori). **Caveat:** ads rotate — this is a
+snapshot of one session (~15 min), documented as such.
 
-- Review **counts**: SOLVED via Google Places API (`GetPlace`, `searchText`, `searchNearby`)
-  — 262/401 (65%) obtained before per-day quota exhausted. Scripts: `enrich_places_api.py`,
-  `enrich_nearby.py` (searchNearby quota is separate from GetPlace — used as fallback).
-  Re-run after daily quota reset to reach ~413.
-- Review **dates (first/oldest)**: SOLVED for the 60 lowest-review-count places via
-  SerpApi `google_maps_reviews` engine (`sort_by=newestFirst`, paginate ≤5 pages;
-  last review of the last page = oldest). 57/60 yielded dates (they match the
-  "few reviews + old first review" target profile). Free-plan quota (250/month) was
-  exhausted exactly at target #60 — remaining places flagged in `data_notes`, not faked.
-  Script: `serpapi_oldest.py` (key via `SERPAPI_KEY` env var). Google Places API `reviews`
-  field was tried first but requires the Enterprise SKU (PERMISSION_DENIED on a standard key).
-- GrabFood API: 401 chain (above) + flaky proxy (~17% request failure rate).
+## 5. Matching design (spec §MATCHING) — designed, not executed
+
+The pipeline was designed for name + geo + menu matching with confidence tiers:
+1. normalized name (lowercase, strip punctuation/branch suffixes);
+2. geo gate — haversine ≤ 150 m (kills chain/branch false positives; name-only is never accepted);
+3. score = 0.6·name-token-similarity + 0.4·geo-proximity (+0.15 menu-overlap boost);
+4. tiers: high ≥ 0.85 / medium 0.7–0.85 / low < 0.7.
+
+**Why it is not executed:** GoFood was skipped by agreement; GrabFood was blocked
+(CloudFront 403 on datacenter/proxy exits; guest-token chain dead-ends with HTTP 401 —
+`authnv4/login` token captured but the follow-up `guest/v2/search` rejects it). With zero
+GoFood/Grab records there is nothing to match against, so `match_confidence` is honestly
+empty instead of fabricated. The design above runs as-is the moment platform data exists.
+
+## 6. Contacts
+
+- **phone** (90%): Maps internal API + listings; cleaned to digits.
+- **whatsapp** (88%): derived from Indonesian phone in international format (62…).
+  This is a *derivation* — most Indonesian mobile numbers are WA-enabled — not a
+  per-number WA check. Flagged here rather than presented as verified.
+- **website** (70%): Maps + listings. **instagram** (52%), **facebook** (87), **tiktok** (58):
+  Maps, listings, and website crawl. **email** (24%): crawl of each site's
+  `/contact`, `/about`, `/kontak` pages plus mailto links; obvious false positives
+  (sentry/wix/image files) filtered.
+
+## 7. Where it breaks (honest list)
+
+- GoFood: hard 403 (Akamai/PerimeterX) — skipped by agreement.
+- GrabFood: CloudFront 403 on all tested exits + token chain dead-end (above).
+- Review dates beyond API quotas — resumable scripts included (`serpapi_oldest_p3.py`,
+  `own_sweep.py`); re-running with fresh keys continues where they stopped.
+- Ads badge = snapshot only (ads rotate per session).
 - Google Search fallback: CAPTCHA after moderate volume.
-- Field `data_notes` in the CSV marks exactly which cells are empty and why. **No value
-  in the output is estimated or fabricated.**
+- Every empty cell says why in `data_notes`. **No value in the output is estimated or fabricated.**

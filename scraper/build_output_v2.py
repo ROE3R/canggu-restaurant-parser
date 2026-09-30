@@ -57,6 +57,20 @@ def clean_phone(p):
             return s
     return cands[0]
 
+def wa_number(phone):
+    """Derive international WA format from Indonesian local number.
+    Honest: derivation, not verified per-number (flagged in methodology)."""
+    if not phone:
+        return ""
+    digits = "".join(ch for ch in phone if ch.isdigit())
+    if digits.startswith("62"):
+        return digits
+    if digits.startswith("0"):
+        return "62" + digits[1:]
+    if digits.startswith("8"):
+        return "62" + digits
+    return digits
+
 def extract_contacts(p):
     """Pull instagram + email from website field and any embedded strings."""
     blob = json.dumps(p, ensure_ascii=False)
@@ -111,6 +125,7 @@ for p in resto:
         "email": em_all,
         "facebook": fb,
         "ads_google": "yes" if p.get("pid") in ads_map else "",
+        "whatsapp": wa_number(clean_phone(p)),
         "tiktok": tt,
         "gofood_url": "",  # skipped per agreement
         "grabfood_url": "",  # CloudFront blocks guest API from all proxy exit IPs tested
