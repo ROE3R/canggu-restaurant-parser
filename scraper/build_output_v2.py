@@ -10,6 +10,8 @@ OUTDIR = "/home/agentuser/canggu-restaurant-parser/output"
 places = json.load(open(SRC_ENRICHED))
 rdates = json.load(open(REVIEW_DATES)) if os.path.exists(REVIEW_DATES) else {}
 wcontacts = json.load(open(WEB_CONTACTS)) if os.path.exists(WEB_CONTACTS) else {}
+ADS = "/home/agentuser/.hermes/cache/scratch/ads_by_name.json"
+ads_map = json.load(open(ADS)) if os.path.exists(ADS) else {}
 
 def is_restaurant(p):
     cats = " ".join(p.get("cats") or []).lower()
@@ -107,6 +109,7 @@ for p in resto:
         "instagram": ig_all,
         "email": em_all,
         "facebook": fb,
+        "ads_google": "yes" if p.get("pid") in ads_map else "",
         "tiktok": tt,
         "gofood_url": "",  # skipped per agreement
         "grabfood_url": "",  # CloudFront blocks guest API from all proxy exit IPs tested
