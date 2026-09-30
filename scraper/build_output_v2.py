@@ -81,9 +81,12 @@ for p in resto:
     notes = []
     if rc is None:
         notes.append("review_count unavailable (API quota/403)")
-    if rd.get("status") == "ok":
+    st = (rd.get("status") or "")
+    if rd.get("oldest_review"):
         oldest = rd.get("oldest_review", "")
         newest = rd.get("newest_review", "")
+        if "truncated" in st:
+            notes.append("oldest_review approximate (pagination cut by SerpApi quota)")
     else:
         oldest = newest = ""
         notes.append("oldest_review unavailable (SerpApi quota; sort oldest unsupported)")
