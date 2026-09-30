@@ -3,9 +3,11 @@
 import json, csv, os, re
 
 SRC_ENRICHED = "/home/agentuser/.hermes/cache/scratch/places_enriched.json"
+REVIEW_DATES = "/home/agentuser/.hermes/cache/scratch/review_dates.json"
 OUTDIR = "/home/agentuser/canggu-restaurant-parser/output"
 
 places = json.load(open(SRC_ENRICHED))
+rdates = json.load(open(REVIEW_DATES)) if os.path.exists(REVIEW_DATES) else {}
 
 def is_restaurant(p):
     cats = " ".join(p.get("cats") or []).lower()
@@ -30,18 +32,26 @@ def extract_contacts(p):
 resto = [p for p in places if is_restaurant(p)]
 rows = []
 for p in resto:
+    rd = rdates.get(p.get("pid"), {})
     ig, em = extract_contacts(p)
     rc = p.get("review_count")
     notes = []
     if rc is None:
         notes.append("review_count unavailable (API quota/403)")
+    if rd.get("status") == "ok":
+        oldest = rd.get("oldest_review", "")
+        newest = rd.get("newest_review", "")
+    else:
+        oldest = newest = ""
+        notes.append("oldest_review unavailable (SerpApi quota; sort oldest unsupported)")
     rows.append({
         "name": p.get("name"),
         "google_maps_url": f"https://www.google.com/maps/place/?q=place_id:{p.get('pid')}",
         "google_place_id": p.get("pid"),
         "rating_google": p.get("rating"),
         "review_count_google": rc if rc is not None else "",
-        "oldest_review_date": "",  # requires Enterprise Places SKU / full review list
+        "oldest_review_date": oldest,
+        "newest_review_date": newest,
         "categories": "; ".join(p.get("cats") or []),
         "address": p.get("addr"),
         "latitude": p.get("lat"),
