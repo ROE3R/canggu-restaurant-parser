@@ -29,7 +29,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "44"
  },
  {
   "name": "KHAO Canggu",
@@ -61,7 +62,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "SILK RESTAURANT Canggu",
@@ -93,7 +95,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "4.5",
-  "gofood_votes": "269"
+  "gofood_votes": "269",
+  "owner_reply_count": "58"
  },
  {
   "name": "Alchemy Canggu",
@@ -125,7 +128,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "4.8",
-  "gofood_votes": "1430"
+  "gofood_votes": "1430",
+  "owner_reply_count": "49"
  },
  {
   "name": "Felice Canggu",
@@ -157,7 +161,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "35"
  },
  {
   "name": "Cantina Classe Italian Restaurant Canggu by Wonderspace",
@@ -189,7 +194,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "4.6",
-  "gofood_votes": "1729"
+  "gofood_votes": "1729",
+  "owner_reply_count": "47"
  },
  {
   "name": "Beach Boy Canggu",
@@ -203,7 +209,7 @@
   "address": "Jl. Munduk Catu No.8, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6533015",
   "longitude": "115.1306365",
-  "phone": "0813-3734-9771",
+  "phone": "0813-3734-9771; +6281337349771",
   "website": "https://www.beachboycanggu.com/",
   "instagram": "instagram.com/beachboycanggu",
   "email": "beachboycanggu@gmail.com",
@@ -221,7 +227,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.7",
-  "gofood_votes": "1202"
+  "gofood_votes": "1202",
+  "owner_reply_count": "45",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Paed Thai Restaurant Canggu by Wonderspace",
@@ -253,7 +261,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "39"
  },
  {
   "name": "Ele Restaurant, Bar and Terrace",
@@ -267,7 +276,7 @@
   "address": "Jl. Pantai Batu Bolong No.12, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6472847",
   "longitude": "115.14009259999999",
-  "phone": "0823-4006-4601",
+  "phone": "0823-4006-4601; +6282340064601",
   "website": "http://ele.restaurant/",
   "instagram": "",
   "email": "",
@@ -285,7 +294,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "51",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Casa Tua Canggu",
@@ -317,7 +328,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Mularasa Canggu",
@@ -349,7 +361,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "54"
  },
  {
   "name": "Te'amo",
@@ -381,7 +394,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "4.5",
-  "gofood_votes": "688"
+  "gofood_votes": "688",
+  "owner_reply_count": "39"
  },
  {
   "name": "Twin Tide Eatery",
@@ -413,7 +427,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Ketela Eatery & Lifestyle",
@@ -445,7 +460,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "55"
  },
  {
   "name": "Rice Republic Canggu",
@@ -477,7 +493,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "29"
  },
  {
   "name": "12 Kitchen and Wine / Restaurant & Wine bar Canggu",
@@ -509,7 +526,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.7",
-  "gofood_votes": "294"
+  "gofood_votes": "294",
+  "owner_reply_count": "56"
  },
  {
   "name": "Dolan Restaurant & Park",
@@ -523,7 +541,7 @@
   "address": "Jl. Pura Dalem No.1, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6586815",
   "longitude": "115.1299646",
-  "phone": "0878-6320-1532",
+  "phone": "0878-6320-1532; +6287863201532",
   "website": "https://www.dolancanggu.com/",
   "instagram": "instagram.com/dolancanggu",
   "email": "dolancanggu@gmail.com",
@@ -541,7 +559,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "27",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "La Baracca",
@@ -573,7 +593,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Xich Lo Canggu",
@@ -605,7 +626,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "52"
  },
  {
   "name": "Lulu Bistrot French Restaurant Cocktail Bar Canggu",
@@ -621,7 +643,7 @@
   "longitude": "115.132667",
   "phone": "0813-3792-0869",
   "website": "https://www.lulubistrot.com/",
-  "instagram": "instagram.com/lulu.bistrot",
+  "instagram": "instagram.com/lulu.bistrot; @lulu.bistrot",
   "email": "contact@lulubistrot.com",
   "facebook": "facebook.com/2008",
   "ads_google": "",
@@ -637,7 +659,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "54",
+  "contacts_review_text": "0e/0p/1ig"
  },
  {
   "name": "Papa Lee's Taiwan noodle & Dumplings | Batu Bolong Branch",
@@ -669,7 +693,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "47"
  },
  {
   "name": "Zai cafe",
@@ -701,7 +726,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "8"
  },
  {
   "name": "Bottega Italiana Batu Bolong",
@@ -733,7 +759,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "50"
  },
  {
   "name": "Cocomo Canggu",
@@ -765,7 +792,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Dian Cafe",
@@ -797,7 +825,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Shuang Xi Bali",
@@ -813,7 +842,7 @@
   "longitude": "115.14280579999999",
   "phone": "0895-3833-39568",
   "website": "",
-  "instagram": "",
+  "instagram": "@shuangxi.bali",
   "email": "",
   "facebook": "",
   "ads_google": "",
@@ -829,7 +858,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "17",
+  "contacts_review_text": "0e/0p/1ig"
  },
  {
   "name": "Chow Chow Bali",
@@ -845,8 +876,8 @@
   "longitude": "115.1318266",
   "phone": "0817-6065-633",
   "website": "http://chowchowbali.com/",
-  "instagram": "instagram.com/chowchowbali",
-  "email": "",
+  "instagram": "instagram.com/chowchowbali; @linglingbali; @sushimibali; @takumibali",
+  "email": "balichowchow@gmail.com; info@chowchowbali.com",
   "facebook": "facebook.com/2008;facebook.com/balichowchow",
   "ads_google": "",
   "whatsapp": "628176065633",
@@ -861,7 +892,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58",
+  "contacts_review_text": "2e/0p/3ig"
  },
  {
   "name": "TYGR SUSHI & RAMEN (CANGGU)",
@@ -893,7 +926,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59"
  },
  {
   "name": "Sa'Mesa Canggu",
@@ -925,7 +959,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.4",
-  "gofood_votes": "244"
+  "gofood_votes": "244",
+  "owner_reply_count": "55"
  },
  {
   "name": "Warung Local",
@@ -957,7 +992,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.8",
-  "gofood_votes": "1430"
+  "gofood_votes": "1430",
+  "owner_reply_count": "8"
  },
  {
   "name": "The Avocado Factory",
@@ -989,7 +1025,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "4.4",
-  "gofood_votes": "995"
+  "gofood_votes": "995",
+  "owner_reply_count": "45"
  },
  {
   "name": "Moana Fish Eatery",
@@ -1021,7 +1058,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "MIEL SPECIALTY COFFEE CANGGU | CO-WORKING",
@@ -1053,7 +1091,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58"
  },
  {
   "name": "Kawisari Coffee Farm Shop & Eatery Bali",
@@ -1085,7 +1124,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Milk & Madu Beach Road",
@@ -1117,7 +1157,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.7",
-  "gofood_votes": "1202"
+  "gofood_votes": "1202",
+  "owner_reply_count": "59"
  },
  {
   "name": "OTIUM CAFE",
@@ -1149,7 +1190,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "42"
  },
  {
   "name": "Batu Bolong Beach Cafe",
@@ -1181,7 +1223,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Blou Cafe Canggu",
@@ -1213,7 +1256,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "26"
  },
  {
   "name": "Black Eye Coffee - Batu Bolong, Canggu",
@@ -1227,9 +1271,9 @@
   "address": "Jl. Pantai Batu Bolong, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": "-8.6512311",
   "longitude": "115.13477929999999",
-  "phone": "",
+  "phone": "+628113984999",
   "website": "",
-  "instagram": "",
+  "instagram": "@roxana.iamandi",
   "email": "",
   "facebook": "",
   "ads_google": "",
@@ -1245,7 +1289,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "25",
+  "contacts_review_text": "0e/1p/1ig"
  },
  {
   "name": "Gigi Susu",
@@ -1259,7 +1305,7 @@
   "address": "Jl. Pantai Batu Bolong No.80, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": "-8.653819499999999",
   "longitude": "115.1322276",
-  "phone": "0822-1121-2099",
+  "phone": "0822-1121-2099; +6282211212099",
   "website": "https://www.instagram.com/gigisusubakery",
   "instagram": "instagram.com/gigisusubakery",
   "email": "",
@@ -1277,7 +1323,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "33",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Tabo Cafe Canggu",
@@ -1309,7 +1357,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Blacklist Coffee Roasters",
@@ -1341,7 +1390,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Monsieur Spoon Canggu",
@@ -1357,7 +1407,7 @@
   "longitude": "115.1342217",
   "phone": "0819-1707-2020",
   "website": "https://www.champ-group.com/en/monsieur-spoon-en/",
-  "instagram": "instagram.com/bmkbasomalangkarapitan;instagram.com/chopstix.id",
+  "instagram": "instagram.com/bmkbasomalangkarapitan;instagram.com/chopstix.id; @2130; @monsieurspoon",
   "email": "Suarapelanggan@champ-group.com",
   "facebook": "",
   "ads_google": "",
@@ -1373,7 +1423,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "29",
+  "contacts_review_text": "1e/0p/2ig"
  },
  {
   "name": "Canggu BIM coffee & brunch",
@@ -1389,7 +1441,7 @@
   "longitude": "115.1333744",
   "phone": "0812-4644-1788",
   "website": "",
-  "instagram": "",
+  "instagram": "@dwinindra; @jemima; @nova; @yana",
   "email": "",
   "facebook": "",
   "ads_google": "",
@@ -1405,7 +1457,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60",
+  "contacts_review_text": "0e/0p/4ig"
  },
  {
   "name": "The Common",
@@ -1419,7 +1473,7 @@
   "address": "Jl. Pantai Batu Bolong No.65, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": "-8.6506717",
   "longitude": "115.1357117",
-  "phone": "0812-4654-2013",
+  "phone": "0812-4654-2013; +6281239293001",
   "website": "https://thecommonbali.com/",
   "instagram": "instagram.com/thecommonbali",
   "email": "",
@@ -1437,7 +1491,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "VIDA Healthy Organic Restaurant Canggu",
@@ -1469,7 +1525,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "47"
  },
  {
   "name": "Mango Mango Canggu - Dessert & matcha cafe",
@@ -1501,7 +1558,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "23"
  },
  {
   "name": "Kongkow Café Canggu",
@@ -1517,7 +1575,7 @@
   "longitude": "115.14092009999999",
   "phone": "",
   "website": "https://kongkowcoffee.carrd.co/",
-  "instagram": "",
+  "instagram": "@kongkowcafe.bali",
   "email": "",
   "facebook": "",
   "ads_google": "",
@@ -1533,7 +1591,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "41",
+  "contacts_review_text": "0e/0p/1ig"
  },
  {
   "name": "Fortunata Coffee & Eatery",
@@ -1565,7 +1625,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Watercress Berawa",
@@ -1581,7 +1642,7 @@
   "longitude": "115.1449021",
   "phone": "0819-9630-5752",
   "website": "https://www.watercressbali.com/watercress-ubud?utm_source=google&utm_medium=organic&utm_campaign=gbp_watercress_berawa",
-  "instagram": "",
+  "instagram": "@ulekanbali; @watercressbali",
   "email": "",
   "facebook": "",
   "ads_google": "",
@@ -1597,7 +1658,9 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "4",
-  "gofood_votes": "2284"
+  "gofood_votes": "2284",
+  "owner_reply_count": "60",
+  "contacts_review_text": "0e/0p/2ig"
  },
  {
   "name": "nüde cafe Berawa",
@@ -1614,7 +1677,7 @@
   "phone": "0852-3821-4003",
   "website": "https://nude-bali.com/locations/berawa",
   "instagram": "instagram.com/nudebali",
-  "email": "",
+  "email": "hello@nudeincanggu.com",
   "facebook": "facebook.com/2008",
   "ads_google": "",
   "whatsapp": "6285238214003",
@@ -1629,7 +1692,9 @@
   "matched_on": "",
   "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)",
   "gofood_rating": "4.7",
-  "gofood_votes": "294"
+  "gofood_votes": "294",
+  "owner_reply_count": "26",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "MILU By Nook",
@@ -1661,7 +1726,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.4",
-  "gofood_votes": "4897"
+  "gofood_votes": "4897",
+  "owner_reply_count": "1"
  },
  {
   "name": "Vore Canggu",
@@ -1693,7 +1759,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "51"
  },
  {
   "name": "Sababa",
@@ -1725,7 +1792,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Berawa's Kitchen",
@@ -1757,7 +1825,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Kometosake Berawa",
@@ -1789,7 +1858,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "57"
  },
  {
   "name": "Mowies Bali",
@@ -1803,7 +1873,7 @@
   "address": "Jl. Pantai Berawa No.101x, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6602373",
   "longitude": "115.1408019",
-  "phone": "0819-3403-3503",
+  "phone": "0819-3403-3503; +6281934033503",
   "website": "https://mowiesbali.com/",
   "instagram": "instagram.com/mowiesbali",
   "email": "",
@@ -1821,7 +1891,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.8",
-  "gofood_votes": "30"
+  "gofood_votes": "30",
+  "owner_reply_count": "57",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Mata Berawa",
@@ -1853,7 +1925,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "25"
  },
  {
   "name": "Milk & Madu Berawa",
@@ -1885,7 +1958,8 @@
   "matched_on": "",
   "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "54"
  },
  {
   "name": "LUSA Bistro",
@@ -1917,7 +1991,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "4"
  },
  {
   "name": "Kenji Ramen & Izakaya Berawa",
@@ -1931,7 +2006,7 @@
   "address": "Jl. Pantai Berawa No.13B, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.654267299999999",
   "longitude": "115.1483947",
-  "phone": "0811-9525-857",
+  "phone": "0811-9525-857; +628811063224",
   "website": "https://kenjiramen.com/",
   "instagram": "",
   "email": "",
@@ -1949,7 +2024,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "10",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Bottega Italiana Berawa",
@@ -1981,7 +2058,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "50"
  },
  {
   "name": "Ulekan Berawa",
@@ -2013,7 +2091,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "57"
  },
  {
   "name": "Riviera Bistro | Berawa",
@@ -2045,7 +2124,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "38"
  },
  {
   "name": "One Eyed Jack",
@@ -2077,7 +2157,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Neighbourhood Food",
@@ -2109,7 +2190,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "55",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Made's Warung Berawa",
@@ -2141,7 +2224,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Island Wok Berawa",
@@ -2173,7 +2257,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "51"
  },
  {
   "name": "Revolver Canggu",
@@ -2190,7 +2275,7 @@
   "phone": "0812-3944-6339",
   "website": "https://revolverbali.com/",
   "instagram": "instagram.com/revolver.bali",
-  "email": "reservation@revolverbali.com;reservation@revolverbali.com\\;u003ereservation@revolverbali.com",
+  "email": "reservation@revolverbali.com;reservation@revolverbali.com\\;u003ereservation@revolverbali.com; nova@revolverbali.com",
   "facebook": "facebook.com/revolverespresso",
   "ads_google": "",
   "whatsapp": "6281239446339",
@@ -2205,7 +2290,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "41",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Archive Coffee • Parkcafe",
@@ -2237,7 +2324,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Bull's Coffee Berawa",
@@ -2269,7 +2357,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Copenhagen CAFE Berawa",
@@ -2286,7 +2375,7 @@
   "phone": "",
   "website": "http://cphbali.com/",
   "instagram": "",
-  "email": "",
+  "email": "hej@cphbali.com",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "",
@@ -2301,7 +2390,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "55",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Wonder Coffee Berawa",
@@ -2333,7 +2424,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "16"
  },
  {
   "name": "HiLo Protein Donuts & Cafe - Berawa, Canggu",
@@ -2365,7 +2457,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "56"
  },
  {
   "name": "Culture Cafe Canggu",
@@ -2397,7 +2490,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "BRIGHT coffee and brunch",
@@ -2429,7 +2523,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "45"
  },
  {
   "name": "NOURISH CAFE",
@@ -2461,7 +2556,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Hopper Coffee",
@@ -2493,7 +2589,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "56"
  },
  {
   "name": "Bokashi Berawa",
@@ -2525,7 +2622,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58"
  },
  {
   "name": "Tabebuya Coffee",
@@ -2557,7 +2655,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "5"
  },
  {
   "name": "Wolf & Turtle Coffee Roasters Bali",
@@ -2589,7 +2688,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "50"
  },
  {
   "name": "By Sage Coffee Berawa",
@@ -2621,7 +2721,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "26"
  },
  {
   "name": "Ruko Cafe",
@@ -2653,7 +2754,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Varuna Warung",
@@ -2685,7 +2787,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Warung Bu Mi",
@@ -2717,7 +2820,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Warung Sika",
@@ -2749,7 +2853,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Warung Jawa Bu Sri",
@@ -2781,7 +2886,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Canteen Canggu Permai",
@@ -2813,7 +2919,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "10"
  },
  {
   "name": "RICE WARUNG YASA's",
@@ -2845,7 +2952,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "15"
  },
  {
   "name": "WARUNG LA BE'NE",
@@ -2877,7 +2985,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Waroeng Sushi Canggu",
@@ -2909,7 +3018,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Warung Jaba",
@@ -2941,7 +3051,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Warung Jawa Bu Eka",
@@ -2973,7 +3084,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Warung Barra - Halal Food",
@@ -3005,7 +3117,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Warung Sari Bunga Canggu",
@@ -3037,7 +3150,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "11"
  },
  {
   "name": "Tiga Canggu",
@@ -3069,7 +3183,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Warteg 24 Hour",
@@ -3101,7 +3216,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "3"
  },
  {
   "name": "warung pandega",
@@ -3133,7 +3249,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Warung Nasi Babi Guling Men Agus",
@@ -3165,7 +3282,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "4.6",
-  "gofood_votes": "5492"
+  "gofood_votes": "5492",
+  "owner_reply_count": "0"
  },
  {
   "name": "Warung Ulhus",
@@ -3197,7 +3315,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Times Beach Warung",
@@ -3229,7 +3348,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "50"
  },
  {
   "name": "Fuji Sushi Canggu",
@@ -3261,7 +3381,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Little Tokyo Sushi Canggu",
@@ -3293,7 +3414,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "51"
  },
  {
   "name": "Sushikoo",
@@ -3325,7 +3447,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "48"
  },
  {
   "name": "Sky Fusion Sushi",
@@ -3357,7 +3480,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "40"
  },
  {
   "name": "Ensō Japanese Fusion & Bar",
@@ -3389,7 +3513,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "56"
  },
  {
   "name": "Kenji Ramen & Izakaya Padang Linjong",
@@ -3421,7 +3546,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "IKI Izakaya by Margaret",
@@ -3453,7 +3579,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58"
  },
  {
   "name": "Ji Restaurant Bali",
@@ -3485,7 +3612,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "21"
  },
  {
   "name": "Pure Sushi Bali",
@@ -3517,7 +3645,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "G-Sushi and Ramen | Sushi Bar | Delivery",
@@ -3549,7 +3678,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Sama Sama Prime",
@@ -3581,7 +3711,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "46"
  },
  {
   "name": "Billy Ho Japanese Restaurant",
@@ -3613,7 +3744,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Shichirin Japanese Restaurant Canggu by Wonderspace",
@@ -3645,7 +3777,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "43"
  },
  {
   "name": "Mykaza Bali",
@@ -3677,7 +3810,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Sushimi Berawa Bali",
@@ -3693,8 +3827,8 @@
   "longitude": "115.14018449999999",
   "phone": "0878-7878-0037",
   "website": "http://sushimibali.com/",
-  "instagram": "instagram.com/sushimibali",
-  "email": "info@sushimibali.com",
+  "instagram": "instagram.com/sushimibali; @takumibali",
+  "email": "info@sushimibali.com; info@sushimibali.com.",
   "facebook": "facebook.com/2008;facebook.com/sushimibali",
   "ads_google": "",
   "whatsapp": "6287878780037",
@@ -3709,7 +3843,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58",
+  "contacts_review_text": "2e/0p/1ig"
  },
  {
   "name": "Konbu Sushi Bali",
@@ -3741,7 +3877,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Unibowl Pererenan Bali",
@@ -3755,10 +3892,10 @@
   "address": "Jl. Sempol No.17, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
   "latitude": "-8.6395577",
   "longitude": "115.1366034",
-  "phone": "0811-6510-828",
+  "phone": "0811-6510-828; +628116510828",
   "website": "",
   "instagram": "",
-  "email": "",
+  "email": "info.unibowlbali@gmail.com.",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "628116510828",
@@ -3773,7 +3910,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "6",
+  "contacts_review_text": "1e/1p/0ig"
  },
  {
   "name": "Sushi Key Canggu",
@@ -3805,7 +3944,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "ROMAN PIZZA & PASTA CANGGU",
@@ -3837,7 +3977,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "37"
  },
  {
   "name": "Il Forno Pizzeria, Canggu ( Dine-in )",
@@ -3869,7 +4010,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Pizza Fabbrica - Canggu",
@@ -3901,7 +4043,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Louie's New York Pizza Canggu | NYC Style Pizza Restaurant",
@@ -3933,7 +4076,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58"
  },
  {
   "name": "L'Osteria Pizza e Cucina Canggu",
@@ -3965,7 +4109,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "4.7",
-  "gofood_votes": "846"
+  "gofood_votes": "846",
+  "owner_reply_count": "0"
  },
  {
   "name": "Dodo Pizza",
@@ -3979,10 +4124,10 @@
   "address": "Jl. Anggrek, Tibubeneng, Canggu, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6539035",
   "longitude": "115.13983979999999",
-  "phone": "0811-3831-4659",
+  "phone": "0811-3831-4659; +6281138314659",
   "website": "https://dodopizza.co.id/",
   "instagram": "",
-  "email": "",
+  "email": "feedback@dodopizza.co.id; 请您发送邮件至feedback@dodopizza.co.id或WhatsApp联系我们",
   "facebook": "",
   "ads_google": "yes",
   "whatsapp": "6281138314659",
@@ -3997,7 +4142,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "45",
+  "contacts_review_text": "2e/1p/0ig"
  },
  {
   "name": "CANGGU STREET PIZZA BATUBOLONG",
@@ -4029,7 +4176,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Luigi's Hot Pizza Canggu",
@@ -4093,7 +4241,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Love U Pizza Canggu",
@@ -4107,7 +4256,7 @@
   "address": "Jl. Raya Canggu No.12, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6421419",
   "longitude": "115.1545319",
-  "phone": "0813-3627-644",
+  "phone": "0813-3627-644; +628133627644; +6282359748248",
   "website": "https://www.loveupizza.com/",
   "instagram": "",
   "email": "loveupizzabali@gmail.com",
@@ -4125,7 +4274,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60",
+  "contacts_review_text": "0e/2p/0ig"
  },
  {
   "name": "Tony's New York Pizza Canggu",
@@ -4157,7 +4308,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "4.8",
-  "gofood_votes": "1800"
+  "gofood_votes": "1800",
+  "owner_reply_count": "1"
  },
  {
   "name": "Cantina Bali Canggu",
@@ -4189,7 +4341,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "54"
  },
  {
   "name": "Pizza Canggu",
@@ -4221,7 +4374,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "AMANTE PIZZERIA CANGGU",
@@ -4253,7 +4407,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Il Forno Pizzeria - Berawa (Dine-in & Take-Away)",
@@ -4267,7 +4422,7 @@
   "address": "XXI, Jl. Raya Semat Gg. Jalak Bali No.sebelah, Canggu, Kuta Utara, Badung Regency, Bali 80361",
   "latitude": "-8.654480099999999",
   "longitude": "115.14206159999999",
-  "phone": "0853-3780-5013",
+  "phone": "0853-3780-5013; 082136360626",
   "website": "",
   "instagram": "",
   "email": "",
@@ -4285,7 +4440,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "10",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "MONSTA Pizza, Wings & Beer",
@@ -4317,7 +4474,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.5",
-  "gofood_votes": "269"
+  "gofood_votes": "269",
+  "owner_reply_count": "6"
  },
  {
   "name": "Garden Canggu Bali",
@@ -4349,7 +4507,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58"
  },
  {
   "name": "Lasera Bakery",
@@ -4381,7 +4540,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Salzbrezeln",
@@ -4413,7 +4573,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "The Sweet Escape Bakery & Cafe",
@@ -4445,7 +4606,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "6"
  },
  {
   "name": "Bread Basket Bakery - Canggu Bali",
@@ -4461,7 +4623,7 @@
   "longitude": "115.13415599999999",
   "phone": "0819-2920-0070",
   "website": "https://www.breadbasketbali.com/",
-  "instagram": "instagram.com/breadbasket.id",
+  "instagram": "instagram.com/breadbasket.id; @breadbasket.id",
   "email": "",
   "facebook": "facebook.com/BreadBasketBali;facebook.com/sharer.php",
   "ads_google": "",
@@ -4477,7 +4639,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59",
+  "contacts_review_text": "0e/0p/1ig"
  },
  {
   "name": "Oka's Bakery & Cafe | Gluten Free Birthday Cake & Bread Canggu",
@@ -4509,7 +4673,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "26"
  },
  {
   "name": "Maha Matcha x Kudopan Bakes",
@@ -4541,7 +4706,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Momma Cookies",
@@ -4573,7 +4739,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "5"
  },
  {
   "name": "Pepi Bakehouse Echo Beach",
@@ -4587,7 +4754,7 @@
   "address": "Jl. Munduk Catu No.94, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6545243",
   "longitude": "115.12979399999999",
-  "phone": "0819-4421-5030",
+  "phone": "0819-4421-5030; +6287841195777",
   "website": "",
   "instagram": "",
   "email": "",
@@ -4605,7 +4772,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "17",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Fold Canggu",
@@ -4637,7 +4806,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Copenhagen BAKERY Pererenan",
@@ -4654,7 +4824,7 @@
   "phone": "0813-5302-2346",
   "website": "http://cphbali.com/",
   "instagram": "",
-  "email": "",
+  "email": "hej@cphbali.com",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6281353022346",
@@ -4669,7 +4839,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "MUUSE Cheesecake & Bakery",
@@ -4701,7 +4873,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Milk and Honey Bakery",
@@ -4733,7 +4906,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "BAKED. Berawa",
@@ -4747,7 +4921,7 @@
   "address": "Jl. Raya Semat Gg. Kupu kupu No.1, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6583085",
   "longitude": "115.14031399999999",
-  "phone": "0877-8762-7769",
+  "phone": "0877-8762-7769; +6287787627769",
   "website": "https://linktr.ee/baked.indonesia",
   "instagram": "",
   "email": "cs@baked.co.id;roastery@baked.co.id;sales.market@baked.co.id",
@@ -4765,7 +4939,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "57",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Buongiorno by Sa'Mesa",
@@ -4797,7 +4973,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "34"
  },
  {
   "name": "Baker's Corner Cafe Canggu",
@@ -4811,7 +4988,7 @@
   "address": "Jl. Raya Canggu No.101X, Kerobokan, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.643590999999999",
   "longitude": "115.1577432",
-  "phone": "0878-0416-6111",
+  "phone": "0878-0416-6111; +6285142911274; +6287841195777",
   "website": "",
   "instagram": "",
   "email": "",
@@ -4829,7 +5006,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59",
+  "contacts_review_text": "0e/2p/0ig"
  },
  {
   "name": "Dang! Cookies - Batu Mejan",
@@ -4861,7 +5040,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Batter Club",
@@ -4893,7 +5073,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "13"
  },
  {
   "name": "Black Sand Brewery",
@@ -4925,7 +5106,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "The Bench Sports Bar Canggu",
@@ -4957,7 +5139,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "24"
  },
  {
   "name": "Canggu Sunset Club",
@@ -4989,7 +5172,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "10"
  },
  {
   "name": "The Barn Pub & Kitchen",
@@ -5021,7 +5205,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "27"
  },
  {
   "name": "Old Man's",
@@ -5053,7 +5238,8 @@
   "matched_on": "",
   "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "The Shady Pig",
@@ -5085,7 +5271,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "37"
  },
  {
   "name": "The Lawn Canggu Beach Club",
@@ -5102,7 +5289,7 @@
   "phone": "0811-3800-4951",
   "website": "https://www.projectblack.co/thelawncanggu",
   "instagram": "",
-  "email": "",
+  "email": "daniel@projectblack.co; 请您发送邮件至daniel@projectblack.co与我们联系",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6281138004951",
@@ -5117,7 +5304,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "52",
+  "contacts_review_text": "2e/0p/0ig"
  },
  {
   "name": "Manhattan Cocktail Bar & Kitchen",
@@ -5149,7 +5338,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Little Havana Bali - Shot Bar & Cocktails",
@@ -5181,7 +5371,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "17"
  },
  {
   "name": "XBR Canggu",
@@ -5213,7 +5404,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Sand Bar",
@@ -5245,7 +5437,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Tap Club Canggu",
@@ -5277,7 +5470,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "4"
  },
  {
   "name": "Beer&Co. (Canggu)",
@@ -5294,7 +5488,7 @@
   "phone": "0811-393-435",
   "website": "http://www.beernco.com/",
   "instagram": "",
-  "email": "",
+  "email": "markus.sembiring@beernco.com",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "62811393435",
@@ -5309,7 +5503,9 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "20",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "FINNS Beach Club",
@@ -5341,7 +5537,8 @@
   "matched_on": "",
   "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "20"
  },
  {
   "name": "Baliwood",
@@ -5373,7 +5570,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "La Pan Nam Warung & Bar",
@@ -5405,7 +5603,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59"
  },
  {
   "name": "Alternative Beach",
@@ -5437,7 +5636,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Motel Mexicola | Canggu",
@@ -5454,7 +5654,7 @@
   "phone": "0811-3889-8000",
   "website": "https://motelmexicola.info/canggu/",
   "instagram": "instagram.com/motelmexicola",
-  "email": "",
+  "email": "canggu@motelmexicola.info",
   "facebook": "facebook.com/motelmexicola",
   "ads_google": "",
   "whatsapp": "6281138898000",
@@ -5469,7 +5669,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "48",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "SUGI.CANGGU",
@@ -5501,7 +5703,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Brunchy’s",
@@ -5533,7 +5736,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "8"
  },
  {
   "name": "Shortcut Cafe Canggu, Pererenan",
@@ -5565,7 +5769,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Rise & Shine Cafe Canggu",
@@ -5597,7 +5802,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Barboa Bali",
@@ -5629,7 +5835,8 @@
   "matched_on": "",
   "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Wisteria Brunch Canggu",
@@ -5661,7 +5868,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "43"
  },
  {
   "name": "Eggstra Breakfast Lab",
@@ -5693,7 +5901,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "40"
  },
  {
   "name": "Crate Cafe",
@@ -5725,7 +5934,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59"
  },
  {
   "name": "PARS Cafe Bali | Coffee Shop | Breakfast | Cafe Canggu",
@@ -5757,7 +5967,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": "0"
+  "gofood_votes": "0",
+  "owner_reply_count": "1"
  },
  {
   "name": "Lush Kitchen - all day Cafe & Grill. Healthy Food",
@@ -5789,7 +6000,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "4"
  },
  {
   "name": "Copenhagen CAFE Canggu",
@@ -5806,7 +6018,7 @@
   "phone": "",
   "website": "http://cphbali.com/",
   "instagram": "",
-  "email": "",
+  "email": "hej@cphbali.com",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "",
@@ -5821,7 +6033,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "41",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Lucky Plaza",
@@ -5853,7 +6067,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "14"
  },
  {
   "name": "Artisan - Pererenan",
@@ -5885,7 +6100,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "23"
  },
  {
   "name": "WOODS PERERENAN",
@@ -5949,7 +6165,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "48"
  },
  {
   "name": "Day by Day Coffee & Eatery",
@@ -5981,7 +6198,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "50"
  },
  {
   "name": "Savor Pererenan",
@@ -5995,7 +6213,7 @@
   "address": "Jl. Pantai Pererenan No.79, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80531",
   "latitude": "-8.640536299999999",
   "longitude": "115.13066699999999",
-  "phone": "0878-7385-6675",
+  "phone": "0878-7385-6675; +6287873856675",
   "website": "https://www.savorbistropererenan.com/",
   "instagram": "",
   "email": "",
@@ -6013,7 +6231,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "10",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Genius Bistro",
@@ -6045,7 +6265,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "WOHL CAFE",
@@ -6077,7 +6298,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Riviera Trattoria | Pererenan",
@@ -6109,7 +6331,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "28"
  },
  {
   "name": "K&A Grill",
@@ -6141,7 +6364,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "nüde cafe Pererenan",
@@ -6173,7 +6397,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "55",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Boheme Canggu",
@@ -6205,7 +6431,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "43"
  },
  {
   "name": "Chinatown Express Pererenan",
@@ -6237,7 +6464,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "5"
  },
  {
   "name": "Elite Fit Bali Restaurant",
@@ -6254,7 +6482,7 @@
   "phone": "0857-2022-1101",
   "website": "https://gofood.link/a/GVkQK5Y",
   "instagram": "",
-  "email": "",
+  "email": "info@elitefitbali.com; info@elitefitbali.com.",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6285720221101",
@@ -6269,7 +6497,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "5",
+  "contacts_review_text": "2e/0p/0ig"
  },
  {
   "name": "Honey,",
@@ -6301,7 +6531,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "WEI TO GO Pererenan Dining Room",
@@ -6318,7 +6549,7 @@
   "phone": "0812-4499-7705",
   "website": "https://weitogo.co.id/",
   "instagram": "",
-  "email": "",
+  "email": "weitogo.bali@gmail.com",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6281244997705",
@@ -6333,7 +6564,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "20",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "HOME by Chef Wayan",
@@ -6365,7 +6598,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "OPTIMIST BALI",
@@ -6397,7 +6631,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "37"
  },
  {
   "name": "Bull's Coffee Atelier",
@@ -6429,7 +6664,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "NOUS Coffee",
@@ -6461,7 +6697,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59"
  },
  {
   "name": "LOOP cafe",
@@ -6493,7 +6730,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "20"
  },
  {
   "name": "Belle's All Day Cafe",
@@ -6507,7 +6745,7 @@
   "address": "Jl. Pantai Pererenan No.89, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
   "latitude": "-8.641941",
   "longitude": "115.1296588",
-  "phone": "+62 877-9122-1077",
+  "phone": "+62 877-9122-1077; +6287791221077",
   "website": "https://bellesbali.com/",
   "instagram": "",
   "email": "",
@@ -6525,7 +6763,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "21",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "BORDER Coffee & Eatery",
@@ -6539,7 +6779,7 @@
   "address": "Jl. Babadan, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
   "latitude": "-8.6363607",
   "longitude": "115.12509",
-  "phone": "0812-9925-4514",
+  "phone": "0812-9925-4514; +6281299254514",
   "website": "",
   "instagram": "",
   "email": "",
@@ -6557,7 +6797,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Bull's Coffee Pererenan",
@@ -6589,7 +6831,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "TOMORO COFFE - CANGGU PERERENAN",
@@ -6621,7 +6864,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Kotta Kopi Prive Pererenan",
@@ -6653,7 +6897,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "TaTa Pererenan",
@@ -6685,7 +6930,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "10"
  },
  {
   "name": "Noura Brew",
@@ -6717,7 +6963,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Japa Coffee & Eatery",
@@ -6749,7 +6996,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "D'Desa Warung Grill",
@@ -6781,7 +7029,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "25"
  },
  {
   "name": "Waroeng Kampoeng",
@@ -6813,7 +7062,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "CATong Laksa",
@@ -6845,7 +7095,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "6"
  },
  {
   "name": "BAKED. Brew Bar & Roastery - Padonan",
@@ -6877,7 +7128,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "54"
  },
  {
   "name": "Tulis Tiwa Canggu",
@@ -6909,7 +7161,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "49"
  },
  {
   "name": "Super EAT Canggu",
@@ -6941,7 +7194,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Warung Dangin",
@@ -6973,7 +7227,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "16"
  },
  {
   "name": "Old Muse",
@@ -7005,7 +7260,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "42"
  },
  {
   "name": "Kedai Nanu",
@@ -7037,7 +7293,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Fortuna Resto",
@@ -7069,7 +7326,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "9"
  },
  {
   "name": "Ayam Tulang Lunak Warcar ( Canggu. Padonan )",
@@ -7101,7 +7359,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "9"
  },
  {
   "name": "WARUNG MABABI",
@@ -7133,7 +7392,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "43"
  },
  {
   "name": "Royalty Kaffe",
@@ -7165,7 +7425,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "MUDA Restaurant",
@@ -7179,10 +7440,10 @@
   "address": "Jl. Munduk Catu No.9, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": "-8.6536226",
   "longitude": "115.1304435",
-  "phone": "+62 813-3792-3181",
+  "phone": "+62 813-3792-3181; +628113894449",
   "website": "https://www.bysuka.com/muda-by-suka",
   "instagram": "instagram.com/muda.restaurant;instagram.com/reel",
-  "email": "",
+  "email": "hello@flowhausproject.com",
   "facebook": "facebook.com/2008",
   "ads_google": "",
   "whatsapp": "6281337923181",
@@ -7197,7 +7458,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "6",
+  "contacts_review_text": "1e/1p/0ig"
  },
  {
   "name": "Warung Ganda Sari",
@@ -7229,7 +7492,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Wok This Way",
@@ -7243,9 +7507,9 @@
   "address": "Jl. Raya Canggu No.100, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6329886",
   "longitude": "115.1368073",
-  "phone": "+62 811-3888-099",
+  "phone": "+62 811-3888-099; +628113888099",
   "website": "http://www.wokthiswaybali.com/",
-  "instagram": "instagram.com/wokthiswaybali",
+  "instagram": "instagram.com/wokthiswaybali; @wokthiswaybali",
   "email": "",
   "facebook": "facebook.com/2008",
   "ads_google": "",
@@ -7261,7 +7525,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "37",
+  "contacts_review_text": "0e/1p/1ig"
  },
  {
   "name": "BURN&BONE",
@@ -7275,7 +7541,7 @@
   "address": "Jl. Raya Tiyingtutul No.21, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
   "latitude": "-8.6319138",
   "longitude": "115.1398993",
-  "phone": "+62 822-6661-8283",
+  "phone": "+62 822-6661-8283; +6282266618283",
   "website": "https://www.instagram.com/burnandbone.ribs?igsh=ZHhweTZuZHU3M3Zw",
   "instagram": "instagram.com/burnandbone.ribs",
   "email": "",
@@ -7293,7 +7559,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "27",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Soogi Roll | Pererenan",
@@ -7310,7 +7578,7 @@
   "phone": "0889-8716-1276",
   "website": "https://www.instagram.com/soogirollcanggu",
   "instagram": "instagram.com/soogirollcanggu",
-  "email": "",
+  "email": "soogirollcanggu@gmail.com; soogirollcanggu@gmail.com.",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6288987161276",
@@ -7325,7 +7593,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60",
+  "contacts_review_text": "2e/0p/0ig"
  },
  {
   "name": "warung muslim bondowoso tiying tutul",
@@ -7357,7 +7627,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Fritz",
@@ -7389,7 +7660,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "LOLDAY Kitchen",
@@ -7421,7 +7693,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "56"
  },
  {
   "name": "Thailicious Canggu",
@@ -7453,7 +7726,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "41"
  },
  {
   "name": "Lest - Family restaurant",
@@ -7485,7 +7759,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "CROUSTY RICE",
@@ -7517,7 +7792,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "3"
  },
  {
   "name": "THAT ONE STOP !",
@@ -7549,7 +7825,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "TripleEgg Restaurant",
@@ -7581,7 +7858,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "5"
  },
  {
   "name": "The Living Room",
@@ -7613,7 +7891,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Daria Cafe Tiying Tutul",
@@ -7645,7 +7924,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Long Play coffee & wine",
@@ -7659,7 +7939,7 @@
   "address": "Jl. Raya Tiyingtutul No.13, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
   "latitude": "-8.6333924",
   "longitude": "115.1400426",
-  "phone": "0819-3729-2301",
+  "phone": "0819-3729-2301; +6281937292301",
   "website": "https://linktr.ee/longplay.canggu",
   "instagram": "",
   "email": "",
@@ -7677,7 +7957,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "6",
+  "contacts_review_text": "0e/2p/0ig"
  },
  {
   "name": "Cinta Pererenan",
@@ -7709,7 +7991,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "55"
  },
  {
   "name": "Born To Be - Cafe",
@@ -7741,7 +8024,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "13"
  },
  {
   "name": "Rasa Kitchen",
@@ -7773,7 +8057,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "5"
  },
  {
   "name": "LowCal, Cheatery and Bar",
@@ -7805,7 +8090,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "45"
  },
  {
   "name": "Feel Food Cafe",
@@ -7837,7 +8123,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Penny Lane",
@@ -7869,7 +8156,8 @@
   "matched_on": "",
   "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "38"
  },
  {
   "name": "Smoke Bali",
@@ -7886,7 +8174,7 @@
   "phone": "0821-4607-4272",
   "website": "http://smokebali.com/",
   "instagram": "instagram.com/smoke.bali",
-  "email": "",
+  "email": "lowandslow.bali@gmail.com",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6282146074272",
@@ -7901,7 +8189,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Nostimo Greek Grill Canggu",
@@ -7915,7 +8205,7 @@
   "address": "Jl. Pantai Batu Bolong No.45 B, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80363",
   "latitude": "-8.6400022",
   "longitude": "115.14374439999999",
-  "phone": "+62 812-1719-6885",
+  "phone": "+62 812-1719-6885; +6281217196885",
   "website": "https://nostimobali.com/",
   "instagram": "",
   "email": "",
@@ -7933,7 +8223,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "MASONRY. Restaurant Canggu",
@@ -7950,7 +8242,7 @@
   "phone": "0857-9250-5028",
   "website": "https://masonrybali.com/canggu",
   "instagram": "instagram.com/mason.bali",
-  "email": "",
+  "email": "Canggu@masonrybali.com; Canggu@masonrybali.com.; Hugo@bhgbali.com.",
   "facebook": "facebook.com/masoncanggu",
   "ads_google": "",
   "whatsapp": "6285792505028",
@@ -7965,7 +8257,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "56",
+  "contacts_review_text": "3e/0p/0ig"
  },
  {
   "name": "BARE Grill Restaurant",
@@ -7997,7 +8291,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "7"
  },
  {
   "name": "Fuego",
@@ -8029,7 +8324,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "SIA - Grill & Seafood Bar",
@@ -8061,7 +8357,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Han Sang Korean BBQ & SUKI - Canggu,Bali",
@@ -8093,7 +8390,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "San Yook - Modern Korean BBQ",
@@ -8125,7 +8423,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "20"
  },
  {
   "name": "Seoul BBQ",
@@ -8157,7 +8456,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "51"
  },
  {
   "name": "Arkac Drink 'N' Grill",
@@ -8189,7 +8489,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "3"
  },
  {
   "name": "Moggumung Canggu (목구멍 짱구점)",
@@ -8221,7 +8522,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59"
  },
  {
   "name": "ESKQ Bar Steak House",
@@ -8253,7 +8555,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "45"
  },
  {
   "name": "The Blaze Restaurant",
@@ -8285,7 +8588,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Manta the oasis",
@@ -8317,7 +8621,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Nico's Smokehouse",
@@ -8349,7 +8654,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "VEGEMATE BALI by RICE WARUNG",
@@ -8381,7 +8687,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "24"
  },
  {
   "name": "I am Vegan Babe",
@@ -8413,7 +8720,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "4"
  },
  {
   "name": "Shady Shack",
@@ -8445,7 +8753,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "OMA JAMU VEGAN",
@@ -8477,7 +8786,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Kasto Italian Restaurant",
@@ -8509,7 +8819,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "13"
  },
  {
   "name": "Seoul Soul Project",
@@ -8523,7 +8834,7 @@
   "address": "80361, Jl. Padang Lingjong No.61, Canggu, Kuta Utara, Badung Regency, Bali 80361",
   "latitude": "-8.6455606",
   "longitude": "115.13510699999999",
-  "phone": "0811-1636-699",
+  "phone": "0811-1636-699; +628111636699",
   "website": "https://instagram.com/seoulsoulproject/",
   "instagram": "instagram.com/seoulsoulproject/",
   "email": "",
@@ -8541,7 +8852,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "43",
+  "contacts_review_text": "0e/3p/0ig"
  },
  {
   "name": "Roots",
@@ -8557,8 +8870,8 @@
   "longitude": "115.1248433",
   "phone": "0813-3753-1570",
   "website": "https://www.instagram.com/rootsinbali/",
-  "instagram": "instagram.com/rootsinbali/",
-  "email": "",
+  "instagram": "instagram.com/rootsinbali/; @rootsinbali",
+  "email": "marketing@rootsinbali.com; marketing@rootsinbali.com.; marketings@rootsinbali.com; 或发送邮件至marketing@rootsinbali.com",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6281337531570",
@@ -8573,7 +8886,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "53",
+  "contacts_review_text": "4e/0p/1ig"
  },
  {
   "name": "KYND COMMUNITY CANGGU",
@@ -8590,7 +8905,7 @@
   "phone": "0813-2094-8514",
   "website": "http://www.kyndcommunity.com/",
   "instagram": "instagram.com/kyndcommunity",
-  "email": "",
+  "email": "manager@kyndcommunity.com; manager@kyndcommunity.com.",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6281320948514",
@@ -8605,7 +8920,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60",
+  "contacts_review_text": "2e/0p/0ig"
  },
  {
   "name": "Alkaline Vegan Restaurant",
@@ -8637,7 +8954,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Plant Theory - The Vegan Restaurant",
@@ -8653,7 +8971,7 @@
   "longitude": "115.1386692",
   "phone": "+62 881-0384-63586",
   "website": "",
-  "instagram": "",
+  "instagram": "@pinkman.bali",
   "email": "",
   "facebook": "",
   "ads_google": "",
@@ -8669,7 +8987,9 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "14",
+  "contacts_review_text": "0e/0p/1ig"
  },
  {
   "name": "The Sloth Vegan Cafe at Ponder Pererenan",
@@ -8701,7 +9021,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "The Sloth Bali",
@@ -8733,7 +9054,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "MUNAY CONCEPT STORE CANGGU",
@@ -8765,7 +9087,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "20"
  },
  {
   "name": "Warung Dua Hati (Vegan)",
@@ -8797,7 +9120,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "40"
  },
  {
   "name": "Chef Ibu - Authentic Indonesian Comfort Food",
@@ -8829,7 +9153,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "38"
  },
  {
   "name": "Iwa Restaurant at Hotel Tugu Bali",
@@ -8861,7 +9186,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Pali",
@@ -8893,7 +9219,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "MR.LU CANGGU",
@@ -8925,7 +9252,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "20"
  },
  {
   "name": "Artista Cucina Bali",
@@ -8957,7 +9285,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "27"
  },
  {
   "name": "Numero Quattro Echo Beach",
@@ -8974,7 +9303,7 @@
   "phone": "0811-3834-753",
   "website": "https://www.projectblack.co/numeroquattro",
   "instagram": "",
-  "email": "",
+  "email": "daniel@projectblack.co",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "628113834753",
@@ -8989,7 +9318,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "57",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Della Terra",
@@ -9006,7 +9337,7 @@
   "phone": "0877-5078-7842",
   "website": "http://www.dellaterrabali.com/",
   "instagram": "instagram.com/dellaterrabali",
-  "email": "admin@dellaterrabali.com",
+  "email": "admin@dellaterrabali.com; info@dellaterrabali.com",
   "facebook": "facebook.com/2008",
   "ads_google": "",
   "whatsapp": "6287750787842",
@@ -9021,7 +9352,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "48",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Studio Pepe | Something Italian",
@@ -9053,7 +9386,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "56"
  },
  {
   "name": "PASTA, BITTE! Italian Restaurant Bali",
@@ -9085,7 +9419,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Fucina Pizzeria Cucina Italiana",
@@ -9117,7 +9452,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "54"
  },
  {
   "name": "Anita's",
@@ -9149,7 +9485,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "41"
  },
  {
   "name": "Margaret Bistro",
@@ -9181,7 +9518,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "De Morelos Mexicana",
@@ -9213,7 +9551,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "18"
  },
  {
   "name": "Lola’s Cantina Mexicana - Canggu",
@@ -9230,7 +9569,7 @@
   "phone": "0878-6168-6721",
   "website": "https://lolasbali.com/",
   "instagram": "instagram.com/lolasbali",
-  "email": "",
+  "email": "lolasguestrelations@gmail.com; lolasguestrelations@gmail.com.",
   "facebook": "facebook.com/lolasbali",
   "ads_google": "",
   "whatsapp": "6287861686721",
@@ -9245,7 +9584,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60",
+  "contacts_review_text": "2e/0p/0ig"
  },
  {
   "name": "Lupine - Mexican Bistro",
@@ -9277,7 +9618,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "43"
  },
  {
   "name": "LACALITA Canggu",
@@ -9309,7 +9651,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Taco Casa",
@@ -9341,7 +9684,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Don Juan Mexican Restaurant and Bar - Pererenan",
@@ -9358,7 +9702,7 @@
   "phone": "+62 889-7135-4781",
   "website": "http://www.donjuan.id/",
   "instagram": "",
-  "email": "",
+  "email": "donjuanofficekuta@gmail.com; info@donjuan.id",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6288971354781",
@@ -9373,7 +9717,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58",
+  "contacts_review_text": "2e/0p/0ig"
  },
  {
   "name": "Taco Island Bali, Canggu",
@@ -9405,7 +9751,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Taco Madre",
@@ -9437,7 +9784,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "52"
  },
  {
   "name": "Bali Burrito Club | Mexican Restaurant Canggu",
@@ -9469,7 +9817,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "38"
  },
  {
   "name": "Jalapeno",
@@ -9483,7 +9832,7 @@
   "address": "Jl. Raya Semat Gg. Anggur No.1, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.658645",
   "longitude": "115.1401379",
-  "phone": "+62 821-4581-5800",
+  "phone": "+62 821-4581-5800; +6282145815800",
   "website": "https://jalapeno-bali.com/",
   "instagram": "instagram.com/jalapenobali",
   "email": "jalapenobali@gmail.com;jalapenocanggu@gmail.com",
@@ -9501,7 +9850,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "De Morelos Mexicana - SESEH",
@@ -9533,7 +9884,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "57"
  },
  {
   "name": "ORIGEN Mexican Restaurant",
@@ -9565,7 +9917,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "VIVA BURRITOS&FISH TACOS FRESH MEXICAN FOOD",
@@ -9597,7 +9950,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "18"
  },
  {
   "name": "Agave & Azul Taqueria, Canggu",
@@ -9629,7 +9983,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "47"
  },
  {
   "name": "Good Burrito - Canggu",
@@ -9643,7 +9998,7 @@
   "address": "Jl. Raya Semat Gg. Kelinci No.1, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6579956",
   "longitude": "115.1401903",
-  "phone": "+62 816-725-577",
+  "phone": "+62 816-725-577; +62816725577",
   "website": "",
   "instagram": "",
   "email": "",
@@ -9661,7 +10016,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "16",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Taco Kitchen Pererenan",
@@ -9693,7 +10050,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "SizzleWraps @ The Hungry Sh@ck",
@@ -9725,7 +10083,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "38"
  },
  {
   "name": "TYM SEA FOOD CANGGU - Supplier and Restaurant",
@@ -9757,7 +10116,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Lazy Lobster Bali",
@@ -9789,7 +10149,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58"
  },
  {
   "name": "Hippie Fish Pererenan Beach",
@@ -9803,10 +10164,10 @@
   "address": "Jalan Pantai Pererenan no. 171, Pererenan Beach, Jl. Pantai Pererenan, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80361",
   "latitude": "-8.651865599999999",
   "longitude": "115.12165379999999",
-  "phone": "+62 813-3759-6236",
+  "phone": "+62 813-3759-6236; 081337596236",
   "website": "https://hippie-fish.com/?utm_source=gbpo&utm_medium=organic&utm_id=gbpo",
   "instagram": "instagram.com/hippiefishbali",
-  "email": "reservations@hippie-fish.com",
+  "email": "reservations@hippie-fish.com; hello@hippie-fish.com",
   "facebook": "facebook.com/HippieFishPererenanBeach",
   "ads_google": "",
   "whatsapp": "6281337596236",
@@ -9821,7 +10182,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "50",
+  "contacts_review_text": "1e/1p/0ig"
  },
  {
   "name": "Bird's Nest Thai Kitchen Canggu ( เบริดเน็ตไทยคิตเช่น จางกู )",
@@ -9853,7 +10216,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Gente Seafood Restaurant",
@@ -9885,7 +10249,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58"
  },
  {
   "name": "Chicken seafood gatzoe",
@@ -9917,7 +10282,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "HoiAn by MeVui",
@@ -9949,7 +10315,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "4.6",
-  "gofood_votes": "1729"
+  "gofood_votes": "1729",
+  "owner_reply_count": "46"
  },
  {
   "name": "Miss Fish Bali",
@@ -9963,7 +10330,7 @@
   "address": "Jl. Raya Semat No.4, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6587757",
   "longitude": "115.13977519999999",
-  "phone": "",
+  "phone": "+6281230006477",
   "website": "https://www.missfishbali.com/",
   "instagram": "instagram.com/missfishbali",
   "email": "bookings@missfishbali.com",
@@ -9981,7 +10348,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "43",
+  "contacts_review_text": "1e/1p/0ig"
  },
  {
   "name": "Alpha Agro Indonesia - Premium Butchery & Steak Restaurant",
@@ -10013,7 +10382,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Turntable Canggu | Steakhouse",
@@ -10045,7 +10415,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "4"
  },
  {
   "name": "Aged + Butchered Canggu - Bali",
@@ -10077,7 +10448,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "48"
  },
  {
   "name": "Entrecôte Brasserie Canggu",
@@ -10109,7 +10481,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "7"
  },
  {
   "name": "Steak Meat Me Here Canggu",
@@ -10141,7 +10514,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "The Meat Emporium",
@@ -10173,7 +10547,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.7",
-  "gofood_votes": "4123"
+  "gofood_votes": "4123",
+  "owner_reply_count": "0"
  },
  {
   "name": "Boy'N'Cow",
@@ -10205,7 +10580,8 @@
   "matched_on": "",
   "data_notes": "oldest_review unavailable (no API quota; sort oldest unsupported)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "46"
  },
  {
   "name": "The Butchers Club Steakhouse",
@@ -10219,7 +10595,7 @@
   "address": "Jl. Petitenget Jl. Cendrawasih No.1, Kerobokan, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6740882",
   "longitude": "115.1567709",
-  "phone": "+62 877-7871-7146",
+  "phone": "+62 877-7871-7146; 087778717146",
   "website": "https://thebutchersbali.com/",
   "instagram": "instagram.com/thebutchersbali",
   "email": "info@thebutchersbali.com;info@thebutchersbali.com\\&quot;&gt;nfo@thebutchersbali.com&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&quot;],&quot;desktop&quot;:[0,{&quot;top&quot;:[0,277],&quot;left&quot;:[0,896],&quot;width&quot;:[0,328],&quot;height&quot;:[0,90]}],&quot;settings&quot;:[0,{&quot;styles&quot;:[0,{&quot;text&quot;:[0,&quot;center&quot;],&quot;align&quot;:[0,&quot;flex-start&quot;],&quot;justify&quot;:[0,&quot;flex-start&quot;],&quot;m-element-margin&quot;:[0,&quot;0;nfo@thebutchersbali.com",
@@ -10237,7 +10613,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "12",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Uma Garden Bali",
@@ -10251,10 +10629,10 @@
   "address": "Jl. Umalas 1 No.8, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6702886",
   "longitude": "115.1611274",
-  "phone": "+62 821-4736-9323",
+  "phone": "+62 821-4736-9323; +6282147369323",
   "website": "http://umagardenbali.com/?utm_source=gbpo&utm_medium=organic&utm_id=gbpo",
   "instagram": "instagram.com/umagardenbali",
-  "email": "reservations@umagardenbali.com",
+  "email": "reservations@umagardenbali.com; hello@umagardenbali.com",
   "facebook": "facebook.com/UmaGardenSeminyakBali",
   "ads_google": "",
   "whatsapp": "6282147369323",
@@ -10269,7 +10647,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "54",
+  "contacts_review_text": "1e/1p/0ig"
  },
  {
   "name": "Steak nelayan n Bali coffee",
@@ -10301,7 +10681,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "4.2",
-  "gofood_votes": "1431"
+  "gofood_votes": "1431",
+  "owner_reply_count": "0"
  },
  {
   "name": "Meat And Greet Steakbar",
@@ -10333,7 +10714,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "56"
  },
  {
   "name": "Roasted Di Canggu",
@@ -10365,7 +10747,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Mataleso Coffee di Bali",
@@ -10397,7 +10780,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "24"
  },
  {
   "name": "Nordu Coffee Canggu - kopinomordua",
@@ -10429,7 +10813,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Blacklist Coffee Roasters - Roastery & Concept Store",
@@ -10461,7 +10846,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "19"
  },
  {
   "name": "Mustache Coffee Bali",
@@ -10493,7 +10879,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Bali Coffee Club Canggu",
@@ -10507,10 +10894,10 @@
   "address": "Jl. Kubu Manyar No.22, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": "-8.6400772",
   "longitude": "115.14247569999999",
-  "phone": "+62 361 9348918",
+  "phone": "+62 361 9348918; +6281906511190; 6287818223076",
   "website": "https://balicoffeeclub.com/",
   "instagram": "instagram.com/balicoffeeclub",
-  "email": "",
+  "email": "branding@bvrgroupasia.com",
   "facebook": "facebook.com/bvrbalicoffeeclub",
   "ads_google": "",
   "whatsapp": "623619348918",
@@ -10525,7 +10912,9 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": "17"
+  "gofood_votes": "17",
+  "owner_reply_count": "48",
+  "contacts_review_text": "1e/2p/0ig"
  },
  {
   "name": "Projects Coffee",
@@ -10557,7 +10946,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "4"
  },
  {
   "name": "HANAKA COFFEE CANGGU",
@@ -10589,7 +10979,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "11"
  },
  {
   "name": "Copper Club Coffee Canggu",
@@ -10621,7 +11012,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "23"
  },
  {
   "name": "THE JUICE BOX",
@@ -10653,7 +11045,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Canggu Juice Bar",
@@ -10670,7 +11063,7 @@
   "phone": "+62 882-1155-8533",
   "website": "https://www.instagram.com/canggujuicebar?igsh=MWduY2U4Njdud3Rkcw==",
   "instagram": "instagram.com/canggujuicebar",
-  "email": "",
+  "email": "canggujuice@gmail.com",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6288211558533",
@@ -10685,7 +11078,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "42",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Ubud Kitchen Juice Bar",
@@ -10717,7 +11112,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Alive Wholefoods Store Canggu",
@@ -10734,7 +11130,7 @@
   "phone": "+62 821-4616-5452",
   "website": "http://www.alivewholefoods.com/",
   "instagram": "instagram.com/alivewholefoodstorebali",
-  "email": "",
+  "email": "hello@alivewholefoods.com; 请发送邮件至hello@alivewholefoods.com",
   "facebook": "facebook.com/alivewholefoodstorebali",
   "ads_google": "",
   "whatsapp": "6282146165452",
@@ -10749,7 +11145,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "56",
+  "contacts_review_text": "2e/0p/0ig"
  },
  {
   "name": "Bali Tropical Juice Bar",
@@ -10781,7 +11179,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Minced Juice",
@@ -10813,7 +11212,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "30"
  },
  {
   "name": "Remix Juice Co. Pererenan Beach Street",
@@ -10845,7 +11245,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "5"
  },
  {
   "name": "Lenny's Espresso & Smoothie Bar",
@@ -10877,7 +11278,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "13"
  },
  {
   "name": "Raw Protein Canggu",
@@ -10909,7 +11311,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Jus Masa Lalu Canggu",
@@ -10941,7 +11344,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Oattie Canggu",
@@ -10973,7 +11377,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Ubud Kitchen Juice Café",
@@ -11005,7 +11410,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Joon Canggu",
@@ -11037,7 +11443,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "nüde cafe Babakan",
@@ -11069,7 +11476,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "57",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "bandeja restaurant bali",
@@ -11101,7 +11510,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59"
  },
  {
   "name": "Annapurna Agni Canggu Indian Restaurant",
@@ -11133,7 +11543,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "4"
  },
  {
   "name": "Fine by SATUSATUCOFFEE",
@@ -11165,7 +11576,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "KITCH Protein Smoothies Matcha Healthy Desserts",
@@ -11197,7 +11609,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "19"
  },
  {
   "name": "Jaya Fried Chicken Babakan",
@@ -11229,7 +11642,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "RingDjinar Coffee & Resto",
@@ -11261,7 +11675,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "MALICE CAFÉ",
@@ -11293,7 +11708,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "35"
  },
  {
   "name": "Happy Pork Rendang Bali Canggu",
@@ -11325,7 +11741,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "OPENHOUSE KITCHEN | BABAKAN",
@@ -11357,7 +11774,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "Goodies Burger Boy",
@@ -11389,7 +11807,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Oh My Thai- Batu Mejan, Padang Linjong",
@@ -11421,7 +11840,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Canggu Mango Sticky Rice",
@@ -11453,7 +11873,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Same Same Thai Street Food",
@@ -11485,7 +11906,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "11"
  },
  {
   "name": "Thai Kitchen Canggu",
@@ -11517,7 +11939,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "3"
  },
  {
   "name": "WASIA Thai & Vietnamese Restaurant Canggu",
@@ -11549,7 +11972,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "46"
  },
  {
   "name": "555 Thai - Canggu",
@@ -11581,7 +12005,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Anaga Restaurant, Authentic Thai Cuisine",
@@ -11613,7 +12038,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Thaiphoon",
@@ -11645,7 +12071,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Warung Tom Kah",
@@ -11677,7 +12104,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "44"
  },
  {
   "name": "Flavours of BAN",
@@ -11693,7 +12121,7 @@
   "longitude": "115.14798259999999",
   "phone": "0822-6609-9638",
   "website": "",
-  "instagram": "",
+  "instagram": "@adit",
   "email": "",
   "facebook": "",
   "ads_google": "",
@@ -11709,7 +12137,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "4",
+  "contacts_review_text": "0e/0p/1ig"
  },
  {
   "name": "Thai Kitchen by Madam Dall",
@@ -11741,7 +12171,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Gyuboys Bali",
@@ -11773,7 +12204,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Indigo",
@@ -11805,7 +12237,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "38"
  },
  {
   "name": "Mad Ronin Canggu",
@@ -11837,7 +12270,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "4"
  },
  {
   "name": "Tema Doma",
@@ -11869,7 +12303,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "17"
  },
  {
   "name": "Aunty Ji's",
@@ -11886,7 +12321,7 @@
   "phone": "+62 822-4751-5453",
   "website": "https://auntyjisbali.com/",
   "instagram": "instagram.com/auntyjis;instagram.com/reel",
-  "email": "",
+  "email": "richard@eatopiaglobal.com",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "6282247515453",
@@ -11901,7 +12336,9 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "57",
+  "contacts_review_text": "1e/0p/0ig"
  },
  {
   "name": "Nana Sans Tandoori Indian Restaurant Canggu",
@@ -11933,7 +12370,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "24"
  },
  {
   "name": "Jashn – Indian Grill & Bar by Mumbai Spice",
@@ -11965,7 +12403,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "BALISTAN Indian Restaurant",
@@ -11997,7 +12436,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "54"
  },
  {
   "name": "Umah Thali",
@@ -12029,7 +12469,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "ROOTS OF INDIA",
@@ -12061,7 +12502,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "Chai'Ba Authentic Indian Cuisine & Bar",
@@ -12093,7 +12535,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "34"
  },
  {
   "name": "Indian Curry Centre (Canggu)",
@@ -12125,7 +12568,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "22"
  },
  {
   "name": "SAMOSA CANGGU",
@@ -12157,7 +12601,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "2"
  },
  {
   "name": "rize pererenan",
@@ -12189,7 +12634,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Roti Canai Street Kitchen",
@@ -12221,7 +12667,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "17"
  },
  {
   "name": "Monsoon Restaurant",
@@ -12253,7 +12700,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59"
  },
  {
   "name": "Red Gunpowder",
@@ -12285,7 +12733,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "59"
  },
  {
   "name": "Jay India Bali",
@@ -12317,7 +12766,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Chai Stop Bali",
@@ -12349,7 +12799,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "46"
  },
  {
   "name": "Inklusiv Warung",
@@ -12381,7 +12832,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "6"
  },
  {
   "name": "Baliberry Açaí, Chocolate Crepes & Waffles in Canggu",
@@ -12413,7 +12865,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "PARÁ Treats Canggu",
@@ -12445,7 +12898,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "60"
  },
  {
   "name": "The French Crepe Canggu",
@@ -12477,7 +12931,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Protisserie - Protein Dessert",
@@ -12509,7 +12964,8 @@
   "matched_on": "name_normalized+address_area",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "16"
  },
  {
   "name": "MISHKI 🍦PROTEIN GELATO",
@@ -12541,7 +12997,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Chim chim cafe",
@@ -12573,7 +13030,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Modo Gelato",
@@ -12605,7 +13063,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "27"
  },
  {
   "name": "CAFÉ Thyme & Caramel Cake",
@@ -12637,7 +13096,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "The Brigadeiro Society",
@@ -12669,7 +13129,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "15"
  },
  {
   "name": "Dolcemisu Bali",
@@ -12701,7 +13162,8 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "1"
  },
  {
   "name": "Yema Dessert Boutique",
@@ -12717,7 +13179,7 @@
   "longitude": "115.13375529999999",
   "phone": "+62 822-6477-0145",
   "website": "",
-  "instagram": "",
+  "instagram": "@yema.bali",
   "email": "",
   "facebook": "",
   "ads_google": "",
@@ -12733,7 +13195,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "28",
+  "contacts_review_text": "0e/0p/1ig"
  },
  {
   "name": "Al Bacio Gelato Canggu",
@@ -12765,7 +13229,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "YUME - Canggu",
@@ -12779,7 +13244,7 @@
   "address": "Jl. Munduk Catu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali",
   "latitude": "-8.6538427",
   "longitude": "115.1303571",
-  "phone": "+62 811-3980-0057",
+  "phone": "+62 811-3980-0057; +6281236755280",
   "website": "https://instagram.com/yume.bali?igshid=NTc4MTIwNjQ2YQ==",
   "instagram": "instagram.com/yume.bali",
   "email": "",
@@ -12797,7 +13262,9 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "44",
+  "contacts_review_text": "0e/2p/0ig"
  },
  {
   "name": "Junglegold Chocolate Canggu (Pod Chocolate)",
@@ -12829,7 +13296,8 @@
   "matched_on": "",
   "data_notes": "oldest_review approximate (pagination cut by SerpApi quota)",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "0"
  },
  {
   "name": "Chicken Forno - Roastery, Berawa",
@@ -17998,7 +18466,7 @@
   "phone": "",
   "website": "",
   "instagram": "",
-  "email": "",
+  "email": "daniele@luigishotpizza.com; dwinovi@luigishotpizza.com; dwinovi@luigishotpizza.com.",
   "facebook": "",
   "ads_google": "",
   "whatsapp": "",
@@ -18013,7 +18481,9 @@
   "matched_on": "",
   "data_notes": "grab_only_no_maps_match",
   "gofood_rating": "",
-  "gofood_votes": ""
+  "gofood_votes": "",
+  "owner_reply_count": "58",
+  "contacts_review_text": "3e/0p/0ig"
  },
  {
   "name": "The Butter Beats Indian Restaurant & Bar - Kerobokan Kelod",
@@ -25291,7 +25761,7 @@
   "address": "Jl. Dalem Lingsir No. 8 Pererenan; Mengwi; Bali",
   "latitude": "-8.64616",
   "longitude": "115.12813",
-  "phone": "",
+  "phone": "+6285333935558",
   "website": "",
   "instagram": "",
   "email": "",
@@ -25309,7 +25779,9 @@
   "matched_on": "",
   "data_notes": "",
   "gofood_rating": "4.6",
-  "gofood_votes": "120"
+  "gofood_votes": "120",
+  "owner_reply_count": "60",
+  "contacts_review_text": "0e/1p/0ig"
  },
  {
   "name": "Chicken Shack (Mengwi)",
@@ -25448,14 +25920,7 @@
   "oldest_review_date": "",
   "newest_review_date": "",
   "categories": "",
-  "address": {
-   "@type": "PostalAddress",
-   "streetAddress": "Jl. Bumbak Dauh No. 3, Kerobokan, Bali",
-   "addressLocality": "",
-   "addressRegion": "",
-   "postalCode": "",
-   "addressCountry": "ID"
-  },
+  "address": "{'@type': 'PostalAddress', 'streetAddress': 'Jl. Bumbak Dauh No. 3, Kerobokan, Bali', 'addressLocality': '', 'addressRegion': '', 'postalCode': '', 'addressCountry': 'ID'}",
   "latitude": "-8.656392",
   "longitude": "115.152693",
   "phone": "",
