@@ -29,7 +29,9 @@ Result: 80/81 detail OK — fresh rating + voteCount + announcement fields. Grab
 phone or coordinates in any public response, so contact/geo fields for Grab stay honestly
 empty. Ads badge: no ads/sponsored field exists in any accessible Grab response —
 `grab_promo` records merchant discount promos only (not an ads badge), marked unavailable
-for true ads.
+for true ads. Note: essentially all Grab merchants carry default discount promos (e.g.
+"Diskon 50%"), so promo presence is a weak signal — recorded verbatim, honestly labelled
+promo, never presented as advertising.
 
 **Matching Grab→Maps** (spec requires name + geo): Grab exposes no coordinates
 so matching is name-normalized fuzzy (SequenceMatcher + token containment ≥0.82) with an
