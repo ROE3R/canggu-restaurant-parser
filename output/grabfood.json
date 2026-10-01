@@ -14,6 +14,7 @@
   "address": "Jl. Bumbak No. 17 (Sebelah kanan Apotek Bumbak Medika), Kerobokan, Kerobokan Kelod, Kuta Utara, Badung, Bali 80361, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-CZCAT2NYKETALT"
  },
  {
@@ -31,6 +32,7 @@
   "address": "Jl. Bima Sena Gg. Europa (Villa Nicole Kerobokan, Villa Nicole), Kerobokan, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6WZUGDZRF5KJN"
  },
  {
@@ -48,6 +50,7 @@
   "address": "Jl. Petitenget No.17, RT 99 RW 99, Kel. Kerobokan Kelod, Kec. Kuta Utara (Seberang Da Maria), Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp25.000; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "IDGFSTI00000q93"
  },
  {
@@ -65,6 +68,7 @@
   "address": "Jl. Raya Uluwatu No. 8a (dekat Bread Basket - Ungasan), Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp25.000; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-CZMZG2XZJJ52VX"
  },
  {
@@ -83,6 +87,7 @@
   "address": "Jl. Tangkuban Perahu (Depan LP Kerobokan), Kerobokan Kelod, Kuta Utara, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 55%; Diskon 50%; Diskon 45%; Diskon Rp15.000; Diskon pengantaran Rp5.000",
+  "detail_scraped": false,
   "grab_merchant_id": "IDGFSTI000026jq"
  },
  {
@@ -101,6 +106,7 @@
   "address": "Jl. Padang Lingjong No. 99 RT. 999 / RW. 999, Canggu, Kuta Utara, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C26FCZBGJKWTET"
  },
  {
@@ -119,6 +125,7 @@
   "address": "Jl. Raya Kerobokan, Kerobokan Kelod, Kuta Utara, Badung. Indian Wok Dan Grill - Seminyak, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp8.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp3.000; Diskon Rp30.000; Diskon 50%",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C8CCCY6JVAKKJ6"
  },
  {
@@ -136,6 +143,7 @@
   "address": "Jl. Tegal Sari No.3, Tibubeneng, Kuta Utara, Bali, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon 10%; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C2CHN32KHEDUAX"
  },
  {
@@ -153,7 +161,26 @@
   "address": "Jl. Raya Semat Gg. Jalak XXI, Samping Warung Oemge dan Happy Cell , Canggu, Kuta Utara, Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp25.000; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C4MTVCKKPA33R6"
+ },
+ {
+  "name": "Taco Beach Grill Mexican Tacos - Kerobokan Kelod",
+  "chain_name": "Taco Beach Grill Mexican Tacos",
+  "branch_name": "Kerobokan Kelod",
+  "grabfood_url": "https://food.grab.com/id/en/restaurant/taco-beach-grill-mexican-tacos-kerobokan-kelod-delivery/6-CY22FE3YALEJHA",
+  "grab_rating": 3.1,
+  "grab_votes": 1613,
+  "cuisine": [
+   "Masakan Meksiko",
+   "Tako",
+   "Burrito"
+  ],
+  "address": "Jl. Pengubengan Kauh, No. 8, (Seberang Menik restoran), Kerobokan Kelod, Kuta Utara, Badung, Bali, 80363",
+  "city": "Bali",
+  "grab_promo": "Diskon Rp15.000; Diskon 40%; Diskon 50%; Diskon 30%; Diskon Rp30.000",
+  "detail_scraped": true,
+  "grab_merchant_id": "6-CY22FE3YALEJHA"
  },
  {
   "name": "Healthy Fit (Bowl, Pasta, Salad, Wrap), Bali - Canggu",
@@ -171,6 +198,7 @@
   "address": "Jl. Kubu Manyar No. 26 (Lima Spa Canggu), Canggu, Kuta Utara, Badung, Bali, 80363",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C65ZV62KVNEDPE"
  },
  {
@@ -187,6 +215,7 @@
   "address": "Jl. Pantai Berawa No.150A, Tibubeneng, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp84.500; Diskon 30%; Diskon 25%; Diskon 20%; Diskon 15%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7ETGFJVGPXXEE"
  },
  {
@@ -203,6 +232,7 @@
   "address": "Jl. Raya Canggu No. 10c (Disebelah Citra Mulya Plastik Canggu), Tibubeneng, Kuta Utara, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C3DJGCL1BBUCUA"
  },
  {
@@ -220,6 +250,7 @@
   "address": "Jl. Kayu Jati No. 5A (Disebelah Lotus Massage Therapy Seminyak), Kerobokan Kelod, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C4KVTX5KJNTDCN"
  },
  {
@@ -238,6 +269,7 @@
   "address": "Jl. Raya Uluwatu Pecatu, Ungasan, Kuta Selatan, Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C63BSBL3VTKYT2"
  },
  {
@@ -246,7 +278,7 @@
   "branch_name": "Uluwatu",
   "grabfood_url": "https://food.grab.com/id/en/restaurant/wei-to-go-chinese-uluwatu-delivery/6-C7BFJNEHDFXHPE",
   "grab_rating": 4.8,
-  "grab_votes": 1282,
+  "grab_votes": 1283,
   "cuisine": [
    "Masakan Tionghoa",
    "Dim Sum"
@@ -254,6 +286,7 @@
   "address": "Jl. Raya Uluwatu 80-90 (Di Belakang Toko Havaiannas), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp8.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7BFJNEHDFXHPE"
  },
  {
@@ -271,6 +304,7 @@
   "address": "Jl. Umalas II No. 26  (Sebelah Remix Juice Bali), Kerobokan Kelod, Kuta Utara, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C3EUNYLAGF5VEE"
  },
  {
@@ -287,6 +321,7 @@
   "address": "Jl. Raya Sunset Road 88 (Depan Lobby Sans Hotel Sunset Point),  Kerobokan Kelod, Kuta Utara, Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp15.000; Diskon 40%; Diskon 50%; Diskon 30%; Diskon Rp30.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C6EYJ74FVP6WBA"
  },
  {
@@ -302,6 +337,7 @@
   "address": "Jl. Raya Kerobokan No. 888 (Depan Buki Bali), Kerobokan Kelod, Kuta Utara, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-CZDGNXE2GFNBLN"
  },
  {
@@ -320,6 +356,7 @@
   "address": "Jalan Taman Sari Pcv, Gg. 9 No.1,Lusiana'S Kitchen, Kerobokan Kelod, Kuta Utara,  Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp25.000; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C2ECTCKFJ6KVPE"
  },
  {
@@ -337,6 +374,7 @@
   "address": "Jl. Toyaning II No. 10X, Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C4LHMFAFRZDUMA"
  },
  {
@@ -355,6 +393,7 @@
   "address": "Jl. Raya Canggu, Tibubeneng, Kuta Utara, Badung. New Shorcut, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7T2V3VCAELCNJ"
  },
  {
@@ -370,6 +409,7 @@
   "address": "Jl. Raya Uluwatu No.82 (Samping Warung Manna - Big Noodle) Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-CZJUNBWZGN4UAT"
  },
  {
@@ -378,7 +418,7 @@
   "branch_name": "Ungasan",
   "grabfood_url": "https://food.grab.com/id/en/restaurant/pad-thai-at-bali-ungasan-delivery/6-C2EATU6DJX5HA2",
   "grab_rating": 4.7,
-  "grab_votes": 889,
+  "grab_votes": 890,
   "cuisine": [
    "Masakan Thailand",
    "Pad Thai"
@@ -386,6 +426,7 @@
   "address": "Jl. Raya Uluwatu No. 13A Rt. 999/ Rw. 999, Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C2EATU6DJX5HA2"
  },
  {
@@ -404,6 +445,7 @@
   "address": "JI. Raya Gadon No. 105 (Sebelah Ganesha Education Bali, Near Ganesha), Kerobokan Kaja,  Kerobokan kaja, Badung,Bali, 80363",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon 30%; Diskon Rp30.000; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C662HBVDCA2WEJ"
  },
  {
@@ -420,6 +462,7 @@
   "address": "Jl. Raya Kerobokan, (Di Dekat Klinik Dwi Karya Usadha), Kerobokan, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C6LTVLEFRJB1LT"
  },
  {
@@ -437,6 +480,7 @@
   "address": "Jl. Uluwatu No. 88, (12M Dari Bread Basket | Breakfast And Bakery), Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp25.000; Diskon Rp15.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C2KDLXKJRFB3CT"
  },
  {
@@ -455,6 +499,7 @@
   "address": "Jl. Uluwatu No.200 (Di Sebelah Magazin Nirmala), Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C3UVGGC3NRAYR6"
  },
  {
@@ -473,6 +518,7 @@
   "address": "Jl. Pura Masuka, (Sebelah warung sembako lokal), Ungasan, Kec. Kuta Sel., Kabupaten Badung, Uluwatu, Bali 80362, 80362",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C643R3CZMBWDNJ"
  },
  {
@@ -491,6 +537,7 @@
   "address": "Jl. Subak Canggu (Di Dekat Oka'S Day Spa & Salon), Canggu, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon 40%; Diskon Rp30.000; Diskon Rp25.000; Diskon Rp15.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6VYFAEBWBCWGT"
  },
  {
@@ -509,6 +556,7 @@
   "address": "Jl. Uluwatu No. 75X (Sebelah Wr. Nasi Bali Bu Angga), Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C3NZR3VJEK4AAJ"
  },
  {
@@ -526,6 +574,7 @@
   "address": "Jl. Raya Uluwatu No. 88, Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon pengantaran Rp8rb",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C3TBG7A2KEDXJJ"
  },
  {
@@ -544,6 +593,7 @@
   "address": "AUSSIE Smash Burger - Kerobokan Kelod, Jalan Raya Kerobokan, 80361 (Resto Paling depan sebelah kanan pintu masuk pasar.), Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7XACY6ZC3D2VN"
  },
  {
@@ -561,6 +611,7 @@
   "address": "Jl. Raya Uluwatu No. 9, Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp25.000; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-CY21C63JJKL2LA"
  },
  {
@@ -578,6 +629,7 @@
   "address": "Jl. Uluwatu No.138A (Sidewalk Jimbaran Gf), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon 40%; Diskon Rp30.000; Diskon Rp25.000; Diskon Rp15.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6NDLN21EYL2RT"
  },
  {
@@ -594,6 +646,7 @@
   "address": "Jl. Toya Ning II No.99 (Google map = Lily Rose Patisserie & Eatery), Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon 30%; Diskon Rp15.000; Diskon 50%; Diskon Rp30.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C2AYNBDYME3DL2"
  },
  {
@@ -612,6 +665,7 @@
   "address": "Jl. Uluwatu St No. 99X (Di Dekat 8 Oz Coffee Bali), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C64DJZJ3DFWDEN"
  },
  {
@@ -628,6 +682,7 @@
   "address": "Jl. Raya Uluwatu No.138A (Sidewalk (Ground Floor, Sebelah Dairy Queen)), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp20.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C6XYUELUC2JUTX"
  },
  {
@@ -646,6 +701,7 @@
   "address": "Jl. Raya Gadon (Steakghost ,Grilled,Pasta And Burger - Canggu), Kerobokan Kaja, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon 40%; Diskon Rp30.000; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C7MERAT1T8CWCN"
  },
  {
@@ -662,6 +718,7 @@
   "address": "Jl. Bali Cliff, Ungasan, Kuta Selatan, Badung. Warung Bu Dani, 80361",
   "city": "Bali",
   "grab_promo": "Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp30.000; Diskon 50%; Diskon Rp25.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C7WJNALFLFV3A2"
  },
  {
@@ -680,6 +737,7 @@
   "address": "Jl. Uluwatu No. 138A (Sidewalk Jimbaran Gf), Ungasan, Kuta Selatan, Badung",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6NHBF2CEN3HEE"
  },
  {
@@ -698,6 +756,7 @@
   "address": "Jl. Raya Kerobokan Canggu No. 108, (Toko Kue Custom Dan Roti Eveva Cake Tart & Bakery Bali), Kerobokan, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon Rp20.000; Diskon 50%; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C64FC4LECUJ2RN"
  },
  {
@@ -716,6 +775,7 @@
   "address": "Jl. Raya Gadon No. 105, Kerobokan Kaja, Kuta Utara, Badung. Ji.Beluran, Pas Di Tikungan, Sebelah Ganesha School, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon 30%; Diskon Rp30.000; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7WBLF4YBEDJT2"
  },
  {
@@ -733,6 +793,7 @@
   "address": "Jl. Toyaning Ii - Ungasan (Di Depan Monday Coworking - Peyia Restoran Warna Oranje), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C65DCBJWUF6EJ2"
  },
  {
@@ -751,6 +812,7 @@
   "address": "Jl. Raya Uluwatu (Dekat Warung Kude, Warung Kude), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6BZLEEEHCEUHE"
  },
  {
@@ -769,6 +831,7 @@
   "address": "Jl. Ry Kesambi, Gg. Permatasari Block Ii No. 5 (Rumah No 5 Gerbang Warna Hitam), Kerobokan, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon 40%; Diskon Rp30.000; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6UBL2XWRYMVCA"
  },
  {
@@ -786,6 +849,7 @@
   "address": "Sidewalk Jimbaran, Jl. Raya Uluwatu No. 138A, (Didalam Sidewalk Jimbaran), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp25.000; Diskon Rp15.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C632AJEDJK41C6"
  },
  {
@@ -802,6 +866,7 @@
   "address": "Jl. Raya Uluwatu No.68 (Di Dekat Winter Cafe),  Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7KJGPDXGE2XGN"
  },
  {
@@ -819,6 +884,7 @@
   "address": "Jl. Uluwatu No.72 (40 Meter Dari Le Petit Warung - Ungasan), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp8.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C6DCRB23UEDTEE"
  },
  {
@@ -836,6 +902,7 @@
   "address": "Jl Pura Masuka No 7b (Sebelah toko sembako lokal), Ungasan, Kuta Selatan, Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp25.000; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7DAAA6KHCJFA6"
  },
  {
@@ -854,6 +921,7 @@
   "address": "Jl. Raya Uluwatu No. 99X, Pecatu, Kuta Selatan, Badung. Dekat Nui Healthy Food Salad, Protein, Sandwich - Ungasan, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7XTTADFTF52EE"
  },
  {
@@ -871,6 +939,7 @@
   "address": "Warung Jantung Pisang, Jl. Toya Ning II, Banjar Bakung Sari, Desa Ungasan, Kec. Kuta Selatan, Bali 80361 (Depan Krisna Silver Class), Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C65EJATFR6CFGE"
  },
  {
@@ -889,6 +958,7 @@
   "address": "Jl. Melasti No. 18 (Br. Kelod No.18, Cafe Oliviia), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp25.000; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C7BXRTNVDBUJJ6"
  },
  {
@@ -907,6 +977,7 @@
   "address": "Jl. Raya Uluwatu No. 13C (Di Sebelah Pad Thai At Bali), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6XVLTJAJPW2CX"
  },
  {
@@ -925,6 +996,7 @@
   "address": "Jl. Pura Batu Pageh No. 39 A, Rt. 999 / Rw. 999, (Disamping Anugrah Laundry), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C65JL63JAALCJX"
  },
  {
@@ -940,6 +1012,7 @@
   "address": "Jl. Raya Uluwatu Pecatu, Ungasan, Kuta Selatan, Badung. Setelah Nourish, Uluwatu, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6XCT8EAT32XKA"
  },
  {
@@ -958,6 +1031,7 @@
   "address": "Jl. Bumbak Dauh No. 3A, Kerobokan, Kuta Utara, Badung. Disebelah Asia Pacific Medical Centre, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C7T2V3VCAT4BCT"
  },
  {
@@ -973,6 +1047,7 @@
   "address": "Jl. Pengubengan Kauh No. 9, Kerobokan Kelod, Kuta Utara, Badung. Di Sebelah Mr. King Laundry, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C76FRLKVA32BPA"
  },
  {
@@ -991,6 +1066,7 @@
   "address": "Jl. Pura Batu Pageh No.14, Ungasan, Kec. Kuta Sel., Kabupaten Badung, Bali 80361 (Ruko B)",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C7ETV23ZRKVZL6"
  },
  {
@@ -1007,6 +1083,7 @@
   "address": "Pecatu Food Court, Jl. Raya Uluwatu No. 99, Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon 30%; Diskon Rp30.000; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C76FLE51LZJHJN"
  },
  {
@@ -1025,6 +1102,7 @@
   "address": "Jl. Raya Uluwat No. 93, Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp25.000; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7JUA63DA6JJFA"
  },
  {
@@ -1042,6 +1120,7 @@
   "address": "Jl. Merak (Perum Ungasan Permai, Ruko Nomor 2), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C642BBTFVFC3AX"
  },
  {
@@ -1060,6 +1139,7 @@
   "address": "Jl. Raya Uluwatu No. 138A (Di Area Sidewalk Jimbaran), Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C34DBCACVRKXN2"
  },
  {
@@ -1077,6 +1157,7 @@
   "address": "Jl. Languikauh (Makan Yok - Ungasan), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon 40%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C7LTVXDURY4JBA"
  },
  {
@@ -1094,6 +1175,7 @@
   "address": "Jl. Uluwatu St (Di Sebelah Indomaret Uluwatu Ungasan), Jimbaran, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Hingga 15% diskon; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp20.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C653N2WJVB4DWA"
  },
  {
@@ -1112,6 +1194,7 @@
   "address": "Jl. Uluwatu No. 8 (di samping Hungry Hunt Burger and Hotdog Uluwatu), Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon Rp20.000; Diskon 50%; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C26XKANEJ75TJJ"
  },
  {
@@ -1129,6 +1212,7 @@
   "address": "Jl. Raya Uluwatu, Rt 999 / Rw 999, (Didalam Area Nirmala Supermarket Ungasan), Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C3TCAKABENLYL2"
  },
  {
@@ -1146,6 +1230,7 @@
   "address": "Jl. Pura Batu Pageh No.4 (Dekat Nirmala), Ungasan, Kuta Selatan, Badung, Bali, Badung, 80362",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C3BYGFEYE2XJRE"
  },
  {
@@ -1163,6 +1248,7 @@
   "address": "Jl. Raya Uluwatu Pecatu, Ungasan, Kuta Selatan, Badung. Pecatu Food Center, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp15.000; Diskon pengantaran Rp5.000; Diskon Rp30.000; Diskon 40%; Diskon 30%",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C7WFTANCWGDCCJ"
  },
  {
@@ -1180,6 +1266,7 @@
   "address": "Jl. Raya Uluwatu Pecatu No. 999 (Nomalish Smoothie Bowl - Ungasan), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 20%; Diskon Rp15.000; Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6CGEYEHTUAJFA"
  },
  {
@@ -1198,6 +1285,7 @@
   "address": "Perumahan Korji Terrace D6, No. 999, Jl. Merak (Artobag Bali), Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C3CJL6MHAEKCDA"
  },
  {
@@ -1214,6 +1302,7 @@
   "address": "Jl. Pangkung Sari No. 2, Kerobokan Kelod, Kuta Utara, Badung. Pertokoan Beraban, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon Rp30.000; Diskon 40%; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8AEJ7XFEXTWJN"
  },
  {
@@ -1232,6 +1321,7 @@
   "address": "Jl. Raya Uluwatu Pecatu, Ungasan, Kuta Selatan, Badung. Pecatu Food Center, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp15.000; Diskon 40%; Diskon 50%; Diskon 30%; Diskon Rp30.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7WTT8JYT2MKRE"
  },
  {
@@ -1250,6 +1340,7 @@
   "address": "Jl. Uluwatu, Elies Restaurant, Ungasan, Kuta Selatan, Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp25.000; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6NBVP5XRUMVEA"
  },
  {
@@ -1267,6 +1358,7 @@
   "address": "Btn Canggu Permai, Jl. Karang Suwung No. 999 (Toko Bahari Grosir - Tibubeneng), Tibubeneng, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 30%; Diskon 40%; Diskon Rp15.000; Diskon 50%; Diskon Rp30.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7EUEAL1A3ATBA"
  },
  {
@@ -1285,6 +1377,7 @@
   "address": "Jl. Raya Kerobokan No. 180 (Di Dekat Aneka Kreasi Bali ( Krey Bambu )), Kerobokan Kelod, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C6LZALDEDE62VA"
  },
  {
@@ -1301,6 +1394,7 @@
   "address": "Jl. Bali Cliff No. 4, (Di Depan Embun Natural), Ungasan, Kuta Selatan, Badung, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C2CALCBBLFBCLE"
  },
  {
@@ -1319,6 +1413,7 @@
   "address": "Jl. Petitenget No. 108, Kerobokan Kelod, Kuta Utara, Badung. Di Frestro Petitenget, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon 30%; Diskon 20%; Diskon Rp30.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8BGAJT1CFAJGN"
  },
  {
@@ -1336,6 +1431,7 @@
   "address": "Jl. Uluwatu (Warung Pecel Nganjuk Ungasan), Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp30.000; Diskon Rp25.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C6NVGVKJV32ZKA"
  },
  {
@@ -1354,6 +1450,7 @@
   "address": "Jl. Giri Dharma Camplik, Ungasan, Kuta Selatan, Badung. Near Kost Pak Sugita, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp15.000; Diskon 40%; Diskon 50%; Diskon 30%; Diskon Rp30.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7VWG7MXMCJARN"
  },
  {
@@ -1372,6 +1469,7 @@
   "address": "Jl. Petitenget No. 21, Kerobokan Kelod, Kuta Utara, Badung. Didekat Marc Hotel, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7XDR4CGJ76BTX"
  },
  {
@@ -1387,6 +1485,7 @@
   "address": "Jl. Gn T Perahu, Kerobokan Kelod, Kuta Utara, Badung. Lepicery Bali - Kerobokan Kelod, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000; Diskon pengantaran Rp5.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C76USEUGE6MANJ"
  },
  {
@@ -1402,6 +1501,7 @@
   "address": "Jl. Babakan Sari, Gg. Cendrawasih Pedungan No. 20, Pedungan, Denpasar Selatan, Denpasar, 80222",
   "city": "Bali",
   "grab_promo": "Diskon Rp15.000; Diskon 40%; Diskon 50%; Diskon 30%; Diskon Rp30.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8DYHFTJEZAFCX"
  },
  {
@@ -1420,6 +1520,7 @@
   "address": "Jl. Raya Kerobokan No.88 Br. Campuan, Kerobokan, Kuta utara, Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 40%; Diskon 30%; Diskon Rp15.000; Diskon 50%",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C32EA26VA3E1L6"
  },
  {
@@ -1437,6 +1538,7 @@
   "address": "Malino Thai Tea Cheesy - Kerobokan Kelod, Jl. Teuku Umar Barat, Halaman Alfamart Teuku Umar Barat 2 seberang pom bensin, Kerobokan Kelod, Kuta Utara, Badung, Bali, 80361 (Halaman Alfamart Teuku Umar Barat 2, seberang pom bensin)",
   "city": "Bali",
   "grab_promo": "Diskon Rp15.000; Diskon 50%; Diskon Rp30.000; Diskon 40%; Diskon pengantaran Rp5.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8CDNULEGJB2E6"
  },
  {
@@ -1452,7 +1554,26 @@
   "address": "Jl. Merthanadi No. 57, Kerobokan Kelod, Kuta Utara, Badung. Trebaci Pastry, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon Rp25.000; Diskon 50%; Diskon Rp20.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7TAUATFNUNXEN"
+ },
+ {
+  "name": "ORIGINAL UFO BURGER - Mertanadi Square",
+  "chain_name": "ORIGINAL UFO BURGER",
+  "branch_name": "Mertanadi Square",
+  "grabfood_url": "https://food.grab.com/id/en/restaurant/original-ufo-burger-mertanadi-square-delivery/6-C6XKCNWVCRKEEE",
+  "grab_rating": 2,
+  "grab_votes": 3,
+  "cuisine": [
+   "Masakan Prancis",
+   "Kentang Goreng",
+   "Jus"
+  ],
+  "address": "Mertanadi Square, Blok B1, Jl. Mertanadi, No. 31, (Disatu Area Dengan Food Factory Original, Kerobokan), Kerobokan Kelod, Kuta Utara, Badung, 80361",
+  "city": "Bali",
+  "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
+  "grab_merchant_id": "6-C6XKCNWVCRKEEE"
  },
  {
   "name": "L'Antika Pizza -  Ungasan",
@@ -1468,6 +1589,7 @@
   "address": "Jl. Bali Cliff, Ungasan, Kuta Selatan, Badung . Warung Bu Dani, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp20.000; Diskon Rp25.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7WJNKK3LTTZPE"
  },
  {
@@ -1484,6 +1606,7 @@
   "address": "Jl. Goa Gongungasan, Jimbaran, Kuta Selatan, Badung. Pondok Kuliner Babi Bali- Jimbaran, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C722JXDFVJ4JGJ"
  },
  {
@@ -1501,7 +1624,42 @@
   "address": "Jl. Batu Nunggul No. 2, Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp8.000; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7NFJ8E3JP5YBE"
+ },
+ {
+  "name": "Ayam Geprek Crunches - Kerobokan",
+  "chain_name": "Ayam Geprek Crunches",
+  "branch_name": "Kerobokan",
+  "grabfood_url": "https://food.grab.com/id/en/restaurant/ayam-geprek-crunches-kerobokan-delivery/6-C8DUGJUHHFC2FE",
+  "grab_rating": 2,
+  "grab_votes": 1,
+  "cuisine": [
+   "Masakan Jawa",
+   "Ayam Penyet"
+  ],
+  "address": "Jl. Sunset Road No. 27X, Kerobokan Kelod, Kuta Utara, Badung. Depan Trans Resort Seminyak Bakmi Dan Bubur Ayam Djie Tjap - Kerobokan Kelod, 80361",
+  "city": "Bali",
+  "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
+  "detail_scraped": true,
+  "grab_merchant_id": "6-C8DUGJUHHFC2FE"
+ },
+ {
+  "name": "NASI TEMPONG BU RIRIN - Kerobokan Kelod",
+  "chain_name": "Nasi Tempong Bu Ririn",
+  "branch_name": "Kerobokan Kelod",
+  "grabfood_url": "https://food.grab.com/id/en/restaurant/nasi-tempong-bu-ririn-kerobokan-kelod-delivery/6-C8CJUENBNXBEAA",
+  "grab_rating": 2,
+  "grab_votes": 1,
+  "cuisine": [
+   "Masakan Jawa",
+   "Ayam Penyet"
+  ],
+  "address": "Jl. Raya Kerobokan, Kerobokan Kelod, Kuta Utara, Badung. Taman Suar Kerobokan, 80361",
+  "city": "Bali",
+  "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
+  "detail_scraped": true,
+  "grab_merchant_id": "6-C8CJUENBNXBEAA"
  },
  {
   "name": "Bancone Pasta - Umalas",
@@ -1516,6 +1674,7 @@
   "address": "Jl. Umalas 1, Kerobokan Kelod, Kuta Utara, Badung. Di Dekat Warung Italia Seminyak, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 40%; Diskon 50%; Diskon Rp8.000; Diskon Rp30.000; Diskon pengantaran Rp5.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C75XG2U1V2X1CE"
  },
  {
@@ -1533,6 +1692,7 @@
   "address": "Jl. Raya Kerobokan, Kerobokan Kelod, Kuta Utara, Badung. Denpasar, Di Dekat Warmindo Seminyak, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp30.000; Diskon 50%; Diskon Rp10.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7UBLCNYTLLDA2"
  },
  {
@@ -1549,6 +1709,7 @@
   "address": "Jl. Raya Kerobokan No. 14, Kerobokan Kelod, Kuta Utara, Badung. Di Depan Frestive Kerobokan, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C753LBUGG251RE"
  },
  {
@@ -1567,39 +1728,8 @@
   "address": "Second Bite - Ungasan, Jl. Raya Uluwatu No. 99X, Ungasan, Kuta Selatan, Badung. Nama Toko Second Bite, 80361 (di Second Bite), Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp5.000; Hingga 15% diskon; Menu dengan diskon; Diskon Rp10rb",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8DFEXN2EVATET"
- },
- {
-  "name": "Ayam Geprek Crunches - Kerobokan",
-  "chain_name": "Ayam Geprek Crunches",
-  "branch_name": "Kerobokan",
-  "grabfood_url": "https://food.grab.com/id/en/restaurant/ayam-geprek-crunches-kerobokan-delivery/6-C8DUGJUHHFC2FE",
-  "grab_rating": null,
-  "grab_votes": null,
-  "cuisine": [
-   "Masakan Jawa",
-   "Ayam Penyet"
-  ],
-  "address": "Jl. Sunset Road No. 27X, Kerobokan Kelod, Kuta Utara, Badung. Depan Trans Resort Seminyak Bakmi Dan Bubur Ayam Djie Tjap - Kerobokan Kelod, 80361",
-  "city": "Bali",
-  "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
-  "grab_merchant_id": "6-C8DUGJUHHFC2FE"
- },
- {
-  "name": "NASI TEMPONG BU RIRIN - Kerobokan Kelod",
-  "chain_name": "Nasi Tempong Bu Ririn",
-  "branch_name": "Kerobokan Kelod",
-  "grabfood_url": "https://food.grab.com/id/en/restaurant/nasi-tempong-bu-ririn-kerobokan-kelod-delivery/6-C8CJUENBNXBEAA",
-  "grab_rating": null,
-  "grab_votes": null,
-  "cuisine": [
-   "Masakan Jawa",
-   "Ayam Penyet"
-  ],
-  "address": "Jl. Raya Kerobokan, Kerobokan Kelod, Kuta Utara, Badung. Taman Suar Kerobokan, 80361",
-  "city": "Bali",
-  "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
-  "grab_merchant_id": "6-C8CJUENBNXBEAA"
  },
  {
   "name": "Es Kacang Bu Lia - Kuta Selatan",
@@ -1616,6 +1746,7 @@
   "address": "Jl. Raya Uluwatu Pecatu, Gg. Bendesa II No. 252 (Es Kacang Bu Lia) Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C2AFT251RANBRE"
  },
  {
@@ -1631,6 +1762,7 @@
   "address": "Jl. Balangan Beach Ii No. 211, Ungasan, Kuta Selatan, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C7W1L8EAVPDFBE"
  },
  {
@@ -1648,6 +1780,7 @@
   "address": "Jl. Sunset Road No. 88 - 89 (Samping BURGER KING, Sunset Point Hotel), Kerobokan, Kuta Utara, Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp15.000; Diskon 40%; Diskon 50%; Diskon 30%; Diskon Rp30.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C62TJ25GTUDUJ6"
  },
  {
@@ -1663,6 +1796,7 @@
   "address": "Jl. Sunset Road No. 100Xb, Kerobokan Kelod, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon pengantaran Rp4.000; Diskon pengantaran Rp5.000; Hingga 15% diskon",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8DFVN4YNKCATT"
  },
  {
@@ -1681,6 +1815,7 @@
   "address": "Jl. Raya Uluwatu, Ungasan, Kuta Selatan, Badung. Sung Express Laundry Ungasan, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C76VTEXKTCDJCJ"
  },
  {
@@ -1699,6 +1834,7 @@
   "address": "Jl. Bidadari, Kerobokan Kelod, Kuta Utara, Badung. Eka Cell Kerobokan Kelod, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C76HJ6WAA35BRN"
  },
  {
@@ -1714,6 +1850,7 @@
   "address": "Jl. Kuwum I, No. 12A, Kerobokan Kelod, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon pengantaran Rp4.000; Diskon pengantaran Rp5.000; Hingga 15% diskon",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8C1JYEDAEMUGE"
  },
  {
@@ -1729,6 +1866,7 @@
   "address": "Jl. Muding Buit, Gg. Ramayana B No. 4, Kerobokan, Kuta Utara, Badung. Kaja, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8BZNKABBCLHNJ"
  },
  {
@@ -1744,24 +1882,8 @@
   "address": "Sunset Point Shopping Centre, Jl. Sunset Road, Kerobokan Kelod, Kuta Utara, Badung. Lobby, 80361",
   "city": "Bali",
   "grab_promo": "Diskon pengantaran Rp4.000; Diskon pengantaran Rp5.000; Hingga 15% diskon",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8EAUEM2C3XAEX"
- },
- {
-  "name": "ORIGINAL UFO BURGER - Mertanadi Square",
-  "chain_name": "ORIGINAL UFO BURGER",
-  "branch_name": "Mertanadi Square",
-  "grabfood_url": "https://food.grab.com/id/en/restaurant/original-ufo-burger-mertanadi-square-delivery/6-C6XKCNWVCRKEEE",
-  "grab_rating": null,
-  "grab_votes": null,
-  "cuisine": [
-   "Masakan Prancis",
-   "Kentang Goreng",
-   "Jus"
-  ],
-  "address": "Mertanadi Square, Blok B1, Jl. Mertanadi, No. 31, (Disatu Area Dengan Food Factory Original, Kerobokan), Kerobokan Kelod, Kuta Utara, Badung, 80361",
-  "city": "Bali",
-  "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
-  "grab_merchant_id": "6-C6XKCNWVCRKEEE"
  },
  {
   "name": "Spice Queen by netta - Kerobokan Kelod",
@@ -1778,6 +1900,7 @@
   "address": "Jl. Petitenget No. 115, Kerobokan Kelod, Kuta Utara, Badung. Di Dekat Tasmi Tasmo Cv, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000; Diskon Rp10.000",
+  "detail_scraped": false,
   "grab_merchant_id": "6-C8B3A76DTK2FE6"
  },
  {
@@ -1793,24 +1916,8 @@
   "address": "Jl. Raya Kerobokan, Burn Smash Burger Indian food, Kerobokan Kelod, Kuta Utara, Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C76XNZLCLEW3C6"
- },
- {
-  "name": "Taco Beach Grill Mexican Tacos - Kerobokan Kelod",
-  "chain_name": "Taco Beach Grill Mexican Tacos",
-  "branch_name": "Kerobokan Kelod",
-  "grabfood_url": "https://food.grab.com/id/en/restaurant/taco-beach-grill-mexican-tacos-kerobokan-kelod-delivery/6-CY22FE3YALEJHA",
-  "grab_rating": null,
-  "grab_votes": null,
-  "cuisine": [
-   "Masakan Meksiko",
-   "Tako",
-   "Burrito"
-  ],
-  "address": "Jl. Pengubengan Kauh, No. 8, (Seberang Menik restoran), Kerobokan Kelod, Kuta Utara, Badung, Bali, 80363",
-  "city": "Bali",
-  "grab_promo": "Diskon Rp15.000; Diskon 40%; Diskon 50%; Diskon 30%; Diskon Rp30.000",
-  "grab_merchant_id": "6-CY22FE3YALEJHA"
  },
  {
   "name": "Warung Darlin' Special Nasi Uduk - Kerobokan Kelod",
@@ -1825,6 +1932,7 @@
   "address": "Jl. Merta Agung No. 55X, Kerobokan Kelod, Kuta Utara, Badung. Warung Darlin, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8CHVUADV76HUE"
  },
  {
@@ -1841,6 +1949,7 @@
   "address": "Jl. Uluwatu No. 100, Ungasan, Kuta Selatan, Badung. Dekat Bebek Amel Surabaya Cabang Ungasan Ungasan, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon pengantaran Rp5.000; Diskon pengantaran Rp4.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8DVTGKHHBCBNE"
  },
  {
@@ -1859,6 +1968,7 @@
   "address": "Jl. Petitenget No.69, Set Point Seminyak, Kerobokan Kelod, Kuta Utara, Badung, Bali, 80361",
   "city": "Bali",
   "grab_promo": "Diskon Rp15.000; Diskon 40%; Diskon 50%; Diskon 30%; Diskon pengantaran Rp5.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8CYLJX1ECKFAJ"
  },
  {
@@ -1875,6 +1985,7 @@
   "address": "Jl. Merta Sari, Gg. Mangga Besar, No. 23, Kerobokan Kelod, Kuta Utara, Badung. Near Diyan Tempong - Kerobokan Kelod, Kost Nomer 22, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C72FA4DGCJJBEN"
  },
  {
@@ -1891,6 +2002,7 @@
   "address": "Jl. Intan Permai No. 9, Kerobokan Kelod, Kuta Utara, Badung, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8CGWFCHVPLUTA"
  },
  {
@@ -1907,6 +2019,7 @@
   "address": "Jl. Merta Sari Gg. Mangga Besar No. 23 Rt. 999 / Rw. 999, Kerobokan Kelod, Kuta Utara, Badung. Dewata Law Firm Kerobokan Kelod, 80361",
   "city": "Bali",
   "grab_promo": "Diskon 50%; Diskon Rp30.000; Diskon Rp10.000; Diskon Rp20.000; Diskon Rp25.000",
+  "detail_scraped": true,
   "grab_merchant_id": "6-C8ADVVDCEY3UEE"
  }
 ]
