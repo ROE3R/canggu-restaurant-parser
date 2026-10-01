@@ -1,0 +1,787 @@
+name,grabfood_url,grab_rating,grab_votes,cuisine,address,grab_ads,grab_promo,match_confidence,data_notes
+Steak Town - Signature Grilled and Butcher - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/steak-town-signature-grilled-and-butcher-kerobokan-kaja-delivery/6-C7MERAT1T8CWCN,4.4,458,,"Jl. Raya Gadon (Steakghost ,Grilled,Pasta And Burger - Canggu), Kerobokan Kaja, Kuta Utara, Badung, 80361",no,yes,grab_only,grab_only_no_maps_match
+Pasta Bar - Tibubeneng,https://food.grab.com/id/en/restaurant/pasta-bar-tibubeneng-delivery/6-C2CHN32KHEDUAX,4.7,1681,,"Jl. Tegal Sari No.3, Tibubeneng, Kuta Utara, Bali, Badung, 80361",no,yes,grab_only,grab_only_no_maps_match
+Beer Store - Tibubeneng,https://food.grab.com/id/en/restaurant/beer-store-tibubeneng-delivery/6-C7EUEAL1A3ATBA,4.2,22,,"Btn Canggu Permai, Jl. Karang Suwung No. 999 (Toko Bahari Grosir - Tibubeneng), Tibubeneng, Kuta Utara, Badung, 80361",no,yes,grab_only,grab_only_no_maps_match
+Eveva Cake Tart & Bakery Bali - Kerobokan,https://food.grab.com/id/en/restaurant/eveva-cake-tart-bakery-bali-kerobokan-delivery/6-C64FC4LECUJ2RN,4.8,395,,"Jl. Raya Kerobokan Canggu No. 108, (Toko Kue Custom Dan Roti Eveva Cake Tart & Bakery Bali), Kerobokan, Kuta Utara, Badung, 80361",no,yes,grab_only,grab_only_no_maps_match
+Nanasans Tandoori Kitchen - Tibubeneng,https://food.grab.com/id/en/restaurant/nanasans-tandoori-kitchen-tibubeneng-delivery/6-C3DJGCL1BBUCUA,4.7,1373,,"Jl. Raya Canggu No. 10c (Disebelah Citra Mulya Plastik Canggu), Tibubeneng, Kuta Utara, Badung, Badung, 80361",no,yes,grab_only,grab_only_no_maps_match
+PORKLAB - Pedungan,https://food.grab.com/id/en/restaurant/porklab-pedungan-delivery/6-C8DYHFTJEZAFCX,5,5,,"Jl. Babakan Sari, Gg. Cendrawasih Pedungan No. 20, Pedungan, Denpasar Selatan, Denpasar, 80222",no,yes,grab_only,grab_only_no_maps_match
+"Healthy Fit (Bowl, Pasta, Salad, Wrap), Bali - Canggu",https://food.grab.com/id/en/restaurant/healthy-fit-bowl-pasta-salad-wrap-bali-canggu-delivery/6-C65ZV62KVNEDPE,4.7,1572,,"Jl. Kubu Manyar No. 26 (Lima Spa Canggu), Canggu, Kuta Utara, Badung, Bali, 80363",no,yes,grab_only,grab_only_no_maps_match
+Sate Ayam Ponorogo - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/sate-ayam-ponorogo-kerobokan-kelod-delivery/6-CZDGNXE2GFNBLN,4.6,1039,,"Jl. Raya Kerobokan No. 888 (Depan Buki Bali), Kerobokan Kelod, Kuta Utara, Badung, Badung, 80361",yes,,grab_only,grab_only_no_maps_match
+Warung Babi Guling Melem - Kerobokan,https://food.grab.com/id/en/restaurant/warung-babi-guling-melem-kerobokan-delivery/6-C6LTVLEFRJB1LT,4.8,720,,"Jl. Raya Kerobokan, (Di Dekat Klinik Dwi Karya Usadha), Kerobokan, Kuta Utara, Badung, 80361",yes,,grab_only,grab_only_no_maps_match
+SeIndonesia (Sei Sapi dan Ayam) - Kerobokan,https://food.grab.com/id/en/restaurant/seindonesia-sei-sapi-dan-ayam-kerobokan-delivery/6-C65KFBLECGLYG2,4.6,2538,,"Jl. Gunung Salak No. 183 (Sebelah kanan 69 Vape V2), Padangsambian Klod, Kec. Denpasar Barat, Kota Denpasar, Bali, 80117",no,,grab_only,grab_only_no_maps_match
+Chewy’s Dessert - Kerobokan,https://food.grab.com/id/en/restaurant/chewys-dessert-kerobokan-delivery/6-C7T2V3VCAT4BCT,4.9,166,,"Jl. Bumbak Dauh No. 3A, Kerobokan, Kuta Utara, Badung. Disebelah Asia Pacific Medical Centre, 80361",no,,grab_only,grab_only_no_maps_match
+Breakfast Club and Bowls - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/breakfast-club-and-bowls-kerobokan-kaja-delivery/6-C7WBLF4YBEDJT2,4.5,383,,"Jl. Raya Gadon No. 105, Kerobokan Kaja, Kuta Utara, Badung. Ji.Beluran, Pas Di Tikungan, Sebelah Ganesha School, 80361",no,,grab_only,grab_only_no_maps_match
+Domino's Pizza - Canggu Bali,https://food.grab.com/id/en/restaurant/domino-s-pizza-canggu-bali-delivery/6-C7ETGFJVGPXXEE,4.4,1421,,"Jl. Pantai Berawa No.150A, Tibubeneng, Kuta Utara, Badung, 80361",yes,,grab_only,grab_only_no_maps_match
+Il Forno Pizzeria Pizza - Tibubeneng,https://food.grab.com/id/en/restaurant/il-forno-pizzeria-pizza-tibubeneng-delivery/6-C4MTVCKKPA33R6,4.6,1621,,"Jl. Raya Semat Gg. Jalak XXI, Samping Warung Oemge dan Happy Cell , Canggu, Kuta Utara, Badung, Bali, 80361",yes,,grab_only,grab_only_no_maps_match
+Ayam Geprek Crunches - Kerobokan,https://food.grab.com/id/en/restaurant/ayam-geprek-crunches-kerobokan-delivery/6-C8DUGJUHHFC2FE,2,1,,"Jl. Sunset Road No. 27X, Kerobokan Kelod, Kuta Utara, Badung. Depan Trans Resort Seminyak Bakmi Dan Bubur Ayam Djie Tjap - Kerobokan Kelod, 80361",no,,grab_only,grab_only_no_maps_match
+NASI TEMPONG BU RIRIN - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/nasi-tempong-bu-ririn-kerobokan-kelod-delivery/6-C8CJUENBNXBEAA,2,1,,"Jl. Raya Kerobokan, Kerobokan Kelod, Kuta Utara, Badung. Taman Suar Kerobokan, 80361",no,,grab_only,grab_only_no_maps_match
+Wama Cafe - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/wama-cafe-kerobokan-kelod-delivery/6-C6LZALDEDE62VA,4,17,,"Jl. Raya Kerobokan No. 180 (Di Dekat Aneka Kreasi Bali ( Krey Bambu )), Kerobokan Kelod, Kuta Utara, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+"Ghost Pasta, Grilled , Asian Fushion - Kerobokan Kaja",https://food.grab.com/id/en/restaurant/ghost-pasta-grilled-asian-fushion-kerobokan-kaja-delivery/6-C662HBVDCA2WEJ,4.4,850,,"JI. Raya Gadon No. 105 (Sebelah Ganesha Education Bali, Near Ganesha), Kerobokan Kaja,  Kerobokan kaja, Badung,Bali, 80363",no,,grab_only,grab_only_no_maps_match
+Dolcemisu Tiramisu Coffee - Seminyak,https://food.grab.com/id/en/restaurant/dolcemisu-tiramisu-coffee-seminyak-delivery/6-C8AEJ7XFEXTWJN,4.9,31,,"Jl. Pangkung Sari No. 2, Kerobokan Kelod, Kuta Utara, Badung. Pertokoan Beraban, 80361",no,,grab_only,grab_only_no_maps_match
+FORK & FIRE - PIZZA HOUSE - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/fork-fire-pizza-house-kerobokan-kelod-delivery/6-C8BGAJT1CFAJGN,4.4,12,,"Jl. Petitenget No. 108, Kerobokan Kelod, Kuta Utara, Badung. Di Frestro Petitenget, 80361",no,,grab_only,grab_only_no_maps_match
+Lusianas Kitchen - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/lusianas-kitchen-kerobokan-kelod-delivery/6-C2ECTCKFJ6KVPE,4.8,1038,,"Jalan Taman Sari Pcv, Gg. 9 No.1,Lusiana'S Kitchen, Kerobokan Kelod, Kuta Utara,  Badung, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+Bancone Pasta - Umalas,https://food.grab.com/id/en/restaurant/bancone-pasta-umalas-delivery/6-C75XG2U1V2X1CE,5,1,,"Jl. Umalas 1, Kerobokan Kelod, Kuta Utara, Badung. Di Dekat Warung Italia Seminyak, 80361",no,,grab_only,grab_only_no_maps_match
+Pasta Mafia - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/pasta-mafia-kerobokan-kelod-delivery/6-C6EYJ74FVP6WBA,3.7,1115,,"Jl. Raya Sunset Road 88 (Depan Lobby Sans Hotel Sunset Point),  Kerobokan Kelod, Kuta Utara, Badung, Bali, 80361",no,,grab_only,grab_only_no_maps_match
+Brunch Club - Kerobokan,https://food.grab.com/id/en/restaurant/brunch-club-kerobokan-delivery/6-C62TJ25GTUDUJ6,,,,"Jl. Sunset Road No. 88 - 89 (Samping BURGER KING, Sunset Point Hotel), Kerobokan, Kuta Utara, Badung, Bali, 80361",no,,grab_only,grab_only_no_maps_match
+Long For Coffee - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/long-for-coffee-kerobokan-kelod-delivery/6-C8DFVN4YNKCATT,,,,"Jl. Sunset Road No. 100Xb, Kerobokan Kelod, Kuta Utara, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+ONENINE.19 - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/onenine-19-kerobokan-kelod-delivery/6-C76HJ6WAA35BRN,,,,"Jl. Bidadari, Kerobokan Kelod, Kuta Utara, Badung. Eka Cell Kerobokan Kelod, 80361",no,,grab_only,grab_only_no_maps_match
+RB Food Corner - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/rb-food-corner-kerobokan-kelod-delivery/6-C8C1JYEDAEMUGE,,,,"Jl. Kuwum I, No. 12A, Kerobokan Kelod, Kuta Utara, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+Dateri - Kerobokan,https://food.grab.com/id/en/restaurant/dateri-kerobokan-delivery/6-C8BZNKABBCLHNJ,,,,"Jl. Muding Buit, Gg. Ramayana B No. 4, Kerobokan, Kuta Utara, Badung. Kaja, 80361",no,,grab_only,grab_only_no_maps_match
+Joy Sushi - Tumbak Bayuh,https://food.grab.com/id/en/restaurant/joy-sushi-tumbak-bayuh-delivery/6-C7THAE6TJYWJRX,4.7,176,,"Jl. Raya Tumbakbayuh No. 999, Tumbak Bayuh, Mengwi, Badung. 3M Dari Izzi Kitchen - Tumbak Bayuh, 80351",no,,grab_only,grab_only_no_maps_match
+UNIBOWL POKEBOWL BALI - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/unibowl-pokebowl-bali-kerobokan-kelod-delivery/6-CZCAT2NYKETALT,4.8,5142,,"Jl. Bumbak No. 17 (Sebelah kanan Apotek Bumbak Medika), Kerobokan, Kerobokan Kelod, Kuta Utara, Badung, Bali 80361, Badung, 80361",yes,,grab_only,grab_only_no_maps_match
+Dewata Rice bowl - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/dewata-rice-bowl-kerobokan-kelod-delivery/6-C7UBLCNYTLLDA2,5,1,,"Jl. Raya Kerobokan, Kerobokan Kelod, Kuta Utara, Badung. Denpasar, Di Dekat Warmindo Seminyak, 80361",no,,grab_only,grab_only_no_maps_match
+Trebaci pattisserie - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/trebaci-pattisserie-kerobokan-kelod-delivery/6-C7TAUATFNUNXEN,5,3,,"Jl. Merthanadi No. 57, Kerobokan Kelod, Kuta Utara, Badung. Trebaci Pastry, 80361",no,,grab_only,grab_only_no_maps_match
+I am Miam - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/i-am-miam-kerobokan-kelod-delivery/6-C76USEUGE6MANJ,5,5,,"Jl. Gn T Perahu, Kerobokan Kelod, Kuta Utara, Badung. Lepicery Bali - Kerobokan Kelod, 80361",no,,grab_only,grab_only_no_maps_match
+Vancafe & Bakery - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/vancafe-bakery-kerobokan-kelod-delivery/6-C8EAUEM2C3XAEX,,,,"Sunset Point Shopping Centre, Jl. Sunset Road, Kerobokan Kelod, Kuta Utara, Badung. Lobby, 80361",no,,grab_only,grab_only_no_maps_match
+ORIGINAL UFO BURGER - Mertanadi Square,https://food.grab.com/id/en/restaurant/original-ufo-burger-mertanadi-square-delivery/6-C6XKCNWVCRKEEE,2,3,,"Mertanadi Square, Blok B1, Jl. Mertanadi, No. 31, (Disatu Area Dengan Food Factory Original, Kerobokan), Kerobokan Kelod, Kuta Utara, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+STUFFED - Kerobokan,https://food.grab.com/id/en/restaurant/stuffed-kerobokan-delivery/6-C6WZUGDZRF5KJN,4.8,4336,,"Jl. Bima Sena Gg. Europa (Villa Nicole Kerobokan, Villa Nicole), Kerobokan, Kuta Utara, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+Maridang Korean Cuisine - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/maridang-korean-cuisine-kerobokan-kelod-delivery/6-C73WBB2CNEMGDE,4.6,7,,"Lokasi pin (Jln. Petitenget No 15), Badung, Bali, 80361",no,,grab_only,grab_only_no_maps_match
+The Butter Beats Indian Restaurant & Bar - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/the-butter-beats-indian-restaurant-bar-kerobokan-kelod-delivery/6-C4KVTX5KJNTDCN,4.2,1370,,"Jl. Kayu Jati No. 5A (Disebelah Lotus Massage Therapy Seminyak), Kerobokan Kelod, Kuta Utara, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+Spice Queen by netta - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/spice-queen-by-netta-kerobokan-kelod-delivery/6-C8B3A76DTK2FE6,,,,"Jl. Petitenget No. 115, Kerobokan Kelod, Kuta Utara, Badung. Di Dekat Tasmi Tasmo Cv, 80361",no,,grab_only,grab_only_no_maps_match
+The Royal Tandoor Seminyak - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/the-royal-tandoor-seminyak-kerobokan-kelod-delivery/6-C8CCCY6JVAKKJ6,5,2018,,"Jl. Raya Kerobokan, Kerobokan Kelod, Kuta Utara, Badung. Indian Wok Dan Grill - Seminyak, 80361",no,,grab_only,grab_only_no_maps_match
+Indian Wok & Grill - Seminyak,https://food.grab.com/id/en/restaurant/indian-wok-grill-seminyak-delivery/6-C76XNZLCLEW3C6,,,,"Jl. Raya Kerobokan, Burn Smash Burger Indian food, Kerobokan Kelod, Kuta Utara, Badung, Bali, 80361",no,,grab_only,grab_only_no_maps_match
+"SANCHEZ MEXICAN - Burritos, tacos, nachos - Kerobokan Kelod",https://food.grab.com/id/en/restaurant/sanchez-mexican-burritos-tacos-nachos-kerobokan-kelod-delivery/6-C3EUNYLAGF5VEE,4.5,1156,,"Jl. Umalas II No. 26  (Sebelah Remix Juice Bali), Kerobokan Kelod, Kuta Utara, Badung, Badung, 80361",yes,,grab_only,grab_only_no_maps_match
+Mexicana Dirty Taco's - Seminyak,https://food.grab.com/id/en/restaurant/mexicana-dirty-taco-s-seminyak-delivery/6-C8AVNBEVVTT1LT,4.3,68,,"NASA Art, Jl. Batu Belig, 80361 (Seberang jalan Al-Qasar), Badung, Bali, 80361",yes,,grab_only,grab_only_no_maps_match
+Taco Beach Grill Mexican Tacos - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/taco-beach-grill-mexican-tacos-kerobokan-kelod-delivery/6-CY22FE3YALEJHA,3.1,1613,,"Jl. Pengubengan Kauh, No. 8, (Seberang Menik restoran), Kerobokan Kelod, Kuta Utara, Badung, Bali, 80363",no,,grab_only,grab_only_no_maps_match
+555 Thai - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/555-thai-kerobokan-kelod-delivery/6-C76FRLKVA32BPA,4.7,114,,"Jl. Pengubengan Kauh No. 9, Kerobokan Kelod, Kuta Utara, Badung. Di Sebelah Mr. King Laundry, 80361",no,,grab_only,grab_only_no_maps_match
+Malino Thai Tea Cheesy - Teuku Umar Barat,https://food.grab.com/id/en/restaurant/malino-thai-tea-cheesy-teuku-umar-barat-delivery/6-C8CDNULEGJB2E6,5,4,,"Malino Thai Tea Cheesy - Kerobokan Kelod, Jl. Teuku Umar Barat, Halaman Alfamart Teuku Umar Barat 2 seberang pom bensin, Kerobokan Kelod, Kuta Utara, Badung, Bali, 80361 (Halaman Alfamart Teuku Umar Barat 2, seberang pom bensin)",no,,grab_only,grab_only_no_maps_match
+Es Teler Cihuy 1 - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/es-teler-cihuy-1-kerobokan-kelod-delivery/6-C753LBUGG251RE,5,1,,"Jl. Raya Kerobokan No. 14, Kerobokan Kelod, Kuta Utara, Badung. Di Depan Frestive Kerobokan, 80361",no,,grab_only,grab_only_no_maps_match
+Warung Darlin' Special Nasi Uduk - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-darlin-special-nasi-uduk-kerobokan-kelod-delivery/6-C8CHVUADV76HUE,,,,"Jl. Merta Agung No. 55X, Kerobokan Kelod, Kuta Utara, Badung. Warung Darlin, 80361",no,,grab_only,grab_only_no_maps_match
+Nostimo Greek Grill - Seminyak,https://food.grab.com/id/en/restaurant/nostimo-greek-grill-seminyak-delivery/IDGFSTI00000q93,4.8,4044,,"Jl. Petitenget No.17, RT 99 RW 99, Kel. Kerobokan Kelod, Kec. Kuta Utara (Seberang Da Maria), Badung, 80361",yes,,grab_only,grab_only_no_maps_match
+Kebab Authentic 1920 - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/kebab-authentic-1920-kerobokan-kelod-delivery/6-C7XDR4CGJ76BTX,4.5,6,,"Jl. Petitenget No. 21, Kerobokan Kelod, Kuta Utara, Badung. Didekat Marc Hotel, 80361",no,,grab_only,grab_only_no_maps_match
+Turkish Kebab_ The yolcu - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/turkish-kebab_-the-yolcu-kerobokan-kelod-delivery/6-C8CYLJX1ECKFAJ,,,,"Jl. Petitenget No.69, Set Point Seminyak, Kerobokan Kelod, Kuta Utara, Badung, Bali, 80361",no,,grab_only,grab_only_no_maps_match
+The Resto Wrap And Salad - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/the-resto-wrap-and-salad-kerobokan-kelod-delivery/6-C72FA4DGCJJBEN,,,,"Jl. Merta Sari, Gg. Mangga Besar, No. 23, Kerobokan Kelod, Kuta Utara, Badung. Near Diyan Tempong - Kerobokan Kelod, Kost Nomer 22, 80361",no,,grab_only,grab_only_no_maps_match
+Cemal cemil kak Kin - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/cemal-cemil-kak-kin-kerobokan-kelod-delivery/6-C8CGWFCHVPLUTA,,,,"Jl. Intan Permai No. 9, Kerobokan Kelod, Kuta Utara, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+SIA SEAFOOD GRILL and BAR - Canggu,https://food.grab.com/id/en/restaurant/sia-seafood-grill-and-bar-canggu-delivery/6-C6VYFAEBWBCWGT,4.5,628,,"Jl. Subak Canggu (Di Dekat Oka'S Day Spa & Salon), Canggu, Kuta Utara, Badung, 80361",yes,,grab_only,grab_only_no_maps_match
+NASI HAINAN EIFFELYN - Kerobokan,https://food.grab.com/id/en/restaurant/nasi-hainan-eiffelyn-kerobokan-delivery/6-C32EA26VA3E1L6,4.5,5,,"Jl. Raya Kerobokan No.88 Br. Campuan, Kerobokan, Kuta utara, Badung, Bali, 80361",no,,grab_only,grab_only_no_maps_match
+BALKAN FOOD DELIVERY - Kerobokan,https://food.grab.com/id/en/restaurant/balkan-food-delivery-kerobokan-delivery/6-C6UBL2XWRYMVCA,4.4,337,,"Jl. Ry Kesambi, Gg. Permatasari Block Ii No. 5 (Rumah No 5 Gerbang Warna Hitam), Kerobokan, Kuta Utara, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+AUSSIE Smash Burger - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/aussie-smash-burger-kerobokan-kelod-delivery/6-C7XACY6ZC3D2VN,4.4,587,,"AUSSIE Smash Burger - Kerobokan Kelod, Jalan Raya Kerobokan, 80361 (Resto Paling depan sebelah kanan pintu masuk pasar.), Badung, Bali, 80361",no,,grab_only,grab_only_no_maps_match
+Warung Sate Madura Pa' Ayex - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-sate-madura-pa-ayex-kerobokan-kelod-delivery/IDGFSTI000026jq,4.6,3378,,"Jl. Tangkuban Perahu (Depan LP Kerobokan), Kerobokan Kelod, Kuta Utara, Badung, Badung, 80361",no,,grab_only,grab_only_no_maps_match
+SatuINDONESIA Kebuli - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/satuindonesia-kebuli-kerobokan-kelod-delivery/6-C8ADVVDCEY3UEE,,,,"Jl. Merta Sari Gg. Mangga Besar No. 23 Rt. 999 / Rw. 999, Kerobokan Kelod, Kuta Utara, Badung. Dewata Law Firm Kerobokan Kelod, 80361",no,,grab_only,grab_only_no_maps_match
+La Cucina Pizza & Pasta - Umalas,https://food.grab.com/id/en/restaurant/la-cucina-pizza-pasta-umalas-delivery/6-C7DWUF6DEADJT2,4.6,1465,,,yes,,grab_only,grab_only_no_maps_match
+Italian Pizza & Pasta - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/italian-pizza-pasta-kerobokan-kelod-delivery/6-C8D1GX5KEPN3EX,4.7,117,,,yes,,grab_only,grab_only_no_maps_match
+Italian Pizza & Pasta - Tumbakbayuh,https://food.grab.com/id/en/restaurant/italian-pizza-pasta-tumbakbayuh-delivery/6-C8DJMBX3LEJAC2,4.8,73,,,no,,grab_only,grab_only_no_maps_match
+"Hey, Italia! (Pizza, Pasta), Canggu - Jl. Pantai Batu Bolong",https://food.grab.com/id/en/restaurant/hey-italia-pizza-pasta-canggu-jl-pantai-batu-bolong-delivery/6-C7NWCBXTCX5ZNN,4.7,253,,,yes,,grab_only,grab_only_no_maps_match
+"PIZZA PALMA - Pasta, Sandwich, Italian pizza - Canggu",https://food.grab.com/id/en/restaurant/pizza-palma-pasta-sandwich-italian-pizza-canggu-delivery/6-C7MCTADJPAD1PA,4.9,321,,,no,,grab_only,grab_only_no_maps_match
+Noge Street Pizza - Tibubeneng,https://food.grab.com/id/en/restaurant/noge-street-pizza-tibubeneng-delivery/6-CYJ2TBLDERNVCX,4.4,1278,,,yes,,grab_only,grab_only_no_maps_match
+Cantina Classe - Canggu,https://food.grab.com/id/en/restaurant/cantina-classe-canggu-delivery/6-C4BYDB3EENMGGX,4.5,1035,,,yes,,grab_only,grab_only_no_maps_match
+Il Forno Pizzeria Pizza - Seseh,https://food.grab.com/id/en/restaurant/il-forno-pizzeria-pizza-seseh-delivery/6-C76BL22CSE6DWA,4.8,130,,,no,,grab_only,grab_only_no_maps_match
+"Hey, Pizza! - Canggu",https://food.grab.com/id/en/restaurant/hey-pizza-canggu-delivery/6-C74ZVLJCMEVDL2,4.8,18,,,yes,,grab_only,grab_only_no_maps_match
+Amante Pizzeria Pizza - Seseh,https://food.grab.com/id/en/restaurant/amante-pizzeria-pizza-seseh-delivery/6-C76XLEB2E7NXUA,4.9,94,,,no,,grab_only,grab_only_no_maps_match
+Shooters Burger & Pizza - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/shooters-burger-pizza-kerobokan-kelod-delivery/6-CYLBCJXAL2JDR2,4.4,487,,,no,,grab_only,grab_only_no_maps_match
+Il Forno Pizzeria Pizza - Canggu,https://food.grab.com/id/en/restaurant/il-forno-pizzeria-pizza-canggu-delivery/6-C63HUAMTEF3TEN,4.6,594,,,no,,grab_only,grab_only_no_maps_match
+Pizza Hut Delivery 'PHD' - Canggu Bali,https://food.grab.com/id/en/restaurant/pizza-hut-delivery-phd-canggu-bali-delivery/6-C72AV33CE76ZG2,4.4,256,,,no,,grab_only,grab_only_no_maps_match
+Louie’s New York Pizza - Canggu,https://food.grab.com/id/en/restaurant/louie’s-new-york-pizza-canggu-delivery/6-C7E1CLL1AFVTMA,4.5,468,,,yes,,grab_only,grab_only_no_maps_match
+L Osteria Pizza E Cucina - Tibubeneng,https://food.grab.com/id/en/restaurant/l-osteria-pizza-e-cucina-tibubeneng-delivery/6-C22ZAY4VGKV2CX,4.8,715,,,no,,grab_only,grab_only_no_maps_match
+Tonys New York Pizza Umalas - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/tonys-new-york-pizza-umalas-kerobokan-kelod-delivery/6-C362V2BULE4CG6,4.7,1111,,,no,,grab_only,grab_only_no_maps_match
+Tonys New York Pizza - Canggu,https://food.grab.com/id/en/restaurant/tonys-new-york-pizza-canggu-delivery/6-C33VNE5JGUBKNX,4.7,1286,,,no,,grab_only,grab_only_no_maps_match
+VECCHIA TANA - PIZZA & PASTA - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/vecchia-tana-pizza-pasta-kerobokan-kelod-delivery/IDGFSTI00003f1p,4.8,2407,,,no,,grab_only,grab_only_no_maps_match
+Roman Pizza Berawa - Tibubeneng,https://food.grab.com/id/en/restaurant/roman-pizza-berawa-tibubeneng-delivery/6-C8BKR8JDVJDAAX,5,26,,,no,,grab_only,grab_only_no_maps_match
+Roman Pizza & Pasta Umalas - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/roman-pizza-pasta-umalas-kerobokan-kelod-delivery/6-C6EFAVM2FF3KSE,4.7,1128,,,no,,grab_only,grab_only_no_maps_match
+"Pure Pizza NY (Pepperoni, Wings, Margherita) - Pererenan",https://food.grab.com/id/en/restaurant/pure-pizza-ny-pepperoni-wings-margherita-pererenan-delivery/6-C73GJAAVAPMGAA,4.9,77,,,yes,,grab_only,grab_only_no_maps_match
+IRMA by BACARO PIZZA - Tibubeneng,https://food.grab.com/id/en/restaurant/irma-by-bacaro-pizza-tibubeneng-delivery/6-C4AVBBUGVUEXL6,4.5,131,,,no,,grab_only,grab_only_no_maps_match
+Hot Noge Pizza - Tibubeneng,https://food.grab.com/id/en/restaurant/hot-noge-pizza-tibubeneng-delivery/6-C2MGLP2HWFLJAE,4.3,117,,,no,,grab_only,grab_only_no_maps_match
+Fontina Pizza Bali - Pererenan,https://food.grab.com/id/en/restaurant/fontina-pizza-bali-pererenan-delivery/6-C8CCPECEGFTDAT,4.8,27,,,no,,grab_only,grab_only_no_maps_match
+Uncle Kebab - Canggu,https://food.grab.com/id/en/restaurant/uncle-kebab-canggu-delivery/6-C7KVL3UJCPCVLN,4.6,349,,,no,,grab_only,grab_only_no_maps_match
+Basilico Italiana - Basilico Italiana Pasta and Grilled - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/basilico-italiana-basilico-italiana-pasta-and-grilled-kerobokan-kaja-delivery/6-C7KAN25GEVJXNX,4.5,504,,,no,,grab_only,grab_only_no_maps_match
+Doughboys Pizza - Pererenan,https://food.grab.com/id/en/restaurant/doughboys-pizza-pererenan-delivery/6-C6ABDFD2CCNWA6,4.5,538,,,no,,grab_only,grab_only_no_maps_match
+Bottle Of Water In Bulks - Canggu,https://food.grab.com/id/en/restaurant/bottle-of-water-in-bulks-canggu-delivery/6-C7WYVKKCGFDZGT,4.6,59,,,yes,,grab_only,grab_only_no_maps_match
+Pasta Dealer Umalas - Kerobokan,https://food.grab.com/id/en/restaurant/pasta-dealer-umalas-kerobokan-delivery/6-C22VNRKJMFM2GA,4.6,2386,,,no,,grab_only,grab_only_no_maps_match
+Home Pizza - Canggu,https://food.grab.com/id/en/restaurant/home-pizza-canggu-delivery/IDGFSTI00002nui,5,105,,,no,,grab_only,grab_only_no_maps_match
+TOMORO COFFEE - Canggu Pererenan,https://food.grab.com/id/en/restaurant/tomoro-coffee-canggu-pererenan-delivery/6-C76BMGNXR4CUAN,4.9,82,,,no,,grab_only,grab_only_no_maps_match
+OGGI PIZZA - canggu,https://food.grab.com/id/en/restaurant/oggi-pizza-canggu-delivery/6-C7EDGCBXT8DXRE,4.3,156,,,no,,grab_only,grab_only_no_maps_match
+Healthy Juices and Smoothie Bowls - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/healthy-juices-and-smoothie-bowls-kerobokan-kaja-delivery/6-C6JFCYDYNZEXL2,4.5,120,,,no,,grab_only,grab_only_no_maps_match
+Workmates - Canggu,https://food.grab.com/id/en/restaurant/workmates-canggu-delivery/6-C62BBBJWLUUJRJ,4.5,92,,,no,,grab_only,grab_only_no_maps_match
+Bali Buda - Canggu,https://food.grab.com/id/en/restaurant/bali-buda-canggu-delivery/6-C7LKTPABGUAZBE,4.8,361,,,no,,grab_only,grab_only_no_maps_match
+GARDEN CANGGU - Canggu,https://food.grab.com/id/en/restaurant/garden-canggu-canggu-delivery/6-C4NUR64TSA4WVE,4.6,78,,,no,,grab_only,grab_only_no_maps_match
+The Italian Guy Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/the-italian-guy-canggu-tibubeneng-delivery/6-C7WETYAHE2W3RA,4.8,34,,,no,,grab_only,grab_only_no_maps_match
+Garlic Kitchen - Canggu,https://food.grab.com/id/en/restaurant/garlic-kitchen-canggu-delivery/6-C2W1ELEGJEUXRE,4.1,582,,,yes,,grab_only,grab_only_no_maps_match
+Pizza Casa - Tibubeneng,https://food.grab.com/id/en/restaurant/pizza-casa-tibubeneng-delivery/6-C8CCR32GRPKAJT,4.8,126,,,yes,,grab_only,grab_only_no_maps_match
+Pasta & Pizza OGGI - CANGGU,https://food.grab.com/id/en/restaurant/pasta-pizza-oggi-canggu-delivery/6-C7JXJ22XCNLGG6,3.6,57,,,no,,grab_only,grab_only_no_maps_match
+"ELE Restaurant (Breakfast, Pasta, Seafood, Salad) - Canggu",https://food.grab.com/id/en/restaurant/ele-restaurant-breakfast-pasta-seafood-salad-canggu-delivery/6-C7AJCVKJTFTAR6,4.9,142,,,no,,grab_only,grab_only_no_maps_match
+TIPO 00 Pizza - Canggu,https://food.grab.com/id/en/restaurant/tipo-00-pizza-canggu-delivery/6-C6WBLYV2AKAXSA,4.9,55,,,no,,grab_only,grab_only_no_maps_match
+CIAO mama - Tibubeneng,https://food.grab.com/id/en/restaurant/ciao-mama-tibubeneng-delivery/6-C7T2UANAUGJKE2,4.7,27,,,no,,grab_only,grab_only_no_maps_match
+Santorini Greek Restaurant - Canggu,https://food.grab.com/id/en/restaurant/santorini-greek-restaurant-canggu-delivery/6-C2CUT242RP4JTT,4.7,2851,,,yes,,grab_only,grab_only_no_maps_match
+Smoothies Factory - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/smoothies-factory-kerobokan-kaja-delivery/6-C7WBLF5BN233GA,4.6,225,,,no,,grab_only,grab_only_no_maps_match
+"Laksmi Breakfast, Pizza, and Bar - Canggu",https://food.grab.com/id/en/restaurant/laksmi-breakfast-pizza-and-bar-canggu-delivery/6-C3XZAZJKLUUGAA,3.6,173,,,no,,grab_only,grab_only_no_maps_match
+Pizzagasm - Canggu,https://food.grab.com/id/en/restaurant/pizzagasm-canggu-delivery/6-C2JGERDYVABGLN,4.8,146,,,no,,grab_only,grab_only_no_maps_match
+"Pure Sushi (Rolls, Salmon, Tuna, Seafood) - Pererenan",https://food.grab.com/id/en/restaurant/pure-sushi-rolls-salmon-tuna-seafood-pererenan-delivery/6-C73YGUA2TE2GNT,5,67,,,no,,grab_only,grab_only_no_maps_match
+La Cucina Pizza & Pasta -Tumbakbayuh,https://food.grab.com/id/en/restaurant/la-cucina-pizza-pasta-tumbakbayuh-delivery/6-C8DJLPXHGVEXNE,5,69,,,no,,grab_only,grab_only_no_maps_match
+LUIGIS HOT PIZZA - Canggu,https://food.grab.com/id/en/restaurant/luigis-hot-pizza-canggu-delivery/6-C3JCMFJDWAMFL2,4.6,307,,,no,,grab_only,grab_only_no_maps_match
+Pizza And Pasta - Canggu,https://food.grab.com/id/en/restaurant/pizza-and-pasta-canggu-delivery/6-C7TFEEDKLE3ZNN,4.7,30,,,no,,grab_only,grab_only_no_maps_match
+Bottle service 24 hour - Pererenan,https://food.grab.com/id/en/restaurant/bottle-service-24-hour-pererenan-delivery/6-C6EEEZJWECNTEE,4.6,157,,,no,,grab_only,grab_only_no_maps_match
+"Arte Canggu, Pasta Pizza & Salad - Pererenan",https://food.grab.com/id/en/restaurant/arte-canggu-pasta-pizza-salad-pererenan-delivery/6-C2DDTACDLTJBNT,4.3,653,,,no,,grab_only,grab_only_no_maps_match
+Sunkiest - Tibubeneng,https://food.grab.com/id/en/restaurant/sunkiest-tibubeneng-delivery/6-C2LFVZBBRUMCGJ,3.8,35,,,no,,grab_only,grab_only_no_maps_match
+Seseh Pizza - Cemagi,https://food.grab.com/id/en/restaurant/seseh-pizza-cemagi-delivery/6-C36VVPNUCKACTE,4.6,482,,,yes,,grab_only,grab_only_no_maps_match
+Bottega Italiana - Canggu,https://food.grab.com/id/en/restaurant/bottega-italiana-canggu-delivery/IDGFSTI00000qva,4.7,110,,,yes,,grab_only,grab_only_no_maps_match
+After Party Cafe - Canggu,https://food.grab.com/id/en/restaurant/after-party-cafe-canggu-delivery/6-C6CGTX5VBAMGLJ,4.8,17,,,no,,grab_only,grab_only_no_maps_match
+Milano - Tibubeneng,https://food.grab.com/id/en/restaurant/milano-tibubeneng-delivery/6-C2VGDAJJTCCFLE,4,40,,,no,,grab_only,grab_only_no_maps_match
+Openhouse Cafe - Canggu,https://food.grab.com/id/en/restaurant/openhouse-cafe-canggu-delivery/6-C6THSGJEUEMBGX,4.7,3629,,,no,,grab_only,grab_only_no_maps_match
+Pasta Papa - Kerobokan,https://food.grab.com/id/en/restaurant/pasta-papa-kerobokan-delivery/6-C7WTAYX3VFKTJ2,4.7,176,,,no,,grab_only,grab_only_no_maps_match
+"Food Lab (Breakfast, Pizza, Pasta, Healthy, Kebab) - Canggu",https://food.grab.com/id/en/restaurant/food-lab-breakfast-pizza-pasta-healthy-kebab-canggu-delivery/6-C72ZRN6VGCAER6,4.8,44,,,no,,grab_only,grab_only_no_maps_match
+Made's Lucca Pizza - Berawa,https://food.grab.com/id/en/restaurant/made-s-lucca-pizza-berawa-delivery/6-CYMTKA3CLXVVAA,4.7,459,,,no,,grab_only,grab_only_no_maps_match
+Booze Bottle Service and Pizza - Pererenan,https://food.grab.com/id/en/restaurant/booze-bottle-service-and-pizza-pererenan-delivery/6-C66TCXAUL6NFE2,3.7,14,,,no,,grab_only,grab_only_no_maps_match
+Bakehouse 88 Pinsa - Canggu,https://food.grab.com/id/en/restaurant/bakehouse-88-pinsa-canggu-delivery/6-C641VGC1CGDAFE,4.6,69,,,no,,grab_only,grab_only_no_maps_match
+"Pasta Licious , Homade Pasta, Grillled, Breakfast, Sandwiches - Kerobokan Kaja",https://food.grab.com/id/en/restaurant/pasta-licious-homade-pasta-grillled-breakfast-sandwiches-kerobokan-kaja-delivery/6-C7C1J2KFR7KERA,4.6,337,,,yes,,grab_only,grab_only_no_maps_match
+Casa Eatalia Pasta Italian Delight - Pererenan,https://food.grab.com/id/en/restaurant/casa-eatalia-pasta-italian-delight-pererenan-delivery/6-C22HLAKZHEW3ET,4.8,316,,,no,,grab_only,grab_only_no_maps_match
+Canggu Station Resto - Tibubeneng,https://food.grab.com/id/en/restaurant/canggu-station-resto-tibubeneng-delivery/6-C64WNY6KATCVR6,4.6,40,,,no,,grab_only,grab_only_no_maps_match
+Margarita pizza coffee and bar - Canggu,https://food.grab.com/id/en/restaurant/margarita-pizza-coffee-and-bar-canggu-delivery/6-C33VNE5JJB2ZGX,,,,,no,,grab_only,grab_only_no_maps_match
+Mokshu's Jain Indian Cuisine - Tibubeneng,https://food.grab.com/id/en/restaurant/mokshu-s-jain-indian-cuisine-tibubeneng-delivery/6-C32JLBAUVEM2G6,4.6,61,,,yes,,grab_only,grab_only_no_maps_match
+Balinese Fried Fice Bowl and Noodle - Pererenan,https://food.grab.com/id/en/restaurant/balinese-fried-fice-bowl-and-noodle-pererenan-delivery/6-C7A1R8MFEPKESA,3.5,33,,,no,,grab_only,grab_only_no_maps_match
+Pizza and Dumplings - Canggu,https://food.grab.com/id/en/restaurant/pizza-and-dumplings-canggu-delivery/6-C4MGT7CXRCCUEJ,4.7,406,,,no,,grab_only,grab_only_no_maps_match
+Booze bottle service and pizza - Canggu,https://food.grab.com/id/en/restaurant/booze-bottle-service-and-pizza-canggu-delivery/6-C6JDVFEZN3VTNT,3.6,39,,,no,,grab_only,grab_only_no_maps_match
+Fucina Pizzeria E Cucina Artigiana Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/fucina-pizzeria-e-cucina-artigiana-canggu-tibubeneng-delivery/6-C2KJNNCJJ72TN2,4.5,560,,,no,,grab_only,grab_only_no_maps_match
+Warung D'Prerenan - Pererenan,https://food.grab.com/id/en/restaurant/warung-d-prerenan-pererenan-delivery/6-CYVAG2WYC6MTNT,5,310,,,no,,grab_only,grab_only_no_maps_match
+Threesty Cake - Pererenan,https://food.grab.com/id/en/restaurant/threesty-cake-pererenan-delivery/6-C2CGKF2HFEDDCX,4.9,185,,,no,,grab_only,grab_only_no_maps_match
+PIZZERIA AVA - Kerobokan,https://food.grab.com/id/en/restaurant/pizzeria-ava-kerobokan-delivery/6-CY22GJJ2KBDCT2,4.6,120,,,no,,grab_only,grab_only_no_maps_match
+The Bench - Canggu,https://food.grab.com/id/en/restaurant/the-bench-canggu-delivery/6-C36AT26HL7KWAX,4.4,229,,,yes,,grab_only,grab_only_no_maps_match
+"Low Cal (Ch) Eatery, Healthy Diet Food And Salad - Canggu",https://food.grab.com/id/en/restaurant/low-cal-ch-eatery-healthy-diet-food-and-salad-canggu-delivery/6-C4BVTU4YT6WYSE,4.6,139,,,no,,grab_only,grab_only_no_maps_match
+Pepi To Go - Pererenan,https://food.grab.com/id/en/restaurant/pepi-to-go-pererenan-delivery/6-C6CYRZEVE8EAAX,4.7,46,,,no,,grab_only,grab_only_no_maps_match
+La Pan Nam - Canggu,https://food.grab.com/id/en/restaurant/la-pan-nam-canggu-delivery/AWkupt16ZXYdMpch3JfF,4.3,336,,,no,,grab_only,grab_only_no_maps_match
+Noah cafe - Pererenan,https://food.grab.com/id/en/restaurant/noah-cafe-pererenan-delivery/6-C4LHNK2FJEUTAA,4.7,219,,,no,,grab_only,grab_only_no_maps_match
+Deli Kitchen - Canggu,https://food.grab.com/id/en/restaurant/deli-kitchen-canggu-delivery/IDGFSTI00000q9v,4.4,561,,,no,,grab_only,grab_only_no_maps_match
+Naked Bun - Canggu,https://food.grab.com/id/en/restaurant/naked-bun-canggu-delivery/6-CY21G3NXV76YEA,4.9,141,,,no,,grab_only,grab_only_no_maps_match
+Via Emilia Bali - Tibubeneng,https://food.grab.com/id/en/restaurant/via-emilia-bali-tibubeneng-delivery/6-C3LVVNKHAXDYVA,4.3,102,,,no,,grab_only,grab_only_no_maps_match
+Savor Healthy Cafe - Pererenan,https://food.grab.com/id/en/restaurant/savor-healthy-cafe-pererenan-delivery/6-C6VZBF5XA7KHAT,4.8,594,,,no,,grab_only,grab_only_no_maps_match
+Draniki - Pererenan,https://food.grab.com/id/en/restaurant/draniki-pererenan-delivery/6-C6BVGZN2UF43A6,4.6,601,,,no,,grab_only,grab_only_no_maps_match
+Legends Bistro Bar & Sports - Tibubeneng,https://food.grab.com/id/en/restaurant/legends-bistro-bar-sports-tibubeneng-delivery/6-C6LZCADFJRLHEX,4.7,15,,,no,,grab_only,grab_only_no_maps_match
+Nyom Nyom Coffee - Tibubeneng,https://food.grab.com/id/en/restaurant/nyom-nyom-coffee-tibubeneng-delivery/6-CZEUUA4YLFXTEN,4.7,1181,,,no,,grab_only,grab_only_no_maps_match
+SALT RESTAURANT - Canggu,https://food.grab.com/id/en/restaurant/salt-restaurant-canggu-delivery/6-C6UCLY4EAXMWWE,4,8,,,no,,grab_only,grab_only_no_maps_match
+Boheme - Pererenan,https://food.grab.com/id/en/restaurant/boheme-pererenan-delivery/6-C2KTGGCWFFDXCN,4.9,43,,,no,,grab_only,grab_only_no_maps_match
+Ons Waroeng - Tibubeneng,https://food.grab.com/id/en/restaurant/ons-waroeng-tibubeneng-delivery/6-C2XAJJTTCT5FGX,4.7,172,,,no,,grab_only,grab_only_no_maps_match
+Mularasa Origin of Taste - Canggu,https://food.grab.com/id/en/restaurant/mularasa-origin-of-taste-canggu-delivery/6-C6NGT6KGVU42EA,5,7,,,no,,grab_only,grab_only_no_maps_match
+Deus Cafe - Canggu,https://food.grab.com/id/en/restaurant/deus-cafe-canggu-delivery/6-CYWTR3BULNVELN,4,92,,,no,,grab_only,grab_only_no_maps_match
+Cinta Cafe - Pererenan,https://food.grab.com/id/en/restaurant/cinta-cafe-pererenan-delivery/6-C2XBRFLELX5VTA,4.6,135,,,no,,grab_only,grab_only_no_maps_match
+Nanu Coffee & Eatery - Tibubeneng,https://food.grab.com/id/en/restaurant/nanu-coffee-eatery-tibubeneng-delivery/IDGFSTI00003aug,4.8,960,,,no,,grab_only,grab_only_no_maps_match
+Puco Rooftop Eatery - Guest House Puri Canggu Rooms Ii,https://food.grab.com/id/en/restaurant/puco-rooftop-eatery-guest-house-puri-canggu-rooms-ii-delivery/6-C3CDRAWTLEJWNE,4.4,52,,,no,,grab_only,grab_only_no_maps_match
+Kedai Kopi Sangkala - Canggu,https://food.grab.com/id/en/restaurant/kedai-kopi-sangkala-canggu-delivery/6-C23FN6CZT7NERN,4.9,37,,,no,,grab_only,grab_only_no_maps_match
+Conato Bakery - Kerobokan,https://food.grab.com/id/en/restaurant/conato-bakery-kerobokan-delivery/6-CZL2LVEGL64EMA,4.6,79,,,no,,grab_only,grab_only_no_maps_match
+The Shady Shack - Canggu,https://food.grab.com/id/en/restaurant/the-shady-shack-canggu-delivery/6-C3CTDA3VLX4FJX,4.8,1539,,,no,,grab_only,grab_only_no_maps_match
+Ayam Bakar Mak Nyus - Canggu,https://food.grab.com/id/en/restaurant/ayam-bakar-mak-nyus-canggu-delivery/6-C23YAYL3UABJLT,4.3,1965,,,yes,,grab_only,grab_only_no_maps_match
+Pasta Club - Canggu,https://food.grab.com/id/en/restaurant/pasta-club-canggu-delivery/6-C8EZNPKZJVJGNJ,5,4,,,yes,,grab_only,grab_only_no_maps_match
+Double Protein Healthy Food - Canggu,https://food.grab.com/id/en/restaurant/double-protein-healthy-food-canggu-delivery/6-C7KTV2MCV3VDKE,4.7,298,,,yes,,grab_only,grab_only_no_maps_match
+Nasi Goreng Blitar - Canggu,https://food.grab.com/id/en/restaurant/nasi-goreng-blitar-canggu-delivery/6-C23UAJWVBFTDCJ,4.4,3901,,,yes,,grab_only,grab_only_no_maps_match
+Pasta Project Canggu - Kuta Utara,https://food.grab.com/id/en/restaurant/pasta-project-canggu-kuta-utara-delivery/6-C8EZEKBCTF2CR6,4.7,6,,,no,,grab_only,grab_only_no_maps_match
+M Mart - Canggu CG50 - Kuta Utara,https://food.grab.com/id/en/restaurant/m-mart-canggu-cg50-kuta-utara-delivery/6-C7EUTAECG8LXGA,4.8,237,,,no,,grab_only,grab_only_no_maps_match
+Maison Almaz - Tibubeneng,https://food.grab.com/id/en/restaurant/maison-almaz-tibubeneng-delivery/6-C74DJN5CJNKVJN,4.9,58,,,no,,grab_only,grab_only_no_maps_match
+Nasi Goreng Krisna - Tibubeneng,https://food.grab.com/id/en/restaurant/nasi-goreng-krisna-tibubeneng-delivery/6-C7C2DCK2RB5YET,4.4,96,,,no,,grab_only,grab_only_no_maps_match
+Lokal Butter Fried Rice and Noodle - Lokal Butter Fried Rice And Noodle Canggu,https://food.grab.com/id/en/restaurant/lokal-butter-fried-rice-and-noodle-lokal-butter-fried-rice-and-noodle-canggu-delivery/6-C7D2T2NVJVCDJN,4.2,27,,,yes,,grab_only,grab_only_no_maps_match
+The Barn Bali - Canggu,https://food.grab.com/id/en/restaurant/the-barn-bali-canggu-delivery/6-C72DNE2FAUNYCJ,4.8,68,,,no,,grab_only,grab_only_no_maps_match
+Mr.Smash Burger - Canggu,https://food.grab.com/id/en/restaurant/mr-smash-burger-canggu-delivery/6-C6EFDAWCCKN3L6,4.6,5968,,,no,,grab_only,grab_only_no_maps_match
+Dian Store - Canggu,https://food.grab.com/id/en/restaurant/dian-store-canggu-delivery/6-C4KKRY4AUATXTN,4.6,2808,,,no,,grab_only,grab_only_no_maps_match
+Baz’ar Bistro Bali - Canggu,https://food.grab.com/id/en/restaurant/baz’ar-bistro-bali-canggu-delivery/6-C7D1C7DXGRC1SE,4.6,130,,,no,,grab_only,grab_only_no_maps_match
+Urban Bites - Tibubeneng,https://food.grab.com/id/en/restaurant/urban-bites-tibubeneng-delivery/6-C2CKC3T3CPDBGJ,4,499,,,no,,grab_only,grab_only_no_maps_match
+"Murmur Restaurant (Breakfast, Pasta, Salad, Bowl, Healthy), Canggu - Tibubeneng",https://food.grab.com/id/en/restaurant/murmur-restaurant-breakfast-pasta-salad-bowl-healthy-canggu-tibubeneng-delivery/6-C6TJLBXAELLAN6,4.6,290,,,yes,,grab_only,grab_only_no_maps_match
+Pancakes Man Cafe - Pancakes Man Cafe - Canggu,https://food.grab.com/id/en/restaurant/pancakes-man-cafe-pancakes-man-cafe-canggu-delivery/6-C7E1C22CN2BUTJ,3.7,134,,,no,,grab_only,grab_only_no_maps_match
+Nasi Goreng Dan Kwetiau Zie Boba - Canggu,https://food.grab.com/id/en/restaurant/nasi-goreng-dan-kwetiau-zie-boba-canggu-delivery/6-C23TVJ4GTLMKNA,4.3,1237,,,yes,,grab_only,grab_only_no_maps_match
+DIAN HOME CAFE - Canggu,https://food.grab.com/id/en/restaurant/dian-home-cafe-canggu-delivery/6-C2EZPFLTTJJCAN,4.2,1203,,,yes,,grab_only,grab_only_no_maps_match
+"Nasi Tempong Tunggal Rasa ,Canggu - Tibubeneng",https://food.grab.com/id/en/restaurant/nasi-tempong-tunggal-rasa-canggu-tibubeneng-delivery/6-C4MDCYTHFEBVTJ,4.8,31,,,yes,,grab_only,grab_only_no_maps_match
+Mani Mart 2 - Canggu,https://food.grab.com/id/en/restaurant/mani-mart-2-canggu-delivery/6-C7K3LXAVFATBFE,4.9,87,,,no,,grab_only,grab_only_no_maps_match
+Nasi goreng wong canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/nasi-goreng-wong-canggu-tibubeneng-delivery/6-C4LVC2LWRGBWTT,4.3,169,,,no,,grab_only,grab_only_no_maps_match
+CREPE HOUSE - Babushka Approved  - Canggu,https://food.grab.com/id/en/restaurant/crepe-house-babushka-approved-canggu-delivery/6-C75FA4BBCXU1CJ,4.8,24,,,no,,grab_only,grab_only_no_maps_match
+CAFFEINE Brunch Cafe ( All day breakfast) - Berawa,https://food.grab.com/id/en/restaurant/caffeine-brunch-cafe-all-day-breakfast-berawa-delivery/6-C4LVRA4XENXXJN,4.6,396,,,no,,grab_only,grab_only_no_maps_match
+Papa Sauce - Tibubeneng,https://food.grab.com/id/en/restaurant/papa-sauce-tibubeneng-delivery/IDGFSTI00001pmw,4.4,977,,,no,,grab_only,grab_only_no_maps_match
+Dian Fresh Mart - Canggu,https://food.grab.com/id/en/restaurant/dian-fresh-mart-canggu-delivery/6-C6ECKAEGRTCVPE,4.7,593,,,no,,grab_only,grab_only_no_maps_match
+"Chicken Forno - Roastery, Berawa",https://food.grab.com/id/en/restaurant/chicken-forno-roastery-berawa-delivery/6-C8CUJLATC3DKN2,4.5,35,,,yes,,grab_only,grab_only_no_maps_match
+"Bumi Protein (Healthy, Protein, Kcal, Chicken, Ayam) - Canggu",https://food.grab.com/id/en/restaurant/bumi-protein-healthy-protein-kcal-chicken-ayam-canggu-delivery/6-C7N1LAUTT6DGDE,4.6,277,,,yes,,grab_only,grab_only_no_maps_match
+Bumi Head - Canggu,https://food.grab.com/id/en/restaurant/bumi-head-canggu-delivery/6-C7NHT2C1E2T3VN,4.8,178,,,yes,,grab_only,grab_only_no_maps_match
+Ayam Goreng Mak Dura by Hangry - Kerobokan,https://food.grab.com/id/en/restaurant/ayam-goreng-mak-dura-by-hangry-kerobokan-delivery/6-C72CR4CHA3LYG2,4.6,275,,,yes,,grab_only,grab_only_no_maps_match
+Iam Bakar Mager - Pererenan,https://food.grab.com/id/en/restaurant/iam-bakar-mager-pererenan-delivery/6-C3CARTLZHBJVSE,4.8,3595,,,yes,,grab_only,grab_only_no_maps_match
+Charcoal Republic - Arabic Grill - Tibubeneng,https://food.grab.com/id/en/restaurant/charcoal-republic-arabic-grill-tibubeneng-delivery/6-C7VYEGAVNF5JJT,4.6,265,,,yes,,grab_only,grab_only_no_maps_match
+"Elmasry Egyptian & Arabic Food, Canggu - Canggu",https://food.grab.com/id/en/restaurant/elmasry-egyptian-arabic-food-canggu-canggu-delivery/6-C6JZCKEDTK2TGN,4.6,336,,,yes,,grab_only,grab_only_no_maps_match
+Joy Smash Burger - Canggu,https://food.grab.com/id/en/restaurant/joy-smash-burger-canggu-delivery/6-C7JZHFTFLFWZNT,4.8,1368,,,yes,,grab_only,grab_only_no_maps_match
+ACK - Tibubeneng,https://food.grab.com/id/en/restaurant/ack-tibubeneng-delivery/6-C4BVAYJEAPEUTN,4.5,224,,,no,,grab_only,grab_only_no_maps_match
+Famous rice bowl berawa - Tibubeneng,https://food.grab.com/id/en/restaurant/famous-rice-bowl-berawa-tibubeneng-delivery/6-C34XEKLAR2AJVX,4.7,1691,,,yes,,grab_only,grab_only_no_maps_match
+Eatwell Project - Tibubeneng,https://food.grab.com/id/en/restaurant/eatwell-project-tibubeneng-delivery/6-C7D1CRBKDEDGR6,4.8,276,,,no,,grab_only,grab_only_no_maps_match
+Oggi Healty fit - Canggu,https://food.grab.com/id/en/restaurant/oggi-healty-fit-canggu-delivery/6-C7U2DEA2J3A3JE,4.7,97,,,no,,grab_only,grab_only_no_maps_match
+Ayam Bakar Maksu - Canggu,https://food.grab.com/id/en/restaurant/ayam-bakar-maksu-canggu-delivery/6-C74UE24KEUEAEX,4.8,142,,,no,,grab_only,grab_only_no_maps_match
+Nusantara rice bowl - Tibubeneng,https://food.grab.com/id/en/restaurant/nusantara-rice-bowl-tibubeneng-delivery/6-C6JVLJACTCLJEX,4.7,1115,,,yes,,grab_only,grab_only_no_maps_match
+Nutri - On! Protein healthy café Canggu - Kuta Utara,https://food.grab.com/id/en/restaurant/nutri-on-protein-healthy-cafe-canggu-kuta-utara-delivery/6-C763RKAKSEJJR2,4.7,168,,,yes,,grab_only,grab_only_no_maps_match
+The Foundry - Berawa,https://food.grab.com/id/en/restaurant/the-foundry-berawa-delivery/6-C7U3RXEXRPLKA6,4.7,723,,,no,,grab_only,grab_only_no_maps_match
+Ikan & ayam bakar - Tibubeneng,https://food.grab.com/id/en/restaurant/ikan-ayam-bakar-tibubeneng-delivery/6-C8DGGPUTTRLEJ2,4.7,10,,,no,,grab_only,grab_only_no_maps_match
+ACK - Canggu,https://food.grab.com/id/en/restaurant/ack-canggu-delivery/6-C25GBFLYEZEBME,4.8,531,,,no,,grab_only,grab_only_no_maps_match
+Tomsc Chicken - Tibubeneng,https://food.grab.com/id/en/restaurant/tomsc-chicken-tibubeneng-delivery/6-C4AKL8BERUJGVJ,4.6,645,,,no,,grab_only,grab_only_no_maps_match
+Nasi Lawar Ayam - Canggu,https://food.grab.com/id/en/restaurant/nasi-lawar-ayam-canggu-delivery/6-C2W2AGJEVGDWTA,4.9,797,,,no,,grab_only,grab_only_no_maps_match
+Silk - Canggu,https://food.grab.com/id/en/restaurant/silk-canggu-delivery/6-C7MBEND2AT5BEN,4.9,307,,,no,,grab_only,grab_only_no_maps_match
+Ayam Bakar Tulang Lunak Bu Rahayu - Tibubeneng,https://food.grab.com/id/en/restaurant/ayam-bakar-tulang-lunak-bu-rahayu-tibubeneng-delivery/6-CZK2E7NDHGAHJN,4.8,4516,,,yes,,grab_only,grab_only_no_maps_match
+WEI TO GO CHINESE - Tibubeneng,https://food.grab.com/id/en/restaurant/wei-to-go-chinese-tibubeneng-delivery/6-C2JBV2UYHE4BE2,4.8,2185,,,yes,,grab_only,grab_only_no_maps_match
+Ayam Geprek Sultan Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/ayam-geprek-sultan-canggu-tibubeneng-delivery/6-C6UECXVHTP3EAJ,4.4,65,,,yes,,grab_only,grab_only_no_maps_match
+Protein Pals - Protein Pals - Tibubeneng,https://food.grab.com/id/en/restaurant/protein-pals-protein-pals-tibubeneng-delivery/6-C7D1CNJZEK32EN,4.8,706,,,no,,grab_only,grab_only_no_maps_match
+Lalapan Ayam Kremes Kemangi - Tibubeneng,https://food.grab.com/id/en/restaurant/lalapan-ayam-kremes-kemangi-tibubeneng-delivery/6-C3DTJ8AHT23KT2,4.5,417,,,yes,,grab_only,grab_only_no_maps_match
+OTTOMAN THE REAL TURKISH KEBAB - Tibubeneng,https://food.grab.com/id/en/restaurant/ottoman-the-real-turkish-kebab-tibubeneng-delivery/6-C3NVGU6TWGKEVJ,4.2,1672,,,no,,grab_only,grab_only_no_maps_match
+Steak Corner - Canggu,https://food.grab.com/id/en/restaurant/steak-corner-canggu-delivery/6-C7W1LJN3EJ5FGX,4.6,474,,,no,,grab_only,grab_only_no_maps_match
+Hany's Roasted Chicken - Tibubeneng,https://food.grab.com/id/en/restaurant/hany-s-roasted-chicken-tibubeneng-delivery/6-C2DHGNUBEFXECE,4.4,721,,,yes,,grab_only,grab_only_no_maps_match
+"Greenly (Healthy, Salad, Bowl, Juice) - Canggu",https://food.grab.com/id/en/restaurant/greenly-healthy-salad-bowl-juice-canggu-delivery/6-C723DA42FA5BJN,4.8,541,,,no,,grab_only,grab_only_no_maps_match
+Sedasa Cafe - Canggu,https://food.grab.com/id/en/restaurant/sedasa-cafe-canggu-delivery/6-CZEUUFXGN23TKE,4.8,3950,,,no,,grab_only,grab_only_no_maps_match
+Almond - Pererenan,https://food.grab.com/id/en/restaurant/almond-pererenan-delivery/6-C3TWA3TKABXFV2,4.7,194,,,no,,grab_only,grab_only_no_maps_match
+911 Smash Burger - Canggu,https://food.grab.com/id/en/restaurant/911-smash-burger-canggu-delivery/6-C7TBE6WUTYKKDA,4.9,2074,,,no,,grab_only,grab_only_no_maps_match
+Lalapan Ibu Yani - Canggu,https://food.grab.com/id/en/restaurant/lalapan-ibu-yani-canggu-delivery/6-C2BEV34JGY3XGE,3.9,799,,,yes,,grab_only,grab_only_no_maps_match
+Burger Head - Canggu,https://food.grab.com/id/en/restaurant/burger-head-canggu-delivery/6-C643NN5KL7XCL6,4.7,817,,,no,,grab_only,grab_only_no_maps_match
+Health Fuel - Pererenan,https://food.grab.com/id/en/restaurant/health-fuel-pererenan-delivery/6-C6VTUCC3LLKECE,4.7,1333,,,no,,grab_only,grab_only_no_maps_match
+Rice Republic Bali - Canggu,https://food.grab.com/id/en/restaurant/rice-republic-bali-canggu-delivery/6-C363T6XJLUC1NT,4.5,1712,,,yes,,grab_only,grab_only_no_maps_match
+Sate Ayam Madura Bu Liya - Tibubeneng,https://food.grab.com/id/en/restaurant/sate-ayam-madura-bu-liya-tibubeneng-delivery/6-C3CVNRLYL24VET,4.8,106,,,yes,,grab_only,grab_only_no_maps_match
+DKM (Dapoer Kris Manika) - Tibubeneng,https://food.grab.com/id/en/restaurant/dkm-dapoer-kris-manika-tibubeneng-delivery/IDGFSTI00000q5e,4.8,1630,,,no,,grab_only,grab_only_no_maps_match
+Bagel It - Canggu,https://food.grab.com/id/en/restaurant/bagel-it-canggu-delivery/6-C3JJRT4TPGMCLX,4.9,2420,,,no,,grab_only,grab_only_no_maps_match
+Bakso Iga Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/bakso-iga-canggu-tibubeneng-delivery/6-C2CFLAXBL7B1TX,4.6,1895,,,yes,,grab_only,grab_only_no_maps_match
+The Roots Salad Bar - Canggu,https://food.grab.com/id/en/restaurant/the-roots-salad-bar-canggu-delivery/6-C3ETVX42CZNJFE,4.7,832,,,yes,,grab_only,grab_only_no_maps_match
+Ayam Bakar Prima Rasa  - Tibubeneng,https://food.grab.com/id/en/restaurant/ayam-bakar-prima-rasa-tibubeneng-delivery/6-C4KJLJTTA3CFC6,4.5,84,,,no,,grab_only,grab_only_no_maps_match
+Starbucks - Nelayan Canggu Bali,https://food.grab.com/id/en/restaurant/starbucks-nelayan-canggu-bali-delivery/6-CY4CLNLUVPTYLJ,4.7,2324,,,no,,grab_only,grab_only_no_maps_match
+Chicken Spasiba - Tibubeneng,https://food.grab.com/id/en/restaurant/chicken-spasiba-tibubeneng-delivery/6-C4MTE6AHVNLHJX,4.7,83,,,yes,,grab_only,grab_only_no_maps_match
+Kusna Wings - Tibubeneng,https://food.grab.com/id/en/restaurant/kusna-wings-tibubeneng-delivery/6-C4MTE6AJAALKNT,,,,,yes,,grab_only,grab_only_no_maps_match
+ABG Ayam Bakar Giyarti - Tibubeneng,https://food.grab.com/id/en/restaurant/abg-ayam-bakar-giyarti-tibubeneng-delivery/6-C3U1L3U1AB3UKE,4.4,22,,,yes,,grab_only,grab_only_no_maps_match
+Ayam Tulang Lunak Bu Lik - Tibubeneng,https://food.grab.com/id/en/restaurant/ayam-tulang-lunak-bu-lik-tibubeneng-delivery/6-C3NZARCFTKE3BA,4.8,632,,,yes,,grab_only,grab_only_no_maps_match
+Babi Guling Swari - Canggu,https://food.grab.com/id/en/restaurant/babi-guling-swari-canggu-delivery/6-C2NYEF2HHFWAKE,4.7,1881,,,yes,,grab_only,grab_only_no_maps_match
+Babi guling buk putra - Jln raya canggu no 23,https://food.grab.com/id/en/restaurant/babi-guling-buk-putra-jln-raya-canggu-no-23-delivery/6-C7KDEBT3GEDZTA,4.8,270,,,yes,,grab_only,grab_only_no_maps_match
+WARUNG BABI GULING RAHAYU - Canggu,https://food.grab.com/id/en/restaurant/warung-babi-guling-rahayu-canggu-delivery/6-C6CAAVLHAUMGNE,4.5,198,,,no,,grab_only,grab_only_no_maps_match
+Babi Guling Men Lari - Canggu,https://food.grab.com/id/en/restaurant/babi-guling-men-lari-canggu-delivery/AWkjTUjVR-bAtZoKZ8oZ,4.8,2027,,,yes,,grab_only,grab_only_no_maps_match
+MOON LOUNGE - Tibubeneng,https://food.grab.com/id/en/restaurant/moon-lounge-tibubeneng-delivery/6-C65UT2UYJ6AGFE,4.7,593,,,yes,,grab_only,grab_only_no_maps_match
+Ayam Geprek & Lalapan Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/ayam-geprek-lalapan-canggu-tibubeneng-delivery/6-C6UWJZK2SFBGTJ,4.3,51,,,no,,grab_only,grab_only_no_maps_match
+Lalapan bu heri canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/lalapan-bu-heri-canggu-tibubeneng-delivery/6-C3UCNTTXTUUZRE,4,10,,,no,,grab_only,grab_only_no_maps_match
+Ayam & Bebek Geprek 'OEMGE' - Tibubeneng,https://food.grab.com/id/en/restaurant/ayam-bebek-geprek-oemge-tibubeneng-delivery/6-CY4UWA5WJFWYNJ,4.5,215,,,no,,grab_only,grab_only_no_maps_match
+SUP BALI - Tibubeneng,https://food.grab.com/id/en/restaurant/sup-bali-tibubeneng-delivery/6-C7NFJNAJTTJUBE,4.6,51,,,no,,grab_only,grab_only_no_maps_match
+THE ROOM - Tibubeneng,https://food.grab.com/id/en/restaurant/the-room-tibubeneng-delivery/6-C62ZTXXKA6KZAN,4.6,52,,,no,,grab_only,grab_only_no_maps_match
+Nasi Men Oblos berawe - Tibubeneng,https://food.grab.com/id/en/restaurant/nasi-men-oblos-berawe-tibubeneng-delivery/6-C742RYTGAXN3WA,5,3,,,no,,grab_only,grab_only_no_maps_match
+Babi Guling Sari Kembar 99 - Canggu,https://food.grab.com/id/en/restaurant/babi-guling-sari-kembar-99-canggu-delivery/6-C2LWNAMELJXWPA,4.8,464,,,yes,,grab_only,grab_only_no_maps_match
+Warung Babi Guling Iga Pererenan - Pererenan,https://food.grab.com/id/en/restaurant/warung-babi-guling-iga-pererenan-pererenan-delivery/6-C3AYEPLUV7NFRE,4.7,171,,,no,,grab_only,grab_only_no_maps_match
+Babi Guling Batubelah - Tibubeneng,https://food.grab.com/id/en/restaurant/babi-guling-batubelah-tibubeneng-delivery/6-C6LBCJLWTRKCJX,4.8,72,,,no,,grab_only,grab_only_no_maps_match
+Warung Babi Guling Bu Rita - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-babi-guling-bu-rita-kerobokan-kelod-delivery/6-C8JCGJ6YJEMXCX,,,,,no,,grab_only,grab_only_no_maps_match
+"Sexy Fish Sushi (Salmon, Japanese), Canggu - Tibubeneng",https://food.grab.com/id/en/restaurant/sexy-fish-sushi-salmon-japanese-canggu-tibubeneng-delivery/6-C7AVJY5AR2TYL6,4.8,558,,,no,,grab_only,grab_only_no_maps_match
+Ayam Macho - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/ayam-macho-kerobokan-kelod-delivery/6-C7NJRUBUNKCGR6,5,2,,,no,,grab_only,grab_only_no_maps_match
+Chow Chow - Canggu,https://food.grab.com/id/en/restaurant/chow-chow-canggu-delivery/6-C3CUNJWFRBMHTA,4.6,611,,,yes,,grab_only,grab_only_no_maps_match
+WEI TO GO CHINESE - Pererenan,https://food.grab.com/id/en/restaurant/wei-to-go-chinese-pererenan-delivery/6-C3EFLLA1LX6VUA,4.8,1432,,,yes,,grab_only,grab_only_no_maps_match
+Lalapan Bu yani - Tibubeneng,https://food.grab.com/id/en/restaurant/lalapan-bu-yani-tibubeneng-delivery/6-C8DGFBEWNTEJLE,5,2,,,no,,grab_only,grab_only_no_maps_match
+Indian curry centre - Tibubeneng,https://food.grab.com/id/en/restaurant/indian-curry-centre-tibubeneng-delivery/6-C4NKCZCUN7J1GA,4.3,399,,,no,,grab_only,grab_only_no_maps_match
+Wings To Go - Tibubeneng,https://food.grab.com/id/en/restaurant/wings-to-go-tibubeneng-delivery/6-C3T2G8DDL2EXG6,4.3,122,,,no,,grab_only,grab_only_no_maps_match
+Penyetan Lagi - Tibubeneng,https://food.grab.com/id/en/restaurant/penyetan-lagi-tibubeneng-delivery/6-C753TYBGNPEJPA,5,3,,,no,,grab_only,grab_only_no_maps_match
+Warung Ramadhan - Tibubeneng,https://food.grab.com/id/en/restaurant/warung-ramadhan-tibubeneng-delivery/6-CY21J2NCFFCZCX,4.8,526,,,no,,grab_only,grab_only_no_maps_match
+Lalapan Banyuwangi - Tibubeneng,https://food.grab.com/id/en/restaurant/lalapan-banyuwangi-tibubeneng-delivery/6-CZMBA3VGHF5TJ2,4.9,253,,,yes,,grab_only,grab_only_no_maps_match
+Nasi Jinggo Pojok Berawa - Tibubeneng,https://food.grab.com/id/en/restaurant/nasi-jinggo-pojok-berawa-tibubeneng-delivery/6-C6TELJJGTLN2VN,4.5,206,,,no,,grab_only,grab_only_no_maps_match
+Lalapan Bu Ofan Khas Lombok - Tibubeneng,https://food.grab.com/id/en/restaurant/lalapan-bu-ofan-khas-lombok-tibubeneng-delivery/6-C3CKCRN2WA5VR6,,,,,no,,grab_only,grab_only_no_maps_match
+lalapan mas harii - Tibubeneng,https://food.grab.com/id/en/restaurant/lalapan-mas-harii-tibubeneng-delivery/6-C8DGGGCCTTACCX,5,2,,,no,,grab_only,grab_only_no_maps_match
+ayam bakar sambal ijo - Tibubeneng,https://food.grab.com/id/en/restaurant/ayam-bakar-sambal-ijo-tibubeneng-delivery/6-C8DGGYJWVBKENT,5,2,,,no,,grab_only,grab_only_no_maps_match
+Chicken Run - Tibubeneng,https://food.grab.com/id/en/restaurant/chicken-run-tibubeneng-delivery/6-CZNHNKJULGCUVN,4.5,80,,,no,,grab_only,grab_only_no_maps_match
+Warung Rujak Wareg 2 - Kerobokan,https://food.grab.com/id/en/restaurant/warung-rujak-wareg-2-kerobokan-delivery/6-C4A2EUTZHAEEGE,4.6,656,,,no,,grab_only,grab_only_no_maps_match
+Nasi Tempong Aroma Kuliner - Tibubeneng,https://food.grab.com/id/en/restaurant/nasi-tempong-aroma-kuliner-tibubeneng-delivery/6-C4KKG2VKLU3VDE,4.4,83,,,no,,grab_only,grab_only_no_maps_match
+Oufff Shawarma and Burgers - Tibubeneng,https://food.grab.com/id/en/restaurant/oufff-shawarma-and-burgers-tibubeneng-delivery/6-C7WDV8BYRUU1AJ,4.6,128,,,no,,grab_only,grab_only_no_maps_match
+Circle K - Bupda Canggu,https://food.grab.com/id/en/restaurant/circle-k-bupda-canggu-delivery/6-C6KVRAJXJKWASE,5,31,,,no,,grab_only,grab_only_no_maps_match
+Warung Local Indonesian Food - Canggu,https://food.grab.com/id/en/restaurant/warung-local-indonesian-food-canggu-delivery/6-C2MZEVL1WFMEAE,4.5,350,,,no,,grab_only,grab_only_no_maps_match
+BARNY Smash Burger - Canggu,https://food.grab.com/id/en/restaurant/barny-smash-burger-canggu-delivery/6-C7MBENKKANXWT2,4.7,429,,,no,,grab_only,grab_only_no_maps_match
+Mani Mart - Canggu,https://food.grab.com/id/en/restaurant/mani-mart-canggu-delivery/6-C243E4NHRX41BA,4.9,538,,,no,,grab_only,grab_only_no_maps_match
+POPULAR - EXPRESS BERAWA KUTA UTARA,https://food.grab.com/id/en/restaurant/popular-express-berawa-kuta-utara-delivery/6-C4K3AU3FNXNZNX,4.8,773,,,no,,grab_only,grab_only_no_maps_match
+Shawarma Beirut Bali - Canggu,https://food.grab.com/id/en/restaurant/shawarma-beirut-bali-canggu-delivery/6-C7JCG7DCENVHVT,4.5,268,,,no,,grab_only,grab_only_no_maps_match
+"NasiGoreng KHAZANAH(fruits,coconut,smothie,juice) - Jl. Canggu Permai IV",https://food.grab.com/id/en/restaurant/nasigoreng-khazanah-fruits-coconut-smothie-juice-jl-canggu-permai-iv-delivery/6-C3LUN4C2JGCXE6,5,82,,,no,,grab_only,grab_only_no_maps_match
+Ayam Betutu Rahayu - Canggu,https://food.grab.com/id/en/restaurant/ayam-betutu-rahayu-canggu-delivery/6-C24KA351AECEG2,4.5,326,,,no,,grab_only,grab_only_no_maps_match
+Nasi Bebek Mas Bambang - Tibubeneng,https://food.grab.com/id/en/restaurant/nasi-bebek-mas-bambang-tibubeneng-delivery/6-C7VBR7XHC7XJT2,4.4,27,,,no,,grab_only,grab_only_no_maps_match
+Lalapan Ayam & Ayam Bakar Mas Born (Jawa) - Pererenan,https://food.grab.com/id/en/restaurant/lalapan-ayam-ayam-bakar-mas-born-jawa-pererenan-delivery/6-C8D2GXJXL24JR2,,,,,no,,grab_only,grab_only_no_maps_match
+Nasi Ayam Betutu dan Ayam Tempong Hebooh 2 Canggu - Kuta Utara,https://food.grab.com/id/en/restaurant/nasi-ayam-betutu-dan-ayam-tempong-hebooh-2-canggu-kuta-utara-delivery/6-C2MJCY5FCBVGVN,4.2,115,,,no,,grab_only,grab_only_no_maps_match
+Ayam Bakar Sambel Ijo Canggu - Banjar Tandeg,https://food.grab.com/id/en/restaurant/ayam-bakar-sambel-ijo-canggu-banjar-tandeg-delivery/6-C4CCLF3YV8B2SA,4.4,326,,,no,,grab_only,grab_only_no_maps_match
+Bubur Ayam Jakarta 234 - Tibubeneng,https://food.grab.com/id/en/restaurant/bubur-ayam-jakarta-234-tibubeneng-delivery/6-CZLYVU2ZTN6GAA,4.9,538,,,no,,grab_only,grab_only_no_maps_match
+Ayam Bakar ABC - Tibubeneng,https://food.grab.com/id/en/restaurant/ayam-bakar-abc-tibubeneng-delivery/6-C2VYT7BZTKCUTN,,,,,no,,grab_only,grab_only_no_maps_match
+Ayam Goreng Jalan Tengah - Kerobokan,https://food.grab.com/id/en/restaurant/ayam-goreng-jalan-tengah-kerobokan-delivery/6-C7VHJE5WJXWYCN,,,,,no,,grab_only,grab_only_no_maps_match
+Amy Wong Chinese Comfort Food -  Tibubeneng,https://food.grab.com/id/en/restaurant/amy-wong-chinese-comfort-food-tibubeneng-delivery/6-C2MDCTMFAN4ANJ,4.6,1130,,,no,,grab_only,grab_only_no_maps_match
+Happy Ricebowl - Canggu,https://food.grab.com/id/en/restaurant/happy-ricebowl-canggu-delivery/6-C4AFAYMAVE3WTE,4.7,1837,,,yes,,grab_only,grab_only_no_maps_match
+Ikan Bakar Absolut Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/ikan-bakar-absolut-canggu-tibubeneng-delivery/6-C33CA7KDNXDCGA,4.2,406,,,yes,,grab_only,grab_only_no_maps_match
+Tomsc Breast - Tibubeneng,https://food.grab.com/id/en/restaurant/tomsc-breast-tibubeneng-delivery/6-C4MTE3CYG24CV6,4.1,59,,,no,,grab_only,grab_only_no_maps_match
+HABIBI MOROCCAN TASTE AND HOOKAH LOUNGE - Canggu,https://food.grab.com/id/en/restaurant/habibi-moroccan-taste-and-hookah-lounge-canggu-delivery/6-C7B1NTTWAKVBT6,4.1,14,,,no,,grab_only,grab_only_no_maps_match
+The Hive Doner Kebab - Berawa,https://food.grab.com/id/en/restaurant/the-hive-doner-kebab-berawa-delivery/6-C8DUERJYUAA2SE,5,3,,,no,,grab_only,grab_only_no_maps_match
+WARUNG BERAWA - Jl. Pemelisan Agung,https://food.grab.com/id/en/restaurant/warung-berawa-jl-pemelisan-agung-delivery/6-C4KVTGCGGTW1T6,4.4,68,,,no,,grab_only,grab_only_no_maps_match
+Tender Leaf Canteen - Tibubeneng,https://food.grab.com/id/en/restaurant/tender-leaf-canteen-tibubeneng-delivery/6-C4KZFF42EN2VGT,4.9,1162,,,no,,grab_only,grab_only_no_maps_match
+Kober Mie - Canggu,https://food.grab.com/id/en/restaurant/kober-mie-canggu-delivery/6-C4CXDFNJNAAGTT,4.6,1140,,,no,,grab_only,grab_only_no_maps_match
+DIRAMU Bali - Canggu Permai,https://food.grab.com/id/en/restaurant/diramu-bali-canggu-permai-delivery/6-C6MEGTEGDAJBNJ,4.8,99,,,no,,grab_only,grab_only_no_maps_match
+Viva Burritos & Fish Tacos - Tibubeneng,https://food.grab.com/id/en/restaurant/viva-burritos-fish-tacos-tibubeneng-delivery/6-CY5XG3WYRPXCTJ,4.7,280,,,no,,grab_only,grab_only_no_maps_match
+Warung Makan² by Varuna - Canggu,https://food.grab.com/id/en/restaurant/warung-makan²-by-varuna-canggu-delivery/6-C62EKFLUNP4GJT,4.9,16,,,no,,grab_only,grab_only_no_maps_match
+RICE ME - Canggu,https://food.grab.com/id/en/restaurant/rice-me-canggu-delivery/6-C32CEXDWGXMBAA,4.3,846,,,yes,,grab_only,grab_only_no_maps_match
+Ayam betutu dewi sri dalung - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/ayam-betutu-dewi-sri-dalung-kerobokan-kaja-delivery/6-C3UWEGABL6KWN6,4.9,294,,,no,,grab_only,grab_only_no_maps_match
+Indonesia Rasa By Casa Tua - Canggu,https://food.grab.com/id/en/restaurant/indonesia-rasa-by-casa-tua-canggu-delivery/6-C26FT2KGGVJJTA,4.2,60,,,yes,,grab_only,grab_only_no_maps_match
+"PAN ASIA WOK (POKE, BOWLS, NOODLES) - Kerobokan Kelod",https://food.grab.com/id/en/restaurant/pan-asia-wok-poke-bowls-noodles-kerobokan-kelod-delivery/6-C8B1LJ6GC4MYAN,4.8,31,,,yes,,grab_only,grab_only_no_maps_match
+"To the moon cafe - Umalas, Kerobokan Kelod / Jl. Bumbak",https://food.grab.com/id/en/restaurant/to-the-moon-cafe-umalas-kerobokan-kelod-jl-bumbak-delivery/6-C7KEN2BTVKUHN2,4.9,332,,,yes,,grab_only,grab_only_no_maps_match
+"G Sushi (Poke Bowl, Salmon, Japanese, Wok) - Canggu",https://food.grab.com/id/en/restaurant/g-sushi-poke-bowl-salmon-japanese-wok-canggu-delivery/6-C6TCL73ALFUYLN,4.8,496,,,yes,,grab_only,grab_only_no_maps_match
+UNIBOWL PERERENAN POKEBOWL - Pererenan,https://food.grab.com/id/en/restaurant/unibowl-pererenan-pokebowl-pererenan-delivery/6-C6CTNJ5BAPKTGJ,4.8,3968,,,yes,,grab_only,grab_only_no_maps_match
+Healthy Friends - Canggu - Canggu,https://food.grab.com/id/en/restaurant/healthy-friends-canggu-canggu-delivery/6-C7EYJXBKG3AUGE,4.9,441,,,yes,,grab_only,grab_only_no_maps_match
+Prana Kitchen Healthy Food - Tibubeneng,https://food.grab.com/id/en/restaurant/prana-kitchen-healthy-food-tibubeneng-delivery/6-C4J1HGK3N33WR2,4.7,2038,,,yes,,grab_only,grab_only_no_maps_match
+"Amino Healthy (Breakfast, Protein, Smoothie Bowl)  - Canggu",https://food.grab.com/id/en/restaurant/amino-healthy-breakfast-protein-smoothie-bowl-canggu-delivery/6-C7NBVLEEWF3FJN,5,88,,,no,,grab_only,grab_only_no_maps_match
+"Original's (Breakfast, Poke Bowl, Crepes, Pasta) - Canggu",https://food.grab.com/id/en/restaurant/original-s-breakfast-poke-bowl-crepes-pasta-canggu-delivery/6-C7CAERA1JCBHJ2,4.7,112,,,no,,grab_only,grab_only_no_maps_match
+"HookahPlace (Sushi Roll, Poke Bowl, Salad, Burger) - Canggu",https://food.grab.com/id/en/restaurant/hookahplace-sushi-roll-poke-bowl-salad-burger-canggu-delivery/6-C7JZUE5JLXNZEJ,4.9,172,,,no,,grab_only,grab_only_no_maps_match
+Ika Sushi - Canggu,https://food.grab.com/id/en/restaurant/ika-sushi-canggu-delivery/6-C4J1E8C2RYXTC6,4.7,659,,,no,,grab_only,grab_only_no_maps_match
+Famous Vegetarian Vegan Foodcourt berawa kitchen - Tibubeneng,https://food.grab.com/id/en/restaurant/famous-vegetarian-vegan-foodcourt-berawa-kitchen-tibubeneng-delivery/6-C34JAY2WAKNASA,4.7,377,,,no,,grab_only,grab_only_no_maps_match
+One More Protein - Pererenan,https://food.grab.com/id/en/restaurant/one-more-protein-pererenan-delivery/6-C76CTP4FV2WHME,4.8,28,,,no,,grab_only,grab_only_no_maps_match
+"Suki Roll (Sushi, Healthy Rice Bowl, Juice) - Canggu",https://food.grab.com/id/en/restaurant/suki-roll-sushi-healthy-rice-bowl-juice-canggu-delivery/6-C7JVPAAWGBXTGN,4.9,139,,,no,,grab_only,grab_only_no_maps_match
+"Circle Fit (Healthy, Poke Bowl, Eggs, Protein) - Canggu",https://food.grab.com/id/en/restaurant/circle-fit-healthy-poke-bowl-eggs-protein-canggu-delivery/6-C8EFRFMALKAUDE,5,20,,,no,,grab_only,grab_only_no_maps_match
+"Nui Healthy Food (Salad, Protein, Sandwich) - Canggu",https://food.grab.com/id/en/restaurant/nui-healthy-food-salad-protein-sandwich-canggu-delivery/6-C7KUCGM3RREKJT,4.6,417,,,no,,grab_only,grab_only_no_maps_match
+"Protein Kitchen (Healthy, Kebab & Poke Bowl) - Canggu",https://food.grab.com/id/en/restaurant/protein-kitchen-healthy-kebab-poke-bowl-canggu-delivery/6-C6WVPAEHR2WULJ,4.6,804,,,no,,grab_only,grab_only_no_maps_match
+"Asian Kitchen Sushi & Wok by 20/20 (Noodles, Roll) - Canggu",https://food.grab.com/id/en/restaurant/asian-kitchen-sushi-wok-by-20-20-noodles-roll-canggu-delivery/6-C731HEU3AK2WG2,5,18,,,no,,grab_only,grab_only_no_maps_match
+Sushimi Sushi Berawa - Tibubeneng,https://food.grab.com/id/en/restaurant/sushimi-sushi-berawa-tibubeneng-delivery/6-C2T3JBNKR6UALJ,4.7,1152,,,no,,grab_only,grab_only_no_maps_match
+Poke Poke Canggu - Canggu,https://food.grab.com/id/en/restaurant/poke-poke-canggu-canggu-delivery/6-CYKCRCLERXTXLX,4.9,364,,,no,,grab_only,grab_only_no_maps_match
+To the Moon Sushi - Kerobokan,https://food.grab.com/id/en/restaurant/to-the-moon-sushi-kerobokan-delivery/6-C7KVNAJ1GA4YMA,4.9,219,,,no,,grab_only,grab_only_no_maps_match
+Nor Wrap - Canggu,https://food.grab.com/id/en/restaurant/nor-wrap-canggu-delivery/6-C8EBTJUAG7TVEA,,,,,no,,grab_only,grab_only_no_maps_match
+TYGR Sushi & Ramen - BERAWA,https://food.grab.com/id/en/restaurant/tygr-sushi-ramen-berawa-delivery/6-C3XGTA3FG3L2EJ,4.8,468,,,no,,grab_only,grab_only_no_maps_match
+"PRIME KITCHEN (Healthy, Protein, Breakfast) - Tibubeneng",https://food.grab.com/id/en/restaurant/prime-kitchen-healthy-protein-breakfast-tibubeneng-delivery/6-C7VHGYWHC743AT,4.6,117,,,no,,grab_only,grab_only_no_maps_match
+Cafe Vida - Canggu,https://food.grab.com/id/en/restaurant/cafe-vida-canggu-delivery/6-CYWBEF4CRKK3CA,4.6,592,,,no,,grab_only,grab_only_no_maps_match
+Vegan Nusantara rice bowl - Tibubeneng,https://food.grab.com/id/en/restaurant/vegan-nusantara-rice-bowl-tibubeneng-delivery/6-C6UASFDWTLCCAA,4.8,232,,,no,,grab_only,grab_only_no_maps_match
+Tiny Healthy Family Cafe - Tibubeneng,https://food.grab.com/id/en/restaurant/tiny-healthy-family-cafe-tibubeneng-delivery/6-C72WT6VYA7X3AN,4.8,12,,,no,,grab_only,grab_only_no_maps_match
+Gimme More - Pererenan,https://food.grab.com/id/en/restaurant/gimme-more-pererenan-delivery/6-C75ZG3NWVJNFJN,4.6,81,,,no,,grab_only,grab_only_no_maps_match
+GuestPlates - Canggu,https://food.grab.com/id/en/restaurant/guestplates-canggu-delivery/6-C723TVBBBAEUBE,4.9,93,,,no,,grab_only,grab_only_no_maps_match
+Bowl In Bowl Out - Canggu,https://food.grab.com/id/en/restaurant/bowl-in-bowl-out-canggu-delivery/6-C7EYJN2EJBTTT6,4.8,23,,,no,,grab_only,grab_only_no_maps_match
+"12 Urban Cafe (Breakfast, Pasta, Salad, Nasi) - Canggu",https://food.grab.com/id/en/restaurant/12-urban-cafe-breakfast-pasta-salad-nasi-canggu-delivery/6-C4LTDATXG6K1AT,4.9,1016,,,no,,grab_only,grab_only_no_maps_match
+FRESH and Co ( Healty Roll and Bowl) - Tibubeneng,https://food.grab.com/id/en/restaurant/fresh-and-co-healty-roll-and-bowl-tibubeneng-delivery/6-C8ATT2ECLFEYDA,,,,,no,,grab_only,grab_only_no_maps_match
+BLU CAFE CHEF MADE. NUTRITION HUB - Pererenan,https://food.grab.com/id/en/restaurant/blu-cafe-chef-made-nutrition-hub-pererenan-delivery/6-C73AN7NUCE5DLA,5,7,,,no,,grab_only,grab_only_no_maps_match
+Healthy spoon - Tibubeneng,https://food.grab.com/id/en/restaurant/healthy-spoon-tibubeneng-delivery/6-C7D1CUJZNEC1LE,3.9,59,,,no,,grab_only,grab_only_no_maps_match
+HOME CAFE KIKI - Pererenan,https://food.grab.com/id/en/restaurant/home-cafe-kiki-pererenan-delivery/6-C7UCGPKDR2DCGE,4.2,58,,,no,,grab_only,grab_only_no_maps_match
+"Word Bali (Vegan, Healthy, Breakfast, Lunch, Dinner) - Canggu",https://food.grab.com/id/en/restaurant/word-bali-vegan-healthy-breakfast-lunch-dinner-canggu-delivery/6-C3ETNK6EJXUZRT,4.5,297,,,no,,grab_only,grab_only_no_maps_match
+Green Spot Cafe - Canggu,https://food.grab.com/id/en/restaurant/green-spot-cafe-canggu-delivery/6-C3EJVAJVVYXTRJ,5,32,,,no,,grab_only,grab_only_no_maps_match
+Wrap Wrapp Wrappp - Canggu,https://food.grab.com/id/en/restaurant/wrap-wrapp-wrappp-canggu-delivery/6-C7EYJBTHN3AWJT,5,96,,,no,,grab_only,grab_only_no_maps_match
+Fit Rice Bowl - Tibubeneng,https://food.grab.com/id/en/restaurant/fit-rice-bowl-tibubeneng-delivery/6-C7D1CXNHCVC2T2,4.9,80,,,no,,grab_only,grab_only_no_maps_match
+Bon Appetit French Tacos - Pererenan,https://food.grab.com/id/en/restaurant/bon-appetit-french-tacos-pererenan-delivery/6-C7N3FADFCA2UFE,4.8,885,,,yes,,grab_only,grab_only_no_maps_match
+LE MONDE - FRENCH TACOS - CANGGU - Tibubeneng,https://food.grab.com/id/en/restaurant/le-monde-french-tacos-canggu-tibubeneng-delivery/6-C7DZLKE1NLEWSE,4.5,612,,,yes,,grab_only,grab_only_no_maps_match
+Cafe Coach - Canggu,https://food.grab.com/id/en/restaurant/cafe-coach-canggu-delivery/6-C2KAAGDXHAECJX,4.9,467,,,yes,,grab_only,grab_only_no_maps_match
+Wrap Republic - Kerobokan,https://food.grab.com/id/en/restaurant/wrap-republic-kerobokan-delivery/6-C7WZAYBFT7UJE2,4.6,89,,,no,,grab_only,grab_only_no_maps_match
+Pressed Cafe And Mylk Store - Canggu,https://food.grab.com/id/en/restaurant/pressed-cafe-and-mylk-store-canggu-delivery/6-C4NKAP4BNNTWAN,4.7,1917,,,yes,,grab_only,grab_only_no_maps_match
+Bali Burrito Club - Canggu,https://food.grab.com/id/en/restaurant/bali-burrito-club-canggu-delivery/6-C6XKBBDDNGKWV6,4.5,800,,,no,,grab_only,grab_only_no_maps_match
+"LAZE ( BREAKFAST,EGG,CHICKEN,AVOCADO,HEALTHY,SANDWICH ) - Canggu",https://food.grab.com/id/en/restaurant/laze-breakfast-egg-chicken-avocado-healthy-sandwich-canggu-delivery/6-C65BGKKHUE63A2,4.8,521,,,no,,grab_only,grab_only_no_maps_match
+UNCLE'S - French Tacos - Kerobokan,https://food.grab.com/id/en/restaurant/uncle-s-french-tacos-kerobokan-delivery/6-C8EHRUTHAELVTT,5,643,,,yes,,grab_only,grab_only_no_maps_match
+Good Burrito - Tibubeneng,https://food.grab.com/id/en/restaurant/good-burrito-tibubeneng-delivery/6-C3N2J4BWWAAVEE,4.4,448,,,no,,grab_only,grab_only_no_maps_match
+Don Juan Mexican - Pererenan,https://food.grab.com/id/en/restaurant/don-juan-mexican-pererenan-delivery/6-C3ABN3DYAJUKAJ,4.7,342,,,no,,grab_only,grab_only_no_maps_match
+Jalapeno Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/jalapeno-canggu-tibubeneng-delivery/6-C7D3V4EHGJAWTJ,4.8,50,,,no,,grab_only,grab_only_no_maps_match
+Tacos Aqui - Kerobokan,https://food.grab.com/id/en/restaurant/tacos-aqui-kerobokan-delivery/6-C8BJRAWZWEKJTT,5,9,,,no,,grab_only,grab_only_no_maps_match
+Metta Cafe - Canggu,https://food.grab.com/id/en/restaurant/metta-cafe-canggu-delivery/6-C3LUC4KBANU2RJ,5,4,,,no,,grab_only,grab_only_no_maps_match
+BURRITO CORNER - Tibubeneng,https://food.grab.com/id/en/restaurant/burrito-corner-tibubeneng-delivery/6-C7WKGECGR4AJC2,3.9,26,,,no,,grab_only,grab_only_no_maps_match
+The Hangover - Kerobokan,https://food.grab.com/id/en/restaurant/the-hangover-kerobokan-delivery/6-C7UTA25ZTGMXCE,4.9,16,,,no,,grab_only,grab_only_no_maps_match
+FRENCH QUESADILLA - Tibubeneng,https://food.grab.com/id/en/restaurant/french-quesadilla-tibubeneng-delivery/6-C6TEDF3WVYKDTE,4.8,44,,,no,,grab_only,grab_only_no_maps_match
+Shaman Lavash ( Kebab & Shawarma ) bistro - Canggu,https://food.grab.com/id/en/restaurant/shaman-lavash-kebab-shawarma-bistro-canggu-delivery/6-C6AKR63WAK2KHE,4.6,678,,,no,,grab_only,grab_only_no_maps_match
+Warung Gauri - Canggu,https://food.grab.com/id/en/restaurant/warung-gauri-canggu-delivery/6-CY5CHABEKETDVT,4.7,438,,,no,,grab_only,grab_only_no_maps_match
+Nena Cafe Kebab And Shawarma - Berawa,https://food.grab.com/id/en/restaurant/nena-cafe-kebab-and-shawarma-berawa-delivery/6-C3MZABN3TNM3KE,4.5,536,,,yes,,grab_only,grab_only_no_maps_match
+Mr Blend Smoothie Bowl and Juice Canggu Permai - Tibubeneng,https://food.grab.com/id/en/restaurant/mr-blend-smoothie-bowl-and-juice-canggu-permai-tibubeneng-delivery/6-C642C4NGEAKKRA,4.9,242,,,no,,grab_only,grab_only_no_maps_match
+Cinnamor - Pererenan,https://food.grab.com/id/en/restaurant/cinnamor-pererenan-delivery/6-C6VCEAL1DCLGL6,4.5,1059,,,no,,grab_only,grab_only_no_maps_match
+Smash and Melt - Kerobokan,https://food.grab.com/id/en/restaurant/smash-and-melt-kerobokan-delivery/6-C7UDHEEUG7KER6,4.6,13,,,no,,grab_only,grab_only_no_maps_match
+Baked - Canggu,https://food.grab.com/id/en/restaurant/baked-canggu-delivery/6-C3VYPBCGARJTEE,4.7,1117,,,no,,grab_only,grab_only_no_maps_match
+Bacon and Butter - Kerobokan,https://food.grab.com/id/en/restaurant/bacon-and-butter-kerobokan-delivery/6-C7TZMFDXJU5CSE,4.5,27,,,no,,grab_only,grab_only_no_maps_match
+"Ju Bali (Breakfast, Pizza, Pasta, Grill) - Kerobokan",https://food.grab.com/id/en/restaurant/ju-bali-breakfast-pizza-pasta-grill-kerobokan-delivery/6-C7VAN6B3VEEDLN,4.9,24,,,no,,grab_only,grab_only_no_maps_match
+Batter Club Cookies - Canggu,https://food.grab.com/id/en/restaurant/batter-club-cookies-canggu-delivery/6-C762KGBALNE2JT,5,118,,,no,,grab_only,grab_only_no_maps_match
+Oka's Bakery & Cafe - Pantai Batu Bolong,https://food.grab.com/id/en/restaurant/oka-s-bakery-cafe-pantai-batu-bolong-delivery/6-CYJ2RGC3HEBJEA,5,143,,,no,,grab_only,grab_only_no_maps_match
+Cactus Cafe - Jl. Pantai Pererenan,https://food.grab.com/id/en/restaurant/cactus-cafe-jl-pantai-pererenan-delivery/6-C4AWRNKZAFVWAA,4.8,81,,,no,,grab_only,grab_only_no_maps_match
+"Soma Cafe - Health and Fitness Food, Canggu",https://food.grab.com/id/en/restaurant/soma-cafe-health-and-fitness-food-canggu-delivery/6-C752TXKCG733JT,4.6,8,,,no,,grab_only,grab_only_no_maps_match
+Burrito eL Capitano - Tibubeneng,https://food.grab.com/id/en/restaurant/burrito-el-capitano-tibubeneng-delivery/6-C8CGJB3HNYKCR6,,,,,no,,grab_only,grab_only_no_maps_match
+Butter protein club - Pererenan,https://food.grab.com/id/en/restaurant/butter-protein-club-pererenan-delivery/6-C7XFJ2VTRLETSE,4.5,518,,,no,,grab_only,grab_only_no_maps_match
+Grill District - Kerobokan,https://food.grab.com/id/en/restaurant/grill-district-kerobokan-delivery/6-C7WZA62UVXTUAX,4,3,,,no,,grab_only,grab_only_no_maps_match
+Daily Bites Co - Tibubeneng,https://food.grab.com/id/en/restaurant/daily-bites-co-tibubeneng-delivery/6-C8ECLA6GJ7MUT2,,,,,no,,grab_only,grab_only_no_maps_match
+SKY SUSHI - Umalas,https://food.grab.com/id/en/restaurant/sky-sushi-umalas-delivery/6-C75KFENFELKBBE,5,14,,,no,,grab_only,grab_only_no_maps_match
+Food Republic - Tibubeneng,https://food.grab.com/id/en/restaurant/food-republic-tibubeneng-delivery/6-C8EDJRMGME3GE6,,,,,no,,grab_only,grab_only_no_maps_match
+Bali Boozy Kitchen and Bar - Batu Belig,https://food.grab.com/id/en/restaurant/bali-boozy-kitchen-and-bar-batu-belig-delivery/6-C2VXUE5VCKEXNX,4.9,245,,,no,,grab_only,grab_only_no_maps_match
+Snack Lab - Tibubeneng,https://food.grab.com/id/en/restaurant/snack-lab-tibubeneng-delivery/6-C8EDHADGRPB2SA,,,,,no,,grab_only,grab_only_no_maps_match
+Boonee Coffee & Eatery - Tibubeneng,https://food.grab.com/id/en/restaurant/boonee-coffee-eatery-tibubeneng-delivery/6-C7B2FAE2GZKZRX,,,,,no,,grab_only,grab_only_no_maps_match
+Manhattan Cafe & Dinner - Canggu,https://food.grab.com/id/en/restaurant/manhattan-cafe-dinner-canggu-delivery/6-C65JL63JAGNTR6,4.7,39,,,no,,grab_only,grab_only_no_maps_match
+Motion Cafe Fitness & Healthy Foods - Berawa,https://food.grab.com/id/en/restaurant/motion-cafe-fitness-healthy-foods-berawa-delivery/6-C26YLGAKR2LWSE,4.5,1237,,,no,,grab_only,grab_only_no_maps_match
+Sunny smash burger & coffe - Tibubeneng,https://food.grab.com/id/en/restaurant/sunny-smash-burger-coffe-tibubeneng-delivery/6-C8BEL8CJJCJFKA,,,,,no,,grab_only,grab_only_no_maps_match
+The Daun Coffee And Roastery - Canggu,https://food.grab.com/id/en/restaurant/the-daun-coffee-and-roastery-canggu-delivery/6-C2CTV622VY4XE6,4.2,46,,,no,,grab_only,grab_only_no_maps_match
+Mexicana Burritos - Tibubeneng,https://food.grab.com/id/en/restaurant/mexicana-burritos-tibubeneng-delivery/6-C8CDAYNEKGKZCE,5,2,,,no,,grab_only,grab_only_no_maps_match
+Naughty Nash - Canggu,https://food.grab.com/id/en/restaurant/naughty-nash-canggu-delivery/6-C7BDSEUKHAU3RT,,,,,no,,grab_only,grab_only_no_maps_match
+Taco Diablo - Kerobokan,https://food.grab.com/id/en/restaurant/taco-diablo-kerobokan-delivery/6-C8EJRXUKJ24HTX,,,,,no,,grab_only,grab_only_no_maps_match
+Kilo Kitchen Pererenan - Pererenan,https://food.grab.com/id/en/restaurant/kilo-kitchen-pererenan-pererenan-delivery/6-C7TEECABCXVJRE,,,,,no,,grab_only,grab_only_no_maps_match
+T Mart - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/t-mart-kerobokan-kelod-delivery/6-C6NHR4J1LA4EBA,,,,,no,,grab_only,grab_only_no_maps_match
+"Cheeky Poke bowls (Salad, Fresh) - Kerobokan Kelod",https://food.grab.com/id/en/restaurant/cheeky-poke-bowls-salad-fresh-kerobokan-kelod-delivery/6-C63XAE4WJREHCE,3.7,25,,,no,,grab_only,grab_only_no_maps_match
+Tacoz - Canggu,https://food.grab.com/id/en/restaurant/tacoz-canggu-delivery/6-C7CJT8A2HFLKEJ,3.7,94,,,no,,grab_only,grab_only_no_maps_match
+Centre Cafe Canggu Aseman - Tibubeneng,https://food.grab.com/id/en/restaurant/centre-cafe-canggu-aseman-tibubeneng-delivery/6-C6VJFCL2C8LYEX,4.7,250,,,no,,grab_only,grab_only_no_maps_match
+Mexican Salad - Tibubeneng,https://food.grab.com/id/en/restaurant/mexican-salad-tibubeneng-delivery/6-C8CULCDVGN21DE,5,1,,,no,,grab_only,grab_only_no_maps_match
+Bean Cafe - Canggu,https://food.grab.com/id/en/restaurant/bean-cafe-canggu-delivery/6-C4EELBXFVTXCCJ,4.8,65,,,no,,grab_only,grab_only_no_maps_match
+Hungry Bird - Tibubeneng,https://food.grab.com/id/en/restaurant/hungry-bird-tibubeneng-delivery/6-C23HG2XJLJVARJ,4.9,345,,,no,,grab_only,grab_only_no_maps_match
+Little Mexico Tacos And Burritos - Tibubeneng,https://food.grab.com/id/en/restaurant/little-mexico-tacos-and-burritos-tibubeneng-delivery/6-C3EJA3ECJ6VWBE,5,239,,,no,,grab_only,grab_only_no_maps_match
+Brother Goose Cafe - Canggu,https://food.grab.com/id/en/restaurant/brother-goose-cafe-canggu-delivery/6-C6XVLTJAJNW2TA,4.9,27,,,no,,grab_only,grab_only_no_maps_match
+AMERICAN Smash Burger - Jl. Raya Kerobokan No.124,https://food.grab.com/id/en/restaurant/american-smash-burger-jl-raya-kerobokan-no-124-delivery/6-C7TDL2NBUCEJCE,4.7,146,,,no,,grab_only,grab_only_no_maps_match
+Sababa Bali Restaurant - Tibubeneng,https://food.grab.com/id/en/restaurant/sababa-bali-restaurant-tibubeneng-delivery/6-C32ZV7LVGAAGLT,4.6,92,,,no,,grab_only,grab_only_no_maps_match
+The Capricorn - Tibubeneng,https://food.grab.com/id/en/restaurant/the-capricorn-tibubeneng-delivery/6-C6BDRJJABABDTE,5,10,,,no,,grab_only,grab_only_no_maps_match
+Honeycomb Hookah & Eatery - Pererenan,https://food.grab.com/id/en/restaurant/honeycomb-hookah-eatery-pererenan-delivery/6-C6T1V2DGVNWBWE,4.4,209,,,no,,grab_only,grab_only_no_maps_match
+Cafe Organic Bali - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/cafe-organic-bali-kerobokan-kelod-delivery/6-C3LHREUHJNEFLE,5,18,,,no,,grab_only,grab_only_no_maps_match
+Vika' S Steak & BBQ - Kerobokan,https://food.grab.com/id/en/restaurant/vika-s-steak-bbq-kerobokan-delivery/6-C7CZRJKJCJEWTA,5,3,,,no,,grab_only,grab_only_no_maps_match
+BREAKFAST AND BRUNCH FRESTRO SEMINYAK - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/breakfast-and-brunch-frestro-seminyak-kerobokan-kelod-delivery/6-C6NGTT2ZNNDXA6,5,17,,,no,,grab_only,grab_only_no_maps_match
+Pho Hwitta - Kerobokan,https://food.grab.com/id/en/restaurant/pho-hwitta-kerobokan-delivery/IDGFSTI00003as6,4.7,937,,,yes,,grab_only,grab_only_no_maps_match
+Shuang Xi - Canggu,https://food.grab.com/id/en/restaurant/shuang-xi-canggu-delivery/6-C3AYLAJFSA6YNN,4.2,70,,,yes,,grab_only,grab_only_no_maps_match
+Mie And More - Canggu,https://food.grab.com/id/en/restaurant/mie-and-more-canggu-delivery/6-C261G2WHETJTJA,4.3,128,,,yes,,grab_only,grab_only_no_maps_match
+Sate Babi Buk Gede - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/sate-babi-buk-gede-kerobokan-kelod-delivery/6-C2CURTBCG4L1RE,4,20,,,yes,,grab_only,grab_only_no_maps_match
+Wings Canggu - Canggu,https://food.grab.com/id/en/restaurant/wings-canggu-canggu-delivery/6-C343VVLHBEMFL2,4.6,551,,,yes,,grab_only,grab_only_no_maps_match
+Warung sate pak feby - Canggu,https://food.grab.com/id/en/restaurant/warung-sate-pak-feby-canggu-delivery/6-C6CGAAU3N35UJX,4.4,92,,,yes,,grab_only,grab_only_no_maps_match
+SATE PONOROGO - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/sate-ponorogo-kerobokan-kelod-delivery/6-C7WUVYMWAFDXEN,4.8,89,,,yes,,grab_only,grab_only_no_maps_match
+Warung makan berkah by bu iin - Tibubeneng,https://food.grab.com/id/en/restaurant/warung-makan-berkah-by-bu-iin-tibubeneng-delivery/6-C6TUVPL3J2VAA2,3.9,248,,,yes,,grab_only,grab_only_no_maps_match
+Warung Sate Pak Firman - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/warung-sate-pak-firman-kerobokan-kaja-delivery/6-C3BKWB2FHAK2CA,4.8,712,,,yes,,grab_only,grab_only_no_maps_match
+Wr.barokah sate ayam pak haji - Jl. Raya Kerobokan,https://food.grab.com/id/en/restaurant/wr-barokah-sate-ayam-pak-haji-jl-raya-kerobokan-delivery/6-C76VAPE2GBJXCT,,,,,yes,,grab_only,grab_only_no_maps_match
+Rebo Pork Ribs - Kerobokan,https://food.grab.com/id/en/restaurant/rebo-pork-ribs-kerobokan-delivery/6-C8EJRPCDVBLFDE,,,,,yes,,grab_only,grab_only_no_maps_match
+Santarasa Bali - Tibubeneng,https://food.grab.com/id/en/restaurant/santarasa-bali-tibubeneng-delivery/6-C6T1C7TCFFWXRT,3.7,58,,,no,,grab_only,grab_only_no_maps_match
+Sate taichan jakarta - Tibubeneng,https://food.grab.com/id/en/restaurant/sate-taichan-jakarta-tibubeneng-delivery/6-C8DDMF6XTJN3NE,,,,,no,,grab_only,grab_only_no_maps_match
+Sop Kikil Kambing dan Sate Kambing Khas Jakarta Sudi Mampir 7 - Canggu,https://food.grab.com/id/en/restaurant/sop-kikil-kambing-dan-sate-kambing-khas-jakarta-sudi-mampir-7-canggu-delivery/6-C7MXR7M1KBMFCT,4.2,24,,,no,,grab_only,grab_only_no_maps_match
+Warung Alody - Canggu,https://food.grab.com/id/en/restaurant/warung-alody-canggu-delivery/6-CYKACBVBGK6CBA,4.5,271,,,yes,,grab_only,grab_only_no_maps_match
+Warung Kalapa - Tibubeneng,https://food.grab.com/id/en/restaurant/warung-kalapa-tibubeneng-delivery/6-CY21C63JAKJHEJ,5,214,,,no,,grab_only,grab_only_no_maps_match
+Warung sate putra madura - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/warung-sate-putra-madura-kerobokan-kaja-delivery/6-C7CZNCJWFBAVCN,4.4,34,,,no,,grab_only,grab_only_no_maps_match
+Kuah balung pak beng masakan khas bali - Tibubeneng,https://food.grab.com/id/en/restaurant/kuah-balung-pak-beng-masakan-khas-bali-tibubeneng-delivery/6-C73AUE3JBBNCNJ,5,2,,,no,,grab_only,grab_only_no_maps_match
+Warung Varuna - Canggu,https://food.grab.com/id/en/restaurant/warung-varuna-canggu-delivery/6-C3DUMFEXCJXCKA,4.6,163,,,no,,grab_only,grab_only_no_maps_match
+Warung Corner - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-corner-kerobokan-kelod-delivery/IDGFSTI00000q18,4.5,1022,,,no,,grab_only,grab_only_no_maps_match
+Daily Of Bites - Tibubeneng,https://food.grab.com/id/en/restaurant/daily-of-bites-tibubeneng-delivery/6-C8AFNBAHDEDZAX,4.9,85,,,no,,grab_only,grab_only_no_maps_match
+Paon Tuna - Pererenan,https://food.grab.com/id/en/restaurant/paon-tuna-pererenan-delivery/6-C2ATGB6GCJCBJT,4.8,339,,,no,,grab_only,grab_only_no_maps_match
+STEAK HEIRLOOM - Canggu,https://food.grab.com/id/en/restaurant/steak-heirloom-canggu-delivery/6-C7W1NB4FBBWJME,4.7,267,,,no,,grab_only,grab_only_no_maps_match
+Warung Sunshine Berawa - Tibubeneng,https://food.grab.com/id/en/restaurant/warung-sunshine-berawa-tibubeneng-delivery/6-C3BARKWWDGLACA,,,,,no,,grab_only,grab_only_no_maps_match
+WARUNG PASTO AND SALSA - Canggu,https://food.grab.com/id/en/restaurant/warung-pasto-and-salsa-canggu-delivery/6-C7WZVGCTJ4C3E2,4.7,321,,,no,,grab_only,grab_only_no_maps_match
+Narayana Vegetarian - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/narayana-vegetarian-kerobokan-kelod-delivery/6-C2LTT72HMA3WL6,4.6,279,,,yes,,grab_only,grab_only_no_maps_match
+Sate babi 99 - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/sate-babi-99-kerobokan-kelod-delivery/6-C7WGJZJ1A6LXLA,4.3,16,,,no,,grab_only,grab_only_no_maps_match
+"18 Grams Coffeeshop & Restaurant - Jl. Pantai Berawa, Canggu",https://food.grab.com/id/en/restaurant/18-grams-coffeeshop-restaurant-jl-pantai-berawa-canggu-delivery/6-C7D1DE4ZLJ5KKE,4.9,30,,,no,,grab_only,grab_only_no_maps_match
+Warung Lalapan Laris - Canggu,https://food.grab.com/id/en/restaurant/warung-lalapan-laris-canggu-delivery/6-C23KAULDSALEVX,4.5,84,,,yes,,grab_only,grab_only_no_maps_match
+Chef Ibu - Canggu,https://food.grab.com/id/en/restaurant/chef-ibu-canggu-delivery/6-C7WHJ3CVKCB3AT,4.6,167,,,no,,grab_only,grab_only_no_maps_match
+Pali Rumah Joglo - Canggu,https://food.grab.com/id/en/restaurant/pali-rumah-joglo-canggu-delivery/6-C2W2TE21SEJYL2,4.3,19,,,no,,grab_only,grab_only_no_maps_match
+Souphoria - Kerobokan,https://food.grab.com/id/en/restaurant/souphoria-kerobokan-delivery/IDGFSTI00000q0l,4.9,1275,,,no,,grab_only,grab_only_no_maps_match
+Oh My Thai - Canggu,https://food.grab.com/id/en/restaurant/oh-my-thai-canggu-delivery/6-C2VFEEWJVFCVLE,4.5,808,,,no,,grab_only,grab_only_no_maps_match
+Superfood Canggu - Canggu,https://food.grab.com/id/en/restaurant/superfood-canggu-canggu-delivery/6-C2UVWAKZA6KXV6,4.5,1683,,,yes,,grab_only,grab_only_no_maps_match
+Pita Heroes Sandwich Shop - Pererenan,https://food.grab.com/id/en/restaurant/pita-heroes-sandwich-shop-pererenan-delivery/6-C8BHVE4ZAPXYN2,4.9,14,,,no,,grab_only,grab_only_no_maps_match
+Dian Wine And Spirits - Canggu,https://food.grab.com/id/en/restaurant/dian-wine-and-spirits-canggu-delivery/6-C6BUJPEZNK2BET,4.6,236,,,no,,grab_only,grab_only_no_maps_match
+ARLIA MART - Pererenan,https://food.grab.com/id/en/restaurant/arlia-mart-pererenan-delivery/6-C7BYBGBWJ2XWAJ,5,186,,,no,,grab_only,grab_only_no_maps_match
+Bettr Bowls - Canggu,https://food.grab.com/id/en/restaurant/bettr-bowls-canggu-delivery/6-C7MHUE6ARKBDC2,4.8,93,,,no,,grab_only,grab_only_no_maps_match
+"Kitchen Nirvana Life, Health Food and Fitness - Tibubeneng",https://food.grab.com/id/en/restaurant/kitchen-nirvana-life-health-food-and-fitness-tibubeneng-delivery/6-C8C2C3VUN6JYCX,4.9,24,,,no,,grab_only,grab_only_no_maps_match
+Birds Nest Canggu - Pererenan,https://food.grab.com/id/en/restaurant/birds-nest-canggu-pererenan-delivery/6-C62GEGLKPGJTJE,4.3,120,,,no,,grab_only,grab_only_no_maps_match
+Warung apa Healthy Indonesian food - Pererenan,https://food.grab.com/id/en/restaurant/warung-apa-healthy-indonesian-food-pererenan-delivery/6-C7MZRFJ2J76KFE,4.8,38,,,no,,grab_only,grab_only_no_maps_match
+NEGRITA CAFE - Canggu,https://food.grab.com/id/en/restaurant/negrita-cafe-canggu-delivery/6-C6TTJ6WEWAVXBE,4.6,84,,,no,,grab_only,grab_only_no_maps_match
+Remix Juice Bali - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/remix-juice-bali-kerobokan-kelod-delivery/6-C26XJPVHWAAET6,4.9,177,,,no,,grab_only,grab_only_no_maps_match
+CHICKEN SHACK - Pererenan,https://food.grab.com/id/en/restaurant/chicken-shack-pererenan-delivery/6-C3KVSE33LKLUCE,4.3,168,,,no,,grab_only,grab_only_no_maps_match
+Barboa - Canggu,https://food.grab.com/id/en/restaurant/barboa-canggu-delivery/6-C64TEAM1JPNDT6,4.6,108,,,no,,grab_only,grab_only_no_maps_match
+Happy Chappy Chinese - Tibubeneng,https://food.grab.com/id/en/restaurant/happy-chappy-chinese-tibubeneng-delivery/IDGFSTI00003f5g,4.6,171,,,no,,grab_only,grab_only_no_maps_match
+Warung Nelayan - Canggu,https://food.grab.com/id/en/restaurant/warung-nelayan-canggu-delivery/6-C6XGA73UNXMBEE,4.9,19,,,no,,grab_only,grab_only_no_maps_match
+Froth & Bubble - Canggu,https://food.grab.com/id/en/restaurant/froth-bubble-canggu-delivery/6-C73DN3EVRBJEJA,4,4,,,no,,grab_only,grab_only_no_maps_match
+Toko Niya Plastik & Kemasan - Kerobokan,https://food.grab.com/id/en/restaurant/toko-niya-plastik-kemasan-kerobokan-delivery/6-C3U1LX5DVA61G6,4.9,11,,,no,,grab_only,grab_only_no_maps_match
+RICE WARUNG - Canggu,https://food.grab.com/id/en/restaurant/rice-warung-canggu-delivery/6-C66TV3MAR7CFG6,4.4,55,,,no,,grab_only,grab_only_no_maps_match
+Little Brew Café - Breakfast & Healthy Meals - Pererenan,https://food.grab.com/id/en/restaurant/little-brew-café-breakfast-healthy-meals-pererenan-delivery/6-C7XDPAMTT7JURN,4.8,37,,,no,,grab_only,grab_only_no_maps_match
+LAWAR PLEK PAN AYA - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/lawar-plek-pan-aya-kerobokan-kaja-delivery/6-C7XXTXTXGFCUUA,4.8,36,,,no,,grab_only,grab_only_no_maps_match
+BANDEJA - Canggu,https://food.grab.com/id/en/restaurant/bandeja-canggu-delivery/6-C6EHNJEXAVJJR6,5,14,,,no,,grab_only,grab_only_no_maps_match
+WARUNG SAYUR MUMASSIL - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/warung-sayur-mumassil-kerobokan-kaja-delivery/6-C6MYT8LJJVC1RJ,4.8,480,,,no,,grab_only,grab_only_no_maps_match
+Gohan Ku  - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/gohan-ku-kerobokan-kelod-delivery/6-C32ZAP2UJ34ZEE,4.9,654,,,no,,grab_only,grab_only_no_maps_match
+The gym cafe - Pererenan,https://food.grab.com/id/en/restaurant/the-gym-cafe-pererenan-delivery/6-C7WZPCKZUEACA6,4.6,5,,,no,,grab_only,grab_only_no_maps_match
+Slavic Roots Cafe and Eatery - Tibubeneng,https://food.grab.com/id/en/restaurant/slavic-roots-cafe-and-eatery-tibubeneng-delivery/6-C6JWNXX2VT3EBA,3.5,25,,,no,,grab_only,grab_only_no_maps_match
+VEGEMATE BALI - Canggu,https://food.grab.com/id/en/restaurant/vegemate-bali-canggu-delivery/6-C7UEAUXGJ3VBL2,5,23,,,no,,grab_only,grab_only_no_maps_match
+LOLITA BALI SPANISH BAR - Kerobokan,https://food.grab.com/id/en/restaurant/lolita-bali-spanish-bar-kerobokan-delivery/6-C7AJVYBDNK2ALE,4.8,10,,,no,,grab_only,grab_only_no_maps_match
+Mesari Jaya - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/mesari-jaya-kerobokan-kelod-delivery/6-C3BVRTEELXCELN,4.9,386,,,no,,grab_only,grab_only_no_maps_match
+"Brunch Deli , Breakfast , Brunch , Smoothies and Juices - Kerobokan Kaja",https://food.grab.com/id/en/restaurant/brunch-deli-breakfast-brunch-smoothies-and-juices-kerobokan-kaja-delivery/6-C7AJGLCHSAEULT,4.4,219,,,no,,grab_only,grab_only_no_maps_match
+AT 06 (At Six Canggu) - Pantai Batu Mejan,https://food.grab.com/id/en/restaurant/at-06-at-six-canggu-pantai-batu-mejan-delivery/6-C3TKA4EBL3V2TX,,,,,no,,grab_only,grab_only_no_maps_match
+Ayam Lalapan Sup Kepala Ikan Dapoer Mertua - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/ayam-lalapan-sup-kepala-ikan-dapoer-mertua-kerobokan-kelod-delivery/6-C3D3VYDBKGNEUE,4.4,849,,,no,,grab_only,grab_only_no_maps_match
+Hs plastik - Kerobokan,https://food.grab.com/id/en/restaurant/hs-plastik-kerobokan-delivery/6-C6WTLZLBAX4CJE,5,30,,,no,,grab_only,grab_only_no_maps_match
+Seabird Bistro and Coworking  - Canggu,https://food.grab.com/id/en/restaurant/seabird-bistro-and-coworking-canggu-delivery/6-C62BCUJESBX2EE,5,322,,,no,,grab_only,grab_only_no_maps_match
+Laiz coffee - Tibubeneng,https://food.grab.com/id/en/restaurant/laiz-coffee-tibubeneng-delivery/6-C3LJNX6FNJNDSE,4.8,57,,,no,,grab_only,grab_only_no_maps_match
+Warung Panorama - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-panorama-kerobokan-kelod-delivery/6-C7WVHAEAVBKHLE,4.6,7,,,no,,grab_only,grab_only_no_maps_match
+"Steak Tendré - Speciality Grilled, Pasta, Asian Fusion - Kerobokan Kaja",https://food.grab.com/id/en/restaurant/steak-tendré-speciality-grilled-pasta-asian-fusion-kerobokan-kaja-delivery/6-C7LYEAEHVCNFCN,4.4,201,,,no,,grab_only,grab_only_no_maps_match
+Brooklyn Billiards Bali - Canggu,https://food.grab.com/id/en/restaurant/brooklyn-billiards-bali-canggu-delivery/6-C6WHEJKEUFW3A6,4.6,25,,,no,,grab_only,grab_only_no_maps_match
+Selia Restaurant Coffee & Bar - Tibubeneng,https://food.grab.com/id/en/restaurant/selia-restaurant-coffee-bar-tibubeneng-delivery/6-C6BTN8C3LKW3HE,3.9,20,,,no,,grab_only,grab_only_no_maps_match
+Tribal Bali - Pererenan,https://food.grab.com/id/en/restaurant/tribal-bali-pererenan-delivery/6-C3DXFE4WE72UA6,5,24,,,no,,grab_only,grab_only_no_maps_match
+BILLY HO AT HOME - Canggu,https://food.grab.com/id/en/restaurant/billy-ho-at-home-canggu-delivery/6-C73HRXCFGULCWA,3.8,8,,,no,,grab_only,grab_only_no_maps_match
+Nasi goreng & ayam goreng (Arthayasa) - Kayu tulang Canggu,https://food.grab.com/id/en/restaurant/nasi-goreng-ayam-goreng-arthayasa-kayu-tulang-canggu-delivery/6-C7U2C6NFLB4AET,4.4,17,,,no,,grab_only,grab_only_no_maps_match
+Hachiko Petshop - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/hachiko-petshop-kerobokan-kelod-delivery/6-C3NKAY6JKCEAV2,5,129,,,no,,grab_only,grab_only_no_maps_match
+Kavana Organic - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/kavana-organic-kerobokan-kaja-delivery/6-C24CCU2KE2U3VE,4.9,89,,,no,,grab_only,grab_only_no_maps_match
+Kedai Tepi Kali - Canggu,https://food.grab.com/id/en/restaurant/kedai-tepi-kali-canggu-delivery/6-C2XCWBLHFB4JJ2,,,,,no,,grab_only,grab_only_no_maps_match
+MILO PETSHOP - Tibubeneng,https://food.grab.com/id/en/restaurant/milo-petshop-tibubeneng-delivery/6-C8JHJ4A1GRJHMA,,,,,no,,grab_only,grab_only_no_maps_match
+Lontong Balap - Kerobokan,https://food.grab.com/id/en/restaurant/lontong-balap-kerobokan-delivery/6-C24BAE2HJXBKVA,4.8,83,,,no,,grab_only,grab_only_no_maps_match
+Bali Street kitchen & Bar - Canggu,https://food.grab.com/id/en/restaurant/bali-street-kitchen-bar-canggu-delivery/6-C8BHEVB2R7WBTJ,,,,,no,,grab_only,grab_only_no_maps_match
+SRC SJS - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/src-sjs-kerobokan-kelod-delivery/6-CZM2JNKCR2DTME,4.8,863,,,no,,grab_only,grab_only_no_maps_match
+"Warung Dua Hati - Healthy, Vegan, Canggu - Canggu",https://food.grab.com/id/en/restaurant/warung-dua-hati-healthy-vegan-canggu-canggu-delivery/6-C26YTNU1HGDYWE,4.7,431,,,no,,grab_only,grab_only_no_maps_match
+Masakan Padang Bungo Minang - Tibubeneng,https://food.grab.com/id/en/restaurant/masakan-padang-bungo-minang-tibubeneng-delivery/6-C23XAGMUBFK1V6,4.3,444,,,yes,,grab_only,grab_only_no_maps_match
+Bubur Ayam Khas Jakarta Bang Yossi - Kerobokan,https://food.grab.com/id/en/restaurant/bubur-ayam-khas-jakarta-bang-yossi-kerobokan-delivery/6-C4DAHB3ZL333TE,4.7,817,,,no,,grab_only,grab_only_no_maps_match
+SIEMA KITCHEN - Pantai Batu Bolong,https://food.grab.com/id/en/restaurant/siema-kitchen-pantai-batu-bolong-delivery/AWlRIrQ3R-bAtZoKaQh8,,,,,no,,grab_only,grab_only_no_maps_match
+Warung pak Ketut tianyar - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-pak-ketut-tianyar-kerobokan-kelod-delivery/6-C7WEL7BFJ6X2JT,4.9,17,,,no,,grab_only,grab_only_no_maps_match
+NASI GORENG ONS WARUNG - Tibubeneng,https://food.grab.com/id/en/restaurant/nasi-goreng-ons-warung-tibubeneng-delivery/6-C76VNXNXJXBCTA,5,1,,,no,,grab_only,grab_only_no_maps_match
+Nasi Ayam Kedewatan Ibu Mangku - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/nasi-ayam-kedewatan-ibu-mangku-kerobokan-kelod-delivery/6-C2CYAU2ZN6DEGE,4.7,3956,,,no,,grab_only,grab_only_no_maps_match
+Amber Resto Seminyak - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/amber-resto-seminyak-kerobokan-kelod-delivery/6-C8BXEECFJA2YLA,,,,,no,,grab_only,grab_only_no_maps_match
+Moris Grocer - Kerobokan,https://food.grab.com/id/en/restaurant/moris-grocer-kerobokan-delivery/6-C3AYLAJJE3UTDA,4.7,515,,,no,,grab_only,grab_only_no_maps_match
+Paw Rangers Petshop and Grooming - Canggu,https://food.grab.com/id/en/restaurant/paw-rangers-petshop-and-grooming-canggu-delivery/6-C7LBJGEDNTVCEJ,5,19,,,no,,grab_only,grab_only_no_maps_match
+Semat Cafe - Tibubeneng,https://food.grab.com/id/en/restaurant/semat-cafe-tibubeneng-delivery/6-C6AZBBMTLCDFEN,,,,,no,,grab_only,grab_only_no_maps_match
+Sate Madura Bang Jay - Jl. Raya Canggu,https://food.grab.com/id/en/restaurant/sate-madura-bang-jay-jl-raya-canggu-delivery/6-C7LKBA3HHFN1NT,4.7,82,,,no,,grab_only,grab_only_no_maps_match
+sate babi pandu - Canggu,https://food.grab.com/id/en/restaurant/sate-babi-pandu-canggu-delivery/6-C4DKARCAT3JXR6,4.8,216,,,no,,grab_only,grab_only_no_maps_match
+Warung Sate Pak Shomad - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-sate-pak-shomad-kerobokan-kelod-delivery/6-C3ACJYN1N6NGSE,4.6,469,,,no,,grab_only,grab_only_no_maps_match
+Warung Sate Madura Pak Udin - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-sate-madura-pak-udin-kerobokan-kelod-delivery/6-C3ABJLMFN7LTAA,4.6,422,,,no,,grab_only,grab_only_no_maps_match
+Sate Taichan Uda - Tibubeneng,https://food.grab.com/id/en/restaurant/sate-taichan-uda-tibubeneng-delivery/6-C8JCKGNDC6B1VT,,,,,no,,grab_only,grab_only_no_maps_match
+Sate Madura Bang Jay2 - Pererenan,https://food.grab.com/id/en/restaurant/sate-madura-bang-jay2-pererenan-delivery/6-C8BFRGKCTBE2CA,5,3,,,no,,grab_only,grab_only_no_maps_match
+Sop kambing sudimampir canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/sop-kambing-sudimampir-canggu-tibubeneng-delivery/6-C8EVR6EYV3NZLX,,,,,no,,grab_only,grab_only_no_maps_match
+SATE PADANG AMAR ZONY BALI - Kerobokan,https://food.grab.com/id/en/restaurant/sate-padang-amar-zony-bali-kerobokan-delivery/6-C8AUTP3ZWFMVAT,5,3,,,yes,,grab_only,grab_only_no_maps_match
+Jivana Canggu Resto - Tibubeneng,https://food.grab.com/id/en/restaurant/jivana-canggu-resto-tibubeneng-delivery/6-C75DELKEHEJ2T6,,,,,no,,grab_only,grab_only_no_maps_match
+Sate Padang Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/sate-padang-canggu-tibubeneng-delivery/6-C22UANNKG8JTEE,4.5,256,,,no,,grab_only,grab_only_no_maps_match
+Bubur ayam jakarta - Canggu,https://food.grab.com/id/en/restaurant/bubur-ayam-jakarta-canggu-delivery/6-C7MBHBATEBWURX,5,9,,,no,,grab_only,grab_only_no_maps_match
+Warung Madura - Pererenan,https://food.grab.com/id/en/restaurant/warung-madura-pererenan-delivery/6-C2EGGE42RCJEHA,,,,,no,,grab_only,grab_only_no_maps_match
+Sate Babi Kutilang - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/sate-babi-kutilang-kerobokan-kaja-delivery/6-C76KCBMCT6NXPA,,,,,no,,grab_only,grab_only_no_maps_match
+Machinery Coffee & Eatery - Pererenan,https://food.grab.com/id/en/restaurant/machinery-coffee-eatery-pererenan-delivery/6-C6EFCUX3TY5FAX,4.9,86,,,no,,grab_only,grab_only_no_maps_match
+"Sate ayam madur,jln raya canggu - Tibubeneng",https://food.grab.com/id/en/restaurant/sate-ayam-madur-jln-raya-canggu-tibubeneng-delivery/6-C7TANVATLVDETA,,,,,no,,grab_only,grab_only_no_maps_match
+WARUNG COCO UMALAS - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-coco-umalas-kerobokan-kelod-delivery/6-C8C1FCE3LTKWGT,5,24,,,no,,grab_only,grab_only_no_maps_match
+Warung Sundari - Kerobokan,https://food.grab.com/id/en/restaurant/warung-sundari-kerobokan-delivery/6-CYNXJUWWAEJGRN,3.9,274,,,no,,grab_only,grab_only_no_maps_match
+Sate Madura bintang sembilan - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/sate-madura-bintang-sembilan-kerobokan-kelod-delivery/6-C8AXC2VYCT52TE,,,,,no,,grab_only,grab_only_no_maps_match
+Warung Sate Pak Dina - Canggu,https://food.grab.com/id/en/restaurant/warung-sate-pak-dina-canggu-delivery/6-C2CTTXEJELBJCA,,,,,no,,grab_only,grab_only_no_maps_match
+Dini kitchen Coffee and Eantery - Tibubeneng,https://food.grab.com/id/en/restaurant/dini-kitchen-coffee-and-eantery-tibubeneng-delivery/6-C7LVLAUCKCLJTT,,,,,no,,grab_only,grab_only_no_maps_match
+Sate Ayam Suramadu - Tibubeneng,https://food.grab.com/id/en/restaurant/sate-ayam-suramadu-tibubeneng-delivery/6-C2XXLTTBRVCAVJ,5,112,,,no,,grab_only,grab_only_no_maps_match
+Sate Padang Mande Duo - Tibubeneng,https://food.grab.com/id/en/restaurant/sate-padang-mande-duo-tibubeneng-delivery/6-C7WZUEDJN23ULJ,3.6,7,,,no,,grab_only,grab_only_no_maps_match
+Nordu Coffee - Canggu,https://food.grab.com/id/en/restaurant/nordu-coffee-canggu-delivery/6-C8BUL4MJDFCYJE,,,,,no,,grab_only,grab_only_no_maps_match
+8twenty Warung - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/8twenty-warung-kerobokan-kelod-delivery/6-C2A2V23CEF3HLT,5,306,,,no,,grab_only,grab_only_no_maps_match
+Amare sport Cafe - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/amare-sport-cafe-kerobokan-kelod-delivery/6-C7VVVLN2KA4FWA,,,,,no,,grab_only,grab_only_no_maps_match
+Chandi - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/chandi-kerobokan-kelod-delivery/6-C3CTN4ECKGE3HA,4.6,85,,,no,,grab_only,grab_only_no_maps_match
+BORNEO 88 ( SET POINT ) - Kerobokan,https://food.grab.com/id/en/restaurant/borneo-88-set-point-kerobokan-delivery/6-C72HA36WA32JRE,,,,,no,,grab_only,grab_only_no_maps_match
+Protisserie - Protein Dessert- Canggu,https://food.grab.com/id/en/restaurant/protisserie-protein-dessert-canggu-delivery/6-C7VBGAMVKEBUGX,4.7,303,,,yes,,grab_only,grab_only_no_maps_match
+Toasties - Canggu,https://food.grab.com/id/en/restaurant/toasties-canggu-delivery/6-C6THNLCZFET1EN,4.8,1252,,,no,,grab_only,grab_only_no_maps_match
+"Lova Cafe, Canggu - Tibubeneng",https://food.grab.com/id/en/restaurant/lova-cafe-canggu-tibubeneng-delivery/6-C6NVEUD3RJB2N6,4.8,148,,,no,,grab_only,grab_only_no_maps_match
+Smash Burger NYC - Canggu,https://food.grab.com/id/en/restaurant/smash-burger-nyc-canggu-delivery/6-C8DKNCDXWBWXMA,5,1259,,,yes,,grab_only,grab_only_no_maps_match
+MACARONI PASTA BALI - Canggu,https://food.grab.com/id/en/restaurant/macaroni-pasta-bali-canggu-delivery/6-C4MUA7BXCKVWEE,4.5,613,,,no,,grab_only,grab_only_no_maps_match
+Tiflis - Canggu,https://food.grab.com/id/en/restaurant/tiflis-canggu-delivery/6-C7DHRLMECJXKDE,4.5,134,,,no,,grab_only,grab_only_no_maps_match
+Oakberry Acai - Canggu,https://food.grab.com/id/en/restaurant/oakberry-acai-canggu-delivery/6-C6NUEACTNLCGEA,4.8,307,,,no,,grab_only,grab_only_no_maps_match
+Miel Coffee Canggu - Canggu,https://food.grab.com/id/en/restaurant/miel-coffee-canggu-canggu-delivery/6-C2DZUA5DV7CAG2,4.8,1057,,,no,,grab_only,grab_only_no_maps_match
+Canggu Smash Burger - Tibubeneng,https://food.grab.com/id/en/restaurant/canggu-smash-burger-tibubeneng-delivery/6-C6VET2XUE7A1PA,4.8,1321,,,no,,grab_only,grab_only_no_maps_match
+LISSOY LIQUOR MART - Canggu,https://food.grab.com/id/en/restaurant/lissoy-liquor-mart-canggu-delivery/6-C7JDV4L1JKWBV6,4.9,78,,,no,,grab_only,grab_only_no_maps_match
+Kuns Mart - Canggu,https://food.grab.com/id/en/restaurant/kuns-mart-canggu-delivery/6-C7AKA6CDKFV3TN,5,217,,,no,,grab_only,grab_only_no_maps_match
+Vietnam Bistro By Mama Hanh Canggu - Canggu,https://food.grab.com/id/en/restaurant/vietnam-bistro-by-mama-hanh-canggu-canggu-delivery/6-C4BAR3UYG3E1A2,4.6,402,,,no,,grab_only,grab_only_no_maps_match
+KUNS DRINK - Canggu,https://food.grab.com/id/en/restaurant/kuns-drink-canggu-delivery/6-C4KJABLBKCLVLN,5,534,,,no,,grab_only,grab_only_no_maps_match
+ShakeUP! Protein Bar - Canggu,https://food.grab.com/id/en/restaurant/shakeup-protein-bar-canggu-delivery/6-C4KDGFMAEEEZGX,4.8,363,,,yes,,grab_only,grab_only_no_maps_match
+Body Factory Bali - Canggu,https://food.grab.com/id/en/restaurant/body-factory-bali-canggu-delivery/6-C2UWVTMGNUJHBE,4.7,543,,,no,,grab_only,grab_only_no_maps_match
+FARMAKU CANGGU - Canggu,https://food.grab.com/id/en/restaurant/farmaku-canggu-canggu-delivery/6-C3TXG4MKLVL3V2,4.6,89,,,no,,grab_only,grab_only_no_maps_match
+Slushy Society - Canggu,https://food.grab.com/id/en/restaurant/slushy-society-canggu-delivery/6-C6DHCEEFMFLVR2,4.9,67,,,no,,grab_only,grab_only_no_maps_match
+Mama Rada - Canggu,https://food.grab.com/id/en/restaurant/mama-rada-canggu-delivery/6-C7JCFEBGVBXTLN,4.6,230,,,no,,grab_only,grab_only_no_maps_match
+Canggu Station - Canggu,https://food.grab.com/id/en/restaurant/canggu-station-canggu-delivery/6-C33ZV36JRTMWNA,4.8,269,,,no,,grab_only,grab_only_no_maps_match
+Drink Bottle Shop Canggu Bali - Canggu,https://food.grab.com/id/en/restaurant/drink-bottle-shop-canggu-bali-canggu-delivery/6-C64DJ6BXKFM3RT,5,16,,,no,,grab_only,grab_only_no_maps_match
+Marroosh Resto Cafe Authentic Lebanese Cuisine - Canggu,https://food.grab.com/id/en/restaurant/marroosh-resto-cafe-authentic-lebanese-cuisine-canggu-delivery/6-C4NDT8AUHFWEEA,4.7,518,,,yes,,grab_only,grab_only_no_maps_match
+Smokey`s Protein Smoothies Nelayan - Canggu,https://food.grab.com/id/en/restaurant/smokey-s-protein-smoothies-nelayan-canggu-delivery/6-C34VC62VNU2ATA,4.9,523,,,no,,grab_only,grab_only_no_maps_match
+Esteh Indonesia - Canggu Bali,https://food.grab.com/id/en/restaurant/esteh-indonesia-canggu-bali-delivery/6-C3MBG6TEUCJHLA,4.9,862,,,no,,grab_only,grab_only_no_maps_match
+Cocomart - Canggu,https://food.grab.com/id/en/restaurant/cocomart-canggu-delivery/6-C7LKRXJEDCACKA,4.9,407,,,no,,grab_only,grab_only_no_maps_match
+POPULAR - DELI CANGGU KUTA UTARA,https://food.grab.com/id/en/restaurant/popular-deli-canggu-kuta-utara-delivery/6-C4K3AU3FL4AKEX,4.9,470,,,no,,grab_only,grab_only_no_maps_match
+Baked. Batu Bolong - Canggu,https://food.grab.com/id/en/restaurant/baked-batu-bolong-canggu-delivery/6-C7UXJEECBAWEGX,4.6,108,,,no,,grab_only,grab_only_no_maps_match
+Martabak Setia Rasa - Tibubeneng,https://food.grab.com/id/en/restaurant/martabak-setia-rasa-tibubeneng-delivery/6-CZBXC2MAL64EKE,4.7,400,,,no,,grab_only,grab_only_no_maps_match
+Tomsc Wings - Tibubeneng,https://food.grab.com/id/en/restaurant/tomsc-wings-tibubeneng-delivery/6-C4MTCAWYJNW3VJ,4.2,269,,,no,,grab_only,grab_only_no_maps_match
+Ayam Kampung & Rawon Bu Ros - Kerobokan,https://food.grab.com/id/en/restaurant/ayam-kampung-rawon-bu-ros-kerobokan-delivery/6-C4AFAYMAVVMAL2,4.8,1154,,,no,,grab_only,grab_only_no_maps_match
+Burgers Anonymous Bali - Pererenan,https://food.grab.com/id/en/restaurant/burgers-anonymous-bali-pererenan-delivery/6-C6XZVUJGGP4DKE,4.8,518,,,no,,grab_only,grab_only_no_maps_match
+Ayam Gepuk Pak Gembus - Kerobokan Bali,https://food.grab.com/id/en/restaurant/ayam-gepuk-pak-gembus-kerobokan-bali-delivery/6-CY4TTJD3RFTAL6,4.7,1202,,,yes,,grab_only,grab_only_no_maps_match
+Nasi Goreng Rice Chicken Opi Warung Pujasera - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/nasi-goreng-rice-chicken-opi-warung-pujasera-kerobokan-kelod-delivery/6-C2NXCP2HRPJHAT,4.5,1958,,,yes,,grab_only,grab_only_no_maps_match
+Bubur Manado & Nasi Bakar Bu Lik - Kerobokan,https://food.grab.com/id/en/restaurant/bubur-manado-nasi-bakar-bu-lik-kerobokan-delivery/6-C23WCGLFJUB1R2,4.7,279,,,no,,grab_only,grab_only_no_maps_match
+Padepokan Nasi Goreng - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/padepokan-nasi-goreng-kerobokan-kelod-delivery/6-C4CWNGLGBEUWV6,4.3,537,,,no,,grab_only,grab_only_no_maps_match
+Bubur Boetjin - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/bubur-boetjin-kerobokan-kaja-delivery/6-CZMEELATLVJAAT,4.9,927,,,no,,grab_only,grab_only_no_maps_match
+Healthy Neighbours - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/healthy-neighbours-kerobokan-kelod-delivery/6-C2J2EAU3EUCBLA,4.6,965,,,no,,grab_only,grab_only_no_maps_match
+Dondon Karē - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/dondon-karē-kerobokan-kelod-delivery/6-CZLJPEMGLE3AFA,4.5,277,,,no,,grab_only,grab_only_no_maps_match
+1918 GEORGIAN CUISINE - Canggu,https://food.grab.com/id/en/restaurant/1918-georgian-cuisine-canggu-delivery/6-C6MUJ2JXRPXZRJ,4.6,69,,,no,,grab_only,grab_only_no_maps_match
+Ayam Bakar Thailand - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/ayam-bakar-thailand-kerobokan-kelod-delivery/6-C3LDGRBCDFKVVA,4,71,,,no,,grab_only,grab_only_no_maps_match
+"Long Play Cafe (Healthy Breakfast, Coffee, Bowls) - Pererenan",https://food.grab.com/id/en/restaurant/long-play-cafe-healthy-breakfast-coffee-bowls-pererenan-delivery/6-C6DDJ2WVTJBEVE,4.8,354,,,no,,grab_only,grab_only_no_maps_match
+Bebek Bakar Online - Tibubeneng,https://food.grab.com/id/en/restaurant/bebek-bakar-online-tibubeneng-delivery/6-C3KHSBWXJPNVV6,3.5,203,,,no,,grab_only,grab_only_no_maps_match
+Ayam Goreng Rempah Dan Ayam Bakar Kalasan - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/ayam-goreng-rempah-dan-ayam-bakar-kalasan-kerobokan-kelod-delivery/6-C6X2E3ATUCL3LA,5,16,,,no,,grab_only,grab_only_no_maps_match
+Lalapan Dan Ayam Geprek Nara Pelangi - Tibubeneng,https://food.grab.com/id/en/restaurant/lalapan-dan-ayam-geprek-nara-pelangi-tibubeneng-delivery/6-C3ACTKCHGJJERN,4.2,214,,,yes,,grab_only,grab_only_no_maps_match
+Warung Ayu Ikan Bakar Ala Jimbaran - Pererenan,https://food.grab.com/id/en/restaurant/warung-ayu-ikan-bakar-ala-jimbaran-pererenan-delivery/6-C3BBKAWXLLAAC6,4.7,112,,,yes,,grab_only,grab_only_no_maps_match
+Warung Rasa Nikmat - Kerobokan,https://food.grab.com/id/en/restaurant/warung-rasa-nikmat-kerobokan-delivery/IDGFSTI00002hgs,4.7,184,,,yes,,grab_only,grab_only_no_maps_match
+Warung Yanbenjo - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/warung-yanbenjo-kerobokan-kelod-delivery/AWipNkmBkk5cOZVWvNI1,4.7,1121,,,no,,grab_only,grab_only_no_maps_match
+Ayam Bakar Republik - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/ayam-bakar-republik-kerobokan-kelod-delivery/6-C4CTSFJEVA2YG6,4.4,266,,,yes,,grab_only,grab_only_no_maps_match
+"My Place (Breakfast, Borsch, Syrniki, Salad) - Canggu",https://food.grab.com/id/en/restaurant/my-place-breakfast-borsch-syrniki-salad-canggu-delivery/6-C63FCN4TCY6JMA,4.7,203,,,yes,,grab_only,grab_only_no_maps_match
+Happy Mie - Kerobokan,https://food.grab.com/id/en/restaurant/happy-mie-kerobokan-delivery/IDGFSTI00003aw8,4.7,1411,,,yes,,grab_only,grab_only_no_maps_match
+BANGBANGNOODLES - Jl. Canggu Shorcut,https://food.grab.com/id/en/restaurant/bangbangnoodles-jl-canggu-shorcut-delivery/6-C7LHA4LYJBUUTE,4.5,437,,,yes,,grab_only,grab_only_no_maps_match
+Need Mie - Pererenan,https://food.grab.com/id/en/restaurant/need-mie-pererenan-delivery/6-C7DTJ4DZDELHBA,4.5,292,,,yes,,grab_only,grab_only_no_maps_match
+Mie Gacoan - Canggu,https://food.grab.com/id/en/restaurant/mie-gacoan-canggu-delivery/6-C3JGVBVCJ6CWFA,4.4,11777,,,yes,,grab_only,grab_only_no_maps_match
+WOK THIS WAY Chinese - Pererenan,https://food.grab.com/id/en/restaurant/wok-this-way-chinese-pererenan-delivery/6-C7VVN8DDGNXDTT,4.6,214,,,yes,,grab_only,grab_only_no_maps_match
+Depot Mie Ayam Bakso Super Khas Solo Mas Adit - Kerobokan,https://food.grab.com/id/en/restaurant/depot-mie-ayam-bakso-super-khas-solo-mas-adit-kerobokan-delivery/6-CZD1CULWWGDCR2,4.8,431,,,no,,grab_only,grab_only_no_maps_match
+May Bakmi - Canggu,https://food.grab.com/id/en/restaurant/may-bakmi-canggu-delivery/6-C3TVG3JAGYWCFE,4.6,284,,,yes,,grab_only,grab_only_no_maps_match
+SPAETZLESWAGEN GERMAN FOOD - Canggu,https://food.grab.com/id/en/restaurant/spaetzleswagen-german-food-canggu-delivery/6-C4M1JBNJVFAGNT,4.9,156,,,no,,grab_only,grab_only_no_maps_match
+Bakmie Rantang Ayam Rebus - Kerobokan,https://food.grab.com/id/en/restaurant/bakmie-rantang-ayam-rebus-kerobokan-delivery/6-C34JV4D2A3AGT2,4.8,240,,,yes,,grab_only,grab_only_no_maps_match
+Mie Ayam Dan Bakso Pak Ilham - Canggu,https://food.grab.com/id/en/restaurant/mie-ayam-dan-bakso-pak-ilham-canggu-delivery/6-C25FDBWWTTNVBA,4.7,141,,,yes,,grab_only,grab_only_no_maps_match
+Papa Lee's Taiwan Noodle and Dumpling - Tibubeneng,https://food.grab.com/id/en/restaurant/papa-lee-s-taiwan-noodle-and-dumpling-tibubeneng-delivery/6-C6NUEEVJR64VBE,4.7,465,,,yes,,grab_only,grab_only_no_maps_match
+Nasi Goreng Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/nasi-goreng-canggu-tibubeneng-delivery/6-C6NATYNBT3L1CX,4.3,424,,,no,,grab_only,grab_only_no_maps_match
+Bakmi & Bubur Ayam Djie Tjap - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/bakmi-bubur-ayam-djie-tjap-kerobokan-kelod-delivery/6-C3CDCUNGJEMCLE,4.7,4441,,,no,,grab_only,grab_only_no_maps_match
+Nasi Vs Mie - Pererenan,https://food.grab.com/id/en/restaurant/nasi-vs-mie-pererenan-delivery/6-C8EEWADVSEDGGX,,,,,no,,grab_only,grab_only_no_maps_match
+TANTAN RAMEN - Jl. Subak Canggu,https://food.grab.com/id/en/restaurant/tantan-ramen-jl-subak-canggu-delivery/6-C8ADCEXCECJJJ6,5,7,,,no,,grab_only,grab_only_no_maps_match
+Tamarind Waroeng - Canggu,https://food.grab.com/id/en/restaurant/tamarind-waroeng-canggu-delivery/6-C2EVJUXBTUTCLA,5,64,,,no,,grab_only,grab_only_no_maps_match
+Xich Lo Warung Vietnam - Padang Linjong,https://food.grab.com/id/en/restaurant/xich-lo-warung-vietnam-padang-linjong-delivery/6-C2C2HFJEN6MTJ2,4.5,417,,,no,,grab_only,grab_only_no_maps_match
+LUMMBUNG PANGAN - Canggu,https://food.grab.com/id/en/restaurant/lummbung-pangan-canggu-delivery/6-C4EXC8BEGVDKKA,4.7,59,,,no,,grab_only,grab_only_no_maps_match
+"Pan De Mie Noodle House - Jl. Pantai batu mejan No.443 echo beach, canggu",https://food.grab.com/id/en/restaurant/pan-de-mie-noodle-house-jl-pantai-batu-mejan-no-443-echo-beach-canggu-delivery/6-C7E3L7KJVCKZMA,4.7,6,,,no,,grab_only,grab_only_no_maps_match
+CHICKEN RAMEN COMPANY - Tibubeneng,https://food.grab.com/id/en/restaurant/chicken-ramen-company-tibubeneng-delivery/6-C6VUUBKKV2CYJX,4.9,242,,,no,,grab_only,grab_only_no_maps_match
+Menya Kenji - Tibubeneng,https://food.grab.com/id/en/restaurant/menya-kenji-tibubeneng-delivery/6-C3LVTTTFRLBER6,4.6,400,,,no,,grab_only,grab_only_no_maps_match
+Dimsum Chika - Umalas,https://food.grab.com/id/en/restaurant/dimsum-chika-umalas-delivery/6-CZN1JU52FFBYE2,4.7,372,,,no,,grab_only,grab_only_no_maps_match
+TOKO PUTRA MAHKOTA - Pererenan,https://food.grab.com/id/en/restaurant/toko-putra-mahkota-pererenan-delivery/6-C7V2REBUL6UAJJ,4.7,46,,,no,,grab_only,grab_only_no_maps_match
+Chinesefood surabaya. Evis kitchen - Canggu,https://food.grab.com/id/en/restaurant/chinesefood-surabaya-evis-kitchen-canggu-delivery/6-C763AFDTTPN2AT,5,1,,,no,,grab_only,grab_only_no_maps_match
+Bakmie mang yoyon halal - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/bakmie-mang-yoyon-halal-kerobokan-kelod-delivery/6-C6JJLPEJEPMZAN,4.8,185,,,no,,grab_only,grab_only_no_maps_match
+Chinesefood Evi's Kitchen - Canggu,https://food.grab.com/id/en/restaurant/chinesefood-evi-s-kitchen-canggu-delivery/6-C7N2WGBZNXNCJJ,4.1,10,,,no,,grab_only,grab_only_no_maps_match
+Umami Umalas - Kerobokan,https://food.grab.com/id/en/restaurant/umami-umalas-kerobokan-delivery/6-C8BKVXEALY3WMA,5,5,,,no,,grab_only,grab_only_no_maps_match
+Nasi Babi Kecap Jpong - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/nasi-babi-kecap-jpong-kerobokan-kaja-delivery/6-CYWTTFNGJYLJAX,4.7,787,,,yes,,grab_only,grab_only_no_maps_match
+Bakmi CC Jakarta - Kerobokan,https://food.grab.com/id/en/restaurant/bakmi-cc-jakarta-kerobokan-delivery/6-C2MTCKUBREWYBE,4.4,771,,,no,,grab_only,grab_only_no_maps_match
+"Pork.U, Pork Belly Ribs, Babi Hong - Kerobokan",https://food.grab.com/id/en/restaurant/pork-u-pork-belly-ribs-babi-hong-kerobokan-delivery/6-C4MEVB3YVYJGKA,4.7,1077,,,no,,grab_only,grab_only_no_maps_match
+Warung Eat Mee - Canggu,https://food.grab.com/id/en/restaurant/warung-eat-mee-canggu-delivery/6-C7VKCU4TRF6CDE,5,3,,,no,,grab_only,grab_only_no_maps_match
+Waroenk Laris - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/waroenk-laris-kerobokan-kelod-delivery/6-CZDUETATEN5VGE,4.7,1239,,,no,,grab_only,grab_only_no_maps_match
+Mani Mart 3 - Canggu,https://food.grab.com/id/en/restaurant/mani-mart-3-canggu-delivery/6-C7NBA7LUNBMECA,4.9,28,,,no,,grab_only,grab_only_no_maps_match
+DD Mart - Batu Bolong,https://food.grab.com/id/en/restaurant/dd-mart-batu-bolong-delivery/6-C4DBTEUVMAWWR6,4.9,59,,,no,,grab_only,grab_only_no_maps_match
+INDOMARET - PANTAI BERAWA (TETU),https://food.grab.com/id/en/restaurant/indomaret-pantai-berawa-tetu-delivery/6-C3MFAKVCCYADCE,4.7,85,,,no,,grab_only,grab_only_no_maps_match
+Malibu Kitchen - Pererenan,https://food.grab.com/id/en/restaurant/malibu-kitchen-pererenan-delivery/6-C7K1NLJCN8KTC6,,,,,no,,grab_only,grab_only_no_maps_match
+Toko Bahari Grosir - Tibubeneng,https://food.grab.com/id/en/restaurant/toko-bahari-grosir-tibubeneng-delivery/6-C4AGUALJVFTKVN,4.7,15,,,no,,grab_only,grab_only_no_maps_match
+Simple Mart - Tibubeneng,https://food.grab.com/id/en/restaurant/simple-mart-tibubeneng-delivery/6-C2XXRJWVME3EWE,5,155,,,no,,grab_only,grab_only_no_maps_match
+Warung Nasi Goreng Khas Jakarta Bu Dennis - Kerobokan,https://food.grab.com/id/en/restaurant/warung-nasi-goreng-khas-jakarta-bu-dennis-kerobokan-delivery/IDGFSTI000038vy,4.9,641,,,no,,grab_only,grab_only_no_maps_match
+Moon Mart - Canggu,https://food.grab.com/id/en/restaurant/moon-mart-canggu-delivery/6-C3WHTE3FJ24JN2,5,8,,,no,,grab_only,grab_only_no_maps_match
+Warung 8 Cabang Kerobokan - Padangsambian,https://food.grab.com/id/en/restaurant/warung-8-cabang-kerobokan-padangsambian-delivery/6-C3MFMA3CJTBWR6,4.7,85,,,no,,grab_only,grab_only_no_maps_match
+Kedai Tiara - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/kedai-tiara-kerobokan-kelod-delivery/6-C3NBGFTTN6XHN2,5,35,,,yes,,grab_only,grab_only_no_maps_match
+Bakso&mie ayam pak rudi - Tibubeneng,https://food.grab.com/id/en/restaurant/bakso-mie-ayam-pak-rudi-tibubeneng-delivery/6-C7JFRCL1G6NFJJ,4.8,30,,,no,,grab_only,grab_only_no_maps_match
+Depot Sari Amerta Canggu- Food court  - Tibubeneng,https://food.grab.com/id/en/restaurant/depot-sari-amerta-canggu-food-court-tibubeneng-delivery/6-C74UTTL2UEKWJA,4.6,28,,,no,,grab_only,grab_only_no_maps_match
+Warung Barra - Canggu,https://food.grab.com/id/en/restaurant/warung-barra-canggu-delivery/6-C66GLE5UV3W3WA,4.4,121,,,no,,grab_only,grab_only_no_maps_match
+Angkringan DK - Canggu,https://food.grab.com/id/en/restaurant/angkringan-dk-canggu-delivery/6-C221PEX1A3KZHA,5,23,,,no,,grab_only,grab_only_no_maps_match
+Paon Lestari - Jl. Pantai Pererenan,https://food.grab.com/id/en/restaurant/paon-lestari-jl-pantai-pererenan-delivery/6-C66XLNA2JYMARE,5,9,,,no,,grab_only,grab_only_no_maps_match
+Kedai Kusuka - Pasar Pipitan Canggu,https://food.grab.com/id/en/restaurant/kedai-kusuka-pasar-pipitan-canggu-delivery/6-C7KFR3ABFCDCGA,4.2,6,,,no,,grab_only,grab_only_no_maps_match
+Warung Cak Ones - Jalan Umalas II,https://food.grab.com/id/en/restaurant/warung-cak-ones-jalan-umalas-ii-delivery/6-C7KJJPE3PAMFRA,5,3,,,no,,grab_only,grab_only_no_maps_match
+Minang Sederhana Masakan Padang - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/minang-sederhana-masakan-padang-kerobokan-kelod-delivery/6-C2VTDCJKRKXCUE,4.6,117,,,yes,,grab_only,grab_only_no_maps_match
+Pituah Bundo Masakan Padang - Tibubeneng,https://food.grab.com/id/en/restaurant/pituah-bundo-masakan-padang-tibubeneng-delivery/6-CZKDPCCKGXTWRT,4.4,535,,,yes,,grab_only,grab_only_no_maps_match
+Rm Padang Putera Minang - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/rm-padang-putera-minang-kerobokan-kelod-delivery/6-C2KTCJ4WR6TGRT,4.6,681,,,yes,,grab_only,grab_only_no_maps_match
+Maruva Rendang - Tibubeneng,https://food.grab.com/id/en/restaurant/maruva-rendang-tibubeneng-delivery/6-C72GEP6HNP6TWE,4.9,24,,,yes,,grab_only,grab_only_no_maps_match
+SATE PADANG AMAR ZONY 2 BALI - Kerobokan,https://food.grab.com/id/en/restaurant/sate-padang-amar-zony-2-bali-kerobokan-delivery/6-C8BENA4ALYMWGA,,,,,no,,grab_only,grab_only_no_maps_match
+Kenji Ramen Padang Linjong - Canggu,https://food.grab.com/id/en/restaurant/kenji-ramen-padang-linjong-canggu-delivery/6-C7MELELAEEMACN,4.5,82,,,yes,,grab_only,grab_only_no_maps_match
+Nasi Padang Muaro Raso Beraban - Jl. Raya Canggu,https://food.grab.com/id/en/restaurant/nasi-padang-muaro-raso-beraban-jl-raya-canggu-delivery/6-C741JX33KE5BHA,4,26,,,no,,grab_only,grab_only_no_maps_match
+Rumah Makan Pondok Duo - Kerobokan,https://food.grab.com/id/en/restaurant/rumah-makan-pondok-duo-kerobokan-delivery/IDGFSTI00001o2j,4.1,473,,,yes,,grab_only,grab_only_no_maps_match
+Pie Society Pererenan - Pererenan,https://food.grab.com/id/en/restaurant/pie-society-pererenan-pererenan-delivery/6-C8B1J6LWL8DJFA,4.8,13,,,yes,,grab_only,grab_only_no_maps_match
+Dewata Minang - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/dewata-minang-kerobokan-kelod-delivery/6-CYLYTJCXCKDUJJ,4.5,253,,,yes,,grab_only,grab_only_no_maps_match
+Sarimande Sunset Road - Kerobokan,https://food.grab.com/id/en/restaurant/sarimande-sunset-road-kerobokan-delivery/6-C6WTVLNDAZBBAA,4.6,270,,,yes,,grab_only,grab_only_no_maps_match
+Apotek Padang Linjong Medika Pharmacy - Canggu,https://food.grab.com/id/en/restaurant/apotek-padang-linjong-medika-pharmacy-canggu-delivery/6-C64DELJGR36GJN,4.8,145,,,no,,grab_only,grab_only_no_maps_match
+Ayam Pop Primadona - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/ayam-pop-primadona-kerobokan-kelod-delivery/6-C7XTTAACJ7DCEE,4.8,8,,,no,,grab_only,grab_only_no_maps_match
+Wr Madura Pak Awi - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/wr-madura-pak-awi-kerobokan-kelod-delivery/IDGFSTI00003axp,4.7,1459,,,no,,grab_only,grab_only_no_maps_match
+So Munch - Padang Linjong,https://food.grab.com/id/en/restaurant/so-munch-padang-linjong-delivery/6-C7KER4NXWE2VAE,4.5,18,,,no,,grab_only,grab_only_no_maps_match
+Circle K - Padang Linjong Lolas(Korner),https://food.grab.com/id/en/restaurant/circle-k-padang-linjong-lolas-korner-delivery/6-C2DZAA42C6MYCN,4.7,68,,,no,,grab_only,grab_only_no_maps_match
+NASI GORENG by Mr Lu At Berawa's Kitchen - Tibubeneng,https://food.grab.com/id/en/restaurant/nasi-goreng-by-mr-lu-at-berawa-s-kitchen-tibubeneng-delivery/6-C8CDAUJDWFEBN2,4,2,,,no,,grab_only,grab_only_no_maps_match
+Kemilau Restaurant - Canggu,https://food.grab.com/id/en/restaurant/kemilau-restaurant-canggu-delivery/6-CYUTUFVVJP3XVN,5,39,,,no,,grab_only,grab_only_no_maps_match
+"BOTTLE AVENUE ( Beer, Wine & Spirit ) - PADANG LINJONG",https://food.grab.com/id/en/restaurant/bottle-avenue-beer-wine-spirit-padang-linjong-delivery/6-C35YTEX3N23YJA,5,7,,,no,,grab_only,grab_only_no_maps_match
+Ayam Goreng BaRendang by Hangry - Kerobokan,https://food.grab.com/id/en/restaurant/ayam-goreng-barendang-by-hangry-kerobokan-delivery/6-C72CRXBBAGLGL6,4.5,22,,,no,,grab_only,grab_only_no_maps_match
+Iwaka Mart - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/iwaka-mart-kerobokan-kaja-delivery/6-C3CTCEK2BB21ME,4.6,206,,,no,,grab_only,grab_only_no_maps_match
+Masakan Padang Putri Chaniago - Canggu,https://food.grab.com/id/en/restaurant/masakan-padang-putri-chaniago-canggu-delivery/6-C2DHDBCZRLAVL2,4.5,952,,,no,,grab_only,grab_only_no_maps_match
+UmamiFood padanglinjong - Canggu,https://food.grab.com/id/en/restaurant/umamifood-padanglinjong-canggu-delivery/6-C8AXEPE3LFTESE,,,,,no,,grab_only,grab_only_no_maps_match
+RM Bungo Padi - Canggu,https://food.grab.com/id/en/restaurant/rm-bungo-padi-canggu-delivery/6-C2BHN6WHSA3KL6,3.7,376,,,no,,grab_only,grab_only_no_maps_match
+HalalFood Nasi Padang Sari Kambang - Kerobokan,https://food.grab.com/id/en/restaurant/halalfood-nasi-padang-sari-kambang-kerobokan-delivery/6-C2TWA62JCEXKHE,4,121,,,no,,grab_only,grab_only_no_maps_match
+GarasiFood 028 Nasi Padang - Kerobokan,https://food.grab.com/id/en/restaurant/garasifood-028-nasi-padang-kerobokan-delivery/6-CZKKDFMDJK4AG6,5,133,,,no,,grab_only,grab_only_no_maps_match
+Warung Tipat Bubuh Bali - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/warung-tipat-bubuh-bali-kerobokan-kaja-delivery/6-C26FAE4XVCDXJN,4.8,84,,,no,,grab_only,grab_only_no_maps_match
+Rumah makan Padang Jaso ayah - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/rumah-makan-padang-jaso-ayah-kerobokan-kelod-delivery/6-C76ALT42J6DKAX,,,,,no,,grab_only,grab_only_no_maps_match
+Masakan Padang PANEN RAYA - Kerobokan,https://food.grab.com/id/en/restaurant/masakan-padang-panen-raya-kerobokan-delivery/6-C7TTAUDUV6DBE2,,,,,no,,grab_only,grab_only_no_maps_match
+"Tipat dan Rujak Khas Bali Lakshme, Padonan - Tibubeneng",https://food.grab.com/id/en/restaurant/tipat-dan-rujak-khas-bali-lakshme-padonan-tibubeneng-delivery/6-C7X3L62VNCLVL2,,,,,no,,grab_only,grab_only_no_maps_match
+Beachtown Grocer - Canggu,https://food.grab.com/id/en/restaurant/beachtown-grocer-canggu-delivery/6-C6DCRB23RU5KJT,5,36,,,no,,grab_only,grab_only_no_maps_match
+Pie Society - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/pie-society-kerobokan-kelod-delivery/6-C3AFVRDALF4DLA,4.6,231,,,no,,grab_only,grab_only_no_maps_match
+Chomp - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/chomp-kerobokan-kelod-delivery/6-C6MXT65AGP5KJX,4.8,574,,,no,,grab_only,grab_only_no_maps_match
+Canggu Beer And Liquor (Toko Bahari) - Tibubeneng,https://food.grab.com/id/en/restaurant/canggu-beer-and-liquor-toko-bahari-tibubeneng-delivery/IDGFSTI00002hkm,4.9,288,,,yes,,grab_only,grab_only_no_maps_match
+Bar Protein Smoothies - Pererenan,https://food.grab.com/id/en/restaurant/bar-protein-smoothies-pererenan-delivery/6-C7AULVECKECFJX,4.3,370,,,yes,,grab_only,grab_only_no_maps_match
+BURA SMOOTHIES BAR - Tibubeneng,https://food.grab.com/id/en/restaurant/bura-smoothies-bar-tibubeneng-delivery/6-C8BVLBTBT25AGA,4.7,18,,,yes,,grab_only,grab_only_no_maps_match
+VITALIKA Juice and Health Bar - Pererenan,https://food.grab.com/id/en/restaurant/vitalika-juice-and-health-bar-pererenan-delivery/6-C63CKGKEC8CFLE,4.9,587,,,yes,,grab_only,grab_only_no_maps_match
+The Grill Bar. - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/the-grill-bar-kerobokan-kaja-delivery/6-C7X3EN2JBGBXFA,4.8,52,,,yes,,grab_only,grab_only_no_maps_match
+Protein Waffles Bar - Tibubeneng,https://food.grab.com/id/en/restaurant/protein-waffles-bar-tibubeneng-delivery/6-C7C1EGA1GXJEVJ,4.6,54,,,no,,grab_only,grab_only_no_maps_match
+"Soil Food Temple Bar (Poke Bowl, Salad and Smooties) - Canggu",https://food.grab.com/id/en/restaurant/soil-food-temple-bar-poke-bowl-salad-and-smooties-canggu-delivery/6-C7JEBCMKE4EGRN,4.8,147,,,no,,grab_only,grab_only_no_maps_match
+Juicy Protein Bar - Pererenan,https://food.grab.com/id/en/restaurant/juicy-protein-bar-pererenan-delivery/6-C6CZTEXHC35CRE,4.8,846,,,no,,grab_only,grab_only_no_maps_match
+Putri Fresh Organic - Pererenan,https://food.grab.com/id/en/restaurant/putri-fresh-organic-pererenan-delivery/6-C2VFRE2YAVMVV2,4.8,542,,,no,,grab_only,grab_only_no_maps_match
+The Blend Bar Smoothies - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/the-blend-bar-smoothies-kerobokan-kaja-delivery/6-C7X3EJWBUA61RJ,5,36,,,no,,grab_only,grab_only_no_maps_match
+Frestive Supermarket Pererenan - Mengwi,https://food.grab.com/id/en/restaurant/frestive-supermarket-pererenan-mengwi-delivery/6-C8ECE3KHR7VFRX,4.4,7,,,no,,grab_only,grab_only_no_maps_match
+Juice Bar Ubud Kitchen - Canggu,https://food.grab.com/id/en/restaurant/juice-bar-ubud-kitchen-canggu-delivery/6-C4JHR2VGN251E6,4.8,276,,,no,,grab_only,grab_only_no_maps_match
+Coco Express - Batu Mejan,https://food.grab.com/id/en/restaurant/coco-express-batu-mejan-delivery/6-C7NTFF31V7ETLN,4.8,175,,,no,,grab_only,grab_only_no_maps_match
+Presso (Healthy Juice Bar) - Pererenan,https://food.grab.com/id/en/restaurant/presso-healthy-juice-bar-pererenan-delivery/6-C7TUGPAAA2JTC2,4.5,47,,,no,,grab_only,grab_only_no_maps_match
+BEER Attack - Kerobokan,https://food.grab.com/id/en/restaurant/beer-attack-kerobokan-delivery/6-C63BN3JDCKCJAJ,5,319,,,no,,grab_only,grab_only_no_maps_match
+bru bar coffee and bites - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/bru-bar-coffee-and-bites-kerobokan-kelod-delivery/6-C3M1VXAEHBV3CX,4.6,267,,,no,,grab_only,grab_only_no_maps_match
+"The Cure (Healthy, Breakfast, Protein, Bowl, Wrap) - Canggu",https://food.grab.com/id/en/restaurant/the-cure-healthy-breakfast-protein-bowl-wrap-canggu-delivery/6-C2TCRBJJCTKTE6,4.8,255,,,no,,grab_only,grab_only_no_maps_match
+TaTa All-Day Cafe - Pererenan,https://food.grab.com/id/en/restaurant/tata-all-day-cafe-pererenan-delivery/6-C6T1EXTJVJVDJJ,4.7,561,,,no,,grab_only,grab_only_no_maps_match
+ELFBAR STORE - BERAWA,https://food.grab.com/id/en/restaurant/elfbar-store-berawa-delivery/6-C7NGVUBJTAMTEN,4.4,35,,,no,,grab_only,grab_only_no_maps_match
+Bali Natural Organic - Tibubeneng,https://food.grab.com/id/en/restaurant/bali-natural-organic-tibubeneng-delivery/6-C2JFEBCGBGAXJA,4.8,247,,,no,,grab_only,grab_only_no_maps_match
+BaliSabi Pokè Bowl Bar Kerobokan - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/balisabi-pokè-bowl-bar-kerobokan-kerobokan-kelod-delivery/6-C62UFGCGSEXCA2,4.8,80,,,no,,grab_only,grab_only_no_maps_match
+Fantasy - Pererenan,https://food.grab.com/id/en/restaurant/fantasy-pererenan-delivery/6-C2KWN6DKL8BHEX,4.8,817,,,no,,grab_only,grab_only_no_maps_match
+Cook & Baker - Tibubeneng,https://food.grab.com/id/en/restaurant/cook-baker-tibubeneng-delivery/6-C8AKT6LAGYJDSA,5,11,,,no,,grab_only,grab_only_no_maps_match
+Semeton - Batu Mejan,https://food.grab.com/id/en/restaurant/semeton-batu-mejan-delivery/6-C741TPLVCU2BCJ,5,10,,,no,,grab_only,grab_only_no_maps_match
+Rios Mart - Tibubeneng,https://food.grab.com/id/en/restaurant/rios-mart-tibubeneng-delivery/6-C2CWHEJEGUTETT,4.8,888,,,no,,grab_only,grab_only_no_maps_match
+Guardian - Ruko Nelayan Bali (6933),https://food.grab.com/id/en/restaurant/guardian-ruko-nelayan-bali-6933-delivery/6-C7WUL2T3VJTFWE,5,49,,,no,,grab_only,grab_only_no_maps_match
+Mumu Shaokao - Kerobokan,https://food.grab.com/id/en/restaurant/mumu-shaokao-kerobokan-delivery/6-C4LZEBMJEF5VE6,4.2,56,,,yes,,grab_only,grab_only_no_maps_match
+BBQing-Armenian kitchen  - Canggu,https://food.grab.com/id/en/restaurant/bbqing-armenian-kitchen-canggu-delivery/6-C7TKJ73KSCA2RX,4.8,36,,,yes,,grab_only,grab_only_no_maps_match
+Falafel House Restaurant - Canggu,https://food.grab.com/id/en/restaurant/falafel-house-restaurant-canggu-delivery/6-C7XFJJTCJXEYTN,4.6,123,,,no,,grab_only,grab_only_no_maps_match
+BurnandBone - Pererenan,https://food.grab.com/id/en/restaurant/burnandbone-pererenan-delivery/6-C7T3AFL3JPVTAN,4.7,282,,,no,,grab_only,grab_only_no_maps_match
+Saffron Fusion - Canggu,https://food.grab.com/id/en/restaurant/saffron-fusion-canggu-delivery/6-C6UGVP2XCXCDNN,4.6,167,,,no,,grab_only,grab_only_no_maps_match
+STREET Smash Burger - Kerobokan,https://food.grab.com/id/en/restaurant/street-smash-burger-kerobokan-delivery/6-C8DEJ2LWGN2DFA,5,1036,,,no,,grab_only,grab_only_no_maps_match
+"SteakGhost ,Grilled,Pasta And Burger - Canggu - Kerobokan Kaja",https://food.grab.com/id/en/restaurant/steakghost-grilled-pasta-and-burger-canggu-kerobokan-kaja-delivery/6-C7DXARJKLLCBPE,4.6,331,,,yes,,grab_only,grab_only_no_maps_match
+"Burger Bangor - Canggu (Burger, Nasi & Ayam)",https://food.grab.com/id/en/restaurant/burger-bangor-canggu-burger-nasi-ayam-delivery/6-C6LTTCJCVNEBTN,4.1,768,,,no,,grab_only,grab_only_no_maps_match
+Burgrlink - Tibubeneng,https://food.grab.com/id/en/restaurant/burgrlink-tibubeneng-delivery/6-C34TSEV1EZCDNN,4.8,335,,,no,,grab_only,grab_only_no_maps_match
+Habibi Moroccan Taste & Hookah Lounge - Canggu,https://food.grab.com/id/en/restaurant/habibi-moroccan-taste-hookah-lounge-canggu-delivery/6-C6NXR3L2WADZNJ,3.8,87,,,no,,grab_only,grab_only_no_maps_match
+Hungry Hunt Burger and Hotdog - Canggu,https://food.grab.com/id/en/restaurant/hungry-hunt-burger-and-hotdog-canggu-delivery/6-CY5CEBU3L6BKEX,4.7,3768,,,yes,,grab_only,grab_only_no_maps_match
+PITA HOUSE CAFE & RESTAURANT(Shawarma-Kebab-BBQ)  - Canggu,https://food.grab.com/id/en/restaurant/pita-house-cafe-restaurant-shawarma-kebab-bbq-canggu-delivery/6-C7X3FEMETTMTGA,4.4,37,,,no,,grab_only,grab_only_no_maps_match
+"PLATTER CLUB (ALL DAY BREAKFAST EGG,AVOCADO,HEALTHY) - Canggu",https://food.grab.com/id/en/restaurant/platter-club-all-day-breakfast-egg-avocado-healthy-canggu-delivery/6-C7BYDBDEE8MFV2,4.6,418,,,no,,grab_only,grab_only_no_maps_match
+Surf Burgers - Pererenan,https://food.grab.com/id/en/restaurant/surf-burgers-pererenan-delivery/6-C7JWRRDDFFLUPE,4.6,358,,,no,,grab_only,grab_only_no_maps_match
+Lazy Lobster Canggu - Pererenan,https://food.grab.com/id/en/restaurant/lazy-lobster-canggu-pererenan-delivery/6-C633RJ5ERBWVGN,4.3,20,,,yes,,grab_only,grab_only_no_maps_match
+Meat Me Now - Tibubeneng,https://food.grab.com/id/en/restaurant/meat-me-now-tibubeneng-delivery/6-C7T2EECKANTGTA,,,,,no,,grab_only,grab_only_no_maps_match
+HARRY'S CHICKEN WINGS - Tibubeneng,https://food.grab.com/id/en/restaurant/harry-s-chicken-wings-tibubeneng-delivery/6-C7LXVYUKC2MXJA,4.2,5,,,no,,grab_only,grab_only_no_maps_match
+"The Sun (Kebab, Grill, BBQ) - Tibubeneng",https://food.grab.com/id/en/restaurant/the-sun-kebab-grill-bbq-tibubeneng-delivery/6-C8BWENVVJ4CTEN,4.7,19,,,no,,grab_only,grab_only_no_maps_match
+"George's BBQ House (Grill, Shashlik) - Tibubeneng",https://food.grab.com/id/en/restaurant/george-s-bbq-house-grill-shashlik-tibubeneng-delivery/6-C7M1PAEYE2EDNX,4.5,27,,,no,,grab_only,grab_only_no_maps_match
+San Yook Korean BBQ - Canggu,https://food.grab.com/id/en/restaurant/san-yook-korean-bbq-canggu-delivery/6-C72AA3CEAEBTPE,4.6,8,,,no,,grab_only,grab_only_no_maps_match
+IMMARU RESTAURANT- Canggu,https://food.grab.com/id/en/restaurant/immaru-restaurant-canggu-delivery/6-C7E1VXVFC35WDE,4.5,136,,,no,,grab_only,grab_only_no_maps_match
+Smoke Street Bali - Canggu,https://food.grab.com/id/en/restaurant/smoke-street-bali-canggu-delivery/6-C8AHJVMKLK3YCN,3.7,3,,,no,,grab_only,grab_only_no_maps_match
+Warung Es Kelapa Muda - Tibubeneng,https://food.grab.com/id/en/restaurant/warung-es-kelapa-muda-tibubeneng-delivery/6-C2KTLP6VTLKTBA,4.8,724,,,no,,grab_only,grab_only_no_maps_match
+STEAK HOUSE BALI - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/steak-house-bali-kerobokan-kaja-delivery/6-C6CVC4NERKWHLN,4.8,258,,,no,,grab_only,grab_only_no_maps_match
+"Lush Kitchen (Healthy Bowls, Protein, Kebabs) - Canggu",https://food.grab.com/id/en/restaurant/lush-kitchen-healthy-bowls-protein-kebabs-canggu-delivery/6-C6UZC721J4D3R6,4.7,245,,,no,,grab_only,grab_only_no_maps_match
+Just Kitchen Georgian Restaurant - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/just-kitchen-georgian-restaurant-kerobokan-kelod-delivery/6-CYLFJP3XDEUHV6,4.6,779,,,no,,grab_only,grab_only_no_maps_match
+Life Turkish Food - Canggu,https://food.grab.com/id/en/restaurant/life-turkish-food-canggu-delivery/6-C643MF2WCTCJTA,4.4,363,,,no,,grab_only,grab_only_no_maps_match
+AFROJOJO - Tibubeneng,https://food.grab.com/id/en/restaurant/afrojojo-tibubeneng-delivery/6-C631DE2BE7U1JJ,4.5,81,,,no,,grab_only,grab_only_no_maps_match
+Famous Rice Bowl - Kerobokan,https://food.grab.com/id/en/restaurant/famous-rice-bowl-kerobokan-delivery/6-C4CERFKAVCECDA,4.7,378,,,no,,grab_only,grab_only_no_maps_match
+KOREA TOWN - Kerobokan,https://food.grab.com/id/en/restaurant/korea-town-kerobokan-delivery/6-C6EVAY5GDBTGET,4.7,139,,,no,,grab_only,grab_only_no_maps_match
+The Forge - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/the-forge-kerobokan-kelod-delivery/6-CZJKTEAYPGCXL6,4.6,2917,,,no,,grab_only,grab_only_no_maps_match
+Twist Pasta - Kerobokan Kaja,https://food.grab.com/id/en/restaurant/twist-pasta-kerobokan-kaja-delivery/6-C7X3ERKTUCL2PA,4.9,36,,,no,,grab_only,grab_only_no_maps_match
+EL GRECO GREEK RESTAURANT - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/el-greco-greek-restaurant-kerobokan-kelod-delivery/6-C243GGMKTYBEKE,4.5,240,,,no,,grab_only,grab_only_no_maps_match
+"Usha Delivery Kitchen, - Canggu",https://food.grab.com/id/en/restaurant/usha-delivery-kitchen-canggu-delivery/6-C6AUL2VYCB3VRE,4.8,863,,,no,,grab_only,grab_only_no_maps_match
+Bon Appetit French Tacos - Kerobokan,https://food.grab.com/id/en/restaurant/bon-appetit-french-tacos-kerobokan-delivery/6-C4K1CANCHEWYEE,4.7,1414,,,no,,grab_only,grab_only_no_maps_match
+IZZI KITCHEN - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/izzi-kitchen-kerobokan-kelod-delivery/6-C6MWGJCYAPEEAX,4.7,1315,,,no,,grab_only,grab_only_no_maps_match
+d'atas Cafe and Lounge - Canggu,https://food.grab.com/id/en/restaurant/d-atas-cafe-and-lounge-canggu-delivery/6-C6VDA63ALJWUJN,5,5,,,no,,grab_only,grab_only_no_maps_match
+Rize Restaurant - Pererenan,https://food.grab.com/id/en/restaurant/rize-restaurant-pererenan-delivery/6-C6D3CJTVL3NYEN,4.7,234,,,no,,grab_only,grab_only_no_maps_match
+FRY BASKET - Kerobokan,https://food.grab.com/id/en/restaurant/fry-basket-kerobokan-delivery/6-C3AWCETUL3AVJA,4.7,51,,,no,,grab_only,grab_only_no_maps_match
+"Okaeri Japanese Restaurant, Breakfast and Coffee - Pantai Berawa",https://food.grab.com/id/en/restaurant/okaeri-japanese-restaurant-breakfast-and-coffee-pantai-berawa-delivery/6-CZMGCEXFUEAFA2,4.6,942,,,no,,grab_only,grab_only_no_maps_match
+"OG Smash Burger - Fries, Milkshakes, Fried chicken |Umalas",https://food.grab.com/id/en/restaurant/og-smash-burger-fries-milkshakes-fried-chicken-umalas-delivery/6-C332JUCEFB6GPE,4.6,1388,,,no,,grab_only,grab_only_no_maps_match
+KZU - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/kzu-kerobokan-kelod-delivery/6-C3TCVFDEHGKGLN,4.9,824,,,no,,grab_only,grab_only_no_maps_match
+AYAM BAKAR LALAPAN GURAME JOVIE RESTO - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/ayam-bakar-lalapan-gurame-jovie-resto-kerobokan-kelod-delivery/6-C6CYR6CJCLKUHE,4.7,463,,,no,,grab_only,grab_only_no_maps_match
+"FRED'S - Fried Chicken, Burgers, Wraps | Umalas",https://food.grab.com/id/en/restaurant/fred-s-fried-chicken-burgers-wraps-umalas-delivery/6-C4EGGYCTAKLEUE,4.4,327,,,no,,grab_only,grab_only_no_maps_match
+SECRET SUPPER - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/secret-supper-kerobokan-kelod-delivery/6-C3TJAX5ZR2EZTE,4.6,721,,,no,,grab_only,grab_only_no_maps_match
+Alpha Coffee and Resto - Tibubeneng,https://food.grab.com/id/en/restaurant/alpha-coffee-and-resto-tibubeneng-delivery/6-C6VZAEVZWET2G2,4.5,28,,,no,,grab_only,grab_only_no_maps_match
+Kebabs and Kurries Indian Food - Tibubeneng,https://food.grab.com/id/en/restaurant/kebabs-and-kurries-indian-food-tibubeneng-delivery/6-C3X1VAKCA7CXLJ,4.4,183,,,no,,grab_only,grab_only_no_maps_match
+"Shichirin Canggu, Japanese Teppanyaki Berawa by Wonderspace - Tibubeneng",https://food.grab.com/id/en/restaurant/shichirin-canggu-japanese-teppanyaki-berawa-by-wonderspace-tibubeneng-delivery/6-C6CXR24VTXKUEA,4.7,236,,,no,,grab_only,grab_only_no_maps_match
+Thai O' Cha -  Kerobokan Kaja,https://food.grab.com/id/en/restaurant/thai-o-cha-kerobokan-kaja-delivery/6-C4BXFCCFCTTXA6,4.7,496,,,no,,grab_only,grab_only_no_maps_match
+"MR. EGG - Breakfast, Eggs, Burgers, Bagels, Coffee, Juice | Umalas",https://food.grab.com/id/en/restaurant/mr-egg-breakfast-eggs-burgers-bagels-coffee-juice-umalas-delivery/6-C3EVGJ5CARETWA,4.4,736,,,yes,,grab_only,grab_only_no_maps_match
+Milos Warung Souvlaki - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/milos-warung-souvlaki-kerobokan-kelod-delivery/6-C2VEGZDCAJX3G6,4.8,1364,,,no,,grab_only,grab_only_no_maps_match
+SWINGERS TAPAS - Canggu,https://food.grab.com/id/en/restaurant/swingers-tapas-canggu-delivery/6-C63DLFEZRA2BEA,,,,,no,,grab_only,grab_only_no_maps_match
+Waroenk D'Kitchen - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/waroenk-d-kitchen-kerobokan-kelod-delivery/6-C6JTCX3GJT6UDA,4.6,116,,,no,,grab_only,grab_only_no_maps_match
+Daily Food Canggu - Munggu,https://food.grab.com/id/en/restaurant/daily-food-canggu-munggu-delivery/6-C3VJRFLYFGNAL2,4.9,101,,,no,,grab_only,grab_only_no_maps_match
+Pitstop - Canggu,https://food.grab.com/id/en/restaurant/pitstop-canggu-delivery/6-C24GGJWZRRDXA6,4.8,175,,,no,,grab_only,grab_only_no_maps_match
+"Only Eggs (Healthy Breakfast, Scramble, Omelette), - Canggu",https://food.grab.com/id/en/restaurant/only-eggs-healthy-breakfast-scramble-omelette-canggu-delivery/6-C6T3R2LKDGJYCT,4.7,1996,,,no,,grab_only,grab_only_no_maps_match
+Dian home caffe - Canggu,https://food.grab.com/id/en/restaurant/dian-home-caffe-canggu-delivery/6-C4MDEBLKAB5XEN,,,,,no,,grab_only,grab_only_no_maps_match
+Nourish - Berawa,https://food.grab.com/id/en/restaurant/nourish-berawa-delivery/6-C3W1WAX3RVCJLX,4.7,405,,,no,,grab_only,grab_only_no_maps_match
+Breakfast Semat Cafe - Tibubeneng,https://food.grab.com/id/en/restaurant/breakfast-semat-cafe-tibubeneng-delivery/6-C6BWFAJ3LXAZME,,,,,no,,grab_only,grab_only_no_maps_match
+Tucker - Canggu,https://food.grab.com/id/en/restaurant/tucker-canggu-delivery/6-C6CGARKDA2NZKE,4.8,76,,,no,,grab_only,grab_only_no_maps_match
+"Canggu Breakfast,Coffee,Burger,Sandwich,Grill - Kerobokan Kaja",https://food.grab.com/id/en/restaurant/canggu-breakfast-coffee-burger-sandwich-grill-kerobokan-kaja-delivery/6-C33JA7TJWFEFJE,4.8,206,,,no,,grab_only,grab_only_no_maps_match
+Little Dragon - Canggu,https://food.grab.com/id/en/restaurant/little-dragon-canggu-delivery/6-C2W2TEWBBA41RE,5,32,,,no,,grab_only,grab_only_no_maps_match
+HWAMOON - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/hwamoon-kerobokan-kelod-delivery/6-C623VAKKLKDKE6,4.7,300,,,no,,grab_only,grab_only_no_maps_match
+Daily Hub Cafe Co Work - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/daily-hub-cafe-co-work-kerobokan-kelod-delivery/6-C3TACT3BNJ5YWA,4.7,1405,,,no,,grab_only,grab_only_no_maps_match
+"The Egg Spot (Western Breakfast, Avocado, Healthy Options) - Canggu",https://food.grab.com/id/en/restaurant/the-egg-spot-western-breakfast-avocado-healthy-options-canggu-delivery/6-C65ZA621WBNUPA,4.8,94,,,no,,grab_only,grab_only_no_maps_match
+"Couple Kitchen, Breakfast, Fresh Juice, Fruit Bowl Bali. - Canggu",https://food.grab.com/id/en/restaurant/couple-kitchen-breakfast-fresh-juice-fruit-bowl-bali-canggu-delivery/6-C6WDFBVFLXCWRJ,4.8,336,,,no,,grab_only,grab_only_no_maps_match
+STED - Canggu,https://food.grab.com/id/en/restaurant/sted-canggu-delivery/6-C4EXHCJFKFJEC6,4.5,999,,,no,,grab_only,grab_only_no_maps_match
+"The Italian Guy, Kerobokan - Kerobokan Kelod",https://food.grab.com/id/en/restaurant/the-italian-guy-kerobokan-kerobokan-kelod-delivery/6-C62BWEBBRKUXET,4.5,131,,,no,,grab_only,grab_only_no_maps_match
+Kayuh Cookies - Canggu Permai,https://food.grab.com/id/en/restaurant/kayuh-cookies-canggu-permai-delivery/6-C2XFGVJHTK31GE,4.4,103,,,no,,grab_only,grab_only_no_maps_match
+"PORCH COFFEE SHOP (Breakfast, Syrniki, Seafood) - Tibubeneng",https://food.grab.com/id/en/restaurant/porch-coffee-shop-breakfast-syrniki-seafood-tibubeneng-delivery/6-C6JCGN4XJABAVA,4.8,59,,,no,,grab_only,grab_only_no_maps_match
+ZALI - Pererenan,https://food.grab.com/id/en/restaurant/zali-pererenan-delivery/6-C2WJHA2GNXN2HE,4.8,621,,,no,,grab_only,grab_only_no_maps_match
+Terra - Berawa,https://food.grab.com/id/en/restaurant/terra-berawa-delivery/6-C63WTY3WGK5BFA,4.5,46,,,no,,grab_only,grab_only_no_maps_match
+"House Of Breakfast, Canggu - Tibubeneng",https://food.grab.com/id/en/restaurant/house-of-breakfast-canggu-tibubeneng-delivery/6-C6UDWFVAGYCYAA,4.3,54,,,no,,grab_only,grab_only_no_maps_match
+Favorite Sandwich Canggu - Tibubeneng,https://food.grab.com/id/en/restaurant/favorite-sandwich-canggu-tibubeneng-delivery/6-C6UFPANBA3MJTN,3.5,136,,,no,,grab_only,grab_only_no_maps_match
+Dispensary by Body Factory Bali - Canggu,https://food.grab.com/id/en/restaurant/dispensary-by-body-factory-bali-canggu-delivery/6-C4DYBGDWAJ3CPE,4.7,325,,,no,,grab_only,grab_only_no_maps_match
+DISTRICT BREAKFAST - Tibubeneng,https://food.grab.com/id/en/restaurant/district-breakfast-tibubeneng-delivery/6-C4MEEZACABMCVX,3.5,173,,,no,,grab_only,grab_only_no_maps_match
+HARRY'S THE BURRITO - Tibubeneng,https://food.grab.com/id/en/restaurant/harry-s-the-burrito-tibubeneng-delivery/6-C6MWAX5AWA4YL6,3.6,84,,,no,,grab_only,grab_only_no_maps_match
+Mostly Restaurant - Pererenan,https://food.grab.com/id/en/restaurant/mostly-restaurant-pererenan-delivery/6-C35GGT4EWBU3VN,4.5,43,,,no,,grab_only,grab_only_no_maps_match
+Suka Espresso Berawa - Tibubeneng,https://food.grab.com/id/en/restaurant/suka-espresso-berawa-tibubeneng-delivery/6-C3BEBE3VG6WGNX,,,,,no,,grab_only,grab_only_no_maps_match
+"Lula Kebab Express, Armenian Food in Canggu - Tibubeneng",https://food.grab.com/id/en/restaurant/lula-kebab-express-armenian-food-in-canggu-tibubeneng-delivery/6-C6LZABTXL3VKRN,4.5,407,,,no,,grab_only,grab_only_no_maps_match
+Blacklist Burger - Tibubeneng,https://food.grab.com/id/en/restaurant/blacklist-burger-tibubeneng-delivery/6-C3U3AJ33HEVVRA,4.2,202,,,no,,grab_only,grab_only_no_maps_match
+PHOETRY - Phoetry - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/phoetry-phoetry-kerobokan-kelod-delivery/6-C7KGLZDFG2THRE,4.6,461,,,no,,grab_only,grab_only_no_maps_match
+INDIAN FOOD THE CURRY SPOT - Kerobokan,https://food.grab.com/id/en/restaurant/indian-food-the-curry-spot-kerobokan-delivery/6-C7NXR6WJMFJ3HE,4.9,480,,,no,,grab_only,grab_only_no_maps_match
+FRESH FRUITS CAFE - CANGGU,https://food.grab.com/id/en/restaurant/fresh-fruits-cafe-canggu-delivery/6-C7DFCAKWT7EEGJ,4.2,102,,,yes,,grab_only,grab_only_no_maps_match
+Loulan Chinese Noodle Eatery - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/loulan-chinese-noodle-eatery-kerobokan-kelod-delivery/6-C8EJJFWZJNTXVT,,,,,no,,grab_only,grab_only_no_maps_match
+Traditional Fried Rice And Noodle - Traditional Fried Rice And Noodle Pererenan - Pererenan,https://food.grab.com/id/en/restaurant/traditional-fried-rice-and-noodle-traditional-fried-rice-and-noodle-pererenan-pererenan-delivery/6-C7JHG8AJAB6KT2,,,,,no,,grab_only,grab_only_no_maps_match
+"MING'S - Pan-asian, Noodles, Gyoza, Fried rice | Umalas",https://food.grab.com/id/en/restaurant/ming-s-pan-asian-noodles-gyoza-fried-rice-umalas-delivery/6-C4K2CUN3V6LBDA,4.5,534,,,no,,grab_only,grab_only_no_maps_match
+"EAT ME!(Fried Rice,Asian Fushion,Lunch,Cruise Food - Kerobokan Kaja",https://food.grab.com/id/en/restaurant/eat-me-fried-rice-asian-fushion-lunch-cruise-food-kerobokan-kaja-delivery/6-C8DTEYTCGP3JGN,4.9,35,,,no,,grab_only,grab_only_no_maps_match
+Mie88 seminyak ( noodles - dimsum- Chinese food ) - Kerobokan Kelod,https://food.grab.com/id/en/restaurant/mie88-seminyak-noodles-dimsum-chinese-food-kerobokan-kelod-delivery/IDGFSTI00000q8v,4.3,267,,,no,,grab_only,grab_only_no_maps_match
+Wonton Club - Tibubeneng,https://food.grab.com/id/en/restaurant/wonton-club-tibubeneng-delivery/6-C3W2A3MJRYEJT6,4,179,,,no,,grab_only,grab_only_no_maps_match
+Rice Republic Bali - Umalas,https://food.grab.com/id/en/restaurant/rice-republic-bali-umalas-delivery/6-C7BJWE5FNUTBGX,4.5,893,,,no,,grab_only,grab_only_no_maps_match
+Sell Water In Box - Pererenan,https://food.grab.com/id/en/restaurant/sell-water-in-box-pererenan-delivery/6-C7JKEYEFRT4TLA,,,,,no,,grab_only,grab_only_no_maps_match
+Anaga Authentic Thai Cuisine - Canggu,https://food.grab.com/id/en/restaurant/anaga-authentic-thai-cuisine-canggu-delivery/6-C2XAT2N3JN3EDE,4.7,509,,,no,,grab_only,grab_only_no_maps_match
+Phomo - Tibubeneng,https://food.grab.com/id/en/restaurant/phomo-tibubeneng-delivery/6-C3XVT4AHCEL1NX,4.4,143,,,no,,grab_only,grab_only_no_maps_match
+Pho Thin - Tibubeneng,https://food.grab.com/id/en/restaurant/pho-thin-tibubeneng-delivery/6-C2MAJ75DWBXXJE,4.7,118,,,no,,grab_only,grab_only_no_maps_match
+"LA Protein Pancakes And Smoothies,- Canggu",https://food.grab.com/id/en/restaurant/la-protein-pancakes-and-smoothies-canggu-delivery/6-C66JGUATEJEVDE,4,105,,,no,,grab_only,grab_only_no_maps_match
+Bowl for Soul - Pererenan,https://food.grab.com/id/en/restaurant/bowl-for-soul-pererenan-delivery/6-C7JYA4MDA3JCWA,4,26,,,no,,grab_only,grab_only_no_maps_match
+"Helen Smoothies , Breakfast , Fresh Juice, Fruit Bowl.Bali. - Canggu",https://food.grab.com/id/en/restaurant/helen-smoothies-breakfast-fresh-juice-fruit-bowl-bali-canggu-delivery/6-C6WDFBVFSETXCT,4.7,247,,,no,,grab_only,grab_only_no_maps_match
+Veganlicious Smoothie Bowls - Berawa,https://food.grab.com/id/en/restaurant/veganlicious-smoothie-bowls-berawa-delivery/6-C3DKVGNDMET2BE,4.8,1589,,,no,,grab_only,grab_only_no_maps_match
+M Mart - Canggu CG15,https://food.grab.com/id/en/restaurant/m-mart-canggu-cg15-delivery/6-C7JXKALXTZNFGX,4.8,70,,,no,,grab_only,grab_only_no_maps_match
+KING Cafe - Pererenan,https://food.grab.com/id/en/restaurant/king-cafe-pererenan-delivery/6-C7BDANVARCC3UE,,,,,no,,grab_only,grab_only_no_maps_match
+BACON CAFE - Canggu,https://food.grab.com/id/en/restaurant/bacon-cafe-canggu-delivery/6-C7C2WADDLBETJA,4,12,,,no,,grab_only,grab_only_no_maps_match
+Taste of India - Pererenan,https://food.grab.com/id/en/restaurant/taste-of-india-pererenan-delivery/6-C8BGJUJBDBBVG6,5,30,,,no,,grab_only,grab_only_no_maps_match
+SECRET SUPPER - Canggu,https://food.grab.com/id/en/restaurant/secret-supper-canggu-delivery/6-C7J2RT2BJZL1RE,4.5,151,,,yes,,grab_only,grab_only_no_maps_match
+Papa Lee's Taiwan Noodle and Dumpling - Canggu,https://food.grab.com/id/en/restaurant/papa-lee-s-taiwan-noodle-and-dumpling-canggu-delivery/6-C7VYGKVAVZNFET,4.9,215,,,no,,grab_only,grab_only_no_maps_match
+"12 Kitchen & Wine (Breakfast, Seafood, Pasta) - Canggu",https://food.grab.com/id/en/restaurant/12-kitchen-wine-breakfast-seafood-pasta-canggu-delivery/6-C74VE2NDJ2LAE2,4.8,41,,,no,,grab_only,grab_only_no_maps_match
+RAMEN HAMATORA - CANGGU,https://food.grab.com/id/en/restaurant/ramen-hamatora-canggu-delivery/6-C3CKWBTDJYJDR2,4.7,249,,,no,,grab_only,grab_only_no_maps_match
+Nutella Pancakes - Pererenan,https://food.grab.com/id/en/restaurant/nutella-pancakes-pererenan-delivery/6-C66XLNMVEXJXVN,3.5,115,,,no,,grab_only,grab_only_no_maps_match
+Ming’s Tavern - Canggu,https://food.grab.com/id/en/restaurant/ming’s-tavern-canggu-delivery/6-C75XNFLEJT6WTN,4.1,16,,,no,,grab_only,grab_only_no_maps_match
+"FRED'S - Fried Chicken, Burgers, Wraps | Pererenan",https://food.grab.com/id/en/restaurant/fred-s-fried-chicken-burgers-wraps-pererenan-delivery/6-C7ACTN5FTZJGA2,4.3,119,,,no,,grab_only,grab_only_no_maps_match
+SISTA Dumpling Berawa - Tibubeneng,https://food.grab.com/id/en/restaurant/sista-dumpling-berawa-tibubeneng-delivery/6-CZDEHEJDRYDTRA,4.5,541,,,no,,grab_only,grab_only_no_maps_match
+BEBEK MAS BAMBANG 1 CANGGU - Tibubeneng,https://food.grab.com/id/en/restaurant/bebek-mas-bambang-1-canggu-tibubeneng-delivery/6-C2BHPA5BLXXYR6,4.8,451,,,no,,grab_only,grab_only_no_maps_match
+Cocodak - Canggu,https://food.grab.com/id/en/restaurant/cocodak-canggu-delivery/6-C7UKMBMZVFMVJE,4.8,256,,,no,,grab_only,grab_only_no_maps_match
+"Morning Mellow (Breakfast, Eggs, Smoothies, Porridge, Protein) - Canggu",https://food.grab.com/id/en/restaurant/morning-mellow-breakfast-eggs-smoothies-porridge-protein-canggu-delivery/6-C7KZAYXHMAA3R2,4.7,66,,,no,,grab_only,grab_only_no_maps_match
+Warung Bu Dewa - Tibubeneng,https://food.grab.com/id/en/restaurant/warung-bu-dewa-tibubeneng-delivery/6-C3TGDEEWGREBJT,4.8,197,,,no,,grab_only,grab_only_no_maps_match
+"Bella Luna Italian Pasta , Brunch , Grilled , Sandwiches - Kerobokan Kaja",https://food.grab.com/id/en/restaurant/bella-luna-italian-pasta-brunch-grilled-sandwiches-kerobokan-kaja-delivery/6-C7C1JBDXR6U1CA,4.8,63,,,no,,grab_only,grab_only_no_maps_match
+Fuji Fusion Japanese Restaurant - Canggu,https://food.grab.com/id/en/restaurant/fuji-fusion-japanese-restaurant-canggu-delivery/6-C33HCA3CJXA1JA,4.6,781,,,no,,grab_only,grab_only_no_maps_match
+Chicken house - Tibubeneng,https://food.grab.com/id/en/restaurant/chicken-house-tibubeneng-delivery/6-C8DHAKCWNXWCTA,5,4,,,no,,grab_only,grab_only_no_maps_match
