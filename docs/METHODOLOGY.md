@@ -21,7 +21,17 @@ is marked unavailable.
 **GrabFood URLs** come from the official merchant sitemap (20,000 URLs / 19,306 unique
 merchants for Bali) keyed by merchant id.
 
-**Matching Grab→Maps** (spec requires name + geo): Grab list API exposes no coordinates,
+**Per-merchant detail (added v20):** guest login blocked via raw HTTP (`authnv4/login`
+429 from every IP/proxy), but a real Chromium (Playwright, guest) completes the login and
+loads each detail page. `scraper/grab_detail_sweep.py` iterates the 81 sitemap URLs and
+captures the `GET /foodweb/guest/v2/merchants/{id}` response (200, header `x-hydra-jwt`).
+Result: 80/81 detail OK — fresh rating + voteCount + announcement fields. Grab exposes no
+phone or coordinates in any public response, so contact/geo fields for Grab stay honestly
+empty. Ads badge: no ads/sponsored field exists in any accessible Grab response —
+`grab_promo` records merchant discount promos only (not an ads badge), marked unavailable
+for true ads.
+
+**Matching Grab→Maps** (spec requires name + geo): Grab exposes no coordinates
 so matching is name-normalized fuzzy (SequenceMatcher + token containment ≥0.82) with an
 address-area gate (Canggu core: Canggu/Berawa/Babakan/Tibubeneng/Pererenan/Batu Bolong/Batu
 Mejan/Padang Linjong). Result: 3 high, 2 low confidence matches, 7 grab-only rows appended
