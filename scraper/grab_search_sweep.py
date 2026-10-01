@@ -6,7 +6,13 @@ from playwright.sync_api import sync_playwright
 OUT = "/home/agentuser/.hermes/cache/scratch/grab_search_sweep.json"
 QUERIES = ["pizza", "sushi", "coffee", "burger", "nasi goreng", "ayam", "babu guling", "vegan",
            "mexican", "indian", "chinese", "seafood", "dessert", "smoothie", "bakery", "ramen",
-           "poke", "taco", "steak", "pasta", "salad", "warung", "sate", "dim sum"]
+           "poke", "taco", "steak", "pasta", "salad", "warung", "sate", "dim sum",
+           "canggu", "berawa", "babakan", "pererenan", "tibubeneng", "batu bolong", "umalas", "kerobokan",
+           "nasi campur", "babi guling", "bebek", "martabak", "bakso", "mie", "kwetiau", "nasi padang",
+           "thai", "korean", "japanese", "italian", "french", "greek", "turkish", "vietnamese",
+           "breakfast", "brunch", "lunch", "dinner", "healthy", "juice", "ice cream", "gelato",
+           "bar", "beer", "wine", "cocktail", "bbq", "grill", "roast", "dumpling", "noodle", "rice bowl",
+           "bubble tea", "matcha", "croissant", "donut", "crepe", "waffle", "soup", "curry", "kebab", "shawarma"]
 
 data = json.load(open(OUT)) if os.path.exists(OUT) else {}
 done_q = set(data.get("done_queries", []))
