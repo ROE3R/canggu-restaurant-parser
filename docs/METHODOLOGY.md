@@ -1,5 +1,34 @@
 # Methodology & Field Notes (1 page)
 
+## 0. GrabFood (added v18)
+
+**Working path (no auth, no login):** `GET portal.grab.com/foodweb/v1/cuisine-merchants`
+with `attributeValueID` (cuisine id from the official sitemap `city-cuisine.xml`),
+`citySlug=bali`, `latlng` (ignored server-side), `pageSize=32`, offset pagination.
+Requests require an **ALTCHA proof-of-work** header (`X-ALTCHA-Payload`): fetch challenge
+from `/foodweb/v1/altcha/challenge`, brute-force SHA-256(salt+n) == challenge (solved <0.1 s).
+
+Returns per merchant: name, chain/branch, address, cuisine, **rating, vote_count**,
+and promo tags (`sideLabels` = merchant discount promos, NOT paid ads — recorded as
+`grab_promo`, honestly not an ads badge).
+
+**Merchant detail endpoint** (`/guest/v2/merchants/{id}`) requires a guest token from
+`POST food.grab.com/proxy/authnv4/login` (query params `ServiceID=PASSENGER&AccountIdentifierType=guest`).
+This endpoint returns `429 rate_exceeded` persistently — from our server IP, from a
+residential proxy, and with dummy JWT headers — so per-merchant detail (lat/lng, menu)
+is marked unavailable.
+
+**GrabFood URLs** come from the official merchant sitemap (20,000 URLs / 19,306 unique
+merchants for Bali) keyed by merchant id.
+
+**Matching Grab→Maps** (spec requires name + geo): Grab list API exposes no coordinates,
+so matching is name-normalized fuzzy (SequenceMatcher + token containment ≥0.82) with an
+address-area gate (Canggu core: Canggu/Berawa/Babakan/Tibubeneng/Pererenan/Batu Bolong/Batu
+Mejan/Padang Linjong). Result: 3 high, 2 low confidence matches, 7 grab-only rows appended
+(`match_confidence=grab_only`). Only ~12 core-area Grab merchants carry full data — the
+cuisine-list API ranks far beyond Canggu per category, and deeper per-merchant data is
+blocked behind the 429'd guest login. Honest gap, documented.
+
 ## 1. Collection — Google Maps (complete: 401 restaurants)
 
 **Endpoint:** internal JSON API `GET /search?tbm=map&q=<query>&pb=<viewport+filters>` issued
