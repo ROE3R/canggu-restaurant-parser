@@ -3,13 +3,16 @@
 Needs GOOGLE_NID env (NID cookie from a real browser). Paginates newest->last page = oldest confirmed.
 Resumable via review_dates.boq shard file. 20 reviews/page, unlimited, just needs fresh NID if it dies.
 """
-import os, sys, json, time, urllib.parse, datetime, requests
+import os, sys, json, time, random, string, urllib.parse, datetime, requests
 
-NID = os.environ.get("GOOGLE_NID", "")
-if not NID:
-    sys.exit("GOOGLE_NID env required")
+def new_nid():
+    return "".join(random.choices(string.ascii_letters + string.digits + "-_", k=132))
+NID = os.environ.get("GOOGLE_NID", "") or new_nid()
 BASE = "https://www.google.com/httpservice/web/PrivateLocalSearchUiDataService/GetLocalBoqProxy"
+SHARD = os.environ.get("BOQ_SHARD", "")
 RD_F = "/home/agentuser/.hermes/cache/scratch/review_dates.boq.json"
+if SHARD:
+    RD_F = RD_F.replace(".json", f".s{SHARD.replace('/','_')}.json")
 PL_F = "/home/agentuser/.hermes/cache/scratch/places_enriched.json"
 HDRS = {"Cookie": f"NID={NID}", "Referer": "https://www.google.com/maps/",
         "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0 Safari/537.36"}
@@ -25,6 +28,9 @@ for p in places:
         if fid and str(fid).startswith("0x"):
             need.append((pid, p.get("review_count", 0), fid))
 need.sort(key=lambda x: x[1])  # cheapest first
+if SHARD:
+    _i, _n = map(int, SHARD.split("/"))
+    need = [x for j, x in enumerate(need) if j % _n == _i]
 print(f"todo: {len(need)}", flush=True)
 
 def fetch(fid, tok=None):
@@ -34,9 +40,18 @@ def fetch(fid, tok=None):
         inner = [None, 2] + [None]*7 + [20, None, [fid]]
     reqpld = [None, [None]*9 + [inner]]
     url = BASE + "?msc=gwsrpc&reqpld=" + urllib.parse.quote(json.dumps(reqpld))
-    r = requests.get(url, headers=HDRS, timeout=60)
-    if r.status_code != 200:
-        raise RuntimeError(f"HTTP {r.status_code}")
+    global NID
+    for attempt in range(12):
+        r = requests.get(url, headers={**HDRS, "Cookie": f"NID={NID}"}, timeout=60)
+        if r.status_code == 429:
+            NID = new_nid()  # fresh identity = fresh quota
+            time.sleep(1.0)
+            continue
+        if r.status_code != 200:
+            raise RuntimeError(f"HTTP {r.status_code}")
+        break
+    else:
+        raise RuntimeError("429 x12")
     body = r.text.strip()
     if body.startswith(")]}'"):
         body = body[4:]

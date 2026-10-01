@@ -5,8 +5,8 @@
   "google_place_id": "ChIJ0degNbA50i0RxPNUmdDg4Ss",
   "rating_google": 4.8,
   "review_count_google": 1960,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-08-25",
+  "newest_review_date": "2026-09-30",
   "categories": "Restaurant; Cafe; Cafeteria; European restaurant; Seafood restaurant; Wine bar",
   "address": "Jl. Pantai Batu Mejan No.12c, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6421069,
@@ -22,7 +22,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "KHAO Canggu",
@@ -30,8 +30,8 @@
   "google_place_id": "ChIJbVCaEgA50i0RdCHkWobMkCw",
   "rating_google": 4.9,
   "review_count_google": 3524,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2024-06-29",
+  "newest_review_date": "2026-09-30",
   "categories": "Thai restaurant",
   "address": "Jl. Pantai Batu Mejan, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6372983,
@@ -47,7 +47,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "SILK RESTAURANT Canggu",
@@ -55,7 +55,7 @@
   "google_place_id": "ChIJo1G2n5w50i0RK12SGfhkL7I",
   "rating_google": 4.9,
   "review_count_google": 469,
-  "oldest_review_date": "",
+  "oldest_review_date": "2026-01-22",
   "newest_review_date": "2026-09-30T05:12:01.601Z",
   "categories": "Restaurant",
   "address": "84WQ+Q5F, Jl. Subak Canggu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
@@ -72,7 +72,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Alchemy Canggu",
@@ -80,8 +80,8 @@
   "google_place_id": "ChIJ4ShWl7k50i0RdzQQFtEFC8M",
   "rating_google": 4.8,
   "review_count_google": 1641,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2025-06-25",
+  "newest_review_date": "2026-10-01",
   "categories": "Restaurant; Gourmet grocery store; Health and beauty shop; Store",
   "address": "Jl. Tanah Barak No.1a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6480252,
@@ -97,7 +97,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Felice Canggu",
@@ -130,8 +130,8 @@
   "google_place_id": "ChIJi2HK2H850i0RZ8R8JnWsNKU",
   "rating_google": 4.7,
   "review_count_google": 2305,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-02-16",
+  "newest_review_date": "2026-09-30",
   "categories": "Italian restaurant; Brunch restaurant; Lunch restaurant; Pizza restaurant",
   "address": "Jl. Canggu Padang Linjong No.8C, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6403042,
@@ -147,7 +147,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Beach Boy Canggu",
@@ -155,8 +155,8 @@
   "google_place_id": "ChIJ_QpIXpU50i0RPqY7JB_Ngvo",
   "rating_google": 4.9,
   "review_count_google": 1604,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2019-06-02",
+  "newest_review_date": "2026-09-29",
   "categories": "Restaurant",
   "address": "Jl. Munduk Catu No.8, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6533015,
@@ -172,7 +172,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Paed Thai Restaurant Canggu by Wonderspace",
@@ -180,8 +180,8 @@
   "google_place_id": "ChIJB8xYlUE50i0Rw0kim3Z1i10",
   "rating_google": 4.8,
   "review_count_google": 2366,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-04-04",
+  "newest_review_date": "2026-10-01",
   "categories": "Thai restaurant; Brunch restaurant; Lunch restaurant",
   "address": "Jl. Canggu Padang Linjong No.8A, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.639958499999999,
@@ -197,7 +197,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Ele Restaurant, Bar and Terrace",
@@ -230,8 +230,8 @@
   "google_place_id": "ChIJV4FmaH040i0Rqbd3GzHsiKY",
   "rating_google": 4.7,
   "review_count_google": 2805,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2015-09-21",
+  "newest_review_date": "2026-09-30",
   "categories": "Indonesian restaurant",
   "address": "Jl. Pantai Batu Bolong No.10, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6465339,
@@ -247,7 +247,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Mularasa Canggu",
@@ -280,8 +280,8 @@
   "google_place_id": "ChIJk3IjCVU50i0RDCA0u-V4WAs",
   "rating_google": 4.7,
   "review_count_google": 3014,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-09-23",
+  "newest_review_date": "2026-09-30",
   "categories": "Italian restaurant; Restaurant; Mediterranean restaurant; Pizza restaurant",
   "address": "84WH+5VW, Jl. Munduk Catu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6544698,
@@ -297,7 +297,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Twin Tide Eatery",
@@ -330,8 +330,8 @@
   "google_place_id": "ChIJ2TriPX040i0RJNVqzWoQjT0",
   "rating_google": 4.9,
   "review_count_google": 1049,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-05-22",
+  "newest_review_date": "2026-09-22",
   "categories": "Restaurant",
   "address": "Jl. Pantai Batu Bolong No.25 A, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6467562,
@@ -347,7 +347,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Rice Republic Canggu",
@@ -380,8 +380,8 @@
   "google_place_id": "ChIJfRD2izlH0i0RhV2BcbmROdU",
   "rating_google": 4.9,
   "review_count_google": 1144,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2025-12-05",
+  "newest_review_date": "2026-09-30",
   "categories": "Seafood restaurant; Breakfast restaurant; Brunch restaurant; Cafe; European restaurant; Oyster bar restaurant; Restaurant; Wine bar",
   "address": "Jl. Pantai Berawa No.51, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6607453,
@@ -397,7 +397,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Dolan Restaurant & Park",
@@ -430,8 +430,8 @@
   "google_place_id": "ChIJ_0HCj3k40i0RnyEsumngXDs",
   "rating_google": 4.7,
   "review_count_google": 3924,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2015-10-25",
+  "newest_review_date": "2026-09-30",
   "categories": "Italian restaurant; Bar; Pizza restaurant",
   "address": "Jl. Tanah Barak No.51, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6513075,
@@ -447,7 +447,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Xich Lo Canggu",
@@ -505,8 +505,8 @@
   "google_place_id": "ChIJhRafEIw50i0RrqS3ekze0Bk",
   "rating_google": 4.9,
   "review_count_google": 1176,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2025-11-17",
+  "newest_review_date": "2026-09-30",
   "categories": "Taiwanese restaurant; Chinese restaurant; Dim sum restaurant; Noodle shop",
   "address": "Jl. Pantai Batu Bolong No.168, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.658650399999999,
@@ -522,7 +522,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Zai cafe",
@@ -530,8 +530,8 @@
   "google_place_id": "ChIJnT3bt6VH0i0RUgvf_KGh8r8",
   "rating_google": 4.8,
   "review_count_google": 3035,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-03-11",
+  "newest_review_date": "2026-10-01",
   "categories": "Restaurant; Grill; Bar & grill; Breakfast restaurant; Cafe; Doner kebab restaurant; Greek restaurant; Mediterranean restaurant; Middle Eastern restaurant",
   "address": "Jl. Pantai Batu Bolong, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6451012,
@@ -547,7 +547,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Bottega Italiana Batu Bolong",
@@ -580,8 +580,8 @@
   "google_place_id": "ChIJeabni4dH0i0R4bGo0GqBarQ",
   "rating_google": 4.8,
   "review_count_google": 1410,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-11-26",
+  "newest_review_date": "2026-09-29",
   "categories": "Restaurant",
   "address": "Jl. Pantai Batu Bolong No.99, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6560724,
@@ -597,7 +597,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Dian Cafe",
@@ -630,7 +630,7 @@
   "google_place_id": "ChIJzW2DW1s50i0RaOVdbNFcUsA",
   "rating_google": 4.6,
   "review_count_google": 396,
-  "oldest_review_date": "",
+  "oldest_review_date": "2022-01-04",
   "newest_review_date": "2026-09-22T06:57:52.661Z",
   "categories": "Singaporean restaurant",
   "address": "Jl. Pantai Batu Bolong No.9a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
@@ -647,7 +647,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Chow Chow Bali",
@@ -655,8 +655,8 @@
   "google_place_id": "ChIJIQRC_Ks50i0Rodc2vItpfMM",
   "rating_google": 4.7,
   "review_count_google": 1308,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-01-07",
+  "newest_review_date": "2026-09-30",
   "categories": "Asian restaurant; Asian fusion restaurant; Bar; Brunch restaurant; Chinese restaurant; Family restaurant; Lunch restaurant; Takeout restaurant; Restaurant; Wine bar",
   "address": "Jl. Pantai Batu Bolong Gg. Nyepi No.22, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6532722,
@@ -672,7 +672,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "TYGR SUSHI & RAMEN (CANGGU)",
@@ -680,8 +680,8 @@
   "google_place_id": "ChIJ5-KWONQ50i0R7M8X5gQOMz8",
   "rating_google": 4.6,
   "review_count_google": 1321,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-12-04",
+  "newest_review_date": "2026-09-28",
   "categories": "Japanese restaurant; Japanese curry restaurant; Ramen restaurant; Sushi restaurant",
   "address": "Jl. Pantai Batu Bolong No.55, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6417634,
@@ -697,7 +697,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Sa'Mesa Canggu",
@@ -705,8 +705,8 @@
   "google_place_id": "ChIJAX_gjFI50i0RSa0dSl4X-M0",
   "rating_google": 4.8,
   "review_count_google": 1505,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-04-11",
+  "newest_review_date": "2026-09-29",
   "categories": "Italian restaurant; Bar; Fine dining restaurant; Restaurant; Western restaurant",
   "address": "Jl. Canggu Padang Linjong No.1e, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.647633599999999,
@@ -722,7 +722,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Warung Local",
@@ -730,8 +730,8 @@
   "google_place_id": "ChIJbaLwAQE50i0R1px7MbN1dYc",
   "rating_google": 4.5,
   "review_count_google": 2238,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2019-06-19",
+  "newest_review_date": "2026-09-29",
   "categories": "Indonesian restaurant; Restaurant",
   "address": "Jl. Pantai Batu Bolong No.10, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6466768,
@@ -747,7 +747,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "The Avocado Factory",
@@ -755,8 +755,8 @@
   "google_place_id": "ChIJ36pywXk40i0Rh9ZZCRMb1fQ",
   "rating_google": 4.5,
   "review_count_google": 3979,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-12-13",
+  "newest_review_date": "2026-09-30",
   "categories": "Health food restaurant; Bar; Breakfast restaurant; Brunch restaurant; Cafe; Juice shop; Lunch restaurant; Restaurant",
   "address": "Jl. Batu Mejan Canggu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6522994,
@@ -772,7 +772,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Moana Fish Eatery",
@@ -780,8 +780,8 @@
   "google_place_id": "ChIJBR7Zx4s40i0ROuP-P_RZCrw",
   "rating_google": 4.5,
   "review_count_google": 3223,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-10-21",
+  "newest_review_date": "2026-09-22",
   "categories": "Seafood restaurant; Restaurant",
   "address": "Jl. Pantai Batu Bolong No.28, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6493994,
@@ -797,7 +797,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "MIEL SPECIALTY COFFEE CANGGU | CO-WORKING",
@@ -805,8 +805,8 @@
   "google_place_id": "ChIJYXyNN5U50i0RmIUNsfH9tHw",
   "rating_google": 4.7,
   "review_count_google": 1348,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-01-05",
+  "newest_review_date": "2026-09-25",
   "categories": "Coffee shop",
   "address": "Jl. Pantai Batu Bolong No.5, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.642813,
@@ -822,7 +822,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Kawisari Coffee Farm Shop & Eatery Bali",
@@ -855,8 +855,8 @@
   "google_place_id": "ChIJL3L-Sfc50i0RwlAVew5QCm8",
   "rating_google": 4.6,
   "review_count_google": 3062,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-06-10",
+  "newest_review_date": "2026-09-30",
   "categories": "Cafe; Bar; Breakfast restaurant; Brunch restaurant; Coffee shop; Family restaurant; Lunch restaurant; Pizza restaurant; Playground; Restaurant",
   "address": "Jl. Pantai Batu Bolong No.92, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.655524699999999,
@@ -872,7 +872,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "OTIUM CAFE",
@@ -1030,8 +1030,8 @@
   "google_place_id": "ChIJLwBu4ns50i0RXv6XHyBYYxc",
   "rating_google": 4.8,
   "review_count_google": 1852,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2020-12-08",
+  "newest_review_date": "2026-09-29",
   "categories": "Cafe",
   "address": "Jl. Tanah Barak No.6, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.650606699999999,
@@ -1047,7 +1047,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Monsieur Spoon Canggu",
@@ -1055,8 +1055,8 @@
   "google_place_id": "ChIJyzvgQ3k40i0ROS0Y11H7FQM",
   "rating_google": 4.3,
   "review_count_google": 2499,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2014-04-28",
+  "newest_review_date": "2026-09-27",
   "categories": "Bakery; Breakfast restaurant; Coffee shop; Restaurant",
   "address": "Jl. Pantai Batu Bolong No.55, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6516536,
@@ -1072,7 +1072,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Canggu BIM coffee & brunch",
@@ -1105,8 +1105,8 @@
   "google_place_id": "ChIJHzyhoW450i0Rub7_EEvisDY",
   "rating_google": 4.5,
   "review_count_google": 1392,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2018-08-10",
+  "newest_review_date": "2026-09-27",
   "categories": "Cafe; Breakfast restaurant; Brunch restaurant; Californian restaurant; Cocktail bar; Coffee shop; Health food restaurant; Mexican restaurant; Restaurant; Taco restaurant",
   "address": "Jl. Pantai Batu Bolong No.65, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6506717,
@@ -1122,7 +1122,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "VIDA Healthy Organic Restaurant Canggu",
@@ -1130,8 +1130,8 @@
   "google_place_id": "ChIJMev9G3w40i0RXZlSucHydMw",
   "rating_google": 4.4,
   "review_count_google": 1704,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-08-10",
+  "newest_review_date": "2026-09-29",
   "categories": "Cafe; Breakfast restaurant; Organic restaurant; Coffee shop; Gluten-free restaurant; Health food restaurant; Restaurant; Tea store; Vegetarian restaurant",
   "address": "Jl. Pantai Batu Bolong No.38A, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6501216,
@@ -1147,7 +1147,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Mango Mango Canggu - Dessert & matcha cafe",
@@ -1280,8 +1280,8 @@
   "google_place_id": "ChIJg2e00HhH0i0R6LXfx19yf0k",
   "rating_google": 4.6,
   "review_count_google": 4448,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-08-17",
+  "newest_review_date": "2026-10-01",
   "categories": "Restaurant; Western restaurant",
   "address": "Jl. Pantai Berawa No.88, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6604717,
@@ -1297,7 +1297,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Vore Canggu",
@@ -1305,7 +1305,7 @@
   "google_place_id": "ChIJlYDattxH0i0Re2DBwI1_cyc",
   "rating_google": 4.9,
   "review_count_google": 474,
-  "oldest_review_date": "",
+  "oldest_review_date": "2024-08-25",
   "newest_review_date": "2026-09-30T15:17:43.738Z",
   "categories": "Bar & grill",
   "address": "Jl. Pantai Berawa No.34, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
@@ -1322,7 +1322,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Sababa",
@@ -1330,8 +1330,8 @@
   "google_place_id": "ChIJtUYHmFdH0i0R84a_OD2fRFg",
   "rating_google": 4.8,
   "review_count_google": 1803,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-04-11",
+  "newest_review_date": "2026-08-23",
   "categories": "Restaurant; Cocktail bar; Falafel restaurant; Halal restaurant; Lebanese restaurant; Lunch restaurant; Mediterranean restaurant; Middle Eastern restaurant; Moroccan restaurant; Turkish restaurant",
   "address": "Jl. Pantai Berawa, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.66112,
@@ -1347,7 +1347,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Berawa's Kitchen",
@@ -1355,8 +1355,8 @@
   "google_place_id": "ChIJiTm1IYBH0i0RI3GPm76rg9M",
   "rating_google": 4.5,
   "review_count_google": 1076,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-03-02",
+  "newest_review_date": "2026-09-30",
   "categories": "Food court; Bar; Beer garden",
   "address": "Jl. Raya Semat No.8, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6565268,
@@ -1372,7 +1372,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Kometosake Berawa",
@@ -1480,8 +1480,8 @@
   "google_place_id": "ChIJcYpksxVH0i0RCDMFafUy5N4",
   "rating_google": 4.8,
   "review_count_google": 4635,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-11-29",
+  "newest_review_date": "2026-10-01",
   "categories": "Cafe; Bistro; Restaurant",
   "address": "Jl. Pantai Berawa No.100, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6601698,
@@ -1497,7 +1497,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Kenji Ramen & Izakaya Berawa",
@@ -1505,8 +1505,8 @@
   "google_place_id": "ChIJB16jf_c50i0RV_ZNcOqgaVg",
   "rating_google": 4.9,
   "review_count_google": 3163,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-04-20",
+  "newest_review_date": "2026-09-29",
   "categories": "Japanese restaurant; Bar; Cocktail bar; Authentic Japanese restaurant; Izakaya restaurant; Restaurant; Modern izakaya restaurant; Noodle shop; Ramen restaurant; Yakitori restaurant",
   "address": "Jl. Pantai Berawa No.13B, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.654267299999999,
@@ -1522,7 +1522,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Bottega Italiana Berawa",
@@ -1555,8 +1555,8 @@
   "google_place_id": "ChIJtSEey3hH0i0R6pMfsdjGIg8",
   "rating_google": 4.6,
   "review_count_google": 2320,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-01-05",
+  "newest_review_date": "2026-09-29",
   "categories": "Indonesian restaurant; Asian restaurant; Balinese restaurant; Breakfast restaurant; Cocktail bar; Event venue; Family restaurant; Lunch restaurant; Nasi goreng restaurant; Restaurant",
   "address": "Jl. Tegal Sari Jl. Pantai Berawa No.34, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6601995,
@@ -1572,7 +1572,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Riviera Bistro | Berawa",
@@ -1580,8 +1580,8 @@
   "google_place_id": "ChIJJTxQfgtH0i0Rnf1MTFko-0o",
   "rating_google": 4.7,
   "review_count_google": 1132,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2020-05-20",
+  "newest_review_date": "2026-09-22",
   "categories": "Restaurant; Bar; Bistro; Cocktail bar; Event venue; Italian restaurant; Mediterranean restaurant; Seafood restaurant; Wine bar",
   "address": "Jl. Pemelisan Agung, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6594439,
@@ -1597,7 +1597,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "One Eyed Jack",
@@ -1605,8 +1605,8 @@
   "google_place_id": "ChIJC3RsyoJH0i0Rri-AJ8JF9Tg",
   "rating_google": 4.8,
   "review_count_google": 1409,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-05-10",
+  "newest_review_date": "2026-09-30",
   "categories": "Japanese restaurant",
   "address": "Jl. Pantai Berawa No.c89, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali",
   "latitude": -8.6652062,
@@ -1622,7 +1622,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Neighbourhood Food",
@@ -1655,8 +1655,8 @@
   "google_place_id": "ChIJc2_G0HlH0i0Re8voZ6YyVz0",
   "rating_google": 4.5,
   "review_count_google": 1173,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-11-16",
+  "newest_review_date": "2026-09-27",
   "categories": "Indonesian restaurant; Breakfast restaurant; Brunch restaurant",
   "address": "84PV+8GX, Jl. Subak Sari 13 No.8, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.664750699999999,
@@ -1672,7 +1672,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Island Wok Berawa",
@@ -1680,8 +1680,8 @@
   "google_place_id": "ChIJX3whoFZH0i0R_riQpLLERRc",
   "rating_google": 4.8,
   "review_count_google": 1143,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-10-20",
+  "newest_review_date": "2026-09-28",
   "categories": "Chinese restaurant",
   "address": "Jalan Pantai Berawa, Tibubeneng, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.66399,
@@ -1697,7 +1697,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Revolver Canggu",
@@ -1705,8 +1705,8 @@
   "google_place_id": "ChIJnY-evaw50i0RD_tH6R6pDyw",
   "rating_google": 4.7,
   "review_count_google": 2947,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2020-10-25",
+  "newest_review_date": "2026-10-01",
   "categories": "Cafe; Bar; Breakfast restaurant; Clothing store; Coffee shop; Lunch restaurant; Restaurant",
   "address": "Jl. Nelayan No.5, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6532689,
@@ -1722,7 +1722,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Archive Coffee • Parkcafe",
@@ -1780,8 +1780,8 @@
   "google_place_id": "ChIJ7QPok05H0i0RhE0xMEaCzFM",
   "rating_google": 4.5,
   "review_count_google": 1090,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-03-12",
+  "newest_review_date": "2026-09-30",
   "categories": "Cafe; Restaurant",
   "address": "Gg. Anggrek, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6589493,
@@ -1797,7 +1797,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Wonder Coffee Berawa",
@@ -1905,8 +1905,8 @@
   "google_place_id": "ChIJzd5oJUlH0i0Rcl3AalfBuuM",
   "rating_google": 4.9,
   "review_count_google": 2293,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-10-07",
+  "newest_review_date": "2026-10-01",
   "categories": "Restaurant",
   "address": "Jl. Subak Sari, Tibubeneng, Kec. Kuta Utara, Berawa, Bali 80361 Berawa, Jl. Subak Sari, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6675323,
@@ -1922,7 +1922,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Hopper Coffee",
@@ -1955,8 +1955,8 @@
   "google_place_id": "ChIJqdO8SytH0i0RkcWicB2oqxQ",
   "rating_google": 4.8,
   "review_count_google": 1136,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-03-08",
+  "newest_review_date": "2026-10-01",
   "categories": "Cafe; Health food store; Grocery store; Tea house",
   "address": "Jl. Subak Sari No.2, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6612604,
@@ -1972,7 +1972,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Tabebuya Coffee",
@@ -2055,8 +2055,8 @@
   "google_place_id": "ChIJD3zUHIU40i0Rv50WhDLdJho",
   "rating_google": 4.6,
   "review_count_google": 1309,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2015-09-18",
+  "newest_review_date": "2026-09-30",
   "categories": "Restaurant; Breakfast restaurant; Brunch restaurant; Coffee shop",
   "address": "Jl. Pantai Berawa No.99, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6641324,
@@ -2072,7 +2072,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Varuna Warung",
@@ -2080,8 +2080,8 @@
   "google_place_id": "ChIJy8bkPIRH0i0R5oUK3-cQOU0",
   "rating_google": 4.3,
   "review_count_google": 1691,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2015-09-27",
+  "newest_review_date": "2026-09-29",
   "categories": "Indonesian restaurant; Restaurant",
   "address": "Jl. Pantai Batu Bolong No.89x, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali",
   "latitude": -8.654793399999999,
@@ -2097,7 +2097,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Warung Bu Mi",
@@ -2105,8 +2105,8 @@
   "google_place_id": "ChIJ0xw8Tnk40i0RUGwUz-aiufI",
   "rating_google": 4.2,
   "review_count_google": 1675,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2015-01-06",
+  "newest_review_date": "2026-09-27",
   "categories": "Indonesian restaurant",
   "address": "Jl. Pantai Batu Bolong No.52, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.651109199999999,
@@ -2122,7 +2122,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Warung Sika",
@@ -2130,8 +2130,8 @@
   "google_place_id": "ChIJGaFBh3k40i0RhMXGslv2Cjo",
   "rating_google": 4.6,
   "review_count_google": 2430,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-08-02",
+  "newest_review_date": "2026-09-30",
   "categories": "Indonesian restaurant; Balinese restaurant; Restaurant",
   "address": "Jl. Tanah Barak No.45, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6508638,
@@ -2147,7 +2147,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Warung Jawa Bu Sri",
@@ -2230,7 +2230,7 @@
   "google_place_id": "ChIJ-QjrVe450i0RD2bjUlS2ZGo",
   "rating_google": 4.9,
   "review_count_google": 452,
-  "oldest_review_date": "",
+  "oldest_review_date": "2020-11-05",
   "newest_review_date": "2026-09-29T05:39:32.295Z",
   "categories": "Restaurant",
   "address": "Jl. Pantai Batu Bolong No.27, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
@@ -2247,7 +2247,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Waroeng Sushi Canggu",
@@ -2480,7 +2480,7 @@
   "google_place_id": "ChIJ3UIC40850i0RpIk6EXhgAwA",
   "rating_google": 5,
   "review_count_google": 399,
-  "oldest_review_date": "",
+  "oldest_review_date": "2021-04-11",
   "newest_review_date": "2026-09-19T07:27:10.955Z",
   "categories": "Restaurant",
   "address": "Jl. Raya Canggu No.165, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
@@ -2497,7 +2497,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Times Beach Warung",
@@ -2505,8 +2505,8 @@
   "google_place_id": "ChIJJXFJjBBH0i0RlimVFxtM15g",
   "rating_google": 4.5,
   "review_count_google": 1807,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-04-24",
+  "newest_review_date": "2026-09-29",
   "categories": "Restaurant",
   "address": "Jl. Pura Dalem, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.658302899999999,
@@ -2522,7 +2522,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Fuji Sushi Canggu",
@@ -2705,8 +2705,8 @@
   "google_place_id": "ChIJWVWpMoZH0i0RRFcupYVhVi4",
   "rating_google": 4.6,
   "review_count_google": 1727,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-09-15",
+  "newest_review_date": "2026-09-23",
   "categories": "Japanese restaurant; Cocktail bar; Sushi restaurant",
   "address": "Jl. Pantai Batu Bolong, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6585282,
@@ -2722,7 +2722,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Pure Sushi Bali",
@@ -2780,8 +2780,8 @@
   "google_place_id": "ChIJgU-u2nFH0i0RGCGAedMBSQg",
   "rating_google": 4.9,
   "review_count_google": 1112,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-05-21",
+  "newest_review_date": "2026-09-30",
   "categories": "Japanese restaurant; Grill; Asian fusion restaurant; Barbecue restaurant; Family restaurant; Fine dining restaurant; Lounge bar; Sushi restaurant; Tempura restaurant; Yakiniku restaurant",
   "address": "Jl. Raya Semat No.99, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80360",
   "latitude": -8.6570229,
@@ -2797,7 +2797,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Billy Ho Japanese Restaurant",
@@ -2805,8 +2805,8 @@
   "google_place_id": "ChIJ0RSTlvJH0i0R1ozPGwVxSoU",
   "rating_google": 4.7,
   "review_count_google": 1390,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2019-02-22",
+  "newest_review_date": "2026-09-30",
   "categories": "Japanese restaurant; Asian restaurant; Bar; Cocktail bar; DJ service; Lunch restaurant; Ramen restaurant; Restaurant; Sushi restaurant; Wine bar",
   "address": "Jl. Pantai Batu Bolong, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6569687,
@@ -2822,7 +2822,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Shichirin Japanese Restaurant Canggu by Wonderspace",
@@ -2830,8 +2830,8 @@
   "google_place_id": "ChIJLdv8xQxH0i0RJ3GMYx1dJ5c",
   "rating_google": 4.8,
   "review_count_google": 1334,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-07-13",
+  "newest_review_date": "2026-09-30",
   "categories": "Japanese restaurant; Izakaya restaurant; Teppanyaki restaurant",
   "address": "Jl. Pemelisan Agung Pantai Berawa no.88 Canggu Kuta, Utara, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6602087,
@@ -2847,7 +2847,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Mykaza Bali",
@@ -3030,8 +3030,8 @@
   "google_place_id": "ChIJf_dTwXk40i0R4f3nJ34ReEo",
   "rating_google": 4.7,
   "review_count_google": 4671,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-08-16",
+  "newest_review_date": "2026-09-30",
   "categories": "Italian restaurant; Pizza restaurant",
   "address": "Jl. Tanah Barak, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6523831,
@@ -3047,7 +3047,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Louie's New York Pizza Canggu | NYC Style Pizza Restaurant",
@@ -3080,8 +3080,8 @@
   "google_place_id": "ChIJSc5qQwVH0i0RQ6rwATI_4g0",
   "rating_google": 4.6,
   "review_count_google": 2021,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-09-12",
+  "newest_review_date": "2026-10-01",
   "categories": "Italian restaurant; Pizza restaurant",
   "address": "Jl. Pemelisan Agung No.2, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6590732,
@@ -3097,7 +3097,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Dodo Pizza",
@@ -3155,8 +3155,8 @@
   "google_place_id": "ChIJV8j8ZXk40i0RQ_ByVyakQkc",
   "rating_google": 4.3,
   "review_count_google": 2711,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-07-11",
+  "newest_review_date": "2026-09-30",
   "categories": "Pizza restaurant; Bar; Cocktail bar; Italian restaurant; Live music venue; Pizza delivery; Pizza takeaway; Restaurant",
   "address": "Jl. Batu Mejan Canggu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.651199,
@@ -3172,7 +3172,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Vittorio pizza canggu",
@@ -3205,7 +3205,7 @@
   "google_place_id": "ChIJGbZvzzg50i0Rof1pBFDW6Fo",
   "rating_google": 4.9,
   "review_count_google": 413,
-  "oldest_review_date": "",
+  "oldest_review_date": "2025-09-15",
   "newest_review_date": "2026-09-29T13:57:31.020Z",
   "categories": "Pizza restaurant; Pizza delivery; Pizza takeaway",
   "address": "Jl. Raya Canggu No.12, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
@@ -3222,7 +3222,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Tony's New York Pizza Canggu",
@@ -3255,8 +3255,8 @@
   "google_place_id": "ChIJIQsPWCc50i0RAjEdr47WTlw",
   "rating_google": 4.8,
   "review_count_google": 1127,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2020-01-21",
+  "newest_review_date": "2026-09-26",
   "categories": "Italian restaurant; Lunch restaurant; Pasta shop; Pizza restaurant; Restaurant; Wine bar",
   "address": "Jl. Raya Semat No.16A, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6532966,
@@ -3272,7 +3272,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Pizza Canggu",
@@ -3380,8 +3380,8 @@
   "google_place_id": "ChIJEcUSWnc40i0RPRtw0wl13Wg",
   "rating_google": 4.5,
   "review_count_google": 1688,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2014-11-20",
+  "newest_review_date": "2026-09-29",
   "categories": "Pizza restaurant; Bar & grill; Italian restaurant; Sports bar",
   "address": "Jl. Batu Mejan Canggu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.651633499999999,
@@ -3397,7 +3397,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Lasera Bakery",
@@ -3480,7 +3480,7 @@
   "google_place_id": "ChIJwzQBEtw50i0RMnQpllFb0a4",
   "rating_google": 4.6,
   "review_count_google": 450,
-  "oldest_review_date": "",
+  "oldest_review_date": "2020-12-17",
   "newest_review_date": "2026-09-30T06:00:53.448Z",
   "categories": "Bakery",
   "address": "Jl. Tanah Barak No.8, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
@@ -3497,7 +3497,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Oka's Bakery & Cafe | Gluten Free Birthday Cake & Bread Canggu",
@@ -3505,8 +3505,8 @@
   "google_place_id": "ChIJBRWJbX040i0R2kI6vlj_cnQ",
   "rating_google": 4.5,
   "review_count_google": 1530,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-04-13",
+  "newest_review_date": "2026-09-29",
   "categories": "Bakery; Gluten-free restaurant; Cafe; Vegan restaurant; Western restaurant",
   "address": "Jl. Pantai Batu Bolong No.27A, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6468946,
@@ -3522,7 +3522,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Maha Matcha x Kudopan Bakes",
@@ -3605,8 +3605,8 @@
   "google_place_id": "ChIJg1ad-75H0i0R8aB_K9oKYj8",
   "rating_google": 4.7,
   "review_count_google": 1255,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-02-20",
+  "newest_review_date": "2026-09-27",
   "categories": "Bakery; Breakfast restaurant; Cafe",
   "address": "Jl. Nelayan No.31, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.657198,
@@ -3622,7 +3622,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Copenhagen BAKERY Pererenan",
@@ -3630,7 +3630,7 @@
   "google_place_id": "ChIJb44_iTY50i0RWftf133cVZ0",
   "rating_google": 4.6,
   "review_count_google": 469,
-  "oldest_review_date": "",
+  "oldest_review_date": "2020-02-26",
   "newest_review_date": "2026-09-27T02:18:08.365Z",
   "categories": "Coffee shop",
   "address": "Jl. Raya Tiyingtutul No.6, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
@@ -3647,7 +3647,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "MUUSE Cheesecake & Bakery",
@@ -3705,8 +3705,8 @@
   "google_place_id": "ChIJU0lp4SNH0i0R7x72tr13TmY",
   "rating_google": 4.4,
   "review_count_google": 3336,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2020-02-15",
+  "newest_review_date": "2026-09-28",
   "categories": "Bakery; Bagel shop; Breakfast restaurant; Brunch restaurant; Cafe; Coffee shop; Dessert restaurant; Lunch restaurant; Pastry shop; Restaurant",
   "address": "Jl. Raya Semat Gg. Kupu kupu No.1, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6583085,
@@ -3722,7 +3722,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Buongiorno by Sa'Mesa",
@@ -3830,8 +3830,8 @@
   "google_place_id": "ChIJNzjyIBI50i0RpFdnd_ZN3pg",
   "rating_google": 4.7,
   "review_count_google": 3399,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2019-07-14",
+  "newest_review_date": "2026-09-30",
   "categories": "Brewpub; Beer garden; Restaurant",
   "address": "Jl. Pantai Batu Bolong, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6455662,
@@ -3847,7 +3847,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "The Bench Sports Bar Canggu",
@@ -3855,8 +3855,8 @@
   "google_place_id": "ChIJ8agpt4hH0i0RY3KwEWUlH0w",
   "rating_google": 4.7,
   "review_count_google": 1566,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2020-08-02",
+  "newest_review_date": "2026-09-22",
   "categories": "Sports bar; Bar; Restaurant",
   "address": "Jl. Pantai Batu Bolong No.99, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6583043,
@@ -3872,7 +3872,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Canggu Sunset Club",
@@ -3905,8 +3905,8 @@
   "google_place_id": "ChIJe7KSn4dH0i0RsfzzpwFhwpQ",
   "rating_google": 4.7,
   "review_count_google": 1811,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-04-08",
+  "newest_review_date": "2026-09-28",
   "categories": "Restaurant; Pub; Sports bar",
   "address": "Jl. Lkr. Nelayan, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali",
   "latitude": -8.6568387,
@@ -3922,7 +3922,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Old Man's",
@@ -3980,8 +3980,8 @@
   "google_place_id": "ChIJiQdg1YdH0i0R8ANUMzZizN0",
   "rating_google": 4.3,
   "review_count_google": 4710,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-04-20",
+  "newest_review_date": "2026-09-30",
   "categories": "Bar; Restaurant",
   "address": "Jl. Pura Dalem, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.658523599999999,
@@ -3997,7 +3997,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Manhattan Cocktail Bar & Kitchen",
@@ -4005,8 +4005,8 @@
   "google_place_id": "ChIJuzPhw5s50i0R0C1ZhCEPAfA",
   "rating_google": 4.9,
   "review_count_google": 3916,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-03-13",
+  "newest_review_date": "2026-09-30",
   "categories": "Bar; Restaurant; Bar & grill; Brunch restaurant; Cocktail bar; European restaurant; Hookah bar; Live music bar; Lounge bar; Wine bar",
   "address": "Jl. Pantai Batu Bolong No.58, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6518227,
@@ -4022,7 +4022,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Little Havana Bali - Shot Bar & Cocktails",
@@ -4030,8 +4030,8 @@
   "google_place_id": "ChIJT_3MToc50i0RqzPt96xod_4",
   "rating_google": 4.9,
   "review_count_google": 1979,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-12-15",
+  "newest_review_date": "2026-09-27",
   "categories": "Bar",
   "address": "Jl. Pantai Batu Bolong No.8, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80363",
   "latitude": -8.6444457,
@@ -4047,7 +4047,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "XBR Canggu",
@@ -4080,8 +4080,8 @@
   "google_place_id": "ChIJU7W9fXY40i0RkrTCrj9WSi0",
   "rating_google": 4.3,
   "review_count_google": 1579,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-03-15",
+  "newest_review_date": "2026-09-29",
   "categories": "Bar; Restaurant",
   "address": "Jl. Pantai Batu Bolong, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.659473499999999,
@@ -4097,7 +4097,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Tap Club Canggu",
@@ -4255,8 +4255,8 @@
   "google_place_id": "ChIJ-3vRauxH0i0REoUdNGmwmbU",
   "rating_google": 4.6,
   "review_count_google": 2565,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-08-08",
+  "newest_review_date": "2026-09-30",
   "categories": "Mexican restaurant; Bar; Beer garden; Club; Cocktail bar; Disco club; Event venue; Lunch restaurant; Restaurant; Taco restaurant",
   "address": "84RJ+C58, Jl. Pantai Batu Bolong No.117X, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6589419,
@@ -4272,7 +4272,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "SUGI.CANGGU",
@@ -4280,7 +4280,7 @@
   "google_place_id": "ChIJ-RMx79I50i0RvY2JuWlLpcw",
   "rating_google": 4.9,
   "review_count_google": 470,
-  "oldest_review_date": "",
+  "oldest_review_date": "2025-06-05",
   "newest_review_date": "2026-09-28T09:36:50.119Z",
   "categories": "Coffee shop; Coffee store",
   "address": "banjar, Jl. Canggu Padang Linjong No.2a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
@@ -4297,7 +4297,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Brunchy’s",
@@ -4355,8 +4355,8 @@
   "google_place_id": "ChIJg_EuN3s40i0R6kCeRoibycg",
   "rating_google": 4.7,
   "review_count_google": 1478,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-07-02",
+  "newest_review_date": "2026-09-28",
   "categories": "Cafe; Breakfast restaurant; Brunch restaurant; Coffee shop; Lunch restaurant",
   "address": "Jl. Canggu Padang Linjong No.71a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.646092099999999,
@@ -4372,7 +4372,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Barboa Bali",
@@ -4455,8 +4455,8 @@
   "google_place_id": "ChIJOaEQDnk40i0Rzhou4NcRx-w",
   "rating_google": 4.2,
   "review_count_google": 5306,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2015-06-11",
+  "newest_review_date": "2026-09-30",
   "categories": "Cafe; Breakfast restaurant; Brunch restaurant; Gluten-free restaurant; Vegan restaurant; Vegetarian restaurant",
   "address": "Jl. Sempol No.8, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
   "latitude": -8.6408826,
@@ -4472,7 +4472,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "PARS Cafe Bali | Coffee Shop | Breakfast | Cafe Canggu",
@@ -4530,8 +4530,8 @@
   "google_place_id": "ChIJvXm2QGM40i0RMyZNDB85DyY",
   "rating_google": 4.4,
   "review_count_google": 3110,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2018-03-18",
+  "newest_review_date": "2026-09-30",
   "categories": "Brunch restaurant; Breakfast restaurant; Scandinavian restaurant",
   "address": "Jl. Padang Lingjong No.71a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6460703,
@@ -4547,7 +4547,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Lucky Plaza",
@@ -4605,8 +4605,8 @@
   "google_place_id": "ChIJtTgayDI50i0RYmWmWkh-as8",
   "rating_google": 4.7,
   "review_count_google": 3793,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-11-29",
+  "newest_review_date": "2026-10-01",
   "categories": "Restaurant",
   "address": "943H+W8F, Jl. Dalem Lingsir No.8, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
   "latitude": -8.645919,
@@ -4622,7 +4622,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Brunch Club Pererenan",
@@ -4630,8 +4630,8 @@
   "google_place_id": "ChIJkfDSHYg50i0RBdXQigmMn54",
   "rating_google": 4.9,
   "review_count_google": 3941,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-12-09",
+  "newest_review_date": "2026-10-01",
   "categories": "Restaurant; Breakfast restaurant; Brunch restaurant; Coffee shop; Dessert restaurant; Family restaurant; Lunch restaurant; Pancake restaurant; Cafe; Western restaurant",
   "address": "Jl. Pantai Pererenan No.110, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
   "latitude": -8.6458152,
@@ -4647,7 +4647,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Day by Day Coffee & Eatery",
@@ -4680,7 +4680,7 @@
   "google_place_id": "ChIJ_UHGV4U50i0RyhbzWsVMw8U",
   "rating_google": 4.4,
   "review_count_google": 426,
-  "oldest_review_date": "",
+  "oldest_review_date": "2024-09-18",
   "newest_review_date": "2026-09-29T04:11:57.482Z",
   "categories": "Restaurant; Health food restaurant",
   "address": "Jl. Pantai Pererenan No.79, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80531",
@@ -4697,7 +4697,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Genius Bistro",
@@ -4755,7 +4755,7 @@
   "google_place_id": "ChIJSbipNJw50i0RbPyT5MBC_cY",
   "rating_google": 4.7,
   "review_count_google": 419,
-  "oldest_review_date": "",
+  "oldest_review_date": "2024-10-23",
   "newest_review_date": "2026-09-27T12:51:29.112Z",
   "categories": "Italian restaurant; Bar; Cocktail bar; Pizza restaurant; Restaurant; Wine bar",
   "address": "Jl. Pantai Pererenan No.134, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
@@ -4772,7 +4772,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "K&A Grill",
@@ -4805,8 +4805,8 @@
   "google_place_id": "ChIJ7YKMNo050i0RQ5K496eTZhc",
   "rating_google": 4.9,
   "review_count_google": 1856,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2024-04-26",
+  "newest_review_date": "2026-10-01",
   "categories": "Restaurant; Breakfast restaurant; Lunch restaurant; Cafe",
   "address": "Jl. Raya Tiyingtutul No.19, Pererenan, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.632252099999999,
@@ -4822,7 +4822,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Boheme Canggu",
@@ -4955,7 +4955,7 @@
   "google_place_id": "ChIJge9C8Y050i0RdgIWtUzs-JI",
   "rating_google": 4.7,
   "review_count_google": 431,
-  "oldest_review_date": "",
+  "oldest_review_date": "2021-12-17",
   "newest_review_date": "2026-09-27T05:57:09.714Z",
   "categories": "Restaurant",
   "address": "Jl. Pantai Pererenan No.92, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80361",
@@ -4972,7 +4972,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "OPTIMIST BALI",
@@ -5305,8 +5305,8 @@
   "google_place_id": "ChIJ17C7V51E0i0RsconmJLfxK0",
   "rating_google": 4.5,
   "review_count_google": 4203,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2013-05-01",
+  "newest_review_date": "2026-09-27",
   "categories": "Seafood restaurant; Chinese restaurant",
   "address": "Jl. Bypass Ngurah Rai No.55, Jimbaran, Kec. Kuta Sel., Kabupaten Badung, Bali 80361",
   "latitude": -8.782670099999999,
@@ -5322,7 +5322,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "CATong Laksa",
@@ -5480,8 +5480,8 @@
   "google_place_id": "ChIJGR7lkJM40i0RnJBqqLxptPs",
   "rating_google": 4.3,
   "review_count_google": 1292,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2017-05-23",
+  "newest_review_date": "2026-09-30",
   "categories": "Restaurant",
   "address": "Jl. Raya Padonan No.53, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6371143,
@@ -5497,7 +5497,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Fortuna Resto",
@@ -5605,8 +5605,8 @@
   "google_place_id": "ChIJGcWM4D050i0R3Cm4V8jRj0U",
   "rating_google": 4.9,
   "review_count_google": 3068,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-04-22",
+  "newest_review_date": "2026-09-30",
   "categories": "Asian fusion restaurant; Asian restaurant; Cocktail bar; Restaurant",
   "address": "Jl. Munduk Catu No.9, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6536226,
@@ -5622,7 +5622,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Warung Ganda Sari",
@@ -5655,7 +5655,7 @@
   "google_place_id": "ChIJrSa663w50i0RgqlKqR0OrEw",
   "rating_google": 4.9,
   "review_count_google": 396,
-  "oldest_review_date": "",
+  "oldest_review_date": "2025-12-21",
   "newest_review_date": "2026-09-19T11:04:47.068Z",
   "categories": "Chinese restaurant",
   "address": "Jl. Raya Canggu No.100, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80361",
@@ -5672,7 +5672,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "BURN&BONE",
@@ -6080,8 +6080,8 @@
   "google_place_id": "ChIJRRjx2YU50i0RJFOt0q_OrhA",
   "rating_google": 4.8,
   "review_count_google": 1902,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-07-13",
+  "newest_review_date": "2026-10-01",
   "categories": "Health food restaurant; Bar; Breakfast restaurant; Brunch restaurant; Cocktail bar; Restaurant",
   "address": "Jl. Pantai Batu Bolong No.94, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6556573,
@@ -6097,7 +6097,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Feel Food Cafe",
@@ -6155,8 +6155,8 @@
   "google_place_id": "ChIJwVQNUZU50i0RPESrmvSu12w",
   "rating_google": 4.7,
   "review_count_google": 3089,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-08-14",
+  "newest_review_date": "2026-10-01",
   "categories": "Barbecue restaurant; Grill; Bar; Bar & grill; Beer garden; Cocktail bar; Event venue; Family restaurant; Restaurant; Steak house",
   "address": "Echo Beach, Jl. Pantai Batu Mejan Indonesia No.69, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6519956,
@@ -6172,7 +6172,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Nostimo Greek Grill Canggu",
@@ -6205,8 +6205,8 @@
   "google_place_id": "ChIJBWxfWhA50i0Rzb3CWOIu8tA",
   "rating_google": 4.4,
   "review_count_google": 2409,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2018-09-14",
+  "newest_review_date": "2026-09-28",
   "categories": "Mediterranean restaurant; Australian restaurant; Bar; Bar & grill; Cocktail bar; European restaurant; Lunch restaurant; Restaurant; Wine bar",
   "address": "Jl. Pantai Batu Bolong No.39a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.653956599999999,
@@ -6222,7 +6222,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "BARE Grill Restaurant",
@@ -6280,8 +6280,8 @@
   "google_place_id": "ChIJ-6kLl6Y50i0R7_yhw09qxmU",
   "rating_google": 4.9,
   "review_count_google": 2736,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2024-02-26",
+  "newest_review_date": "2026-10-01",
   "categories": "Seafood restaurant; Grill; Asian restaurant; Bar; Bar & grill",
   "address": "Jl. Subak Canggu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.653596,
@@ -6297,7 +6297,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Han Sang Korean BBQ & SUKI - Canggu,Bali",
@@ -6430,8 +6430,8 @@
   "google_place_id": "ChIJv0jkc2850i0R9ZxYpdXLM2w",
   "rating_google": 4.9,
   "review_count_google": 2308,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-10-31",
+  "newest_review_date": "2026-09-30",
   "categories": "Steak house; Grill; Bar; Cocktail bar; Family restaurant; Hookah bar; Lounge bar; Mediterranean restaurant; Restaurant; Wine bar",
   "address": "Canggu, Kuta Utara, Badung Regency, Bali 80351",
   "latitude": -8.6338632,
@@ -6447,7 +6447,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "The Blaze Restaurant",
@@ -6480,7 +6480,7 @@
   "google_place_id": "ChIJDav7FwBH0i0R3n4ePbVpnCo",
   "rating_google": 4.7,
   "review_count_google": 463,
-  "oldest_review_date": "",
+  "oldest_review_date": "2024-02-15",
   "newest_review_date": "2026-09-30T02:37:20.616Z",
   "categories": "Restaurant; Bar",
   "address": "meter west of pura segara, Jl. Nelayan Jl raya Nelayan Beach No.1 (20, Canggu, Kuta Utara, Badung Regency, Bali 80361",
@@ -6497,7 +6497,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Nico's Smokehouse",
@@ -6555,8 +6555,8 @@
   "google_place_id": "ChIJbXTvjx450i0RFUEM8IfJu0U",
   "rating_google": 4.6,
   "review_count_google": 1616,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2018-10-06",
+  "newest_review_date": "2026-09-29",
   "categories": "Vegan restaurant",
   "address": "Jl. Tanah Barak No.49, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.651171399999999,
@@ -6572,7 +6572,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Shady Shack",
@@ -6580,8 +6580,8 @@
   "google_place_id": "ChIJH6Xg6nk40i0RkpnxaV9yCWs",
   "rating_google": 4.5,
   "review_count_google": 2834,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-04-17",
+  "newest_review_date": "2026-10-01",
   "categories": "Vegan restaurant; Vegetarian restaurant; Vegetarian cafe and deli",
   "address": "Jl. Tanah Barak No.53, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6515165,
@@ -6597,7 +6597,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "OMA JAMU VEGAN",
@@ -6605,7 +6605,7 @@
   "google_place_id": "ChIJB5wTk4k40i0Ra7yNSj6CtWI",
   "rating_google": 4.6,
   "review_count_google": 492,
-  "oldest_review_date": "",
+  "oldest_review_date": "2016-07-28",
   "newest_review_date": "2026-09-22T03:24:56.071Z",
   "categories": "Vegan restaurant; Coffee shop",
   "address": "945V+Q92, Canggu, Kuta Utara, Badung Regency, Bali 80351",
@@ -6622,7 +6622,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Kasto Italian Restaurant",
@@ -6655,8 +6655,8 @@
   "google_place_id": "ChIJ7auEL8050i0R8KBc7ssMzys",
   "rating_google": 4.8,
   "review_count_google": 1538,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-09-16",
+  "newest_review_date": "2026-09-30",
   "categories": "Vegan restaurant; Asian restaurant; Brunch restaurant; Coffee shop; Diner; Health food restaurant; Karaoke bar; Lunch restaurant; Korean restaurant",
   "address": "80361, Jl. Padang Lingjong No.61, Canggu, Kuta Utara, Badung Regency, Bali 80361",
   "latitude": -8.6455606,
@@ -6672,7 +6672,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Roots",
@@ -6705,8 +6705,8 @@
   "google_place_id": "ChIJpVHyY3RH0i0RnKcfxgLUYgw",
   "rating_google": 4.7,
   "review_count_google": 1680,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-02-27",
+  "newest_review_date": "2026-10-01",
   "categories": "Vegan restaurant; Breakfast restaurant; Brunch restaurant; Cafe; Family restaurant; Health food restaurant; Lunch restaurant; Restaurant; Vegetarian restaurant",
   "address": "Jl. Nelayan No.31, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6575243,
@@ -6722,7 +6722,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Alkaline Vegan Restaurant",
@@ -6905,7 +6905,7 @@
   "google_place_id": "ChIJhYe90IdH0i0R3qavUpKXm_Q",
   "rating_google": 4.8,
   "review_count_google": 430,
-  "oldest_review_date": "",
+  "oldest_review_date": "2015-09-27",
   "newest_review_date": "2026-09-26T13:30:06.850Z",
   "categories": "Indonesian restaurant",
   "address": "Canggu Beach •, Jl. Pantai Batu Bolong, •, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali",
@@ -6922,7 +6922,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Pali",
@@ -6980,7 +6980,7 @@
   "google_place_id": "ChIJMYrvV3450i0Rbo-LGwo4NnY",
   "rating_google": 4.9,
   "review_count_google": 411,
-  "oldest_review_date": "",
+  "oldest_review_date": "2024-09-13",
   "newest_review_date": "2026-09-26T03:13:20.062Z",
   "categories": "Italian restaurant; Caterer; Restaurant",
   "address": "Jl. Canggu Padang Linjong No.55a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
@@ -6997,7 +6997,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Numero Quattro Echo Beach",
@@ -7105,8 +7105,8 @@
   "google_place_id": "ChIJcUMGPilH0i0Ra3m-JH69Mj8",
   "rating_google": 4.7,
   "review_count_google": 1670,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2020-03-15",
+  "newest_review_date": "2026-09-10",
   "categories": "Italian restaurant; Bar & grill; Cocktail bar; Jazz club; Live music venue; Pizza delivery; Pizza restaurant; Pizza takeaway",
   "address": "Jl. Raya Semat, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6571511,
@@ -7122,7 +7122,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Anita's",
@@ -7155,8 +7155,8 @@
   "google_place_id": "ChIJXwj_dSVH0i0RDr6dUZ2UetI",
   "rating_google": 4.8,
   "review_count_google": 3374,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2024-01-30",
+  "newest_review_date": "2026-10-01",
   "categories": "Italian restaurant; Breakfast restaurant; Cocktail bar; Indonesian restaurant; Meat dish restaurant; Pizza delivery; Pizza restaurant; Pizza takeaway; Vegan restaurant; Wine bar",
   "address": "Jl. Pantai Berawa No.99, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.660264,
@@ -7172,7 +7172,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "De Morelos Mexicana",
@@ -7180,8 +7180,8 @@
   "google_place_id": "ChIJaRO-cjI50i0RM8kmkqT2-bk",
   "rating_google": 4.9,
   "review_count_google": 1122,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2025-01-17",
+  "newest_review_date": "2026-09-30",
   "categories": "Mexican restaurant",
   "address": "Jl. Nelayan, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6525812,
@@ -7197,7 +7197,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Lola’s Cantina Mexicana - Canggu",
@@ -7205,8 +7205,8 @@
   "google_place_id": "ChIJBQSQKQU50i0RG6JQ5aCmNDY",
   "rating_google": 4.2,
   "review_count_google": 2161,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2018-12-29",
+  "newest_review_date": "2026-09-30",
   "categories": "Mexican restaurant; Bar; Tex-Mex restaurant",
   "address": "Canggu Shortcut, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.653447,
@@ -7222,7 +7222,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Lupine - Mexican Bistro",
@@ -7255,8 +7255,8 @@
   "google_place_id": "ChIJPZo4Unk40i0RxI_FwqiKsWQ",
   "rating_google": 4.4,
   "review_count_google": 1441,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-01-28",
+  "newest_review_date": "2026-09-27",
   "categories": "Mexican restaurant; Cocktail bar",
   "address": "Jl. Pantai Batu Bolong No.68, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6556324,
@@ -7272,7 +7272,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Taco Casa",
@@ -7280,8 +7280,8 @@
   "google_place_id": "ChIJRS1M53k40i0RpqdKtGqgy2E",
   "rating_google": 4.6,
   "review_count_google": 1534,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2016-01-22",
+  "newest_review_date": "2026-09-18",
   "categories": "Mexican restaurant; Burrito restaurant; Taco restaurant; Tex-Mex restaurant",
   "address": "Jl. Batu Mejan Canggu, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.652211399999999,
@@ -7297,7 +7297,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Don Juan Mexican Restaurant and Bar - Pererenan",
@@ -7330,8 +7330,8 @@
   "google_place_id": "ChIJ01Thy-lH0i0RyBL4J0w99jE",
   "rating_google": 4.8,
   "review_count_google": 1128,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-12-31",
+  "newest_review_date": "2026-09-30",
   "categories": "Mexican restaurant; Taco restaurant",
   "address": "Gg. Nyepi No.22, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.653283,
@@ -7347,7 +7347,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Taco Madre",
@@ -7380,7 +7380,7 @@
   "google_place_id": "ChIJF4nW6PU50i0Rt7lywpsbQsM",
   "rating_google": 4.7,
   "review_count_google": 433,
-  "oldest_review_date": "",
+  "oldest_review_date": "2024-07-29",
   "newest_review_date": "2026-09-04T13:55:42.894Z",
   "categories": "Mexican restaurant; Breakfast restaurant; Brunch restaurant; Burrito restaurant; Fast food restaurant; Lunch restaurant; Restaurant; Taco restaurant",
   "address": "Teratai The Promenade Shop, Jl. Kayu Tulang No.S15, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
@@ -7397,7 +7397,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Jalapeno",
@@ -7405,8 +7405,8 @@
   "google_place_id": "ChIJaYd1LJI50i0RT9Bro17JpCw",
   "rating_google": 4.8,
   "review_count_google": 1114,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-10-17",
+  "newest_review_date": "2026-09-25",
   "categories": "Restaurant",
   "address": "Jl. Raya Semat Gg. Anggur No.1, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.658645,
@@ -7422,7 +7422,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "De Morelos Mexicana - SESEH",
@@ -7455,8 +7455,8 @@
   "google_place_id": "ChIJwfwFMNs50i0R3WE3JXZGwMY",
   "rating_google": 4.7,
   "review_count_google": 1379,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2024-02-14",
+  "newest_review_date": "2026-09-30",
   "categories": "Mexican restaurant",
   "address": "Jl. Pantai Pererenan No.123, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
   "latitude": -8.6490204,
@@ -7472,7 +7472,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "VIVA BURRITOS&FISH TACOS FRESH MEXICAN FOOD",
@@ -7655,8 +7655,8 @@
   "google_place_id": "ChIJ5Wex6mc50i0RNSHWdVKVoPo",
   "rating_google": 4.7,
   "review_count_google": 1280,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-04-21",
+  "newest_review_date": "2026-09-30",
   "categories": "Seafood restaurant; Bar; Breakfast restaurant; Brunch restaurant; Cafe; Cocktail bar; Lunch restaurant; Mediterranean restaurant; Restaurant",
   "address": "Jalan Pantai Pererenan no. 171, Pererenan Beach, Jl. Pantai Pererenan, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80361",
   "latitude": -8.651865599999999,
@@ -7672,7 +7672,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Bird's Nest Thai Kitchen Canggu ( เบริดเน็ตไทยคิตเช่น จางกู )",
@@ -7680,7 +7680,7 @@
   "google_place_id": "ChIJn9Y0HBk50i0RvFFVJtGPVzs",
   "rating_google": 4.8,
   "review_count_google": 414,
-  "oldest_review_date": "",
+  "oldest_review_date": "2024-09-16",
   "newest_review_date": "2026-09-30T22:38:07.476Z",
   "categories": "Restaurant",
   "address": "Jl. Sempol No.58, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351",
@@ -7697,7 +7697,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Gente Seafood Restaurant",
@@ -7755,8 +7755,8 @@
   "google_place_id": "ChIJf9EemBs50i0RnYVtGjeDy3I",
   "rating_google": 4.5,
   "review_count_google": 2391,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-11-23",
+  "newest_review_date": "2026-09-29",
   "categories": "Vietnamese restaurant; Noodle shop",
   "address": "Jl. Pantai Batu Mejan, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6380248,
@@ -7772,7 +7772,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Miss Fish Bali",
@@ -7780,8 +7780,8 @@
   "google_place_id": "ChIJYcKvqiJH0i0RtzWDiRmCnI0",
   "rating_google": 4.7,
   "review_count_google": 2072,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-09-11",
+  "newest_review_date": "2026-09-29",
   "categories": "Japanese restaurant; Bar; Lounge bar; Night club; Sushi restaurant",
   "address": "Jl. Raya Semat No.4, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6587757,
@@ -7797,7 +7797,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Alpha Agro Indonesia - Premium Butchery & Steak Restaurant",
@@ -7930,8 +7930,8 @@
   "google_place_id": "ChIJe7cwB3Y50i0R6QnXmgTv0RY",
   "rating_google": 4.7,
   "review_count_google": 2762,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2020-01-28",
+  "newest_review_date": "2026-09-29",
   "categories": "Steak house; Restaurant",
   "address": "Jl. Raya Bumbak No.44, Kerobokan, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6520568,
@@ -7947,7 +7947,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Boy'N'Cow",
@@ -7980,8 +7980,8 @@
   "google_place_id": "ChIJGzXy02xH0i0RUkZihCsYY5E",
   "rating_google": 4.6,
   "review_count_google": 2124,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2015-09-02",
+  "newest_review_date": "2026-09-28",
   "categories": "Steak house; Australian restaurant; Hamburger restaurant; Japanese steakhouse; Korean beef restaurant",
   "address": "Jl. Petitenget Jl. Cendrawasih No.1, Kerobokan, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6740882,
@@ -7997,7 +7997,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Uma Garden Bali",
@@ -8005,8 +8005,8 @@
   "google_place_id": "ChIJXxe2rXNH0i0Rnt_qeoqnQcc",
   "rating_google": 4.7,
   "review_count_google": 1766,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2021-01-04",
+  "newest_review_date": "2026-09-30",
   "categories": "Steak house; Grill; Bar; Barbecue restaurant; Cocktail bar; Fine dining restaurant; Live music venue; Lunch restaurant; Meat dish restaurant; Restaurant",
   "address": "Jl. Umalas 1 No.8, Kerobokan Kelod, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6702886,
@@ -8022,7 +8022,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Steak nelayan n Bali coffee",
@@ -8230,7 +8230,7 @@
   "google_place_id": "ChIJKy6Scbo50i0R0xZPvg0V4fk",
   "rating_google": 4.9,
   "review_count_google": 386,
-  "oldest_review_date": "",
+  "oldest_review_date": "2024-08-04",
   "newest_review_date": "2026-09-30T03:55:38.367Z",
   "categories": "Coffee shop",
   "address": "Jl. Nelayan No.1, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
@@ -8247,7 +8247,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "HANAKA COFFEE CANGGU",
@@ -8380,7 +8380,7 @@
   "google_place_id": "ChIJ6zwGRmI40i0RLxkbkMoJasg",
   "rating_google": 4.6,
   "review_count_google": 496,
-  "oldest_review_date": "",
+  "oldest_review_date": "2017-05-11",
   "newest_review_date": "2026-09-27T01:18:15.787Z",
   "categories": "Organic food store; Delivery service; Grocery delivery service; Health food store; Natural goods store; Vitamin & supplements store",
   "address": "Jl. Canggu Padang Linjong No.14a, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
@@ -8397,7 +8397,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Bali Tropical Juice Bar",
@@ -8630,8 +8630,8 @@
   "google_place_id": "ChIJFay1BbM50i0RLOYPPnFgc2k",
   "rating_google": 4.9,
   "review_count_google": 3720,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-04-27",
+  "newest_review_date": "2026-09-30",
   "categories": "Cafe",
   "address": "Jl. Raya Babakan Canggu No.14, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6311548,
@@ -8647,7 +8647,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "bandeja restaurant bali",
@@ -9130,7 +9130,7 @@
   "google_place_id": "ChIJufmu9t850i0RMgektIsdQ8A",
   "rating_google": 4.8,
   "review_count_google": 395,
-  "oldest_review_date": "",
+  "oldest_review_date": "2024-10-15",
   "newest_review_date": "2026-09-28T01:28:06.673Z",
   "categories": "Thai restaurant",
   "address": "942X+459, Jl. Karang Suwung, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Tibubeneng, Kec. Kuta Utara, Bali, 80361",
@@ -9147,7 +9147,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Thai Kitchen by Madam Dall",
@@ -9230,7 +9230,7 @@
   "google_place_id": "ChIJYdZ4ZXg50i0RD_z0MCPZsfU",
   "rating_google": 4.4,
   "review_count_google": 422,
-  "oldest_review_date": "",
+  "oldest_review_date": "2021-04-21",
   "newest_review_date": "2026-09-29T13:30:44.418Z",
   "categories": "Ramen restaurant",
   "address": "Jl. Pantai Batu Bolong, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
@@ -9247,7 +9247,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Tema Doma",
@@ -9280,8 +9280,8 @@
   "google_place_id": "ChIJyeIdCeQ50i0RB_EFCMF9DBo",
   "rating_google": 4.8,
   "review_count_google": 2004,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2024-06-01",
+  "newest_review_date": "2026-09-28",
   "categories": "Indian restaurant; Bistro",
   "address": "Jl. Pantai Batu Bolong No.83, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80351",
   "latitude": -8.6538237,
@@ -9297,7 +9297,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Nana Sans Tandoori Indian Restaurant Canggu",
@@ -9305,7 +9305,7 @@
   "google_place_id": "ChIJgzmDpJA50i0RVATXjKQeN7E",
   "rating_google": 4.7,
   "review_count_google": 457,
-  "oldest_review_date": "",
+  "oldest_review_date": "2023-09-04",
   "newest_review_date": "2026-09-27T12:22:24.875Z",
   "categories": "Indian restaurant; Indian sizzler restaurant; Indian takeaway; Modern Indian restaurant",
   "address": "Jl. Raya Canggu, Tibubeneng, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
@@ -9322,7 +9322,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Jashn – Indian Grill & Bar by Mumbai Spice",
@@ -9555,8 +9555,8 @@
   "google_place_id": "ChIJA14L2LA50i0RDsMKeQFlZGA",
   "rating_google": 5,
   "review_count_google": 3139,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2023-07-06",
+  "newest_review_date": "2026-09-17",
   "categories": "Indian restaurant; Asian restaurant; Fusion restaurant; Restaurant; Italian restaurant; Mexican restaurant",
   "address": "Jl. Pantai Berawa No.99x, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.666338999999999,
@@ -9572,7 +9572,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Red Gunpowder",
@@ -9605,7 +9605,7 @@
   "google_place_id": "ChIJmyxXpwY50i0RJxQJpLIB7D8",
   "rating_google": 4.4,
   "review_count_google": 487,
-  "oldest_review_date": "",
+  "oldest_review_date": "2020-07-05",
   "newest_review_date": "2026-09-28T14:53:18.572Z",
   "categories": "Indian restaurant",
   "address": "Jl. Sahadewa I, Munggu, Kec. Mengwi, Kabupaten Badung, Bali 80351",
@@ -9622,7 +9622,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Chai Stop Bali",
@@ -9655,8 +9655,8 @@
   "google_place_id": "ChIJG-EFjAM50i0RgHgLDx8p1V4",
   "rating_google": 4.8,
   "review_count_google": 3209,
-  "oldest_review_date": "",
-  "newest_review_date": "",
+  "oldest_review_date": "2022-08-16",
+  "newest_review_date": "2026-09-30",
   "categories": "Family restaurant; Bar & grill; Event venue; Indonesian restaurant; Western restaurant",
   "address": "Jl. Munduk Catu No.8A, Canggu, Kec. Kuta Utara, Kabupaten Badung, Bali 80361",
   "latitude": -8.6530431,
@@ -9672,7 +9672,7 @@
   "gofood_url": "",
   "grabfood_url": "",
   "match_confidence": "",
-  "data_notes": "oldest_review_date not available"
+  "data_notes": ""
  },
  {
   "name": "Baliberry Açaí, Chocolate Crepes & Waffles in Canggu",
