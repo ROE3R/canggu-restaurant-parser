@@ -27,9 +27,13 @@ loads each detail page. `scraper/grab_detail_sweep.py` iterates the 81 sitemap U
 captures the `GET /foodweb/guest/v2/merchants/{id}` response (200, header `x-hydra-jwt`).
 Result: 80/81 detail OK — fresh rating + voteCount + announcement fields. Grab exposes no
 phone or coordinates in any public response, so contact/geo fields for Grab stay honestly
-empty. Ads badge: no ads/sponsored field exists in any accessible Grab response —
-`grab_promo` records merchant discount promos only (not an ads badge), marked unavailable
-for true ads. Note: essentially all Grab merchants carry default discount promos (e.g.
+empty. Ads badge: Grab has no ads/sponsored field in any API response. We detect **paid
+placement** instead: a 24-query search sweep (`scraper/grab_search_sweep.py`, Playwright
+guest) captures cards carrying the explicit **"Preferred Merchant"** label — a Grab
+program giving merchants boosted top placement (fulfillment + visibility program, not
+per-click ads). 10 Canggu-area merchants carry the label; recorded as `grab_ads=yes`.
+`grab_promo` separately records merchant discount promos (weak signal — nearly all
+merchants carry default promos), honestly labelled promo, never presented as advertising. Note: essentially all Grab merchants carry default discount promos (e.g.
 "Diskon 50%"), so promo presence is a weak signal — recorded verbatim, honestly labelled
 promo, never presented as advertising.
 
