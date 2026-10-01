@@ -41,9 +41,9 @@ def login_request(phone, ltype="otp_whatsapp"):
                       headers=headers(), json=body, timeout=30)
     return r
 
-def verify_otp(phone, otp, ref):
+def verify_otp(phone, otp, ref, ltype="otp_sms"):
     body = {"client_id": CLIENT_ID, "client_secret": CLIENT_SECRET,
-            "country_code": "+62", "login_type": "otp_whatsapp",
+            "country_code": "+62", "login_type": ltype,
             "otp": otp, "phone_number": phone, "ref": ref}
     r = requests.post("https://goid.gojekapi.com/goid/token",
                       headers=headers(), json=body, timeout=30)
@@ -54,12 +54,15 @@ def main():
     print("GOFOOD TOKEN VIA GOID LOGIN (dari HP sendiri)")
     print("=" * 50)
     phone = input("Nomor HP kamu (contoh 81234567890, tanpa +62): ").strip().replace("+62", "")
-    print("\nMinta OTP WhatsApp ke +62" + phone + " ...")
-    r = login_request(phone)
+    ch = input("Kirim OTP via? [1] WhatsApp  [2] SMS (pilih 1/2, default 2): ").strip()
+    ltype = "otp_whatsapp" if ch == "1" else "otp_sms"
+    print("\nMinta OTP (%s) ke +62%s ..." % ("WhatsApp" if ltype=="otp_whatsapp" else "SMS", phone))
+    r = login_request(phone, ltype)
     print("HTTP", r.status_code)
-    if r.status_code == 429:
+    if r.status_code == 429 and ltype == "otp_whatsapp":
         print("WhatsApp OTP diblok, coba SMS ...")
-        r = login_request(phone, "otp_sms")
+        ltype = "otp_sms"
+        r = login_request(phone, ltype)
         print("HTTP", r.status_code)
     try:
         j = r.json()
@@ -75,7 +78,7 @@ def main():
         return
     otp = input("\nKetik OTP dari WhatsApp: ").strip()
     print("Verifikasi OTP ...")
-    r2 = verify_otp(phone, otp, ref)
+    r2 = verify_otp(phone, otp, ref, ltype)
     try:
         j2 = r2.json()
     except Exception:
