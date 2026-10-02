@@ -70,13 +70,13 @@ def main():
         print(r.text[:300]); return
     if r.status_code == 200 and j.get("success"):
         ref = (j.get("data") or {}).get("ref") or j.get("data", {}).get("oauth_token_ref") or ""
-        print("OTP terkirim ke WhatsApp kamu. Cek WA!")
+        print("OTP terkirim via %s. Cek %s kamu!" % (("WhatsApp","WhatsApp") if ltype=="otp_whatsapp" else ("SMS","SMS")))
     else:
         print("GAGAL minta OTP:")
         print(json.dumps(j, indent=1, ensure_ascii=False)[:500])
         print("\nArtinya HP ini juga diblok. Screenshot error ini & kirim.")
         return
-    otp = input("\nKetik OTP dari WhatsApp: ").strip()
+    otp = input("\nKetik OTP dari %s: " % ("WhatsApp" if ltype=="otp_whatsapp" else "SMS")).strip()
     print("Verifikasi OTP ...")
     r2 = verify_otp(phone, otp, ref, ltype)
     try:
