@@ -218,3 +218,12 @@ Tidak ada nilai yang diperkirakan atau dikarang.
   signature app-internal; portal diblok CloudFront). Tersedia: grab_rating + grab_votes.
 - Retry 154 URL GoFood gagal = terverifikasi resto TUTUP (404) — bukan kegagalan scrape.
 - oldest_review_date tetap didefinisikan sebagai field Google Maps (spec koreksi 2026-10-02).
+
+
+### v34.1 — Grab age proxy (2026-10-02)
+Review text/dates Grab tertutup (SDK partner resmi tanpa endpoint review; komunitas scraper
+juga tidak ada yang punya). PROXY SAH: ID resto Grab "6-Cxxxxx" = sequential per pendaftaran.
+Korelasi monotone terverifikasi dgn votes (C2 median 582 → C8 median 13).
+Kolom: grab_age_rank (1=tertua..6=terbaru), grab_age_bucket, grab_age_percentile (0-100,
+global). Batas: ini umur REGISTRASI resto di Grab, bukan tanggal review pertama — dilaporkan
+apa adanya.
