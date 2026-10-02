@@ -203,3 +203,18 @@ Kolom `contacts_review_text` + `owner_reply_count` mencatat asalnya.
 449 `grabfood_url`, 401 `google_maps_url`. Folder `output/grab/` menyimpan versi
 per-platform sebagai cadangan. Kolom kosong **selalu** punya alasan di `data_notes`.
 Tidak ada nilai yang diperkirakan atau dikarang.
+
+
+## ADDENDUM v34 (2026-10-02) — GoFood LIVE + Reviews
+- GoFood rating/votes live 2026 via BD Web Unlocker (render:true), URL /id/ (bukan /en/).
+- REVIEW TEXT & DATES GoFood TERBUKA: endpoint web `gofood.co.id/api/outlets/{uid}/reviews-overview`
+  + Bearer SSO token (dari device pemilik akun, diizinkan). Window API = review terbaru
+  (~10-20 terbaru/halaman; window bervariasi per resto, bisa sampai 2022).
+  Kolom: gofood_review_count_window, gofood_review_newest, gofood_review_oldest_window,
+  gofood_review_sample. True first-review date sejak resto buka TIDAK diekspos API —
+  dilaporkan apa adanya.
+- gofood_since (createTime outlet) = tanggal resto gabung GoFood.
+- Grab review text/dates: tetap CLOSED (portal web tidak ekspos; api.grab.com menuntut
+  signature app-internal; portal diblok CloudFront). Tersedia: grab_rating + grab_votes.
+- Retry 154 URL GoFood gagal = terverifikasi resto TUTUP (404) — bukan kegagalan scrape.
+- oldest_review_date tetap didefinisikan sebagai field Google Maps (spec koreksi 2026-10-02).

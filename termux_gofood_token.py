@@ -20,8 +20,8 @@ UNIQ = uuid.uuid4().hex[:16]
 def headers():
     return {
         "x-appid": "com.gojek.app",
-        "x-appversion": "5.20.1",
-        "x-deviceos": "Android,14",
+        "x-appversion": "5.62.2",
+        "x-deviceos": "Android,15",
         "x-phonemake": "Samsung",
         "x-phonemodel": "SM-S918B",
         "x-platform": "Android",
@@ -30,7 +30,7 @@ def headers():
         "x-user-type": "customer",
         "Accept": "application/json",
         "Content-Type": "application/json",
-        "User-Agent": "okhttp/4.11.0",
+        "User-Agent": "okhttp/4.12.0",
     }
 
 def login_request(phone, ltype="otp_whatsapp"):
