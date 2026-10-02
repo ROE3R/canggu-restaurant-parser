@@ -49,3 +49,12 @@ Notably: Grab does not expose per-restaurant review text or dates on any
 public surface (including its partner API) — we document this instead of
 faking it. Everything here comes from public pages; no accounts, no
 private endpoints.
+
+## Repo structure
+
+```
+pipeline.py              main entry point (ratings / reviews / build)
+scraper/                 per-platform collectors (Maps, Grab, GoFood contacts/ads/ages)
+output/                  targets.json + canggu_restaurants.csv + JSONL progress files
+docs/METHODOLOGY.md      sources, field notes, limitations
+```
