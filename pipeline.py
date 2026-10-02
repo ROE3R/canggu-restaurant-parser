@@ -117,13 +117,15 @@ def cmd_gofood_ratings():
         uid = gofood_uid(url)
         html = bd_fetch(url)
         outlet = parse_next_data(html) if html else None
-        if outlet and outlet.get("core"):
-            core = outlet["core"]
+        if outlet:
+            core = outlet.get("core") or {}
+            rtg = outlet.get("ratings") or {}
+            since = (core.get("createTime") or "")[:10] or None
             rec = {"uid": uid, "url": url, "ok": True,
                    "name": core.get("displayName"),
-                   "rating": (core.get("ratings") or {}).get("average"),
-                   "votes": (core.get("ratings") or {}).get("total"),
-                   "since": (core.get("createTime") or "")[:10] or None}
+                   "rating": rtg.get("average"),
+                   "votes": rtg.get("total"),
+                   "since": since}
         else:
             rec = {"uid": uid, "url": url, "ok": False, "error": "closed_or_fail"}
         append_jsonl(out, rec)
@@ -140,6 +142,13 @@ def cmd_gofood_reviews():
     print(f"GoFood reviews: {len(todo)} to fetch ({len(done)} already done)")
     headers = {"Authorization": f"Bearer {GOJEK_TOKEN}", "Accept": "application/json",
                "User-Agent": "Mozilla/5.0 (Linux; Android 13) Chrome/120 Mobile"}
+    # validate the token once before spending requests on every target
+    probe = bd_fetch(f"https://gofood.co.id/api/outlets/{gofood_uid(todo[0])}/reviews-overview",
+                     extra_headers=headers, render=False)
+    try:
+        json.loads(probe or "")
+    except json.JSONDecodeError:
+        sys.exit("GOJEK_SSO_TOKEN rejected (empty/HTML response) — renew the token first.")
     for i, url in enumerate(todo):
         uid = gofood_uid(url)
         text = bd_fetch(f"https://gofood.co.id/api/outlets/{uid}/reviews-overview",
