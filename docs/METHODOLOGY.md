@@ -227,3 +227,20 @@ Korelasi monotone terverifikasi dgn votes (C2 median 582 → C8 median 13).
 Kolom: grab_age_rank (1=tertua..6=terbaru), grab_age_bucket, grab_age_percentile (0-100,
 global). Batas: ini umur REGISTRASI resto di Grab, bukan tanggal review pertama — dilaporkan
 apa adanya.
+
+
+### v35 (2026-10-03) — Grab bulk sweep + badge columns clarified
+- Grab session cookies (user's own logged-in browser session) opened the bulk category
+  endpoint (32-46 merchants/request): grab_rating 592→760, grab_votes 762, grab_status 731.
+- Column audit vs the approved v34 snapshot restored 260 GoFood values lost in an earlier
+  merge and fixed grab_ads (had been wrongly filled from promo flags; restored to the
+  real "Preferred Merchant" sweep: yes 118 / no 640).
+- gofood_maf dropped (duplicate); gofood_badges renamed gofood_assured
+  (Merchant Assured quality badge — not ads): yes 282 / no 141.
+- GoFood ads badge: PROVEN absent from the entire GoFood web codebase
+  (search page, listing page, and the 1.5 MB app bundle contain zero
+  isAd/sponsored/promoted references). The "Ad" label exists only in the mobile app
+  feed, rendered from an authenticated Gojek internal API. Not obtainable from public
+  web data — column intentionally not fabricated.
+- Grab review text/dates remain closed (web never loads reviews; api.grab.com requires
+  the app-internal request signature). grab_age_rank remains the honest proxy.
