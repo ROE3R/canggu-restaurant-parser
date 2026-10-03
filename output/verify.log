@@ -1,0 +1,425 @@
+verify: 423 targets
+[1] SILK RESTAURANT Canggu -> Wings, Canggu
+[2] Alchemy Canggu -> Warung Local - Indonesian Food, Pantai Batu Bolong
+[3] Beach Boy Canggu -> Milk & Madu Beach Road, Batu Bolong
+[4] Cantina Classe Italian Restaurant C -> HoiAn By Mevui, Canggu
+[5] 12 Urban Cafe - Breakfast & Dinner  -> Pizza Fabbrica, Canggu
+[6] KHAO Canggu -> Bali Coffee Club Canggu, Kubu Manyar
+[6] Twin Tide Eatery -> Milk & Madu Beach Road, Batu Bolong
+[7] Rice Republic Canggu -> errorCode 404
+[8] 12 Kitchen and Wine / Restaurant &  -> Mowies Berawa, Canggu
+[9] Dolan Restaurant & Park -> errorCode 404
+[10] La Baracca -> The Common, Canggu
+[10] Dian Cafe -> errorCode 404
+[10] Lulu Bistrot French Restaurant Cock -> Milk & Madu Beach Road, Batu Bolong
+[10] Te'amo -> no_data
+[11] Sa'Mesa Canggu -> Dop Ice Cream, Dessert Bar, Pantai Batu Mejan
+[11] Warung Local -> Warung Local - Indonesian Food, Pantai Batu Bolong
+[12] Watercress Berawa -> Papa Sauce, Berawa
+[12] Milk & Madu Beach Road -> Milk & Madu Beach Road, Batu Bolong
+[12] The Avocado Factory -> The Common, Canggu
+[12] nüde cafe Berawa -> Mowies Berawa, Canggu
+[13] Milk & Madu Berawa -> Milk & Madu, Pantai Berawa
+[13] Kometosake Berawa -> Milk & Madu, Pantai Berawa
+[14] Warung Nasi Babi Guling Men Agus -> Nasi Babi Guling Men Lari, Canggu
+[15] Tony's New York Pizza Canggu -> no_data
+[16] Mowies Bali -> Haloniko Bali, Pantai Berawa
+[16] MILU By Nook -> no_data
+[17] L'Osteria Pizza e Cucina Canggu -> L'Osteria Pizza Canggu, Jl. Pemelisan Agung
+[17] Pizza Fabbrica - Canggu -> Pizza Fabbrica, Canggu
+[18] PARS Cafe Bali | Coffee Shop | Brea -> errorCode 404
+[19] WOODS PERERENAN -> Woods, Pererenan
+[19] MONSTA Pizza, Wings & Beer -> Wings, Canggu
+[19] HoiAn by MeVui -> HoiAn By Mevui, Canggu
+[20] Uma Garden Bali -> errorCode 404
+[21] The Meat Emporium -> Sinamon Bali, Umalas
+[22] Steak nelayan n Bali coffee -> errorCode 404
+[22] Papa Sauce - Tibubeneng -> Papa Sauce, Berawa
+[22] Bali Coffee Club Canggu -> Bali Coffee Club Canggu, Kubu Manyar
+[23] Babi Guling Swari - Canggu -> Babi Guling Swari, Canggu
+[24] BOSSMAN Burgers (Canggu) -> BOSSMAN Burgers, Canggu
+[25] MILK UP! DAIRY & DELI (Kerobokan) -> MILK UP! DAIRY & DELI, Kerobokan
+[26] Susu Kambing Segar -> errorCode 404
+[27] Azoria (Batu Mejan) -> Azoria, Canggu
+[28] Ettore Gelato (Pantai Pererenan) -> Ettore Gelato, Pantai Pererenan
+[29] The Bluejay Cafe (Jl Mertasari 31 K -> The Bluejay Cafe, Jl Mertasari 31 Kerobokan
+[30] Lawar Kuwir Men Koko (Canggu) -> Lawar Kuwir Men Koko, Canggu
+[31] Urbestea (Pantai Berawa) -> Urbestea, Bubble Tea, Smoothies, Bima Sena
+[32] Pels (Peloton) Supershop (Canggu) -> errorCode 404
+[33] Two Face / Coffee & Brunch (Canggu) -> Two Face / Coffee & Brunch, Canggu
+[34] DiUber Milkshake Duren (Babakan Sar -> Diuber Milkshake Duren, Sarijadi Bdg
+[35] Home Cafe Canggu -> Home Cafe Canggu Delivery, Jl. Canggu Permai No 1b
+[36] Soma (Canggu Raya) -> Soma Cafe - Health and Fitness Food, Canggu
+[37] Gerai Nelayan 2M (Mentarau) -> Gerai Nelayan 2M, Mentarau
+[38] Waroeng Lengko (Babakan Ciparay,) -> Waroeng Lengko, Babakan Ciparay,
+[39] Samadi Kitchen (Padang Linjong) -> Samadi Bali, Padang Linjong
+[40] Resep Coffee (Babakan) -> Resep Coffee, Babakan
+[41] Pasta Nafisa (Babakan Ciamis) -> Pasta Nafisa, Babakan Ciamis
+[42] Mie Goreng Ate (Cisaat/Babakan Ciba -> Mie Goreng Ate, Cisaat/Babakan Cibatu
+[43] Capten Nelayan (Green Garden) -> no_data
+[44] Takoyaki Dramaga Hakkan.id (Babakan -> Takoyaki Pasar Jambu Dua Hakkan.id, Kota Bogor
+[45] Love Anchor 24 Hour Beer, Wine & Al -> Love Anchor 24 Hour Beer, Wine & Alcohol Delivery, Pantai Batu Bolong
+[46] Toko Asa Jaya (Pasar Babakan Blok T -> Toko Asa Jaya, Pasar Babakan Blok TD 06
+[47] Gedai Ketoprak & Gado-Gado Mama Nas -> no_data
+[48] Nelayan Seafood NS (MH. Thamrin) -> Nelayan Seafood NS, MH. Thamrin
+[49] Nada Kebab (Perum. Dalung Permai) -> Nada Kebab, Perum. Dalung Permai
+[50] Nasi Ayam Kedewatan Ibu Mangku (Sem -> Nasi Ayam Kedewatan Ibu Mangku, Seminyak
+[50] Nasi Babi Guling Men Lari (Canggu) -> Nasi Babi Guling Men Lari, Canggu
+[50] Woods (Pererenan) -> Woods, Pererenan
+[51] Chicken Shack (Mengwi) -> Chicken Shack, Mengwi
+[52] Al Jazeerah Signature Bali, Kuta, S -> no_data
+[53] Nasi Kulit Syuurga (Dalung) -> no_data
+[54] IYO IYO Sushi & Japanese Food, Semi -> IYO IYO Sushi  Japanese Food, Gatsu Barat, Denpasa
+[55] Warung Dedalu -> Warung Dedalu
+[55] Haloniko Bali (Pantai Berawa) -> Haloniko Bali, Pantai Berawa
+[55] Susu Kambing Segar - Araca Milk, Ke -> errorCode 404
+[56] Pizza Fabbrica Umalas, Bumbak Dauh -> Pizza Fabbrica Umalas, Bumbak Dauh
+[57] AAK Warung, Kerobokan -> AAK Warung, Kerobokan
+[58] Baked Pererenan -> Baked, Pererenan
+[59] Muuse Cheesecake Bakery Pererenan -> Muuse Cheesecake & Bakery, Pererenan
+[60] 7 Am Bakers Pererenan -> 7.AM Bakers, Pererenan
+[61] Copenhagen Bakery Pererenan Tiyingt -> Copenhagen Bakery, Pererenan
+[62] Izzi Kitchen Pererenan Seseh Pasta  -> IZZI KITCHEN PERERENAN SESEH (Pasta, WOK, Asian, Western, Russian Cuisine), Bali
+[63] Kinoa Comfort Food Handcrafted Bake -> no_data
+[64] Mr K Pizza N Burger Station Pantai  -> Mr. K Pizza 'N' Burger Station, Pantai Berawa
+[65] Milk Honey Bakery Pererenan -> Milk & Honey Bakery, Pererenan
+[65] Izzi Kitchen Pererenan Wok Pasta We -> no_data
+[66] The Hula Pantai Pererenan -> The Hula, Pantai Pererenan
+[67] Mr Egg Breakfast Burgers Coffee Jui -> errorCode 404
+[68] Le Flores Burger Berawa Pantai Bera -> errorCode 404
+[69] Ons Waroeng Pantai Berawa -> Ons Waroeng, Pantai Berawa
+[70] Berawa Canai Pantai Berawa -> errorCode 404
+[71] Burgrlink Pantai Berawa -> Burgrlink, Pantai Berawa
+[72] Driftwood Cafe Lounge Pantai Berawa -> errorCode 404
+[73] Red Bean Berawa Jl Pantai Berawa Ca -> Red Bean Berawa, Jl.Pantai Berawa, Canggu
+[74] Bebek On Berawa Canggu -> Ayam Bakar On Berawa, Tibubeneng
+[75] Kitchen By Nirvana Life Jl Pantai B -> Kitchen Nirvana Life, Health Food and Fitness
+[76] Pasta Bar Bali Berawa Canggu -> Pasta Bar Bali, Berawa Canggu
+[77] Bokashi Berawa Canggu -> no_data
+[78] Daeng Burger Umalas -> Daeng Burger, Umalas
+[79] Alam Burger Umalas -> alam Burger, Umalas
+[80] Lusa By Suka Berawa Canggu -> no_data
+[81] Aj S Barrel Bottle Shop Bali Berawa -> no_data
+[82] Og Smash Burger Fries Milkshakes Be -> OG SMASH BURGER - Burgers, fries, milkshakes, fried chicken, Umalas
+[83] Art Of Sushi Woks Poke Bowls Kerobo -> Art of Sushi, Kerobokan (Woks, Poke Bowls)
+[84] To The Moon Breakfast Pasta Burger  -> To The Moon (Breakfast Pasta Burger Poke Bowl Salad), Umalas
+[85] Fred S Fried Chicken Burgers Fries  -> FRED'S - Fried Chicken, Burgers, Wraps, Umalas
+[86] Sushi Surf Berawa Kerobokan -> errorCode 404
+[86] Og Smash Burger Fries Milkshakes Be -> OG SMASH BURGER - Burgers, fries, milkshakes, fried chicken, Umalas
+[86] Art Of Sushi Kerobokan Woks Poke Bo -> Art of Sushi, Kerobokan (Woks, Poke Bowls)
+[87] Matane Pererenan -> Matane, Pererenan
+[88] Sweet 16 Roll Sushi Kerobokan -> Sweet 16 Roll Sushi, Kerobokan
+[89] Philadelphia Bali Sushi Oyster Kero -> Filadelfia Bali Sushi, Dauh Puri Kauh
+[90] Twins Sushi Jl Raya Anyar No 14 Ker -> Twins Sushi, Jl.Raya Anyar No 14 kerobokan
+[91] Masakan Padang Putri Chaniago Perer -> Masakan Padang Putri Chaniago, Pererenan
+[92] Shouri Sushi Kuta Utara Kerobokan -> no_data
+[93] Red Gunpowder Indian Cuisine Perere -> Red Gunpowder - Indian Cuisine, Pererenan
+[94] Bottle Avenue Beer Wine Spirit Pere -> Bottle Avenue ( Beer, Wine & Spirit ) Pererenan
+[95] Savor Healthy Bistro Pererenan -> SAVOR HEALTHY BISTRO, PERERENAN
+[96] Buns Salads Batu Bolong -> Buns & Salads, Batu Bolong
+[97] Coffee Paste By Jibuki Pantai Batu  -> Coffee Paste By JIBUKI, Pantai Batu Bolong
+[98] Lucy Lu Asian Bao Buns Dumplings Ri -> Lucy Lu - Closed - Moved To Saigon Deli, Mengwi
+[99] Joon Canggu Jl Raya Babakan Canggu  -> Joon Canggu, Jl Raya Babakan Canggu No 4
+[100] Machinery Cafe Bali Pantai Batu Bol -> errorCode 404
+[101] Beachgarden Bar And Restaurant Batu -> BeachGarden Bar And Restaurant , Batu Bolong
+[102] Home Pizza Canggu -> Home Pizza, Canggu
+[103] Cafe Vida Pantai Batu Bolong -> Cafe Vida, Pantai Batu Bolong
+[104] Casa Pizza Corner Jln Raya Canggu N -> Warung Arthayasa, gang melati,Banjar semer
+[105] Tmnt Pizza Canggu -> Slow Slice Pizza, Canggu
+[106] Dulu Coffee Canggu -> Dulu Coffee, Canggu
+[107] Ejji Coffee Canggu -> Kopi - Ejji Coffee Corner, Canggu
+[108] The Daun Cafe And Coffee Canggu -> The Daun Cafe and Coffee, Canggu
+[109] Pizza Dumplings Canggu -> no_data
+[110] Dharma Coffee Canggu -> Dharma Coffee, Canggu
+[111] Te Amo Canggu Pizza Pasta Salad Gri -> Te Amo, Canggu - Pizza, Pasta, Salad, Grill, Seafood, Canggu
+[112] I Mustache Coffee Canggu Pantai Bat -> I Mustache Coffee Canggu, Pantai Batu Mejan
+[112] Kopi Ejji Coffee Corner Canggu -> Kopi - Ejji Coffee Corner, Canggu
+[113] Warung Dua Hati Healthy Vegan Cangg -> Warung Dua Hati - Healthy, Vegan, Canggu
+[114] Warung Mama Padang Linjong Canggu -> Warung Mama, Padang Linjong, Canggu
+[115] Nuansa Coffee Canggu -> errorCode 404
+[116] La Pan Nam Warung And Bar Canggu -> La Pan Nam Warung and Bar, Canggu
+[117] Warung Satya Canggu -> no_data
+[118] Warung Mdf Mazella Delish Foods Can -> Warung MDF (Mazella Delish Foods), Canggu
+[119] Gelato Secrets Pantai Berawa -> Gelato Secrets, Pantai Berawa
+[120] Mywarung Berawa Canggu -> errorCode 404
+[121] Warung Canteen Canggu Semat Raya -> Warung Canteen Canggu, Semat Raya
+[122] Warung Iffa Medina Canggu -> no_data
+[123] Butterman Pantai Berawa -> Butterman, Kuta Utara
+[124] Yummy Ricebowl Ricebowl And Fried R -> Yummy Ricebowl (Ricebowl And Fried Rice), Umalas Kitchen
+[125] Bistro C Finns Recreation Club Pant -> bistro c FINNS Recreation Club, Pantai Berawa
+[126] Deli Asia Rice Bowl Noodle Salad Be -> Deli Asia (Rice Bowl, Sandwich, Vegetarian, Juice), Umalas
+[127] Nude Canggu Pantai Berawa -> no_data
+[128] Breakfast And Brunch Umalas -> Breakfast And Brunch, Umalas
+[129] Koi Pantai Berawa -> Koi, Pantai Berawa
+[130] Warung Mokoh Umalas -> errorCode 404
+[131] Dimsum Chika Umalas -> no_data
+[132] Warung Ibuk Luh Tu Umalas -> errorCode 404
+[133] Warung Merica Umalas -> no_data
+[134] Warung Lao Umalas 2 -> errorCode 404
+[135] Ranya Eco Warung Umalas Kerobokan -> Ranya Eco Warung, Umalas Kerobokan
+[136] Saigon Deli Banh Mi Bao Buns Sandwh -> SAIGON DELI - Vietnamese Banh Mi’s, Umalas
+[137] Eko Cafe Breakfast Juices Smoothies -> Eko Cafe (Healthy, Breakfast, Juices, Smoothies, Bowls, Eggs, Coffee), Umalas
+[137] Eko Cafe Healthy Breakfast Juices S -> no_data
+[138] Rice Republic Umalas -> Rice Republic Bali, Umalas
+[139] Warung 8 Kerobokan -> errorCode 404
+[140] Warung 8 Cab Kerobokan -> Warung 8 Cab. Kerobokan
+[141] Rise And Shine Umalas -> no_data
+[142] Warung Italia Umalas I -> Warung Italia, Jl Raya Legian No 99
+[142] To The Moon Umalas Kerobokan Kelod  -> no_data
+[143] Warung Surabaya La Kerobokan -> Warung Surabaya LA, Kerobokan
+[144] Warung Bahtera Kerobokan -> Warung Bahtera, Kerobokan
+[145] Front Cafe Pererenan -> Front Cafe, Pererenan
+[146] Handmade Warung Kerobokan -> Handmade Warung, Kerobokan
+[147] 1996 Warung Kerobokan Breakfast Bru -> 1996 Warung Kerobokan Breakfast, Brunch,Burger,Smoothie,Badung
+[148] Bean Cafe Pererenan -> Bean Cafe, Pererenan
+[149] Warung Muslim Bidadari Kerobokan -> Warung Muslim Bidadari, Kerobokan
+[150] Sted Cafe Poke Bowl Pererenan -> STED Cafe ( Poke Bowl ), Pererenan
+[151] Dega Cafe Pererenan -> Dega Cafe, pererenan
+[152] Daria Cafe Pererenan Breakfast -> errorCode 404
+[153] Village Cafe Pererenan Tumbak Bayuh -> Village Cafe, Pererenan, Tumbak Bayuh
+[154] Shortcut Cafe Canggu Jalan Sempol N -> no_data
+[155] Bread Basket Kerobokan -> Bread Basket, Kerobokan
+[156] Ixora Cakes Breads And Pastries Ker -> Ixora Cakes, Breads and Pastries, Kerobokan
+[157] The Layers Bakery Eatery Kerobokan -> no_data
+[158] The Bun Bakery Kerobokan -> The Bun Bakery, Kerobokan
+[159] Scrummy Cafe Bakery Kerobokan -> Scrummy Cafe & Bakery, Kerobokan
+[160] Surya Gym Cafe Pererenan -> no_data
+[161] The Garden Eatery Kerobokan -> errorCode 404
+[162] Kafe Kayuapi Bakery Kerobokan -> no_data
+[163] Ithaka Warung Pantai Batu Bolong -> Ithaka Warung, Pantai Batu Bolong
+[164] Vincent Nigita Patisserie Kerobokan -> errorCode 404
+[165] Ssbc Delicious Food 44 Jalan Raya B -> SSBC Delicious Food, 44 Jalan Raya Batu Bolong
+[166] Mad Ronin Pantai Batu Bolong -> Mad Ronin, Pantai Batu Bolong
+[167] Deli Kitchen Batu Bolong Canggu -> Deli Kitchen Batu Bolong, Canggu
+[168] Warung Bu Mi Pantai Batu Bolong -> Warung Bu Mi, Pantai Batu Bolong
+[168] Nirvana Kitchen Canggu -> Kitchen Nirvana Life, Health Food and Fitness
+[169] Masonry Restaurant Batu Bolong -> Masonry Restaurant, Batu Bolong
+[170] Kitchen Delivery Pojok Canggu -> Kitchen Delivery Pojok, Canggu
+[171] Siti S Kitchen Canggu -> Siti's Kitchen, Canggu
+[172] Wid S Kitchen Canggu -> Wid's Kitchen, Canggu
+[173] M Kitchen Canggu Jl Krisna X No 75  -> no_data
+[174] Rasa Kitchen Canggu No 80 -> no_data
+[175] Prana Kitchen Healthy Food Canggu -> no_data
+[176] Ubi Cilembu H A Kerobokan -> CILEMBU SWEET POTATO 98, KEROBOKAN
+[177] Famous Rice Bowl Foodcourt Taman Su -> Famous Rice Bowl, Foodcourt Taman Suar Kerobokan
+[177] Famous Rice Bowl Kerobokan -> Famous Rice Bowl, Foodcourt Taman Suar Kerobokan
+[178] Canton Chinese Food Kerobokan -> errorCode 404
+[179] Warung Bu Ryan Kerobokan -> no_data
+[180] Pakai Cinta Asian Food Rice Bowl Pa -> errorCode 404
+[181] Goji Goji Vegan Bowl Kerobokan -> Goji Goji Vegan Bowl, Kerobokan
+[182] Warung Minang Saiyo Kerobokan -> errorCode 404
+[183] Cook Baker By Aurora Bakery Canggu -> Cook & Baker by Aurora (Bakery), Canggu
+[184] Seoul Soul Project Korean Bbq And C -> Seoul Soul Project Korean BBQ And Chicken, Canggu
+[185] Burger Bangor Burger Ayam Canggu Ra -> Burger Bangor (Burger & Ayam), Canggu Raya
+[186] Stuffed Cookies Canggu -> Stuffed Cookies, Canggu
+[187] Milano Pantai Berawa -> Milano, Pantai Berawa
+[188] Da Romeo Pantai Berawa -> Da Romeo, Pantai Berawa
+[189] Da Roma Restaurant Jl Pantai Berawa -> errorCode 404
+[190] Vegan Vegetarian Nusantara Rice Bow -> Vegan Vegetarian Nusantara Rice Bowl, Canggu
+[191] Lips Pizza Pantai Berawa -> errorCode 404
+[192] Warung D Pererenan Padonan -> no_data
+[193] Cabana Bistro Umalas 1 -> Cabana Bistro, Umalas 1
+[194] Warung D Pererenan Mengwi -> Warung D'Pererenan, Mengwi
+[195] Bonito Restaurant Umalas -> Bonito Restaurant, Umalas
+[196] Warung Nyoman Mengwi Pererenan Jemp -> Warung Nyoman, Mengwi, Pererenan, Jempinis
+[197] Warung Nyoman Good Times Mengwi Per -> Warung Nyoman Good Times, Mengwi, Pererenan
+[197] Bonito Fish Bar Umalas -> Bonito Restaurant, Umalas
+[198] Thailicious Pererenan -> Thailicious, Pererenan
+[199] Line Up Restaurant And Grill Perere -> Line Up Restaurant And Grill, Pererenan
+[200] Scrummy Cafe Umalas -> errorCode 404
+[201] Warung Ayam Geprek Dan Jank Food Pe -> no_data
+[202] Shelter Pererenan -> Shelter, Pererenan
+[203] Canggu Cafe Pantai Batu Bolong -> errorCode 404
+[204] Pescado Bali Pererenan -> no_data
+[205] Rollin Sushi By Sted Pererenan -> DAILY DEPT. - Cinnamon Rolls, Pererenan
+[206] Dian Cafe Nyibakan Pantai Batu Bolo -> Dian Cafe Nyibakan, Pantai Batu Bolong
+[207] Bucu Cafe Umalas 2 -> Bucu Cafe, Umalas 2
+[208] Beige Coffee Pererenan Jalan Sempol -> Beige Coffee Pererenan, Jalan Sempol, Pererenan
+[209] Rr Sweets Cafe Gelato And Dessert B -> errorCode 404
+[210] Noah Cafe Jalan Pantai Pererenan No -> Noah Cafe, Jalan Pantai Pererenan No 60
+[211] Pizza By Garden Canggu Canggu -> Pizza By Garden Canggu, Canggu
+[212] Tata Coffee Eatery Pererenan -> TaTa All-Day Cafe, Pererenan Canggu
+[213] Veganlicious Vegan Smoothie Bowl An -> Veganlicious Smoothie Bowls, Pererenan Canggu
+[214] Tarabell Coffee Express Pererenan -> Warung Teduh Anyelir, Tabanan
+[215] Crispy Pizza Canggu -> Crispy Pizza, Canggu
+[216] Sushi Fusion Canggu -> Sushi Fusion Jimbaran, Puri Gading
+[217] Tmo Coffee Bali Pererenan Tiying Tu -> no_data
+[218] Hokkigai Sushi Canggu -> errorCode 404
+[218] Philadelphia Bali Sushi Oyster Cang -> Filadelfia Bali Sushi, Dauh Puri Kauh
+[219] Warung Napoli Berawa Canggu -> errorCode 404
+[220] Warung Kenanga Chinese Food Berawa  -> Warung Kenanga Chinese Food, Berawa Canggu
+[221] Doma Canggu Jalan Raya Babakan No 5 -> TANE RESTAURANT, Jalan Raya Babakan No 5
+[222] Barbar Sushi Canggu -> no_data
+[223] Warung Ayam Betutu Canggu -> errorCode 404
+[224] Warung Jawa Muslim Banyuwangi Panta -> Warung Jawa Muslim Banyuwangi, Pantai Berawa
+[225] Warung Cantik Reborn Pantai Berawa -> errorCode 404
+[226] Warung Dua Putri Pantai Berawa -> errorCode 404
+[227] Annapurna Canggu Indian Restaurant  -> Annapurna Agni Canggu Indian Restaurant, Jl. Raya Babakan Canggu No.33
+[228] Warung Gouthe Pantai Berawa -> no_data
+[229] Warung Sunshine Berawa -> Warung Sunshine Berawa
+[230] Warung Blackside Jl Raya Babakan Ca -> Warung Blackside, Jl Raya Babakan Canggu No.119
+[231] Pressed Cafe And Mylk Breakfast Lun -> Pressed Cafe and Mylk Breakfast, Lunch, Dinner, Healthy, Canggu
+[232] Warung Oseng 1 Es Kelapa Muda Panta -> Warung Oseng 1 & Es Kelapa Muda, Pantai Berawa
+[233] Tana Cafe Kerobokan Bali -> Tana Cafe Kerobokan, Bali
+[234] Gbo Cafe Kerobokan -> errorCode 404
+[235] Moii Cafe Kerobokan -> errorCode 404
+[236] Aquaa Cafe Resto Kerobokan -> Aquaa Cafe & Resto, Kerobokan
+[237] Garlic Kitchen Pantai Batu Bolong R -> Garlic Kitchen, Pantai Batu Bolong Raya
+[238] Okaeri Japanese Restaurant Breakfas -> Okaeri Japanese Restaurant Breakfast and Coffee Berawa Canggu, Kuta
+[239] Burger Pit Stop Canggu -> Burger Pit Stop, Canggu
+[240] Auri Family Cafe Kerobokan -> Auri Family Cafe, Kerobokan
+[241] Sushi And Wok Wok Poke Bowl Japanes -> Sushi and Wok (Wok, Poke, Bowl, Japanese, Chinese), Canggu
+[242] Bonza Burger Canggu -> Bonza Burger, Canggu
+[243] Scream Smash Burger Canggu -> Scream Smash Burger, Canggu
+[244] Bottega Italiana Bali Batu Bolong -> Bottega Italiana Bali, Batu Bolong
+[244] Mason Restaurant Batu Bolong -> Masonry Restaurant, Batu Bolong
+[245] Daeng Burger Canggu -> no_data
+[246] Latif Cafe Kerobokan -> errorCode 404
+[247] Monsieur Spoon Pererenan -> errorCode 404
+[248] Felice Restaurant Jl Pantai Batu Bo -> Felice Restaurant, Jl. Pantai Batu Bolong No. 11
+[249] 24 Hours Burger Canggu -> no_data
+[250] Brotzeit Pererenan -> Brotzeit, Pererenan
+[251] Rice Bowl Canggu Food Court Tibuben -> Radhika Coconut, Tibubeneng
+[252] Burgers Anonymous Mengwi Pererenan -> Burgers Anonymous, Mengwi/Pererenan
+[253] Burger Brother S Pererenan -> Burger Brother's, Pererenan
+[254] Kedai Nyonya Pererenan -> no_data
+[255] Singa Burger Pererenan -> errorCode 404
+[256] Soyou Rice Bowl Canggu -> errorCode 404
+[257] Banh Mi And Beans Batu Bolong -> Banh Mi and Beans, Batu Bolong
+[258] Surf Burgers Pererenan -> no_data
+[259] Burger Boi Cheese Burgers French Fr -> Butter Boy – Wagyu Burgers & Fries, Pererenan
+[260] Og Smash Burger Fries Milkshakes Be -> OG SMASH BURGER - Burgers, fries, milkshakes, fried chicken, Pererenan
+[261] Super Smashed Burgers Berawa Canggu -> Super Smashed Burgers, Berawa, Canggu
+[262] Mie Ayam Bandung Chinese Food Batu  -> Mie Ayam Bandung Chinese Food, Batu Bolong
+[263] Burger Brothers Berawa Canggu Perma -> no_data
+[264] Mr Wu S Chinese Asian Fried Rice Du -> Mr Wu'S - Closed - Redirect To Ming'S, Umalas 2
+[265] Bb52 Burgers Berawa -> errorCode 404
+[266] Made S Banana Flour Co Pantai Batu  -> Made's Banana Flour Co, Pantai Batu Bolong
+[267] Warung Varuna Pantai Batu Bolong -> errorCode 404
+[268] Sunny Smash Burger Fries Burger Mil -> no_data
+[269] Unibowl Pokebowl Pererenan -> Unibowl Pokebowl, Pererenan
+[270] Pinkman Pizza Dumplings Berawa -> Pinkman Pizza & Dumplings, Berawa
+[271] Oka S Bakery Cafe Healthy Pantai Ba -> Oka's Bakery Cafe - Healthy, Pantai Batu Bolong
+[272] Macan Cafe Pantai Berawa -> Macan Cafe, Pantai Berawa
+[273] Canggu Hype Cafe Pantai Berawa -> Canggu Hype Cafe, Pantai Berawa
+[274] Sunny Cafe Canggu Pantai Berawa -> errorCode 404
+[275] Il Forno Pizzeria Italian Pizza Ber -> no_data
+[276] Cocomo Canggu Pantai Batu Bolong -> Cocomo Canggu, Pantai Batu Bolong
+[277] Siwoo Cafe Eatery Pantai Berawa -> no_data
+[278] Dod S Burger Pantai Batu Bolong -> Dod's Burger, Pantai Batu Bolong
+[279] Avenue Cafe Pantai Berawa -> errorCode 404
+[280] The Bakery Berawa -> THE BAKERY, BERAWA
+[281] Baro Bakery Canggu -> Baro Bakery, Canggu
+[282] Bull S Coffee Canggu Berawa Tibuben -> Bull's Coffee Canggu, Berawa Tibubeneng
+[283] 7 Islands Bakery Cafe Pantai Berawa -> 7 Islands Bakery & Cafe, Pantai Berawa
+[284] Wanderlust Cafe Berawa Canggu -> errorCode 404
+[285] Mojitos Canggu Berawa Canggu -> errorCode 404
+[286] Canggu Juice Bar Cold Press Coffee  -> Canggu Juice Bar (Cold-Press, Coffee, Breakfast), Berawa
+[287] Warlok Berawa Canggu -> Warlok Berawa, Canggu
+[288] Darna Middle Eastern Cuisine Canggu -> Darna Middle Eastern Cuisine, Canggu Berawa
+[289] Island Bagels Coffee Breakfast Wrap -> Island Bagels (Coffee, Breakfast, Wrap), Berawa
+[290] Warung Banyuwangi Rasa Cak Nanang K -> Warung Banyuwangi Rasa Ca
+[291] Pasta Bitte Canggu Bali Jalan Panta -> PASTA, BITTE! CANGGU BALI, Jalan Pantai Batu Bolong No.1
+[292] Pizza Gastronomic Pantai Batu Bolon -> Pizza Gastronomic, Dalung
+[293] Beer Me Up Balinese Cocktail Premiu -> Beer Me Up (Balinese Cocktail & Premium Dimsum), Pantai Batu Bolong
+[294] Coffee Pastry Changgui La Pantai Be -> errorCode 404
+[295] Tygr Sushi Pantai Berawa -> TYGR Sushi (Ramen, Salmon, Bowls), Pantai Berawa
+[296] Ink Sushi Japanese Comfort Eats Pan -> INK - Sushi & Japanese Comfort Eats, Pantai Berawa
+[297] G Sushi Ramen European Japanese Ber -> G Sushi (Ramen European Japanese), Berawa
+[298] One Eyed Jack Pantai Berawa -> One Eyed Jack, Pantai Berawa
+[299] Dim Sum House Pantai Berawa -> Dim Sum House, Pantai Berawa
+[300] Lumos Coffee Kitchen Pantai Berawa -> no_data
+[301] Warung Leluhur Babakan Canggu -> warung leluhur babakan canggu
+[302] The Room Sushi Roll Salad Poke Bowl -> The Room (Sushi Roll, Salad, Poke Bowl), Bali, Berawa
+[303] Il Forno Pizzeria Italian Pizza Bat -> IL Forno Pizzeria - Italian Pizza, Batu Bolong
+[304] Peekaboo Pantai Batu Bolong -> errorCode 404
+[305] Wings To Go Canggu Berawa S Kitchen -> Wings To Go Canggu, Berawa's Kitchen, Canggu
+[306] Nude Cafe Babakan Babakan Canggu -> Nude Cafe Babakan, Babakan, Canggu
+verify: 86 targets
+[307] Pepino Pizza Pantai Batu Bolong -> errorCode 404
+[308] Belong Kitchen Kerobokan -> errorCode 404
+[309] Deli Kitchen Babakan Kubu -> Deli Kitchen, Babakan Kubu
+[310] The Cure Vegan Health Kitchen Cangg -> The Cure 'Healthy, Breakfast, Protein Bowl, Wrap', Berawa
+[311] Vedic Kitchen Kerobokan -> Vedic Kitchen, Kerobokan
+[312] Thai Indo Kitchen Berawa S Kitchen -> Thai Indo Kitchen, Berawa's Kitchen
+[313] 28Kitchen Kerobokan -> 28Kitchen, Kerobokan
+[314] Izzi Kitchen Kerobokan Pasta Wok As -> Izzi Kitchen Canggu (Pasta, Wok, Asian,Western, Russian Cuisine), Jl. Batu Belig
+[315] Sate Padang Canggu Didepan Berawa K -> Sate Padang Canggu Didepan Berawa Kitchen
+[316] The Kitchen House Kerobokan -> errorCode 404
+[317] Dewata Kitchen Kerobokan -> errorCode 404
+[318] Sixtynine Kitchen Kerobokan -> Sixtynine Kitchen, Kerobokan
+[319] Nikki Sushi Canggu -> Nikki Sushi, Canggu  Woks, Poke Bowls
+[320] Waroenk D Kitchen Kerobokan -> Waroenk D'Kitchen, Kerobokan
+[321] Rin S Kitchen Kerobokan -> errorCode 404
+[322] Tygr Sushi Canggu -> TYGR Sushi (Ramen, Salmon, Bowls), Canggu
+[323] Roll Sushi Canggu -> Roll Sushi, Canggu
+[324] Masakan Padang Bungo Minang Pantai  -> Masakan Padang Bungo Minang, Pantai Berawa
+[325] Kobu Coffee Kerobokan -> KOBU Coffee, Kerobokan
+[326] Kobu Coffee Eatery Kerobokan Kelod -> errorCode 404
+[327] 25 Pm Coffee Kerobokan -> 25:PM Coffee, Kerobokan
+[328] Gelah Kopi Kerobokan -> errorCode 404
+[329] Sushi Express Canggu -> Sushi Express, Canggu
+[330] Kluarga Kopi Kerobokan -> errorCode 404
+[331] Stuja Coffee Bali Kerobokan -> Stuja Coffee Bali, Kerobokan
+[332] Varian Coffee Kerobokan -> errorCode 404
+[333] Shy Guy Asian Restaurant Umalas -> Shy Guy Asian Food and Coffee, umalas
+[334] Rice Bowl Nusantara Vegetarian Vega -> Rice Bowl Nusantara, Canggu
+[335] Temu Resto Pantai Berawa -> errorCode 404
+[336] Tonys New York Pizza Umalas -> Tonys New York Pizza, Umalas
+[337] Lolita Bali Jln Bumbak Umalas Cangg -> LOLITA BALI, Jln Bumbak Umalas Canggu
+[338] Roman Pizza Pasta Umalas -> Roman Pizza & Pasta, Umalas
+[339] The Naked Coconut Pantai Berawa -> errorCode 404
+[340] Pizza To Go Umalas -> errorCode 404
+[341] Sanhose Coffee Bites Kerobokan -> no_data
+[341] Pizza To Go Sebelah Cozy Umalas -> errorCode 404
+[342] Ruth S Cakes Pantai Berawa -> errorCode 404
+[343] Nyama Kitchen Pantai Berawa -> errorCode 404
+[344] Indonesia Kitchen Pantai Berawa Pla -> errorCode 404
+[345] Farine Sourdough Bakery Pantai Bera -> errorCode 404
+[346] Canggu Cat Cafe -> errorCode 404
+[347] Panama Kitchen And Pool Pantai Bera -> errorCode 404
+[348] Bean Cafe Canggu Padang Linjong -> Bean Cafe Canggu, Padang Linjong
+[349] Revolver All Day Cafe Canggu -> Revolver - All Day Cafe, Canggu
+[350] Pizza Hut Delivery Phd Kerobokan -> Pizza Hut Delivery - PHD, Kerobokan
+[351] La Pizzetta Kerobokan -> La Pizzetta, Kerobokan
+[352] The Plumbers Arms Kerobokan -> The Plumbers Arms, Kerobokan
+[353] Famous Rice Bowl And Poke Bowl Bera -> Famous Rice Bowl, Poke Bowl, Berawa's Kitchen
+[354] Ice Pasco Babakan Canggu Raya Babak -> errorCode 404
+[355] Warung Oren French Fries Jl Babakan -> Warung Oren French Fries, Jl Babakan 61 Canggu
+[356] Beer E Pizza Pantai Pererenan -> Beer E Pizza, Pantai Pererenan
+[357] Margarita Pizza Coffee And Bar Meng -> Margarita Pizza Coffee And Bar, Mengwi/Pererenan/badung
+[358] La Bussola Italian Resto Pizza And  -> UNCONVENTIONAL PIZZA, Pizza Restaurant
+[359] Mr K Pizza N Burger Station Kerobok -> Mr. K Pizza n Burger Station, Kerobokan
+[360] Bottega Italiana Pererenan -> Bottega Italiana, Pererenan
+[361] Doughboys Pizza Jl Pantai Pererenan -> Doughboys Pizza, Jl Pantai Pererenan
+[362] Warung Oren Beer Vodka Captain Morg -> Warung Oren Beer, Vodka, Captain Morgan, Babakan Canggu Raya
+[363] Booze Bottle Service And Pizza Gang -> Booze Bottle Service And Pizza, Gang Margarita No 1 Pererenan
+[364] Roastill Coffee Umalas -> ROASTILL COFFEE, UMALAS
+[365] Yuya House Coffee And Bakery Umalas -> 34 Island's Coffee And Snack, Umalas
+[365] 34 Island S Coffee And Snack Umalas -> 34 Island's Coffee And Snack, Umalas
+[366] Baro Pizzeria Jl Pantai Pererenan -> Baro Restaurant, Jl. Pantai Pererenan No.162
+[367] Squeeze Savor Juice Smoothie Coffee -> Squeeze & Savor - Juice, Smoothie, Coffee, Umalas
+[368] Cafe Organic Bali Umalas -> errorCode 404
+[369] Casa Eatalia Pasta Authentic Italia -> Casa Eatalia Pasta (Authentic Italian Delights), Pererenan
+[370] Fuji Japanese Restaurant Kerobokan -> Fuji Japanese Restaurant, Kerobokan
+[371] Amouage Kerobokan Russian Arabic Ha -> Amouage KEROBOKAN Russian & Arabic Halal Food, Jl Raya Kerobokan No.30B
+[372] Burger Brother S Kerobokan -> Burger Brother's, Kerobokan
+[373] Naughty Nuri S Warung Kerobokan -> Naughty Nuri'S Warung, Pork Ribs, Bbq Iga, Seminya
+[374] Kassapa Cafe Umalas -> errorCode 404
+[375] Burger Mamabun Kerobokan -> errorCode 404
+[376] Burger Delight Kerobokan -> Burger Delight, Kerobokan
+[377] Bali Buda Kerobokan -> no_data
+[378] Burger Boy Kerobokan -> Burger Boy, Kerobokan
+[379] Victory Smash Burger Jl Raya Canggu -> Victory Smash Burger, Jl. Raya Canggu, Kerobokan
+[380] Xich Lo Warung Vietnam Kerobokan -> Xich Lo Warung Vietnam, Kerobokan
+[381] Svaha Burger Babakan Canggu -> Svaha Burger, Babakan, Canggu
+[382] Must Burger Jalan Raya Kerobokan -> Must Burger, Jalan Raya Kerobokan
+[383] Bakers Corner Canggu -> Bakers Corner Canggu
+[384] The Sweet Escape Bakery Canggu -> The Sweet Escape Bakery, Canggu
+[385] Fold Artisan Bakery Canggu -> FOLD, ARTISAN BAKERY, Canggu
+[386] Mie And More Pantai Batu Bolong -> Mie And More, Pantai Batu Bolong
+[387] Neng S Kebab And Burger Babakan Can -> Neng's Kebab And Burger, Babakan Canggu
+[388] Conato Bakery Canggu -> errorCode 404
+[389] Mad Ronin Ramen Canggu Jl Pantai Ba -> no_data
+[390] The Bench Burgers Fried Chicken Win -> no_data
+VERIFY DONE

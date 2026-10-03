@@ -1,0 +1,1232 @@
+poi verify: 1143 targets
+[1] OK Paed Thai Restaurant Canggu by Wonderspa
+[2] OK SILK RESTAURANT Canggu
+[3] OK Felice Canggu
+[4] OK Cantina Classe Italian Restaurant Canggu
+[5] OK 12 Urban Cafe - Breakfast & Dinner | Mov
+[6] OK Alchemy Canggu
+[7] OK KHAO Canggu
+[8] OK Beach Boy Canggu
+[9] OK Ele Restaurant, Bar and Terrace
+[10] OK Casa Tua Canggu
+[11] OK Rice Republic Canggu
+[12] OK Te'amo
+[13] OK Twin Tide Eatery
+[14] OK Mularasa Canggu
+[15] OK 12 Kitchen and Wine / Restaurant & Wine 
+[16] OK Ketela Eatery & Lifestyle
+[17] OK La Baracca
+[18] OK Xich Lo Canggu
+[19] OK Zai cafe
+[20] OK Dolan Restaurant & Park
+[21] OK Shuang Xi Bali
+[22] OK Lulu Bistrot French Restaurant Cocktail 
+[23] OK Chow Chow Bali
+[24] OK TYGR SUSHI & RAMEN (CANGGU)
+[25] OK Papa Lee's Taiwan noodle & Dumplings | B
+[26] OK Cocomo Canggu
+[27] OK The Avocado Factory
+[28] OK Moana Fish Eatery
+[29] OK Kawisari Coffee Farm Shop & Eatery Bali
+[30] OK MIEL SPECIALTY COFFEE CANGGU | CO-WORKIN
+[31] OK Dian Cafe
+[32] OK Warung Local
+[33] OK Sa'Mesa Canggu
+Traceback (most recent call last):
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 540, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/urllib3/connection.py", line 638, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/http/client.py", line 1443, in getresponse
+    response.begin()
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/http/client.py", line 337, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/http/client.py", line 298, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/socket.py", line 718, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/ssl.py", line 1326, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/ssl.py", line 1178, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TimeoutError: The read operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/requests/adapters.py", line 645, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 847, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/urllib3/util/retry.py", line 510, in increment
+    raise reraise(type(error), error, _stacktrace)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/urllib3/util/util.py", line 39, in reraise
+    raise value
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 542, in _make_request
+    self._raise_timeout(err=e, url=url, timeout_value=read_timeout)
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/urllib3/connectionpool.py", line 373, in _raise_timeout
+    raise ReadTimeoutError(
+urllib3.exceptions.ReadTimeoutError: HTTPSConnectionPool(host='api.brightdata.com', port=443): Read timed out. (read timeout=90)
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/agentuser/canggu-restaurant-parser/scraper/gf_poi_verify.py", line 48, in <module>
+    list(ex.map(work, todo))
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/concurrent/futures/_base.py", line 619, in result_iterator
+    yield _result_or_cancel(fs.pop())
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/concurrent/futures/_base.py", line 317, in _result_or_cancel
+    return fut.result(timeout)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/home/agentuser/.local/share/uv/python/cpython-3.11.16-linux-x86_64-gnu/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/canggu-restaurant-parser/scraper/gf_poi_verify.py", line 27, in work
+    r = requests.post("https://api.brightdata.com/request", headers={"Authorization":"Bearer "+key},
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/requests/sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/requests/sessions.py", line 706, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/agentuser/.hermes/hermes-agent/venv/lib/python3.11/site-packages/requests/adapters.py", line 691, in send
+    raise ReadTimeout(e, request=request)
+requests.exceptions.ReadTimeout: HTTPSConnectionPool(host='api.brightdata.com', port=443): Read timed out. (read timeout=90)
+poi verify: 1110 targets
+[34] OK Black Eye Coffee - Batu Bolong, Canggu
+[35] OK OTIUM CAFE
+[36] OK Gigi Susu
+[37] OK Milk & Madu Beach Road
+[38] OK Bottega Italiana Batu Bolong
+[39] OK Batu Bolong Beach Cafe
+[40] OK Tabo Cafe Canggu
+[41] OK Blou Cafe Canggu
+[42] OK Monsieur Spoon Canggu
+[43] OK The Common
+[44] OK Canggu BIM coffee & brunch
+[45] OK Blacklist Coffee Roasters
+[46] OK Kongkow Café Canggu
+[47] OK VIDA Healthy Organic Restaurant Canggu
+[48] ERR Mango Mango Canggu - Dessert & matcha ca
+[49] OK MILU By Nook
+[50] OK Berawa's Kitchen
+[51] OK nüde cafe Berawa
+[52] OK Vore Canggu
+[53] OK Fortunata Coffee & Eatery
+[54] OK Sababa
+[55] OK Kometosake Berawa
+[56] OK Mowies Bali
+[57] OK Watercress Berawa
+[58] OK Mata Berawa
+[59] OK Milk & Madu Berawa
+[60] OK LUSA Bistro
+[61] OK Ulekan Berawa
+[62] OK Kenji Ramen & Izakaya Berawa
+[63] OK Riviera Bistro | Berawa
+[64] OK One Eyed Jack
+[65] OK Bottega Italiana Berawa
+[66] OK Island Wok Berawa
+[67] OK Made's Warung Berawa
+[68] OK Archive Coffee • Parkcafe
+[69] OK Neighbourhood Food
+[70] OK Bull's Coffee Berawa
+[71] OK Revolver Canggu
+[72] OK HiLo Protein Donuts & Cafe - Berawa, Can
+[73] OK Culture Cafe Canggu
+[74] OK Wonder Coffee Berawa
+[75] OK BRIGHT coffee and brunch
+[76] OK Hopper Coffee
+[77] OK Tabebuya Coffee
+[78] OK Bokashi Berawa
+[79] OK By Sage Coffee Berawa
+[80] OK NOURISH CAFE
+[81] OK Copenhagen CAFE Berawa
+[82] OK Wolf & Turtle Coffee Roasters Bali
+[83] OK Ruko Cafe
+[84] OK Warung Sika
+[85] OK Varuna Warung
+[86] OK Warung Bu Mi
+[87] OK Warung Jawa Bu Sri
+[88] OK Warung Jaba
+[89] OK RICE WARUNG YASA's
+[90] OK Canteen Canggu Permai
+[91] OK WARUNG LA BE'NE
+[92] OK Warung Barra - Halal Food
+[93] OK Warung Jawa Bu Eka
+[94] OK Waroeng Sushi Canggu
+[95] OK warung pandega
+[96] OK Warteg 24 Hour
+[97] OK Tiga Canggu
+[98] OK Warung Sari Bunga Canggu
+[99] OK Times Beach Warung
+[100] OK Warung Nasi Babi Guling Men Agus
+[101] OK Warung Ulhus
+[102] OK Little Tokyo Sushi Canggu
+[103] OK Sushikoo
+[104] OK Sky Fusion Sushi
+[105] OK Fuji Sushi Canggu
+[106] OK Ensō Japanese Fusion & Bar
+[107] OK Kenji Ramen & Izakaya Padang Linjong
+[108] OK G-Sushi and Ramen | Sushi Bar | Delivery
+[109] OK Sama Sama Prime
+[110] OK Pure Sushi Bali
+[111] OK Ji Restaurant Bali
+[112] OK IKI Izakaya by Margaret
+[113] OK Billy Ho Japanese Restaurant
+[114] OK Sushimi Berawa Bali
+[115] OK Shichirin Japanese Restaurant Canggu by 
+[116] OK Mykaza Bali
+[117] OK Il Forno Pizzeria, Canggu ( Dine-in )
+[118] OK Konbu Sushi Bali
+[119] OK Unibowl Pererenan Bali
+[120] OK ROMAN PIZZA & PASTA CANGGU
+[121] OK Sushi Key Canggu
+[122] OK Pizza Fabbrica - Canggu
+[123] OK CANGGU STREET PIZZA BATUBOLONG
+[124] OK Dodo Pizza
+[125] OK Louie's New York Pizza Canggu | NYC Styl
+[126] OK L'Osteria Pizza e Cucina Canggu
+[127] OK Luigi's Hot Pizza Canggu
+[128] OK Tony's New York Pizza Canggu
+[129] OK Pizza Canggu
+[130] OK Love U Pizza Canggu
+[131] OK Vittorio pizza canggu
+[132] OK Il Forno Pizzeria - Berawa (Dine-in & Ta
+[133] OK Cantina Bali Canggu
+[134] OK AMANTE PIZZERIA CANGGU
+[135] OK MONSTA Pizza, Wings & Beer
+[136] OK Garden Canggu Bali
+[137] OK The Sweet Escape Bakery & Cafe
+[138] OK Salzbrezeln
+[139] OK Lasera Bakery
+[140] OK Oka's Bakery & Cafe | Gluten Free Birthd
+[141] OK Maha Matcha x Kudopan Bakes
+[142] OK Bread Basket Bakery - Canggu Bali
+[143] OK Momma Cookies
+[144] OK Pepi Bakehouse Echo Beach
+[145] OK Copenhagen BAKERY Pererenan
+[146] OK MUUSE Cheesecake & Bakery
+[147] OK Fold Canggu
+[148] OK Milk and Honey Bakery
+[149] OK Buongiorno by Sa'Mesa
+[150] OK Baker's Corner Cafe Canggu
+[151] OK Dang! Cookies - Batu Mejan
+[152] OK Batter Club
+[153] OK Black Sand Brewery
+[154] OK The Bench Sports Bar Canggu
+[155] OK BAKED. Berawa
+[156] OK Old Man's
+[157] OK The Barn Pub & Kitchen
+[158] OK The Lawn Canggu Beach Club
+[159] OK The Shady Pig
+[160] OK XBR Canggu
+[161] OK Manhattan Cocktail Bar & Kitchen
+[162] OK Sand Bar
+[163] OK Tap Club Canggu
+[164] OK La Pan Nam Warung & Bar
+[165] OK FINNS Beach Club
+[166] OK Baliwood
+[167] OK Alternative Beach
+[168] OK Beer&Co. (Canggu)
+[169] OK Motel Mexicola | Canggu
+[170] OK Brunchy’s
+[171] OK Rise & Shine Cafe Canggu
+[172] OK Shortcut Cafe Canggu, Pererenan
+[173] OK SUGI.CANGGU
+[174] OK Canggu Sunset Club
+[175] OK Barboa Bali
+[176] OK Lush Kitchen - all day Cafe & Grill. Hea
+[177] OK Wisteria Brunch Canggu
+[178] OK Eggstra Breakfast Lab
+[179] OK Crate Cafe
+[180] OK Little Havana Bali - Shot Bar & Cocktail
+[181] OK PARS Cafe Bali | Coffee Shop | Breakfast
+[182] OK Copenhagen CAFE Canggu
+[183] OK Lucky Plaza
+[184] OK WOODS PERERENAN
+[185] OK Artisan - Pererenan
+[186] OK Day by Day Coffee & Eatery
+[187] OK Genius Bistro
+[188] OK WOHL CAFE
+[189] OK Brunch Club Pererenan
+[190] OK K&A Grill
+[191] OK Savor Pererenan
+[192] OK Boheme Canggu
+[193] OK nüde cafe Pererenan
+[194] OK Elite Fit Bali Restaurant
+[195] OK Chinatown Express Pererenan
+[196] OK Riviera Trattoria | Pererenan
+[197] OK WEI TO GO Pererenan Dining Room
+[198] OK HOME by Chef Wayan
+[199] OK Bull's Coffee Atelier
+[200] OK OPTIMIST BALI
+[201] OK Honey,
+[202] OK NOUS Coffee
+[203] OK Belle's All Day Cafe
+[204] OK LOOP cafe
+[205] OK Bull's Coffee Pererenan
+[206] OK TOMORO COFFE - CANGGU PERERENAN
+[207] OK Kotta Kopi Prive Pererenan
+[208] OK BORDER Coffee & Eatery
+[209] OK Noura Brew
+[210] OK TaTa Pererenan
+[211] OK Japa Coffee & Eatery
+[212] OK D'Desa Warung Grill
+[213] OK CATong Laksa
+[214] OK Tulis Tiwa Canggu
+[215] OK BAKED. Brew Bar & Roastery - Padonan
+[216] OK Warung Dangin
+[217] OK Super EAT Canggu
+[218] OK Old Muse
+[219] OK Waroeng Kampoeng
+[220] OK Fortuna Resto
+[221] OK Kedai Nanu
+[222] OK Ayam Tulang Lunak Warcar ( Canggu. Padon
+[223] OK Royalty Kaffe
+[224] OK WARUNG MABABI
+[225] OK MUDA Restaurant
+[226] OK Wok This Way
+[227] OK BURN&BONE
+[228] OK Fritz
+[229] OK Warung Ganda Sari
+[230] OK LOLDAY Kitchen
+[231] OK Thailicious Canggu
+[232] OK Lest - Family restaurant
+[233] OK Soogi Roll | Pererenan
+[234] OK warung muslim bondowoso tiying tutul
+[235] OK CROUSTY RICE
+[236] OK THAT ONE STOP !
+[237] OK TripleEgg Restaurant
+[238] OK The Living Room
+[239] OK Daria Cafe Tiying Tutul
+[240] OK Long Play coffee & wine
+[241] OK Cinta Pererenan
+[242] OK Born To Be - Cafe
+[243] OK Rasa Kitchen
+[244] OK Penny Lane
+[245] OK LowCal, Cheatery and Bar
+[246] OK Feel Food Cafe
+[247] OK Smoke Bali
+[248] OK Nostimo Greek Grill Canggu
+[249] OK MASONRY. Restaurant Canggu
+[250] OK BARE Grill Restaurant
+[251] OK Fuego
+[252] OK SIA - Grill & Seafood Bar
+[253] OK San Yook - Modern Korean BBQ
+[254] OK Arkac Drink 'N' Grill
+[255] OK Seoul BBQ
+[256] OK Moggumung Canggu (목구멍 짱구점)
+[257] OK ESKQ Bar Steak House
+[258] OK Han Sang Korean BBQ & SUKI - Canggu,Bali
+[259] OK The Blaze Restaurant
+[260] OK Manta the oasis
+[261] OK Nico's Smokehouse
+[262] OK I am Vegan Babe
+[263] OK VEGEMATE BALI by RICE WARUNG
+[264] OK Shady Shack
+[265] OK OMA JAMU VEGAN
+[266] OK Seoul Soul Project
+[267] OK Kasto Italian Restaurant
+[268] OK Roots
+[269] OK KYND COMMUNITY CANGGU
+[270] OK Plant Theory - The Vegan Restaurant
+[271] OK The Sloth Bali
+[272] OK Chef Ibu - Authentic Indonesian Comfort 
+[273] OK Alkaline Vegan Restaurant
+[274] OK MUNAY CONCEPT STORE CANGGU
+[275] OK The Sloth Vegan Cafe at Ponder Pererenan
+[276] OK Pali
+[277] OK Iwa Restaurant at Hotel Tugu Bali
+[278] OK Numero Quattro Echo Beach
+[279] OK Studio Pepe | Something Italian
+[280] OK Warung Dua Hati (Vegan)
+[281] OK Anita's
+[282] OK Artista Cucina Bali
+[283] OK Della Terra
+[284] OK MR.LU CANGGU
+[285] OK PASTA, BITTE! Italian Restaurant Bali
+[286] OK Fucina Pizzeria Cucina Italiana
+[287] OK Margaret Bistro
+[288] OK De Morelos Mexicana
+[289] OK Lola’s Cantina Mexicana - Canggu
+[290] OK Lupine - Mexican Bistro
+[291] OK LACALITA Canggu
+[292] OK Taco Casa
+[293] OK Don Juan Mexican Restaurant and Bar - Pe
+[294] OK Bali Burrito Club | Mexican Restaurant C
+[295] OK Taco Madre
+[296] OK Jalapeno
+[297] OK Taco Island Bali, Canggu
+[298] OK ORIGEN Mexican Restaurant
+[299] OK De Morelos Mexicana - SESEH
+[300] OK VIVA BURRITOS&FISH TACOS FRESH MEXICAN F
+[301] OK Taco Kitchen Pererenan
+[302] OK TYM SEA FOOD CANGGU - Supplier and Resta
+[303] OK Agave & Azul Taqueria, Canggu
+[304] OK Lazy Lobster Bali
+[305] OK Good Burrito - Canggu
+[306] OK Hippie Fish Pererenan Beach
+[307] OK SizzleWraps @ The Hungry Sh@ck
+[308] OK Gente Seafood Restaurant
+[309] OK Bird's Nest Thai Kitchen Canggu ( เบริดเ
+[310] OK HoiAn by MeVui
+[311] OK Miss Fish Bali
+[312] OK Turntable Canggu | Steakhouse
+[313] OK Chicken seafood gatzoe
+[314] OK Alpha Agro Indonesia - Premium Butchery 
+[315] OK Steak Meat Me Here Canggu
+[316] OK Aged + Butchered Canggu - Bali
+[317] OK Boy'N'Cow
+[318] OK The Butchers Club Steakhouse
+[319] OK Uma Garden Bali
+[320] OK Steak nelayan n Bali coffee
+[321] OK Entrecôte Brasserie Canggu
+[322] OK The Meat Emporium
+[323] OK Meat And Greet Steakbar
+[324] OK Roasted Di Canggu
+[325] OK Projects Coffee
+[326] OK Nordu Coffee Canggu - kopinomordua
+[327] OK Bali Coffee Club Canggu
+[328] OK Blacklist Coffee Roasters - Roastery & C
+[329] OK HANAKA COFFEE CANGGU
+[330] OK Mustache Coffee Bali
+[331] OK Mataleso Coffee di Bali
+[332] OK Copper Club Coffee Canggu
+[333] OK Canggu Juice Bar
+[334] OK THE JUICE BOX
+[335] OK Ubud Kitchen Juice Bar
+[336] OK Minced Juice
+[337] OK Bali Tropical Juice Bar
+[338] OK Lenny's Espresso & Smoothie Bar
+[339] OK Remix Juice Co. Pererenan Beach Street
+[340] OK Alive Wholefoods Store Canggu
+[341] OK Raw Protein Canggu
+[342] OK Jus Masa Lalu Canggu
+[343] OK Oattie Canggu
+[344] OK Ubud Kitchen Juice Café
+[345] OK Joon Canggu
+[346] OK bandeja restaurant bali
+[347] OK nüde cafe Babakan
+[348] OK Annapurna Agni Canggu Indian Restaurant
+[349] OK Fine by SATUSATUCOFFEE
+[350] OK KITCH Protein Smoothies Matcha Healthy D
+[351] OK Jaya Fried Chicken Babakan
+[352] OK OPENHOUSE KITCHEN | BABAKAN
+[353] OK MALICE CAFÉ
+[354] OK Happy Pork Rendang Bali Canggu
+[355] OK RingDjinar Coffee & Resto
+[356] OK Goodies Burger Boy
+[357] OK Canggu Mango Sticky Rice
+[358] OK Oh My Thai- Batu Mejan, Padang Linjong
+[359] OK Same Same Thai Street Food
+[360] OK Thai Kitchen Canggu
+[361] ERR 555 Thai - Canggu
+[362] OK WASIA Thai & Vietnamese Restaurant Cangg
+[363] OK Thaiphoon
+[364] OK Indigo
+[365] OK Anaga Restaurant, Authentic Thai Cuisine
+[366] OK Warung Tom Kah
+[367] OK Flavours of BAN
+[368] OK Gyuboys Bali
+[369] OK Mad Ronin Canggu
+[370] OK Aunty Ji's
+[371] OK Thai Kitchen by Madam Dall
+[372] OK Tema Doma
+[373] OK Jashn – Indian Grill & Bar by Mumbai Spi
+[374] OK Nana Sans Tandoori Indian Restaurant Can
+[375] OK Umah Thali
+[376] OK ROOTS OF INDIA
+[377] OK Chai'Ba Authentic Indian Cuisine & Bar
+[378] OK Indian Curry Centre (Canggu)
+[379] OK BALISTAN Indian Restaurant
+[380] OK Roti Canai Street Kitchen
+[381] OK rize pererenan
+[382] OK Monsoon Restaurant
+[383] OK Red Gunpowder
+[384] OK Jay India Bali
+[385] OK Chai Stop Bali
+[386] OK SAMOSA CANGGU
+[387] OK Inklusiv Warung
+[388] OK Baliberry Açaí, Chocolate Crepes & Waffl
+[389] OK PARÁ Treats Canggu
+[390] OK The French Crepe Canggu
+[391] OK Protisserie - Protein Dessert
+[392] OK Chim chim cafe
+[393] OK MISHKI 🍦PROTEIN GELATO
+[394] OK CAFÉ Thyme & Caramel Cake
+[395] OK Dolcemisu Bali
+[396] OK Modo Gelato
+[397] OK The Brigadeiro Society
+[398] OK Yema Dessert Boutique
+[399] OK YUME - Canggu
+[400] OK Junglegold Chocolate Canggu (Pod Chocola
+[401] OK Al Bacio Gelato Canggu
+[402] OK Bumi Protein (Healthy, Protein, Kcal, Ch
+[403] OK ACK - Tibubeneng
+[404] OK Chicken Forno - Roastery, Berawa
+[405] OK Ayam Bakar Mak Nyus - Canggu
+[406] OK Bumi Head - Canggu
+[407] OK Ayam Goreng Mak Dura by Hangry - Kerobok
+[408] OK Iam Bakar Mager - Pererenan
+[409] OK Charcoal Republic - Arabic Grill - Tibub
+[410] OK Joy Smash Burger - Canggu
+[411] OK Healthy Fit (Bowl, Pasta, Salad, Wrap), 
+[412] OK Elmasry Egyptian & Arabic Food, Canggu -
+[413] OK Ayam Bakar Maksu - Canggu
+[414] OK Famous rice bowl berawa - Tibubeneng
+[415] OK Nutri - On! Protein healthy café Canggu 
+[416] OK Ikan & ayam bakar - Tibubeneng
+[417] OK Oggi Healty fit - Canggu
+[418] OK Nusantara rice bowl - Tibubeneng
+[419] OK ACK - Pererenan
+[420] OK Tomsc Chicken - Tibubeneng
+[421] OK Nasi Goreng Blitar - Canggu
+[422] OK Santorini Greek Restaurant - Canggu
+[423] OK Ayam Bakar Tulang Lunak Bu Rahayu - Tibu
+[424] OK Nasi Lawar Ayam - Canggu
+[425] OK Nasi Tempong Tunggal Rasa ,Canggu - Tibu
+[426] OK Eatwell Project - Tibubeneng
+[427] OK Mr.Smash Burger - Canggu
+[428] OK Ayam Geprek Sultan Canggu - Tibubeneng
+[429] OK House of Chicken - Kerobokan Kelod
+[430] OK Protein Pals - Protein Pals - Tibubeneng
+[431] OK WEI TO GO CHINESE - Tibubeneng
+[432] OK Nasi Jinggo Pojok Berawa - Tibubeneng
+[433] OK ACK - Canggu
+[434] OK Rice Republic Bali - Canggu
+[435] OK Hungry Hunt Burger and Hotdog - Canggu
+[436] OK 911 Smash Burger - Canggu
+[437] OK Nasi Goreng Dan Kwetiau Zie Boba - Cangg
+[438] OK Dapur Jumbo Ayam Bakar - Kerobokan Kaja
+[439] OK Lalapan Bu yani - Tibubeneng
+[440] OK 7AM Bakers - Umalas
+[441] OK Ayam Betutu Rahayu - Canggu
+[442] OK ABG Ayam Bakar Giyarti - Tibubeneng
+[443] OK Wings To Go - Tibubeneng
+[444] OK Lalapan Ayam Kremes Kemangi - Tibubeneng
+[445] OK Warung Ramadhan - Tibubeneng
+[446] OK Nasi Bebek Mas Bambang - Tibubeneng
+[447] OK Lalapan Ibu Yani - Canggu
+[448] OK Blacklist Burger - Tibubeneng
+[449] OK Burger Head - Canggu
+[450] OK SUN BUN CAFE - Canggu
+[451] OK ayam bakar sambal ijo - Tibubeneng
+[452] OK Warung makan berkah by bu iin - Tibubene
+[453] OK Ikan Bakar Absolut Canggu - Tibubeneng
+[454] OK Penyetan Lagi - Tibubeneng
+[455] OK Lalapan bu heri canggu - Tibubeneng
+[456] OK Lalapan Bu Ofan Khas Lombok - Tibubeneng
+[457] OK lalapan mas harii - Tibubeneng
+[458] OK Ayam & Bebek Geprek 'OEMGE' - Tibubeneng
+[459] OK Ayam Tulang Lunak Bu Lik - Tibubeneng
+[460] OK Health Fuel - Pererenan
+[461] OK Happy Ricebowl - Canggu
+[462] OK M Mart - Canggu CG50 - Kuta Utara
+[463] OK Masakan Padang Bungo Minang - Tibubeneng
+[464] OK Martabak Terang Bulan Yanuar - Tibubenen
+[465] OK Made's Lucca Pizza - Berawa
+[466] OK JFC BABAKAN - Canggu
+[467] OK Ayam Bakar Prima Rasa  - Tibubeneng
+[468] OK Bebek Bakar Online - Tibubeneng
+[469] OK Vegan Nusantara rice bowl - Tibubeneng
+[470] OK Pasta Bar - Tibubeneng
+[471] OK ShakeUP! Protein Bar - Canggu
+[472] OK Habibi Moroccan Taste & Hookah Lounge - 
+[473] OK VITALIKA Juice and Health Bar - Pererena
+[474] OK BURA SMOOTHIES BAR - Tibubeneng
+[475] OK KUNS DRINK - Canggu
+[476] OK Bar Protein Smoothies - Pererenan
+[477] ERR The Grill Bar. - Kerobokan Kaja
+[478] OK Soil Food Temple Bar (Poke Bowl, Salad a
+[479] OK Protein Waffles Bar - Tibubeneng
+[480] OK The Cure (Healthy, Breakfast, Protein, B
+[481] OK Superfood Canggu - Canggu
+[482] OK The Blend Bar Smoothies - Kerobokan Kaja
+[483] OK PADI RESTAURANT & BAR - Canggu
+[484] OK Long Play Cafe (Healthy Breakfast, Coffe
+[485] OK Prana Kitchen Healthy Food - Tibubeneng
+[486] OK Putri Fresh Organic - Pererenan
+[487] OK Kuns Mart - Canggu
+[488] OK Juicy Protein Bar - Pererenan
+[489] OK The Barn Bali - Canggu
+[490] OK Coco Express - Batu Mejan
+[491] OK Bali Boozy Kitchen and Bar - Batu Belig
+[492] OK Juice Bar Ubud Kitchen - Canggu
+[493] OK Legends Bistro Bar & Sports - Tibubeneng
+[494] OK POPULAR - EXPRESS BERAWA KUTA UTARA
+[495] OK Mani Mart - Canggu
+[496] OK BEER Attack - Kerobokan
+[497] OK Frestive Supermarket Pererenan - Mengwi
+[498] OK Presso (Healthy Juice Bar) - Pererenan
+[499] OK Dian Store - Canggu
+[500] OK Mani Mart 2 - Canggu
+[501] OK Smash Burger NYC - Canggu
+[502] OK Mumu Shaokao - Kerobokan
+[503] OK Italian Pizza & Pasta - Kerobokan Kelod
+[504] OK BBQing-Armenian kitchen  - Canggu
+[505] OK Steak Town - Signature Grilled and Butch
+[506] OK Nena Cafe Kebab And Shawarma - Berawa
+[507] OK La Cucina Pizza & Pasta - Umalas
+[508] OK Falafel House Restaurant - Canggu
+[509] OK Protein Kitchen (Healthy, Kebab & Poke B
+[510] OK STREET Smash Burger - Kerobokan
+[511] OK Saffron Fusion - Canggu
+[512] OK Marroosh Resto Cafe Authentic Lebanese C
+[513] OK RICE ME - Canggu
+[514] OK Pasta Licious , Homade Pasta, Grillled, 
+[515] OK Domino's Pizza - Canggu Bali
+[516] OK Greenly (Healthy, Salad, Bowl, Juice) - 
+[517] OK Louie’s New York Pizza - Canggu
+[518] OK BurnandBone - Pererenan
+[519] OK PIZZA PALMA - Pasta, Sandwich, Italian p
+[520] OK Beverage MART - Kerobokan
+[521] OK Bottle service 24 hour - Pererenan
+[522] OK Canggu Beer And Liquor (Toko Bahari) - T
+[523] OK Smells Like Wine And Spirits - Tibubenen
+[524] OK Bottle Of Water In Bulks - Canggu
+[525] OK Beer Store - Tibubeneng
+[526] OK Canggu Beverage Store - Jl. Karang Suwun
+[527] OK Murmur Restaurant (Breakfast, Pasta, Sal
+[528] OK Il Forno Pizzeria Pizza - Canggu
+[529] OK Fuji Fusion Japanese Restaurant - Berawa
+[530] OK Il Forno Pizzeria Pizza - Tibubeneng
+[531] OK Fuji Fusion Japanese Restaurant - Canggu
+[532] OK Uncle Kebab - Canggu
+[533] OK KAPITALL - Canggu Raya
+[534] OK Drink Shop by Beer Bro - Tibubeneng
+[535] OK Drink Bottle Shop Canggu Bali - Canggu
+[536] OK Alcohol & Beer Mart - Tibubeneng
+[537] OK BEER BINTANG 24 JAM - Kerobokan
+[538] OK BETTER BOTTLE - Tibubeneng
+[539] OK HORASS BEER & ALCOHOL CANGGU RAYA - Cang
+[540] OK Booze bottle service and pizza - Canggu
+[541] OK Famous Vegetarian Vegan Foodcourt berawa
+[542] OK CAFFEINE Brunch Cafe ( All day breakfast
+[543] OK Crave Burger - Berawa
+[544] OK Coconut and Juicy Semat - Tibubeneng
+[545] OK Last Call - Hot dog  - Berawa
+[546] OK Shawarma Kebab - Berawa
+[547] OK Gente Bali - Berawa
+[548] OK Melos Cafe/Bar - Jl. Pantai Berawa
+TIMEOUT The Foundry - Berawa
+[549] OK Sushimi Sushi Berawa - Tibubeneng
+[550] OK Island Bagels - Berawa
+[551] OK Starbucks - The Luc Pantai Berawa
+[552] OK BALI NUTRITION STORE - Berawa
+[553] OK Circle K - Kahyangan Berawa Square
+[554] OK Veganlicious Smoothie Bowls - Berawa
+[555] OK Pressed Cafe And Mylk Store - Canggu
+[556] OK Roman Pizza Berawa - Tibubeneng
+[557] OK Esteh Indonesia - Canggu Bali
+[558] OK The Hive Doner Kebab - Berawa
+[559] OK Semeton Pharmacy - Berawa Raya Semat
+[560] OK M Mart - Pantai Berawa CG82
+[561] OK MIXUE - Raya Canggu
+[562] OK The Butter Beats Indian Restaurant & Bar
+[563] OK Shaman Lavash ( Kebab & Shawarma ) bistr
+[564] OK LUIGIS HOT PIZZA - Canggu
+[565] OK Pho Hwitta - Kerobokan
+[566] OK Only Eggs (Healthy Breakfast, Scramble, 
+[567] OK Cafe Coach - Canggu
+[568] OK The Egg Spot (Western Breakfast, Avocado
+[569] OK Pitstop - Canggu
+[570] OK Breakfast by Hubble - Tibubeneng
+[571] OK Circle Fit (Healthy, Poke Bowl, Eggs, Pr
+[572] OK FitBox (Breakfast, Healthy, Salmon, Chic
+[573] OK Double Protein Healthy Food - Canggu
+[574] OK CAMPUS Coffee (Breakfast, Bowls, Hot Dog
+[575] OK Ai-CHA Ice Cream & Tea - Pantai Berawa T
+[576] OK Morning Mellow (Breakfast, Eggs, Smoothi
+[577] OK Original's (Breakfast, Poke Bowl, Crepes
+[578] OK Just Oats - Berawa
+[579] OK FRESH FRUITS CAFE - CANGGU
+[580] OK BUBA TEA Healthy Boba and Premium Bubble
+[581] OK Soto sapi bakso menyama - Tibubeneng
+[582] OK Teazzi - Canggu
+[583] OK TaTa All-Day Cafe - Pererenan
+[584] OK Dian Fresh Mart - Canggu
+[585] OK Cafe Vida - Canggu
+[586] OK SINAR MART 2 TEGAL SARI - Tibubeneng
+[587] OK Dian Wine And Spirits - Canggu
+[588] OK PIMS - Canggu
+[589] OK Es Teler Cihuy 2 - Kerobokan
+[590] OK Es Teler Isty 77 - Tibubeneng
+[591] OK Slushy Society - Canggu
+[592] OK WONDERFUL SMOOTHIE BOWL - Tibubeneng
+[593] OK Oakberry Acai - Canggu
+[594] OK Xie Xie Boba - Pererenan
+[595] OK Bossman - Canggu
+[596] OK ACAI Lovers Smoothie Bowl - Tibubeneng
+[597] OK Breezy Smoothie Bowl - Tibubeneng
+[598] OK Papa Sauce - Tibubeneng
+[599] OK SANCHEZ MEXICAN - Burritos, tacos, nacho
+[600] OK Cold Pressed Juice, Smoothies & Jamu, Ka
+[601] OK Nanasans Tandoori Kitchen - Tibubeneng
+[602] OK Buzz Smoothie Bowl, Prerenan - Pererenan
+[603] OK Goodness Juice Canggu - Tibubeneng
+[604] OK Roots - Pererenan
+[605] OK Dian home caffe - Canggu
+[606] OK Xich Lo Warung Vietnam - Padang Linjong
+[607] OK Mr Blend Smoothie Bowl and Juice Canggu 
+[608] OK Healthy Juices and Smoothie Bowls - Kero
+[609] OK JUS BAHAGIA - Tibubeneng
+[610] OK Warung Es Kelapa Muda - Tibubeneng
+[611] OK Boost Juice Bars - Aston Canggu
+[612] OK Pancakes Man Cafe - Pancakes Man Cafe - 
+[613] OK Suki Roll (Sushi, Healthy Rice Bowl, Jui
+[614] OK Recovery Cold Pressed Juice & Smoothie B
+[615] OK Helen Smoothies , Breakfast , Fresh Juic
+[616] OK Couple Kitchen, Breakfast, Fresh Juice, 
+[617] OK DD juice - Kerobokan Kaja
+[618] OK Garlic Kitchen - Canggu
+[619] OK MR. EGG - Breakfast, Eggs, Burgers, Bage
+[620] OK Tiny Healthy Family Cafe - Tibubeneng
+[621] OK The Jangkar ( J 'Warung ) - Canggu
+[622] OK Lucky smoothie bowl - Tibubeneng
+[623] OK CREPE HOUSE - Babushka Approved  - Cangg
+[624] OK Lentara Cafe - Tibubeneng
+[625] OK Tropical Twist, Fresh Juice, And Healthy
+[626] OK Re.Juve - Tamora Square Canggu
+[627] OK D'J Protein shake, Semer - Kerobokan
+[628] OK SMOOTHIE D'J - Kerobokan
+[629] OK Favorite smoothie bowl - Tibubeneng
+[630] OK LA Protein Pancakes And Smoothies,- Cang
+[631] OK Smokey`s Protein Smoothies Nelayan - Can
+[632] OK Heaven Smoothie Bowl - Tibubeneng
+[633] OK Salad & juice Arga - Kerobokan Kaja
+[634] OK ENJOY SMOOTHIE BOWL - Tibubeneng
+[635] OK Nasi Goreng Rice Chicken Opi Warung Puja
+[636] OK Mie Ayam Dan Bakso Pak Ilham - Canggu
+[637] OK Bakso Iga Canggu - Tibubeneng
+[638] OK May Bakmi - Canggu
+[639] OK Chinesefood surabaya. Evis kitchen - Can
+[640] OK Amy Wong Chinese Comfort Food -  Tibuben
+[641] OK Tamarind Waroeng - Canggu
+[642] OK Warung Bu Dewa - Tibubeneng
+[643] OK Circle K - Bupda Canggu
+[644] OK Happy Mie - Kerobokan
+[645] OK WARUNG BABI GULING RAHAYU - Canggu
+[646] OK Lokal Butter Fried Rice and Noodle - Lok
+[647] OK Sedasa Cafe - Canggu
+[648] OK Nasi goreng wong canggu - Tibubeneng
+[649] OK Teman Jajanku - Kerobokan Kaja
+[650] OK Warung Lalapan Laris - Canggu
+[651] OK Pasta Dealer Umalas - Kerobokan
+[652] OK Warung Sunshine Berawa - Tibubeneng
+[653] OK Warung Nelayan - Canggu
+[654] OK MACARONI PASTA BALI - Canggu
+[655] OK Pasta Club - Canggu
+[656] OK OGGI PASTA - CANGGU
+[657] OK WARUNG PASTO AND SALSA - Canggu
+[658] OK To the moon cafe - Umalas, Kerobokan Kel
+[659] OK Italian Pizza & Pasta - Tumbakbayuh
+[660] OK Italian Pasta 99 - Kerobokan Kaja
+[661] OK Pasta Project Canggu - Kuta Utara
+[662] OK Pasta Papa - Kerobokan
+[663] OK Ghost Pasta, Grilled , Asian Fushion - K
+[664] OK Pizza And Pasta - Canggu
+[665] OK Steak Corner - Canggu
+[666] OK STEAK HEIRLOOM - Canggu
+[667] OK Basilico Italiana - Basilico Italiana Pa
+[668] OK One More Protein - Pererenan
+[669] OK VECCHIA TANA - PIZZA & PASTA - Kerobokan
+[670] OK Pizza and Dumplings - Canggu
+[671] OK Noge Street Pizza - Tibubeneng
+[672] OK Warung Alody - Canggu
+[673] OK Casa Eatalia Pasta Italian Delight - Per
+[674] OK Usha Cafe and Bakery - Kerobokan
+[675] OK Amino Healthy (Breakfast, Protein, Smoot
+[676] OK UNIBOWL POKEBOWL BALI - Kerobokan Kelod
+[677] OK Healthy Friends - Canggu - Canggu
+[678] OK Art of Sushi - Kerobokan
+[679] OK Ika Sushi - Canggu
+[680] OK G Sushi (Poke Bowl, Salmon, Japanese, Wo
+[681] OK HookahPlace (Sushi Roll, Poke Bowl, Sala
+[682] OK To the Moon Sushi - Kerobokan
+[683] OK Nui Healthy Food (Salad, Protein, Sandwi
+[684] OK Asian Kitchen Sushi & Wok by 20/20 (Nood
+[685] OK Poke Poke Canggu - Canggu
+[686] OK Protein Bark - Canggu
+[687] OK PRIME KITCHEN (Healthy, Protein, Breakfa
+[688] OK PAN ASIA WOK (POKE, BOWLS, NOODLES) - Ke
+[689] OK Warung sate pak feby - Canggu
+[690] OK SATE PONOROGO - Kerobokan Kelod
+[691] OK Sate Ayam Ponorogo - Kerobokan Kelod
+[692] OK Sate Madura Bang Jay - Jl. Raya Canggu
+[693] OK Nor Wrap - Canggu
+[694] OK Babi guling buk putra - Jln raya canggu 
+[695] OK Rebo Pork Ribs - Kerobokan
+[696] OK Sate Ayam Madura Bu Liya - Tibubeneng
+[697] OK Sate Madura Bang Jay2 - Pererenan
+[698] OK Sate taichan jakarta - Tibubeneng
+[699] OK Warung Sate Madura Pak Udin - Kerobokan 
+[700] OK Warung Sate Pak Firman - Kerobokan Kaja
+[701] OK Wr.barokah sate ayam pak haji - Jl. Raya
+[702] OK Babi Guling Swari - Canggu
+[703] OK Bubur Ayam Khas Jakarta Bang Yossi - Can
+[704] OK Sop Kikil Kambing dan Sate Kambing Khas 
+[705] OK Laiz coffee - Tibubeneng
+[706] OK Santarasa Bali - Tibubeneng
+[707] OK MILO PETSHOP - Tibubeneng
+[708] OK Bubur Ayam Jakarta 234 - Tibubeneng
+[709] OK Usha Cafe and Bakery - Pererenan
+[710] OK Nasi Goreng Krisna - Tibubeneng
+[711] OK The Shawarma Shack - Tibubeneng
+[712] OK Hubble Restaurant - Tibubeneng
+[713] OK Papa Lee's Taiwan Noodle and Dumpling - 
+[714] OK Bali Buda - Canggu
+[715] OK Pressed Cafe Canggu Store - Canggu
+[716] OK Tender Leaf Canteen - Tibubeneng
+[717] OK Registan ( Uzbek Cuisine, Halal ) - Tibu
+[718] OK Cook & Baker - Tibubeneng
+[719] OK Baz’ar Bistro Bali - Canggu
+[720] OK Wrap Republic - Kerobokan
+[721] OK Morning Habit - Kerobokan
+[722] OK OTTOMAN THE REAL TURKISH KEBAB - Tibuben
+[723] OK LE MONDE - FRENCH TACOS - CANGGU - Tibub
+[724] OK BANGBANGNOODLES - Jl. Canggu Shorcut
+[725] OK Bon Appetit French Tacos - Pererenan
+[726] OK UNCLE'S - French Tacos - Kerobokan
+[727] OK Tacos Aqui - Kerobokan
+[728] OK 555 Thai - Kerobokan Kelod
+[729] OK Almond - Pererenan
+[730] OK Birds Nest Canggu - Pererenan
+[731] OK BURRITO CORNER - Tibubeneng
+[732] ERR Thai O' Cha -  Kerobokan Kaja
+[733] OK WASIA (Thai, Vietnam and Western Food) -
+[734] OK Chai Chitai - Canggu
+[735] OK Pad Thai Padel Club House - Pererenan
+[736] OK The Patty Club - Tibubeneng
+[737] OK MOON LOUNGE - Tibubeneng
+[738] OK Ons Waroeng - Tibubeneng
+[739] OK Kembali Berawa Restaurant - Tibubeneng
+[740] OK Warung Babi Guling Melem - Kerobokan
+[741] OK Babi Guling Men Lari - Canggu
+[742] OK Word Bali (Vegan, Healthy, Breakfast, Lu
+[743] OK Healthy Vegan Smoothie bowl - Tibubeneng
+[744] OK Nasi Goreng Semat - Tibubeneng
+[745] OK Deli Kitchen - Canggu
+[746] OK Openhouse Cafe - Canggu
+[747] OK Draniki - Pererenan
+[748] OK Vietnam Bistro By Mama Hanh Canggu - Can
+[749] OK SISTA Dumpling Berawa - Tibubeneng
+[750] OK LISSOY LIQUOR MART - Canggu
+[751] OK Dolar Ms Spirit Wine Shop - Canggu
+[752] OK Speed Wine & Spirit - Kerobokan Kelod
+[753] OK Wine Tasting Bali - Canggu
+[754] OK Drinking Society - Canggu
+[755] OK Fresh Wine And Spirit - Kerobokan
+[756] OK KontenerMart Beer, Wine & Spirits - Bera
+[757] OK Ettore Gelato (Pantai Pererenan)
+[758] OK Winestop - Berawa
+[759] OK Azoria (Batu Mejan)
+[760] OK BOSSMAN Burgers (Canggu)
+[761] OK Samadi Kitchen (Padang Linjong)
+[762] OK MILK UP! DAIRY & DELI (Kerobokan)
+[763] OK Susu Kambing Segar
+[764] OK Lawar Kuwir Men Koko (Canggu)
+[765] OK Home Cafe Canggu
+[766] OK DiUber Milkshake Duren (Babakan Sari 1)
+[767] OK The Bluejay Cafe (Jl Mertasari 31 Kerobo
+[768] OK Two Face / Coffee & Brunch (Canggu)
+[769] OK Pels (Peloton) Supershop (Canggu)
+[770] OK Pasta Nafisa (Babakan Ciamis)
+[771] OK Resep Coffee (Babakan)
+[772] OK Urbestea (Pantai Berawa)
+[773] OK Soma (Canggu Raya)
+[774] OK Waroeng Lengko (Babakan Ciparay,)
+[775] OK Mie Goreng Ate (Cisaat/Babakan Cibatu)
+[776] OK Gerai Nelayan 2M (Mentarau)
+[777] OK Capten Nelayan (Green Garden)
+[778] OK Nelayan Seafood NS (MH. Thamrin)
+[779] OK Gedai Ketoprak & Gado-Gado Mama Nasa (Kp
+[780] OK Takoyaki Dramaga Hakkan.id (Babakan Teng
+[781] OK Love Anchor 24 Hour Beer, Wine & Alcohol
+[782] OK Nasi Ayam Kedewatan Ibu Mangku (Seminyak
+[783] OK Al Jazeerah Signature Bali, Kuta, Seminy
+[784] OK Toko Asa Jaya (Pasar Babakan Blok TD 06)
+[785] OK Nada Kebab (Perum. Dalung Permai)
+[786] OK Woods (Pererenan)
+[787] OK Nasi Babi Guling Men Lari (Canggu)
+[788] OK Warung Dedalu
+[789] OK Nasi Kulit Syuurga (Dalung)
+[790] OK Chicken Shack (Mengwi)
+[791] OK IYO IYO Sushi & Japanese Food, Seminyak,
+[792] OK Haloniko Bali (Pantai Berawa)
+[793] OK Pizza Fabbrica Umalas, Bumbak Dauh
+[794] OK Susu Kambing Segar - Araca Milk, Kerobok
+[795] OK Baked Pererenan
+[796] OK AAK Warung, Kerobokan
+[797] OK Muuse Cheesecake Bakery Pererenan
+[798] OK Milk Honey Bakery Pererenan
+[799] OK 7 Am Bakers Pererenan
+[800] OK Kinoa Comfort Food Handcrafted Bakery Pe
+[801] OK Izzi Kitchen Pererenan Seseh Pasta Wok A
+[802] OK The Hula Pantai Pererenan
+[803] OK Izzi Kitchen Pererenan Wok Pasta Western
+[804] OK Copenhagen Bakery Pererenan Tiyingtuyul
+[805] OK Le Flores Burger Berawa Pantai Berawa
+[806] OK Mr K Pizza N Burger Station Pantai Beraw
+[807] OK Ons Waroeng Pantai Berawa
+[808] OK Mr Egg Breakfast Burgers Coffee Juice Pa
+[809] OK Berawa Canai Pantai Berawa
+[810] OK Kitchen By Nirvana Life Jl Pantai Berawa
+[811] OK Burgrlink Pantai Berawa
+[812] OK Bokashi Berawa Canggu
+[813] OK Driftwood Cafe Lounge Pantai Berawa Cang
+[814] OK Aj S Barrel Bottle Shop Bali Berawa Cang
+[815] OK Bebek On Berawa Canggu
+[816] OK Red Bean Berawa Jl Pantai Berawa Canggu
+[817] OK Alam Burger Umalas
+[818] OK Pasta Bar Bali Berawa Canggu
+[819] OK Daeng Burger Umalas
+[820] OK Og Smash Burger Fries Milkshakes Beef Um
+[821] OK Lusa By Suka Berawa Canggu
+[822] OK Og Smash Burger Fries Milkshakes Beef Ch
+[823] OK Fred S Fried Chicken Burgers Fries Sandw
+[824] OK To The Moon Breakfast Pasta Burger Poke 
+[825] OK Art Of Sushi Woks Poke Bowls Kerobokan
+[826] OK Shouri Sushi Kuta Utara Kerobokan
+[827] OK Sweet 16 Roll Sushi Kerobokan
+[828] OK Sushi Surf Berawa Kerobokan
+[829] OK Art Of Sushi Kerobokan Woks Poke Bowls 
+[830] OK Philadelphia Bali Sushi Oyster Kerobokan
+[831] OK Masakan Padang Putri Chaniago Pererenan
+[832] OK Matane Pererenan
+[833] OK Lucy Lu Asian Bao Buns Dumplings Rice Bo
+[834] OK Bottle Avenue Beer Wine Spirit Pererenan
+[835] OK Red Gunpowder Indian Cuisine Pererenan
+[836] OK Twins Sushi Jl Raya Anyar No 14 Keroboka
+[837] OK Savor Healthy Bistro Pererenan
+[838] OK Machinery Cafe Bali Pantai Batu Bolong
+[839] OK Coffee Paste By Jibuki Pantai Batu Bolon
+[840] OK Joon Canggu Jl Raya Babakan Canggu No 4
+[841] OK Buns Salads Batu Bolong
+[842] OK Cafe Vida Pantai Batu Bolong
+[843] OK Beachgarden Bar And Restaurant Batu Bolo
+[844] OK Tmnt Pizza Canggu
+[845] OK Casa Pizza Corner Jln Raya Canggu No 165
+[846] OK Home Pizza Canggu
+[847] OK Te Amo Canggu Pizza Pasta Salad Grill Se
+[848] OK Pizza Dumplings Canggu
+[849] OK Ejji Coffee Canggu
+[850] OK Dulu Coffee Canggu
+[851] OK Dharma Coffee Canggu
+[852] OK Nuansa Coffee Canggu
+[853] OK The Daun Cafe And Coffee Canggu
+[854] OK I Mustache Coffee Canggu Pantai Batu Mej
+[855] OK Warung Satya Canggu
+[856] OK Warung Mama Padang Linjong Canggu
+[857] OK Warung Dua Hati Healthy Vegan Canggu
+[858] OK Kopi Ejji Coffee Corner Canggu
+[859] OK Mywarung Berawa Canggu
+[860] OK Warung Iffa Medina Canggu
+[861] OK La Pan Nam Warung And Bar Canggu
+[862] OK Warung Mdf Mazella Delish Foods Canggu
+[863] OK Gelato Secrets Pantai Berawa
+[864] OK Koi Pantai Berawa
+[865] OK Warung Canteen Canggu Semat Raya
+[866] OK Butterman Pantai Berawa
+[867] OK Bistro C Finns Recreation Club Pantai Be
+[868] OK Warung Italia Umalas I
+[869] OK Deli Asia Rice Bowl Noodle Salad Bento U
+[870] OK Yummy Ricebowl Ricebowl And Fried Rice U
+[871] OK Breakfast And Brunch Umalas
+[872] OK To The Moon Umalas Kerobokan Kelod Jl Bu
+[873] OK Nude Canggu Pantai Berawa
+[874] OK Warung Lao Umalas 2
+[875] OK Dimsum Chika Umalas
+[876] OK Warung Ibuk Luh Tu Umalas
+[877] OK Warung Mokoh Umalas
+[878] OK Warung Merica Umalas
+[879] OK Ranya Eco Warung Umalas Kerobokan
+[880] OK Saigon Deli Banh Mi Bao Buns Sandwhich A
+[881] OK Eko Cafe Healthy Breakfast Juices Smooth
+[882] OK Rice Republic Umalas
+[883] OK Rise And Shine Umalas
+[884] OK Eko Cafe Breakfast Juices Smoothies Bowl
+[885] OK Warung Bahtera Kerobokan
+[886] OK Warung 8 Cab Kerobokan
+[887] OK Warung Surabaya La Kerobokan
+[888] OK Warung 8 Kerobokan
+[889] OK Warung Muslim Bidadari Kerobokan
+[890] OK 1996 Warung Kerobokan Breakfast Brunch B
+[891] OK Bean Cafe Pererenan
+[892] OK Handmade Warung Kerobokan
+[893] OK Front Cafe Pererenan
+[894] OK Dega Cafe Pererenan
+[895] OK Village Cafe Pererenan Tumbak Bayuh
+[896] OK Sted Cafe Poke Bowl Pererenan
+[897] OK Daria Cafe Pererenan Breakfast
+[898] OK Surya Gym Cafe Pererenan
+[899] OK The Bun Bakery Kerobokan
+[900] OK Shortcut Cafe Canggu Jalan Sempol No 19 
+[901] OK Kafe Kayuapi Bakery Kerobokan
+[902] OK Bread Basket Kerobokan
+[903] OK Ixora Cakes Breads And Pastries Keroboka
+[904] OK The Layers Bakery Eatery Kerobokan
+[905] OK Vincent Nigita Patisserie Kerobokan
+[906] OK Masonry Restaurant Batu Bolong
+[907] OK Ssbc Delicious Food 44 Jalan Raya Batu B
+[908] OK Scrummy Cafe Bakery Kerobokan
+[909] OK Ithaka Warung Pantai Batu Bolong
+[910] OK The Garden Eatery Kerobokan
+[911] OK Warung Bu Mi Pantai Batu Bolong
+[912] OK Mad Ronin Pantai Batu Bolong
+[913] OK Deli Kitchen Batu Bolong Canggu
+[914] OK Nirvana Kitchen Canggu
+[915] OK Kitchen Delivery Pojok Canggu
+[916] OK Rasa Kitchen Canggu No 80
+[917] OK M Kitchen Canggu Jl Krisna X No 75 Cangg
+[918] OK Wid S Kitchen Canggu
+[919] OK Prana Kitchen Healthy Food Canggu
+[920] OK Siti S Kitchen Canggu
+[921] OK Famous Rice Bowl Foodcourt Taman Suar Ke
+[922] OK Famous Rice Bowl Kerobokan
+[923] OK Goji Goji Vegan Bowl Kerobokan
+[924] OK Warung Bu Ryan Kerobokan
+[925] OK Warung Minang Saiyo Kerobokan
+[926] OK Cook Baker By Aurora Bakery Canggu
+[927] OK Pakai Cinta Asian Food Rice Bowl Pasta C
+[928] OK Ubi Cilembu H A Kerobokan
+[929] OK Canton Chinese Food Kerobokan
+[930] OK Seoul Soul Project Korean Bbq And Chicke
+[931] OK Stuffed Cookies Canggu
+[932] OK Burger Bangor Burger Ayam Canggu Raya
+[933] OK Milano Pantai Berawa
+[934] OK Da Romeo Pantai Berawa
+[935] OK Lips Pizza Pantai Berawa
+[936] OK Vegan Vegetarian Nusantara Rice Bowl Can
+[937] OK Cabana Bistro Umalas 1
+[938] OK Bonito Fish Bar Umalas
+[939] OK Da Roma Restaurant Jl Pantai Berawa No 2
+[940] OK Bonito Restaurant Umalas
+[941] OK Warung D Pererenan Padonan
+[942] OK Warung Nyoman Mengwi Pererenan Jempinis
+[943] OK Warung D Pererenan Mengwi
+[944] OK Warung Ayam Geprek Dan Jank Food Pereren
+[945] OK Warung Nyoman Good Times Mengwi Pererena
+[946] OK Thailicious Pererenan
+[947] OK Shelter Pererenan
+[948] OK Pescado Bali Pererenan
+[949] OK Line Up Restaurant And Grill Pererenan
+[950] OK Scrummy Cafe Umalas
+[951] OK Bucu Cafe Umalas 2
+[952] OK Rollin Sushi By Sted Pererenan
+[953] OK Dian Cafe Nyibakan Pantai Batu Bolong
+[954] OK Rr Sweets Cafe Gelato And Dessert Batu B
+[955] OK Tarabell Coffee Express Pererenan
+[956] OK Canggu Cafe Pantai Batu Bolong
+[957] OK Beige Coffee Pererenan Jalan Sempol Pere
+[958] OK Tata Coffee Eatery Pererenan
+[959] OK Noah Cafe Jalan Pantai Pererenan No 60
+[960] OK Tmo Coffee Bali Pererenan Tiying Tutul
+[961] OK Veganlicious Vegan Smoothie Bowl And Cof
+[962] OK Crispy Pizza Canggu
+[963] OK Sushi Fusion Canggu
+[964] OK Doma Canggu Jalan Raya Babakan No 5
+[965] OK Hokkigai Sushi Canggu
+[966] OK Pizza By Garden Canggu Canggu
+[967] OK Warung Napoli Berawa Canggu
+[968] OK Barbar Sushi Canggu
+[969] OK Philadelphia Bali Sushi Oyster Canggu
+[970] OK Warung Kenanga Chinese Food Berawa Cangg
+[971] OK Warung Sunshine Berawa
+[972] OK Warung Ayam Betutu Canggu
+[973] OK Warung Cantik Reborn Pantai Berawa
+[974] OK Warung Dua Putri Pantai Berawa
+[975] OK Warung Oseng 1 Es Kelapa Muda Pantai Ber
+[976] OK Warung Jawa Muslim Banyuwangi Pantai Ber
+[977] OK Annapurna Canggu Indian Restaurant Jl Ra
+[978] OK Warung Gouthe Pantai Berawa
+[979] OK Warung Blackside Jl Raya Babakan Canggu 
+[980] OK Tana Cafe Kerobokan Bali
+[981] OK Pressed Cafe And Mylk Breakfast Lunch Di
+[982] OK Moii Cafe Kerobokan
+[983] OK Garlic Kitchen Pantai Batu Bolong Raya
+[984] OK Latif Cafe Kerobokan
+[985] OK Gbo Cafe Kerobokan
+[986] OK Aquaa Cafe Resto Kerobokan
+[987] OK Okaeri Japanese Restaurant Breakfast And
+[988] OK Auri Family Cafe Kerobokan
+[989] OK Sushi And Wok Wok Poke Bowl Japanese Chi
+[990] OK Bonza Burger Canggu
+[991] OK 24 Hours Burger Canggu
+[992] OK Scream Smash Burger Canggu
+[993] OK Bottega Italiana Bali Batu Bolong
+[994] OK Burger Pit Stop Canggu
+[995] OK Daeng Burger Canggu
+[996] OK Mason Restaurant Batu Bolong
+[997] OK Kedai Nyonya Pererenan
+[998] OK Soyou Rice Bowl Canggu
+[999] OK Felice Restaurant Jl Pantai Batu Bolong 
+[1000] OK Rice Bowl Canggu Food Court Tibubeneg Be
+[1001] OK Brotzeit Pererenan
+[1002] OK Monsieur Spoon Pererenan
+[1003] OK Burgers Anonymous Mengwi Pererenan
+[1004] OK Burger Brother S Pererenan
+[1005] OK Surf Burgers Pererenan
+[1006] OK Burger Boi Cheese Burgers French Fries M
+[1007] OK Banh Mi And Beans Batu Bolong
+[1008] OK Og Smash Burger Fries Milkshakes Beef Pe
+[1009] OK Singa Burger Pererenan
+[1010] OK Burger Brothers Berawa Canggu Permai
+[1011] OK Mie Ayam Bandung Chinese Food Batu Bolon
+[1012] OK Mr Wu S Chinese Asian Fried Rice Dumplin
+[1013] OK Bb52 Burgers Berawa
+[1014] OK Super Smashed Burgers Berawa Canggu
+[1015] OK Sunny Smash Burger Fries Burger Milkshak
+[1016] OK Made S Banana Flour Co Pantai Batu Bolon
+[1017] OK Warung Varuna Pantai Batu Bolong
+[1018] OK Unibowl Pokebowl Pererenan
+[1019] OK Il Forno Pizzeria Italian Pizza Berawa
+[1020] OK Oka S Bakery Cafe Healthy Pantai Batu Bo
+[1021] OK Avenue Cafe Pantai Berawa
+[1022] OK Pinkman Pizza Dumplings Berawa
+[1023] OK Canggu Hype Cafe Pantai Berawa
+[1024] OK Sunny Cafe Canggu Pantai Berawa
+[1025] OK Macan Cafe Pantai Berawa
+[1026] OK 7 Islands Bakery Cafe Pantai Berawa
+[1027] OK Cocomo Canggu Pantai Batu Bolong
+[1028] OK Island Bagels Coffee Breakfast Wrap Bera
+[1029] ERR Siwoo Cafe Eatery Pantai Berawa
+[1030] OK Baro Bakery Canggu
+[1031] OK The Bakery Berawa
+[1032] OK Bull S Coffee Canggu Berawa Tibubeneng
+[1033] OK Dod S Burger Pantai Batu Bolong
+[1034] OK Mojitos Canggu Berawa Canggu
+[1035] OK Wanderlust Cafe Berawa Canggu
+[1036] OK Pasta Bitte Canggu Bali Jalan Pantai Bat
+[1037] OK Warlok Berawa Canggu
+[1038] OK Darna Middle Eastern Cuisine Canggu Bera
+[1039] OK Warung Banyuwangi Rasa Cak Nanang Kuta U
+[1040] OK Canggu Juice Bar Cold Press Coffee Break
+[1041] OK Pizza Gastronomic Pantai Batu Bolong
+[1042] OK Beer Me Up Balinese Cocktail Premium Dim
+[1043] OK Coffee Pastry Changgui La Pantai Berawa
+[1044] OK Lumos Coffee Kitchen Pantai Berawa
+[1045] OK One Eyed Jack Pantai Berawa
+[1046] OK Tygr Sushi Pantai Berawa
+[1047] OK Ink Sushi Japanese Comfort Eats Pantai B
+[1048] OK Dim Sum House Pantai Berawa
+[1049] OK G Sushi Ramen European Japanese Berawa
+[1050] OK Nude Cafe Babakan Babakan Canggu
+[1051] OK Il Forno Pizzeria Italian Pizza Batu Bol
+[1052] OK The Room Sushi Roll Salad Poke Bowl Bali
+[1053] OK Warung Leluhur Babakan Canggu
+[1054] OK Deli Kitchen Babakan Kubu
+[1055] OK Pepino Pizza Pantai Batu Bolong
+[1056] OK Wings To Go Canggu Berawa S Kitchen Cang
+[1057] OK Peekaboo Pantai Batu Bolong
+[1058] OK Belong Kitchen Kerobokan
+[1059] OK Thai Indo Kitchen Berawa S Kitchen
+[1060] OK The Cure Vegan Health Kitchen Canggu Ber
+[1061] OK Vedic Kitchen Kerobokan
+[1062] OK 28Kitchen Kerobokan
+[1063] OK Sate Padang Canggu Didepan Berawa Kitche
+[1064] OK Rin S Kitchen Kerobokan
+[1065] OK Sixtynine Kitchen Kerobokan
+[1066] OK Izzi Kitchen Kerobokan Pasta Wok Asian W
+[1067] OK The Kitchen House Kerobokan
+[1068] OK Waroenk D Kitchen Kerobokan
+[1069] OK Sushi Express Canggu
+[1070] OK Tygr Sushi Canggu
+[1071] OK Dewata Kitchen Kerobokan
+[1072] OK Roll Sushi Canggu
+[1073] OK Kobu Coffee Kerobokan
+[1074] OK Nikki Sushi Canggu
+[1075] OK Kobu Coffee Eatery Kerobokan Kelod
+[1076] OK Varian Coffee Kerobokan
+[1077] OK 25 Pm Coffee Kerobokan
+[1078] OK Stuja Coffee Bali Kerobokan
+[1079] OK Kluarga Kopi Kerobokan
+TIMEOUT Masakan Padang Bungo Minang Pantai Beraw
+[1080] OK Gelah Kopi Kerobokan
+[1081] OK Sanhose Coffee Bites Kerobokan
+[1082] OK Lolita Bali Jln Bumbak Umalas Canggu
+[1083] OK Shy Guy Asian Restaurant Umalas
+[1084] OK Tonys New York Pizza Umalas
+[1085] OK Rice Bowl Nusantara Vegetarian Vegan Nus
+[1086] OK The Naked Coconut Pantai Berawa
+[1087] OK Pizza To Go Umalas
+[1088] OK Temu Resto Pantai Berawa
+[1089] OK Roman Pizza Pasta Umalas
+[1090] OK Nyama Kitchen Pantai Berawa
+[1091] OK Pizza To Go Sebelah Cozy Umalas
+[1092] OK Ruth S Cakes Pantai Berawa
+[1093] OK Indonesia Kitchen Pantai Berawa Plambing
+[1094] OK Farine Sourdough Bakery Pantai Berawa
+[1095] OK Ice Pasco Babakan Canggu Raya Babakan
+[1096] OK Canggu Cat Cafe
+[1097] OK Revolver All Day Cafe Canggu
+[1098] OK Bean Cafe Canggu Padang Linjong
+[1099] OK Panama Kitchen And Pool Pantai Berawa
+[1100] OK Famous Rice Bowl And Poke Bowl Berawa S 
+[1101] OK Mr K Pizza N Burger Station Kerobokan
+[1102] OK La Pizzetta Kerobokan
+[1103] OK Warung Oren Beer Vodka Captain Morgan Ba
+[1104] OK Pizza Hut Delivery Phd Kerobokan
+[1105] OK The Plumbers Arms Kerobokan
+[1106] OK La Bussola Italian Resto Pizza And Pastr
+[1107] OK Beer E Pizza Pantai Pererenan
+[1108] OK Casa Eatalia Pasta Authentic Italian Del
+[1109] OK Margarita Pizza Coffee And Bar Mengwi Pe
+[1110] OK Doughboys Pizza Jl Pantai Pererenan
+[1111] OK Warung Oren French Fries Jl Babakan 61 C
+[1112] OK Bottega Italiana Pererenan
+[1113] OK Roastill Coffee Umalas
+[1114] OK Baro Pizzeria Jl Pantai Pererenan
+[1115] OK 34 Island S Coffee And Snack Umalas
+[1116] OK Squeeze Savor Juice Smoothie Coffee Umal
+[1117] OK Cafe Organic Bali Umalas
+[1118] OK Booze Bottle Service And Pizza Gang Marg
+[1119] OK Yuya House Coffee And Bakery Umalas
+[1120] OK Kassapa Cafe Umalas
+[1121] OK Victory Smash Burger Jl Raya Canggu Kero
+[1122] OK Burger Brother S Kerobokan
+[1123] OK Amouage Kerobokan Russian Arabic Halal F
+[1124] OK Bali Buda Kerobokan
+[1125] OK Naughty Nuri S Warung Kerobokan
+[1126] OK Burger Mamabun Kerobokan
+[1127] OK Fuji Japanese Restaurant Kerobokan
+[1128] OK Burger Boy Kerobokan
+[1129] OK Must Burger Jalan Raya Kerobokan
+[1130] OK Burger Delight Kerobokan
+[1131] OK Filadelfia Bali Sushi Kerobokan
+[1132] OK Xich Lo Warung Vietnam Kerobokan
+[1133] OK Fold Artisan Bakery Canggu
+[1134] OK Svaha Burger Babakan Canggu
+[1135] OK Bakers Corner Canggu
+[1136] OK Mie And More Pantai Batu Bolong
+[1137] OK Mad Ronin Ramen Canggu Jl Pantai Batu Bo
+[1138] OK Conato Bakery Canggu
+[1139] OK The Sweet Escape Bakery Canggu
+[1140] OK Neng S Kebab And Burger Babakan Canggu
+[1141] OK The Bench Burgers Fried Chicken Wings Ca
+POI DONE
